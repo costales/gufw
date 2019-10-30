@@ -1,0 +1,7 @@
+[Castle Vox]
+title=Castle Vox
+description=A simultaneous-turns strategy game from Sillysoft influenced by Diplomacy and Axis & Allies
+ports=3319/tcp
+categories=Games;Strategy;
+reference=[http://sillysoft.net/hosting/ Sillysoft Games: Lux and Vox Hosting Help]
+

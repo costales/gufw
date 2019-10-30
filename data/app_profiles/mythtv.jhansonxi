@@ -1,0 +1,7 @@
+[MythTV]
+title=MythTV
+description=MythTV backend
+ports=6543:6544/tcp
+categories=Audio Video;TV;
+reference=[http://www.mythtv.org/docs/mythtv-HOWTO-3.html Installing and using MythTV: 3. Checking prerequisites]
+

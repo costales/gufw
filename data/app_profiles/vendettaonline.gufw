@@ -1,0 +1,6 @@
+[Vendettaonline]
+title=Vendetta Online
+description=A twitch-based, science fiction massively multiplayer online role-playing game (MMORPG)
+ports=21024/tcp
+categories=Games;Role;
+reference=[http://www.vendetta-online.com/h/faq_tech.html]

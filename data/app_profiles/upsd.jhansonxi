@@ -1,0 +1,7 @@
+[upsd]
+title=UPS Tools daemon
+description=Network UPS Tools
+ports=3493/tcp
+categories=System;
+reference=[http://www.networkupstools.org/faq/ Network UPS Tools Documentation: README]
+

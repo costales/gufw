@@ -1,0 +1,6 @@
+[amule]
+title=Amule
+description=Free peer-to-peer file sharing application that works with the EDonkey network and the Kad network
+ports=4662/tcp|4672/udp
+warning=Remember to open the ports on the router
+categories=Network;P2P;

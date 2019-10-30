@@ -1,0 +1,14 @@
+[LBreakout2 8001]
+title=LBreakout2 - 8001/udp
+description=A Breakout clone
+ports=8001/udp
+categories=Games;Arcade;
+reference=[/usr/share/doc/lbreakout2/index.html#network LBreakout2 Manual]
+
+[LBreakout2 2002]
+title=LBreakout2 - 2002/udp
+description=A Breakout clone
+ports=2002/udp
+categories=Games;Arcade;
+reference=[/usr/share/doc/lbreakout2/index.html#network LBreakout2 Manual]
+

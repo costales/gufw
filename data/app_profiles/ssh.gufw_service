@@ -1,0 +1,7 @@
+[ssh]
+title=SSH
+description=Secure Shell
+ports=22/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/Secure_Shell - Wikipedia]

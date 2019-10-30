@@ -1,0 +1,7 @@
+[Frozen Bubble]
+title=Frozen Bubble
+description=A clone of Puzzle Bobble/Bust-a-Move
+ports=1511/udp
+categories=Games;Arcade;
+reference=[http://github.com/kthakore/frozen-bubble/blob/master/server/net.c_tmp Frozen Bubble GitHub: /blob/master/server/net.c_tmp]
+

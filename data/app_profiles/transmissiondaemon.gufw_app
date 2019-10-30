@@ -1,0 +1,6 @@
+[transmissiondaemon]
+title=Transmission Daemon
+description=Remote control for Transmission
+ports=9091/tcp
+warning=Remember to open the ports on the router
+categories=Network;P2P;

@@ -1,0 +1,6 @@
+[deluge]
+title=Deluge Torrent
+description=Cross-platform BitTorrent client written with Python and GTK+
+ports=6881:6891/tcp|6881:6891/udp
+warning=Remember to open the ports on the router
+categories=Network;P2P;

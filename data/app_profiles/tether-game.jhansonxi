@@ -1,0 +1,7 @@
+[Tether game]
+title=Tether
+description=A clone of strategy game Moonbase Commander by Humongous Entertainment
+ports=6112
+categories=Games;Strategy;
+reference=[http://code.google.com/p/tether/wiki/OMBCfacts Tether Wiki - OMBCfacts]
+

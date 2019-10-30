@@ -1,0 +1,7 @@
+[Aleph One]
+title=Aleph One
+description=An enhanced port of Marathon 2: Durandal from Bungie Software
+ports=4226
+categories=Games;Action;
+reference=[http://source.bungie.org/index.php/Setup_Instructions source.bungie.org: Setup Instructions]
+

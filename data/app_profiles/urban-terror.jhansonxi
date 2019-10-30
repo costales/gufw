@@ -1,0 +1,28 @@
+[Urban Terror 0]
+title=Urban Terror - 27960/udp
+description=A realistic FPS by Frozen Sand, based on Quake III by id Software, server on port 27660
+ports=27960/udp
+categories=Games;Action;
+reference=[http://www.urbanterror.info/docs/texts/123/#1.2 Urban Terror Manual: Server setup & administration]
+
+[Urban Terror 1]
+title=Urban Terror - 27961/udp
+description=A realistic FPS by Frozen Sand, based on Quake III by id Software, server on port 27961
+ports=27961/udp
+categories=Games;Action;
+reference=[http://www.urbanterror.info/docs/texts/123/#1.2 Urban Terror Manual: Server setup & administration]
+
+[Urban Terror 2]
+title=Urban Terror - 27962/udp
+description=A realistic FPS by Frozen Sand, based on Quake III by id Software, server on port 27962
+ports=27962/udp
+categories=Games;Action;
+reference=[http://www.urbanterror.info/docs/texts/123/#1.2 Urban Terror Manual: Server setup & administration]
+
+[Urban Terror 3]
+title=Urban Terror - 27963/udp
+description=A realistic FPS by Frozen Sand, based on Quake III by id Software, server on port 27963
+ports=27963/udp
+categories=Games;Action;
+reference=[http://www.urbanterror.info/docs/texts/123/#1.2 Urban Terror Manual: Server setup & administration]
+

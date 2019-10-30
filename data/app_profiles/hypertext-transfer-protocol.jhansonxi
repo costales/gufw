@@ -1,0 +1,40 @@
+[http]
+title=HTTP
+description=WWW standard protocol on port 80/tcp (IANA/Debian www, http)
+ports=80/tcp
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers Wikipedia: List of TCP and UDP port numbers]
+
+[https]
+title=HTTPS
+description=WWW standard protocol with SSL/TLS on port 443/tcp (IANA https)
+ports=443/tcp
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/HTTP_Secure Wikipedia: HTTP Secure]
+
+[http-alt-8008]
+title=HTTP - 8008/tcp
+description=WWW standard protocol on port 8008/tcp (IANA http-alt)
+ports=8008/tcp
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers Wikipedia: List of TCP and UDP port numbers]
+
+[WWW Full]
+title=Web Server (HTTP,HTTPS)
+description=Web Server (HTTP,HTTPS)
+ports=80,443/tcp
+categories=Network;Services;
+
+[WWW Cache]
+title=Web Server (8080)
+description=Web Server (8080)
+ports=8080/tcp
+categories=Network;Services;
+
+[http_alt_alt]
+title=HTTP - 8090/tcp
+description=WWW standard protocol on port 8090/tcp (IANA unassigned, commonly http_alt_alt)
+ports=8090/tcp
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers Wikipedia: List of TCP and UDP port numbers]
+

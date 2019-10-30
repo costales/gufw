@@ -1,0 +1,5 @@
+[XBMC_Remote]
+title=XBMC Remote
+description=Remote control for XBMC
+ports=8080|9777/udp
+categories=Audio Video;TV;

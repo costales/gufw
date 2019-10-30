@@ -1,0 +1,6 @@
+[chromecast]
+title=ChromeCast
+description=Google Stream device
+ports=32768-61000/udp|8008-8009/tcp|1900/udp
+categories=Audio Video;TV;
+reference=[https://gist.github.com/muff1nman/16a8cd8a46c191f305afdf2b97cc2adf]

@@ -1,0 +1,7 @@
+[MiG-29 Fulcrum]
+title=MiG-29 Fulcrum
+description=A Mikoyan-Gurevich MiG-29 Fulcrum simulation by NovaLogic
+ports=3862:3863/udp
+categories=Games;Simulation;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

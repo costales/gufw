@@ -1,0 +1,7 @@
+[Legends]
+title=Legends
+description=A FPS based on the Torque Engine
+ports=28000,28001,28002,48491,20451,28010,28015,50740/udp
+categories=Games;Action;
+reference=[http://legendsthegame.net/community/doku.php?id=server:faq_troubleshooting Server Troubleshooting and Server FAQs]
+

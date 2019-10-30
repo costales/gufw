@@ -1,0 +1,7 @@
+[Comanche 4]
+title=Comanche 4
+description=A Comanche RAH-66 helicopter simulation by NovaLogic
+ports=17200/udp
+categories=Games;Simulation;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

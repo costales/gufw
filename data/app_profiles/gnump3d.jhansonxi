@@ -1,0 +1,6 @@
+[GNUMP3d]
+title=GNUMP3d
+description=An audio streaming server
+ports=8888/tcp
+categories=Network;Audio Video;Audio;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers Wikipedia: List of TCP and UDP port numbers]

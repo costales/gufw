@@ -1,0 +1,14 @@
+[Crossfire]
+title=Crossfire
+description=An open source, cooperative multiplayer graphical RPG and adventure game
+ports=13327/tcp
+categories=Games;Role;
+reference=[http://crossfire.real-time.com/metaserver-info/index.html Crossfire: Metaserver Info]
+
+[Crossfire Metaserver]
+title=Crossfire Metaserver
+description=Metaserver for Crossfire RPG
+ports=13326/tcp
+categories=Games;Role;
+reference=[http://crossfire.real-time.com/metaserver-info/index.html Crossfire: Metaserver Info]
+

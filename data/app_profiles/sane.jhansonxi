@@ -1,0 +1,15 @@
+[SANE]
+title=SANE scanner
+description=Scanner Access Now Easy - scanner sharing server
+ports=6566/tcp
+modules=nf_conntrack_sane;
+categories=Network;Scanning;
+reference=[http://www.sane-project.org/man/saned.8.html saned.8 man page]
+
+[SANE manual]
+title=SANE Manual
+description=Scanner Access Now Easy - scanner sharing server, manual ports without nf_conntrack_sane module
+ports=6566,10000:10100/tcp
+modules=nf_conntrack_sane;
+categories=Network;Scanning;
+reference=[http://www.sane-project.org/man/saned.8.html saned.8 man page]

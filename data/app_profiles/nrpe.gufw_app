@@ -1,0 +1,6 @@
+[nrpe]
+title=NRPE Nagios Plugin
+description=Remote Plugin Executor
+ports=5666:5667/tcp|5666:5667/udp
+categories=System;Monitor;
+reference=http://www.vkernel.co.uk/?p=42

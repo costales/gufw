@@ -1,0 +1,7 @@
+[AssaultCube]
+title=Assault Cube
+description=A free, multiplayer, first-person shooter game
+ports=28763/udp|28764
+categories=Games;Action;
+reference=[http://assault.cubers.net/docs/server.html]
+

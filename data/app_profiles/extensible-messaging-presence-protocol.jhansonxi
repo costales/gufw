@@ -1,0 +1,28 @@
+[XMPP]
+title=XMPP
+description=Extensible Messaging and Presence Protocol client connection (Jabber)
+ports=5222/tcp
+categories=Network;Telephony;Instant Messaging;
+reference=[http://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol Wikipedia: Extensible Messaging and Presence Protocol]
+
+[XMPP SSL]
+title=XMPP SSL
+description=Extensible Messaging and Presence Protocol (Jabber) client connection with SSL encryption
+ports=5223/tcp
+categories=Network;Telephony;Instant Messaging;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[XMPP interserver]
+title=XMPP Interserver
+description=Extensible Messaging and Presence Protocol server-server connection
+ports=5269/tcp
+categories=Network;Telephony;Instant Messaging;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[XMPP serverless]
+title=XMPP Serverless
+description=Extensible Messaging and Presence Protocol link-local messaging/serverless messaging
+ports=5298
+categories=Network;Telephony;Instant Messaging;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+

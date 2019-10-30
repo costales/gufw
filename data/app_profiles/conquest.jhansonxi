@@ -1,0 +1,14 @@
+[Conquest]
+title=Conquest
+description=A space warfare game
+ports=1701
+categories=Games;Action;
+reference=[http://www.radscan.com/conquest/README.txt Conquest README]
+
+[Conquest meta]
+title=Conquest Metaserver
+description=A space warfare game
+ports=1700
+categories=Games;Action;
+reference=[http://www.radscan.com/conquest/README.txt Conquest README]
+

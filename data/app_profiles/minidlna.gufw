@@ -1,0 +1,6 @@
+[minidlna]
+title=MiniDLNA
+description=Serves media files (music, pictures, and video) to clients on a network
+ports=1900/udp|8200/tcp
+categories=Audio Video;TV;
+reference=[https://help.ubuntu.com/community/MiniDLNA]

@@ -1,0 +1,42 @@
+[Sacred 0]
+title=Sacred - port 2005
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+
+[Sacred 1]
+title=Sacred - ports 2005:2006
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2006/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+
+[Sacred 2]
+title=Sacred - ports 2005:2007
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2007/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+
+[Sacred 3]
+title=Sacred - ports 2005:2008
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2008/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+
+[Sacred 4]
+title=Sacred - ports 2005:2009
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2009/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+
+[Sacred 5]
+title=Sacred - ports 2005:2010
+description=Server port for the fantasy RPG by Ascaron Entertainment
+ports=2005/udp|2005:2010/tcp
+categories=Games;Action;
+reference=[http://eng.sacred-game.com/changelog.php?showversion=218 Changes in Sacred 1.7 Fixlist]
+

@@ -1,0 +1,7 @@
+[Sauerbraten]
+title=Cube 2: Sauerbraten
+description=A FPS game based on the Cube engine
+ports=28785:28786/udp
+categories=Games;Action;
+reference=[http://sauerbraten.org/docs/config.html Cube 2: Sauerbraten - Configuration]
+

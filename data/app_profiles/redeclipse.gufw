@@ -1,0 +1,7 @@
+[RedEclipse]
+title=Red Eclipse
+description=An open source first-person shooter that runs on the Cube Engine 2
+ports=28800
+categories=Games;Action;
+reference=[http://sourceforge.net/apps/mediawiki/redeclipse/index.php?title=Client_Command_Line_Options]
+

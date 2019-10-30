@@ -1,0 +1,7 @@
+[BZFlag]
+title=BZFlag
+description=A FPS tank battle capture the flag game
+ports=5154
+categories=Games;Action;
+reference=[http://my.bzflag.org/w/Sample_conf Server Sample.conf]
+

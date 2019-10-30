@@ -1,0 +1,7 @@
+[NTP]
+title=NTP
+description=Network Time Protocol
+ports=123/udp
+categories=Network;Time;
+reference=[http://en.wikipedia.org/wiki/Network_Time_Protocol Wikipedia: Network Time Protocol]
+

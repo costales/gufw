@@ -1,0 +1,8 @@
+[FTP]
+title=FTP
+description=File Transfer Protocol
+ports=21
+modules=nf_conntrack_ftp;nf_nat_ftp;
+categories=Network;File Transfer;
+warning=Unsecure connection. Think about using SFTP
+reference=[http://en.wikipedia.org/wiki/File_Transfer_Protocol Wikipedia: File Transfer Protocol]

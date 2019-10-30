@@ -1,0 +1,7 @@
+[Myth II - Soulblighter]
+title=Myth II: Soulblighter
+description=A real-time tactics game from Bungie
+ports=3453/tcp
+categories=Games;Action;
+reference=[http://mything.org/Myth_Starter_Guide/ Myth Starter Guide]
+

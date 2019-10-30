@@ -1,0 +1,7 @@
+[MegaMek]
+title=MegaMek
+description=A unofficial online BattleTech game
+ports=2346
+categories=Games;Strategy;Java;
+reference=[http://www.mekwars.org/forum/viewtopic.php?t=233 MegaMekNET: Other people can't join your host?]
+

@@ -1,0 +1,14 @@
+[GameSpy]
+title=GameSpy
+description=GameSpy
+ports=8871/udp
+categories=Games;
+reference=[http://forumplanet.gamespy.com/xbox_tunnel_discussion/b50800/19976408/r19976986/ ForumPlanet: Cant Join Online Games]
+
+[GameSpy Arcade]
+title=GameSpy Arcade
+description=GameSpy Arcade gaming network
+ports=6500,6515,13139,27900/udp|3783,28900,29900,29901/tcp
+categories=Games;
+reference=[http://www.gamespyarcade.com/support/firewalls.shtml GameSpy Arcade Support: Firewalls]
+

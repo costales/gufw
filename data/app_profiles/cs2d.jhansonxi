@@ -1,0 +1,7 @@
+[CS2D]
+title=Counter-Strike 2D
+description=A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software
+ports=36963/udp
+categories=Games;Action;
+reference=[http://www.cs2d.com/faq.php?show=net_nojoin#net_nojoin FAQ - Network and Multiplayer]
+

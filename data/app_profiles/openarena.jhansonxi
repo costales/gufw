@@ -1,0 +1,7 @@
+[OpenArena]
+title=OpenArena
+description=A competitive FPS based on ioquake3/id tech 3 engine
+ports=27960/udp
+categories=Games;Action;
+reference=[http://openarena.wikia.com/wiki/Manual/Multiplayer OpenArena Wikia Manual/Multiplayer]
+

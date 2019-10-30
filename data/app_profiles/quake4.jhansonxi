@@ -1,0 +1,7 @@
+[Quake4]
+title=Quake 4
+description=A FPS by id Software
+ports=28004/udp
+categories=Games;Action;
+reference=[http://zerowing.idsoftware.com/linux/quake4 id Software Quake4 GNU/Linux FAQ]
+

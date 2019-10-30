@@ -1,0 +1,7 @@
+[vuze]
+title=Vuze
+description=BitTorrent client used to transfer files via the BitTorrent protocol. Vuze uses the Azureus Engine
+ports=1900/udp|6880/tcp|6969/tcp|7000/tcp|16680/udp|45100/tcp|49001/udp
+warning=You need to add the main random port too that you selected the first time
+categories=Network;P2P;
+reference=[http://wiki.vuze.com/w/Select_port_for_Vuze]

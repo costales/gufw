@@ -1,0 +1,7 @@
+[Sid Meiers Alpha Centauri]
+title=Sid Meier's Alpha Centauri
+description=SciFi strategy game by Firaxis
+ports=32292:32296/udp
+categories=Games;Strategy;
+reference=[http://icculus.org/lgfaq/en/network.php Icculous.org: Networking Queries]
+

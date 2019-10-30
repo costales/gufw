@@ -1,0 +1,7 @@
+[DH Lore Invasion]
+title=Dark Horizons: LI
+description=Lore Invasion. A mech-style FPS by Max Gaming Technologies using the Torque Game Engine
+ports=28000:280001/udp
+categories=Games;Action;
+reference=[http://www.torquepowered.com/community/forums/viewthread/38954 Torque Game Engine forums: Dedicated server on a port other than 28000]
+

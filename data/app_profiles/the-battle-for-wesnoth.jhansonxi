@@ -1,0 +1,7 @@
+[Wesnoth]
+title=The Battle for Wesnoth
+description=Turn-based tactical strategy game
+ports=15000/tcp
+categories=Games;Strategy;
+reference=[http://wiki.wesnoth.org/MultiplayerServers FAQ]
+

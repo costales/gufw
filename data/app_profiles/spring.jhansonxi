@@ -1,0 +1,7 @@
+[Spring]
+title=Spring game engine
+description=An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment
+ports=8452/udp
+categories=Games;Strategy;
+reference=[http://springrts.com/wiki/FAQ:technical Spring Technical FAQ]
+

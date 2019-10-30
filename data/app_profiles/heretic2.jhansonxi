@@ -1,0 +1,7 @@
+[Heretic II]
+title=Heretic II
+description=Fantasy combat FPS by Raven Software
+ports=28910:28911/udp|28910:28911/tcp
+categories=Games;Action;
+reference=[http://www.raven-games.com/h2faq.php Raven-Games.com: Official Heretic II FAQ]
+

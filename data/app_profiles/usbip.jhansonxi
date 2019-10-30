@@ -1,0 +1,6 @@
+[usbip]
+title=usbip
+description=A Peripheral Bus Extension for Device Sharing over IP Network
+ports=3240/tcp
+categories=Network;
+reference=[http://usbip.svn.sourceforge.net/viewvc/usbip/linux/trunk/src/README?view=markup package README]

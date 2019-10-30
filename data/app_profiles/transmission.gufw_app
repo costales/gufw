@@ -1,0 +1,6 @@
+[transmission]
+title=Transmission
+description=BitTorrent client which features a simple interface on top of a cross-platform backend
+ports=51413
+warning=Remember to open the ports on the router
+categories=Network;P2P;

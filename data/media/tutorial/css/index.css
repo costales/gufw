@@ -1,0 +1,25 @@
+body
+{
+    background-image:url('/usr/share/gufw/media/tutorial/images/background.jpg');
+    background-repeat:repeat;
+    font-family: Ubuntu, "Helvetica", Sans-Serif;
+    font-size: 14px;
+} 
+/* FAQ */
+#faq { width:315px; }
+#faq ol { font-style:italic; font-family:Ubuntu, Times, serif; font-size:20px; color:#1a2db8;  }
+#faq ol li { }
+#faq ol li p { padding:8px; font-style:normal; font-family:Ubuntu; font-size:14px; color:#000000; border-left: 1px solid #999; }
+#faq ol li p span { padding:8px; font-style:normal; font-family:Ubuntu; font-size:14px; color:#000000;}
+#faq ol li p em { display:block; color:#1a2db8;}
+img {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-bottom: 35px;
+}
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    width: 315px;
+}

@@ -1,0 +1,22 @@
+[Full Metal Soccer server]
+title=Full Metal Soccer server
+description=A soccer game played with tanks by QuantiCode
+ports=23700
+categories=Games;Sports;
+reference=fms-1.0.tar.bz2/config_server.xml
+
+[Full Metal Soccer ranking server]
+title=Full Metal Soccer ranking server
+description=A soccer game played with tanks by QuantiCode
+ports=23509
+categories=Games;Sports;
+reference=fms-1.0.tar.bz2/config_server.xml
+
+[Full Metal Soccer master server]
+title=Full Metal Soccer master server
+description=A soccer game played with tanks by QuantiCode
+ports=23505
+categories=Games;Sports;
+reference=fms-1.0.tar.bz2/config_server.xml
+
+

@@ -1,0 +1,7 @@
+[London Law]
+title=London Law
+description=An online multiplayer adaptation of the Scotland Yard board game
+ports=7921/tcp
+categories=Games;Board;
+reference=londonlaw-0.2.1.tar.gz/londonlaw/common/protocol.py
+

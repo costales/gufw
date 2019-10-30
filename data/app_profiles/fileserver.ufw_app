@@ -1,0 +1,5 @@
+[svnserve]
+title=Subversion Server
+description=Subversion server for access to Subversion repositories
+ports=3690/tcp
+categories=Network;Services;

@@ -1,0 +1,21 @@
+[TeamSpeak 2]
+title=TeamSpeak 2 voice
+description=TeamSpeak 2 voice service
+ports=8767/udp
+categories=Network;Telephony;
+reference=[http://www.teamspeak.com/?page=faq&cat=server#server_ports TeamSpeak 2 Technical Support (Server) FAQ]
+
+[TeamSpeak 2 web]
+title=TeamSpeak 2 web
+description=TeamSpeak 2 web interface
+ports=14534/tcp
+categories=Network;Telephony;
+reference=[http://www.teamspeak.com/?page=faq&cat=server#server_ports TeamSpeak 2 Technical Support (Server) FAQ]
+
+[TeamSpeak 2 query]
+title=TeamSpeak 2 TCP query
+description=TeamSpeak 2 TCP query
+ports=51234/tcp
+categories=Network;Telephony;
+reference=[http://www.teamspeak.com/?page=faq&cat=server#server_ports TeamSpeak 2 Technical Support (Server) FAQ]
+

@@ -1,0 +1,7 @@
+[GfW-Live]
+title=Games for Windows - Live
+description=Network games using Games for Windows - Live API
+ports=53,88,3074/udp|80,3074,53,443/tcp
+categories=Network;
+reference=[http://support.microsoft.com/kb/937424 Microsoft: Description of Firewall Ports you must open to connect to LIVE]
+

@@ -1,0 +1,7 @@
+[Kingpin LoC]
+title=Kingpin: Life of Crime
+description=A FPS by Xatrix Entertainment
+ports=31510/udp
+categories=Games;Action;
+reference=[http://icculus.org/lgfaq/en/network.php Icculous.org: Networking Queries]
+

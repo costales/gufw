@@ -1,0 +1,7 @@
+[Soldier of Fortune]
+title=Soldier of Fortune
+description=Soldier of Fortune - A FPS by Raven Software
+ports=28910:28915/udp
+categories=Games;Action;
+reference=[http://sof1.megalag.org/serverguide.php Soldier of Fortune things: SoF Dedicated Server - HOWTO]
+

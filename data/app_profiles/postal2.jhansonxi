@@ -1,0 +1,7 @@
+[Postal 2]
+title=Postal 2
+description=A FPS by Running with Scissors (uses the Unreal engine)
+ports=7777,7778,7787,7788,27900/udp|28900/tcp
+categories=Games;Action;
+reference=[http://findports.com/article/postal-2-share-the-pain-demo Findports.com Postal 2 entry]
+

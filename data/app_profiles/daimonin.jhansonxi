@@ -1,0 +1,7 @@
+[Daimonin]
+title=Daimonin
+description=An open-source MMORPG
+ports=13326:13327/udp|13326:13327/tcp
+categories=Games;Role;
+reference=[http:// Daimonin Forums: If you are a newbie who is having login troubles, look here!]
+

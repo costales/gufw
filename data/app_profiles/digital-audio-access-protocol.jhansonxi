@@ -1,0 +1,7 @@
+[DAAP]
+title=DAAP
+description=Digital Audio Access Protocol
+ports=3689/tcp
+categories=Network;Audio Video;Audio;
+reference=[http://en.wikipedia.org/wiki/Digital_Audio_Access_Protocol Wikipedia: Digital Audio Access Protocol]
+

@@ -1,0 +1,7 @@
+[GGZ]
+title=GGZ Gaming Zone
+description=Network support for GNOME Games
+ports=5688/tcp
+categories=Network;Games;
+reference=[http://www.ggzgamingzone.org/docs/guides/hosting/ggz-hosting-guide.html#Game-Servers Hosting Guide: 3.3 Overview]
+

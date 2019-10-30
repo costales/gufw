@@ -1,0 +1,7 @@
+[Minecraft]
+title=Minecraft
+description=A 3D sandbox construction game by Markus Persson
+ports=25565/tcp
+categories=Games;
+reference=[http://www.minecraftwiki.net/wiki/Server.properties Minepedia: Server.properties]
+

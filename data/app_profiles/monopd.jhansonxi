@@ -1,0 +1,7 @@
+[monopd]
+title=monopd
+description=A game server for Monopoly-like board games
+ports=1234/tcp
+categories=Games;Board;
+reference=[http://monopd.sourcearchive.com/lines/0.9.3-4ubuntu2/server_8cpp-source.html SourceArchive.com: monopd-0.9.3 server.cpp]
+

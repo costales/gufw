@@ -1,0 +1,14 @@
+[Battlefield 1942]
+title=Battlefield 1942
+description=A WWII FPS from Digital Illusions CE
+ports=14567/udp
+categories=Games;Action;
+reference=[http://www.lanage.ca/lanage_game_server_setup_guides_battlefield_1942.php#firewall LANage: Serving Battlefield 1942 Behind a Firewall]
+
+[Battlefield 1942 RC]
+title=Battlefield 1942 Console
+description=The RemoteConsole administration tool for Battlefield 1942
+ports=4711/tcp
+categories=Games;Action;
+reference=[http://planetbattlefield.gamespy.com/View.php?view=GameInfo.Detail&id=128&game=4#q7 Planet Battlefield: How do I setup my server behind a firewall?]
+

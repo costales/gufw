@@ -1,0 +1,7 @@
+[Balazar III]
+title=Balazar III
+description=A 2D/3D dungeon adventure game
+ports=6902/tcp
+categories=Games;Action;
+reference=[http://svn.gna.org/viewcvs/balazar/trunk/balazarIII/balazar3/globdef.py?view=markup Balazar III svn: globdef.py]
+

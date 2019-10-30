@@ -1,0 +1,7 @@
+[Armagetronad]
+title=Armagetron Advanced
+description=A 3D clone of the Light Cycle game in Tron
+ports=4534/udp
+categories=Games;Arcade;
+reference=[http://wiki.armagetronad.net/index.php?title=FAQ#I_did_that.2C_but_my_server_still_is_not_listed._What_else_can_be_wrong.3F Armagetron Advanced wiki: FAQ - Your Server]
+

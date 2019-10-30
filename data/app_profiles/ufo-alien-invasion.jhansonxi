@@ -1,0 +1,7 @@
+[UFO Alien Invasion]
+title=UFO: Alien Invasion
+description=An open-source 3D RTS inspired by X-COM
+ports=27910/tcp
+categories=Games;Action;
+reference=[http://ufoai.ninex.info/wiki/index.php/Manual:Multiplayer UFO:AI Manual:Multiplayer]
+

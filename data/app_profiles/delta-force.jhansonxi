@@ -1,0 +1,7 @@
+[Delta Force]
+title=Delta Force
+description=A FPS combat game by NovaLogic
+ports=3568:3569/udp
+categories=Games;Action;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

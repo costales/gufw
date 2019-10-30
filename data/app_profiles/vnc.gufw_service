@@ -1,0 +1,7 @@
+[vnc]
+title=VNC
+description=Virtual Network Computing
+ports=5900/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/Vnc - Wikipedia]

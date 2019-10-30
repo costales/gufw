@@ -1,0 +1,6 @@
+[ktorrent]
+title=KTorrent
+description=Feature rich BitTorrent client by KDE
+ports=6881/tcp|4444/udp
+warning=Remember to open the ports on the router
+categories=Network;P2P;

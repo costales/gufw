@@ -1,0 +1,7 @@
+[The Mana World]
+title=The Mana World
+description=A fantasy MMORPG
+ports=6901/tcp
+categories=Games;Role;
+reference=[http://wiki.themanaworld.org/index.php/Servers The Mana World wiki: Servers]
+

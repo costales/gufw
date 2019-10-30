@@ -1,0 +1,7 @@
+[asterisk]
+title=Asterisk
+description=An open source telephony switching and private branch exchange service
+ports=5060|10000:20000/udp
+warning=Review that ports are the same in /etc/asterisk/rtp.conf
+categories=Network;Telephony;
+reference=[http://www.dslreports.com/forum/r27735252-Question-about-opening-ports-for-Asterisk]

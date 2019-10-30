@@ -1,0 +1,6 @@
+[bitwig]
+title=Bitwig
+description=Multi-platform music-creation system for production, performance and DJing
+ports=20808/udp
+categories=Audio Video;Music;
+reference=[https://bugs.launchpad.net/gui-ufw/+bug/1718354]

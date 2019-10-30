@@ -1,0 +1,34 @@
+[Toribash default]
+title=Toribash - 20184
+description=A fighting game based on the physics sandbox model with customizable moves
+ports=20184
+categories=Games;Action;
+reference=[http://forum.toribash.com/showthread.php?t=6667 Toribash Community: A sophisicated guide to setting up a highly customizable server]
+
+[Toribash 20185]
+title=Toribash - 20185
+description=A fighting game based on the physics sandbox model with customizable moves
+ports=20185
+categories=Games;Action;
+reference=[http://forum.toribash.com/showthread.php?t=6667 Toribash Community: A sophisicated guide to setting up a highly customizable server]
+
+[Toribash 20186]
+title=Toribash - 20186
+description=A fighting game based on the physics sandbox model with customizable moves
+ports=20186
+categories=Games;Action;
+reference=[http://forum.toribash.com/showthread.php?t=6667 Toribash Community: A sophisicated guide to setting up a highly customizable server]
+
+[Toribash 20187]
+title=Toribash - 20187
+description=A fighting game based on the physics sandbox model with customizable moves
+ports=20187
+categories=Games;Action;
+reference=[http://forum.toribash.com/showthread.php?t=6667 Toribash Community: A sophisicated guide to setting up a highly customizable server]
+
+[Toribash 20180-20190]
+title=Toribash Full
+description=A fighting game based on the physics sandbox model with customizable moves
+ports=20180:20190/tcp|20180:20190/udp
+categories=Games;Action;
+reference=[http://forum.toribash.com/showthread.php?t=6667 Toribash Community: A sophisicated guide to setting up a highly customizable server]

@@ -1,0 +1,7 @@
+[Delta Force LW]
+title=Delta Force: LW
+description=Land Warrior. A FPS combat game by NovaLogic
+ports=17478/udp
+categories=Games;Action;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

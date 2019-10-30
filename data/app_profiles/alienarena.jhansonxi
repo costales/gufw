@@ -1,0 +1,7 @@
+[Alien Arena]
+title=Alien Arena
+description=A SciFi competitive FPS based on the CRX/id Tech 2 engine
+ports=27900:27901,27910/udp
+categories=Games;Action;
+reference=[http://chaingun.org/cms/index.php?id=3 chaingun.org: Alien Arena server guide]
+

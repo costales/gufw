@@ -1,0 +1,7 @@
+[Mechwarrior 4]
+title=Mechwarrior 4
+description=A FPS based on the Fasa Battletech universe
+ports=2300:2400,28800/udp|2300:2400,27999,28805:28808,47624/tcp
+categories=Games;Action;
+reference=[http://www.mechlivinglegends.net/forum/index.php?topic=5065.0 MechWarrior: Living Legends - MW4 Online Issues]
+

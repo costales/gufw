@@ -1,0 +1,5 @@
+[skype]
+title=Skype Normal
+description=Proprietary Voice over IP service and software application
+ports=443/tcp
+categories=Network;Telephony;

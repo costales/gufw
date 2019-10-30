@@ -1,0 +1,14 @@
+[Icecast]
+title=Icecast
+description=Icecast stream
+ports=8000/tcp
+categories=Network;Audio Video;
+reference=[http://www.icecast.org/docs/icecast-2.2.0/icecast2_config_file.html#misc Icecast v2.0 Documentation: Misc Server Settings]
+
+[Icecast-SHOUTcast]
+title=Icecast - 8000:8001/tcp
+description=Icecast with SHOUTcast-compatible stream
+ports=8000:8001/tcp
+categories=Network;Audio Video;
+reference=[http://www.icecast.org/docs/icecast-2.2.0/icecast2_config_file.html#misc Icecast v2.0 Documentation: Misc Server Settings]
+

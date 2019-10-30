@@ -1,0 +1,35 @@
+[PeopleNearby]
+title=People Nearby
+description=People Nearby (Bonjour/Salut) functionality in Empathy
+ports=5353/udp|5298
+categories=Network;Telephony;Instant Messaging;
+
+[Bonjour]
+title=Bonjour
+description=Bonjour protocol
+ports=5353/udp|5298
+categories=Network;Telephony;Instant Messaging;
+
+[MSN]
+title=MSN Chat
+description=MSN chat protocol (with file transfer and voice)
+ports=1863|6891:6900/tcp|6901
+categories=Network;Telephony;Instant Messaging;
+
+[MSN SSL]
+title=MSN Chat (SSL)
+description=MSN chat protocol SSL
+ports=443/tcp
+categories=Network;Telephony;Instant Messaging;
+
+[AIM]
+title=AIM Talk
+description=AIM talk protocol
+ports=5190/tcp
+categories=Network;Telephony;Instant Messaging;
+
+[Yahoo]
+title=Yahoo Chat
+description=Yahoo chat protocol
+ports=5050
+categories=Network;Telephony;Instant Messaging;

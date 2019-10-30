@@ -1,0 +1,7 @@
+[Drakan OotF]
+title=Drakan: Order of the Flame
+description=A dragon-riding action-adventure from Surreal Software
+ports=27045:27046,27910:27929/udp|27045:27046,27910:27929/tcp
+categories=Games;Action;
+reference=[http://www.jeuxvideopc.com/patch/bugs-1776.php Tom's Games: Patch 445 README]
+

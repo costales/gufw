@@ -1,0 +1,7 @@
+[DXX-Rebirth]
+title=DXX-Rebirth
+description=A source port of Descent, the 3D Flying FPS by Outrage Entertainment
+ports=31017/udp
+categories=Games;Action;
+reference=[http://www.multi-players-zone.com/descent.htm YANG: Descent Multiplayer Play]
+

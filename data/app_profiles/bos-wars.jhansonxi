@@ -1,0 +1,7 @@
+[Bos Wars]
+title=Bos Wars
+description=A futuristic RTS based on the Stratagus engine
+ports=6660/udp
+categories=Games;Strategy;
+reference=[http://svn.seul.org/viewcvs/viewvc.cgi/bos/trunk/doc/faq.html?root=BosWars&view=co FAQ for Bos Wars]
+

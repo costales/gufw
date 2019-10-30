@@ -1,0 +1,6 @@
+[kde-connect]
+title=KDE Connect
+description=Communicate across all your devices
+ports=1714:1764/tcp|1714:1764/udp
+categories=Network;Telephony;
+reference=[https://community.kde.org/KDEConnect]

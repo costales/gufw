@@ -1,0 +1,6 @@
+[cups]
+title=CUPS
+description=Modular printing system for Unix-like computer operating systems
+ports=631
+categories=Network;Printing;
+reference=[http://en.wikipedia.org/wiki/CUPS - Wikipedia]

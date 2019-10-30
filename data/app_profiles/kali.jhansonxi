@@ -1,0 +1,7 @@
+[Kali]
+title=Kali
+description=Internet game browser and IPX network emulator
+ports=2213,6666/udp|2213,6666/tcp
+categories=Network;Games;
+reference=[http://portforward.com/cports.htm PortForward.com: Port Forwarding Guides listed by Application]
+

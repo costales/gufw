@@ -1,0 +1,7 @@
+[Wormux]
+title=Wormux
+description=An arcade combat game inspired by Worms from Team17 Software
+ports=3826/tcp
+categories=Games;Arcade;
+reference=[http://www.wormux.org/phpboost/wiki/how-to-play-online#paragraph_how-do-i-start-a-server Wormux wiki: How do I start a server?]
+

@@ -1,0 +1,35 @@
+[Steam All]
+title=All Services
+description=Client, dedicated servers, P2P and voice chat
+ports=27000:27015/udp|27015:27030/udp|27014:27050/tcp|4380/udp|27015/tcp|3478/udp|4379/udp|27031/udp|27036|27037/tcp
+warning=Client, Dedicated Servers, P2P and Voice Chat
+categories=Games;Steam;
+reference=[https://support.steampowered.com/kb_article.php?ref=8571-GLVN-8711]
+
+[Steam Client]
+title=Client
+description=Game client traffic, typically Matchmaking and HLTV and Steam downloads
+ports=27000:27015/udp|27015:27030/udp|27014:27050/tcp|4380/udp|27031/udp|27036|27037/tcp
+categories=Games;Steam;
+reference=[https://support.steampowered.com/kb_article.php?ref=3629-RIAV-1617#networkports]
+
+[Steam Dedicated Servers]
+title=Dedicated Servers
+description=SRCDS Rcon port
+ports=27015/tcp
+categories=Games;Steam;
+reference=[https://support.steampowered.com/kb_article.php?ref=8571-GLVN-8711]
+
+[Steam Steamworks P2P Networking and Steam Voice Chat]
+title=P2P and Voice Chat
+description=Steamworks P2P Networking and Steam Voice Chat
+ports=3478/udp|4379/udp|4380/udp
+categories=Games;Steam;
+reference=[https://support.steampowered.com/kb_article.php?ref=8571-GLVN-8711]
+
+[Steam Additional Ports for Call of Duty Modern Warfare 2 Multiplayer]
+title=Call of Duty
+description=Additional Ports for Call of Duty: Modern Warfare 2 Multiplayer
+ports=1500/udp|3005/udp|3101/udp|28960/udp
+categories=Games;Steam;
+reference=[https://support.steampowered.com/kb_article.php?ref=8571-GLVN-8711]

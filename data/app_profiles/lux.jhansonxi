@@ -1,0 +1,7 @@
+[Lux]
+title=Lux
+description=Delux, Ancient Empires and American History: A turn-based strategy game from Sillysoft influenced by Risk
+ports=6619/tcp
+categories=Games;Strategy;
+reference=[http://sillysoft.net/hosting/ Sillysoft Games: Lux and Vox Hosting Help]
+

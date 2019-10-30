@@ -1,0 +1,7 @@
+[Dropbox]
+title=Dropbox LanSync
+description=A web-based file hosting service
+ports=17500
+categories=Network;File Transfer;
+reference=[http://forums.dropbox.com/topic.php?id=25749#post-160192 Dropbox forum: LAN Sync + Shared Folders]
+

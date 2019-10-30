@@ -1,0 +1,5 @@
+[nagios]
+title=Nagios
+description=Computer system monitor, network monitoring and infrastructure monitoring software application
+ports=5666
+categories=System;Monitor;

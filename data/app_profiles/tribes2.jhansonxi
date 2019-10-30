@@ -1,0 +1,14 @@
+[Tribes 2]
+title=Tribes 2
+description=A multiplayer combat online game by Dynamix - main port
+ports=28000/udp
+categories=Games;Action;
+reference=[http://faqs.lokigames.com/tribes2faq.html Tribes 2 FAQ]
+
+[Tribes 2 all]
+title=Tribes 2 - 28000:29000/tcp/udp
+description=A multiplayer combat online game by Dynamix, all suggested ports open
+ports=28000:29000/udp|28000:29000/tcp
+categories=Games;Action;
+reference=[http://faqs.lokigames.com/tribes2faq.html Tribes 2 FAQ]
+

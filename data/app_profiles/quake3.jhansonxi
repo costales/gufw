@@ -1,0 +1,28 @@
+[Quake III 0]
+title=Quake III - 27960/udp
+description=A FPS by id Software, server on port 27660
+ports=27960/udp
+categories=Games;Action;
+reference=[http://www.sp1r1t.org/networks/q3_install/q3_linux_server_howto.php Quake III Arena linux dedicated server HOWTO]
+
+[Quake III 1]
+title=Quake III - 27961/udp
+description=A FPS by id Software, server on port 27961
+ports=27961/udp
+categories=Games;Action;
+reference=[http://www.sp1r1t.org/networks/q3_install/q3_linux_server_howto.php Quake III Arena linux dedicated server HOWTO]
+
+[Quake III 2]
+title=Quake III - 27962/udp
+description=A FPS by id Software, server on port 27962
+ports=27962/udp
+categories=Games;Action;
+reference=[http://www.sp1r1t.org/networks/q3_install/q3_linux_server_howto.php Quake III Arena linux dedicated server HOWTO]
+
+[Quake III 3]
+title=Quake III - 27963/udp
+description=A FPS by id Software, server on port 27963
+ports=27963/udp
+categories=Games;Action;
+reference=[http://www.sp1r1t.org/networks/q3_install/q3_linux_server_howto.php Quake III Arena linux dedicated server HOWTO]
+

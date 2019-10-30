@@ -1,0 +1,7 @@
+[hddtemp]
+title=hddtemp
+description=Data storage device temperature data server
+ports=7634/tcp
+categories=System;Monitor;
+reference=[http://linux.die.net/man/8/hddtemp hddtemp man page]
+

@@ -1,0 +1,7 @@
+[FooBillard]
+title=FooBillard
+description=Cue sports simulation with Carambol, Snooker, and Pool
+ports=56341/tcp
+categories=Games;Sports;
+reference=[http://icculus.org/lgfaq/en/network.php Icculous.org: Networking Queries]
+

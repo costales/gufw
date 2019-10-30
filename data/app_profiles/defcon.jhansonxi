@@ -1,0 +1,7 @@
+[DEFCON]
+title=DEFCON
+description=A thermo-nuclear war strategy game from Introversion Software
+ports=5010:5011/udp
+categories=Games;Strategy;
+reference=[http://www.introversion.co.uk/defcon/support/networkproblems.html DEFCON: Networking Problems]
+

@@ -1,0 +1,7 @@
+[OLSR]
+title=Optimized Link State Routing
+description=A mesh networking protocol
+ports=698/udp
+categories=Network;
+reference=[http://www.ietf.org/rfc/rfc3626.txt RFC 3626: 3.1.  Protocol and Port Number]
+

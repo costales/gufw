@@ -1,0 +1,7 @@
+[Warzone 2100]
+title=Warzone 2100
+description=A RTS game by Pumpkin Studios
+ports=2100/tcp
+categories=Games;Strategy;
+reference=[http://guide.wz2100.net/faq Warzone 2100 Guide: Frequently Asked Questions]
+

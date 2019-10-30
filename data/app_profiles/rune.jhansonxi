@@ -1,0 +1,14 @@
+[Rune]
+title=Rune
+description=A third-person fantasy combat game by Human Head Studios
+ports=7776:7778,7780,8777/udp
+categories=Games;Action;
+reference=[http://rune-library.com/e107/print.php?plugin:forum.52 Rune-Library.com - Rune networks ports]
+
+[Rune web admin]
+title=Rune admin
+description=Web-based administration for the Rune game by Human Head Studios
+ports=80/tcp
+categories=Games;Action;
+reference=[http://rune-library.com/e107/print.php?plugin:forum.52 Rune-Library.com - Rune networks ports]
+

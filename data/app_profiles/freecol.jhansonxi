@@ -1,0 +1,7 @@
+[FreeCol]
+title=FreeCol
+description=A turn-based strategy game similar to Colonization by Microprose
+ports=3541/tcp
+categories=Games;Strategy;
+reference=[http://www.freecol.org/docs/FreeCol.html FreeCol Documentation: User Guide]
+

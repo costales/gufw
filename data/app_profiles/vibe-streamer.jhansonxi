@@ -1,0 +1,6 @@
+[Vibe Streamer]
+title=Vibe Streamer
+description=A free MP3 streaming server
+ports=8081/tcp
+categories=Network;Audio Video;Audio;
+reference=[http://www.vibestreamer.com/forum/viewtopic.php?t=309 Vibe Streamer forum: How to run Vibe Streamer on Linux/Ubuntu using Wine]

@@ -1,0 +1,47 @@
+© 2008-2019 ﻿﻿Marcos Alvarez Costales
+-----------------------------------
+
+DEPENDENCIES
+-----------------
+ufw 0.34+ for Gufw 14.10+
+gir1.2-webkit2-4.0
+gir1.2-gtk-3.0
+gnome-icon-theme-symbolic
+policykit-1
+python3-gi
+python3-distutils-extra
+
+
+FROM DEBIAN OR UBUNTU REPOSITORIES
+-----------------
+INSTALL > sudo apt-get install gufw
+REMOVE  > sudo apt-get purge gufw
+
+You can run the program by looking for Firewall 
+Configuration in your application menu.
+
+
+FOR OTHER DISTROS
+------------------
+* Get code from https://code.launchpad.net/gui-ufw
+    bzr branch lp:gui-ufw
+    
+* Install:
+    sudo python3 setup.py install --prefix=/usr
+
+* Run:
+    gufw
+    
+* You may also need to run sudo gtk-update-icon-cache /usr/share/icons/hicolor/
+  if your launcher icon is a bit blurry or doesn't show up.
+  
+  
+Are you a Gufw distro maintainer?
+=================================
+Please, join to this mail list:
+    1. Register in http://launchpad.net
+    2. Join to this team (I'll aprove you) https://launchpad.net/~gufw-maintainers
+    3. Subscribe to Gufw Maintainers mail list: https://launchpad.net/people/+me/+editemails
+  
+If you have any problems adapting Gufw in other distros, please 
+me and I'll try to help you :) https://launchpad.net/~costales

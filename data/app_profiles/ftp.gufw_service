@@ -1,0 +1,7 @@
+[ftp]
+title=FTP
+description=File Transfer Protocol
+ports=ftp
+categories=Network;Services;
+warning=Unsecure connection. Think about using SFTP
+reference=[http://en.wikipedia.org/wiki/File_Transfer_Protocol - Wikipedia]

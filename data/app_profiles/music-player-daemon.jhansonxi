@@ -1,0 +1,7 @@
+[MPD]
+title=MPD
+description=Music Player Daemon. A server for streaming music
+ports=6600/tcp
+categories=Network;Audio Video;Audio;
+reference=[http://mpd.wikia.com/wiki/MusicPlayerDaemonProtocolOutline MPD wiki: Protocol overview]
+

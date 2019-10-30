@@ -1,0 +1,7 @@
+[Freeciv]
+title=Freeciv
+description=A turn-based strategy game similar to Civilization I & II by Microprose
+ports=5555/tcp
+categories=Games;Strategy;
+reference=[http://freeciv.wikia.com/wiki/FAQ The Freeciv Wiki: FAQ]
+

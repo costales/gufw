@@ -1,0 +1,7 @@
+[Serious Sam II]
+title=Serious Sam II
+description=FPS by Croteam
+ports=25600:25601/udp|25600:25601/tcp
+categories=Games;Action;
+reference=[http://www.gamespot.com/pc/action/serioussam2/readme.html?sid=6135836 Serious Sam 2 readme]
+

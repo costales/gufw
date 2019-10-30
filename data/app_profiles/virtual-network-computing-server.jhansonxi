@@ -1,0 +1,64 @@
+[VNC server 0]
+title=VNC server display :0
+description=Virtual Network Computing standard server display :0
+ports=5900/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[VNC server 0-1]
+title=VNC displays :0-:1
+description=Virtual Network Computing standard server displays :0 through :1
+ports=5900:5901/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[VNC server 0-3]
+title=VNC displays :0-:3
+description=Virtual Network Computing standard server displays :0 through :3
+ports=5900:5903/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[VNC server 0-7]
+title=VNC displays :0-:7
+description=Virtual Network Computing standard server displays :0 through :7
+ports=5900:5907/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[VNC web server 0]
+title=VNC http server display :0
+description=Virtual Network Computing http server display :0
+ports=5800/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[VNC web server 0-1]
+title=VNC displays :0-:1
+description=Virtual Network Computing http server displays :0 through :1
+ports=5800:5801/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[VNC web server 0-3]
+title=VNC displays :0-:3
+description=Virtual Network Computing http server displays :0 through :3
+ports=5800:5803/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[VNC web server 0-7]
+title=VNC displays :0-:7
+description=Virtual Network Computing http server displays :0 through :7
+ports=5800:5807/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+

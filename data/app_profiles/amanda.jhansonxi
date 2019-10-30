@@ -1,0 +1,7 @@
+[amanda]
+title=AMANDA
+description=Backup server from Zmanda; standard port with nf_conntrack_amanda
+ports=10080/udp
+modules=nf_conntrack_amanda;nf_nat_amanda;
+categories=Network;Archiving;
+reference=[http://wiki.zmanda.com/index.php/How_To:Set_Up_iptables_for_Amanda#Iptables_module_ip_conntrack_amanda Amanda How To: Set Up iptables for Amanda]

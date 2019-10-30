@@ -1,0 +1,4462 @@
+# Catalan translation for gui-ufw
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the gui-ufw package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gui-ufw\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-12-23 14:38+0000\n"
+"PO-Revision-Date: 2018-02-24 11:29+0000\n"
+"Last-Translator: Robert Antoni Buj Gelonch <Unknown>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2018-06-23 08:04+0000\n"
+"X-Generator: Launchpad (build 18688)\n"
+
+#: ../gufw.desktop.in.h:1
+msgid "Firewall Configuration"
+msgstr "Configuració del tallafoc"
+
+#: ../gufw.desktop.in.h:2
+msgid "An easy way to configure your firewall"
+msgstr "Una forma senzilla per configurar el vostre tallafoc"
+
+#: ../DEV_extra_translations/extra_translations.py:663
+msgid "PvPGN"
+msgstr "PvPGN"
+
+#: ../DEV_extra_translations/extra_translations.py:664
+msgid "Player vs Player Gaming Network server emulation based on bnetd"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:75
+msgid "Network;Games;"
+msgstr "Xarxa;Jocs;"
+
+#: ../DEV_extra_translations/extra_translations.py:665
+msgid "PvPGN Address Translation"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:666
+msgid "Player vs Player Gaming Network Address translation port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:310
+msgid "Rune"
+msgstr "Rune"
+
+#: ../DEV_extra_translations/extra_translations.py:311
+msgid "A third-person fantasy combat game by Human Head Studios"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:10
+msgid "Games;Action;"
+msgstr "Jocs;Acció;"
+
+#: ../DEV_extra_translations/extra_translations.py:312
+msgid "Rune admin"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:313
+msgid "Web-based administration for the Rune game by Human Head Studios"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:691
+msgid "DOSBox IPX"
+msgstr "IPX DOSBox"
+
+#: ../DEV_extra_translations/extra_translations.py:692
+#: ../DEV_extra_translations/extra_translations.py:695
+msgid "DOS system emulator"
+msgstr "Emulador de sistema DOS"
+
+#: ../DEV_extra_translations/extra_translations.py:693
+msgid "System;Emulator;"
+msgstr "Sistema;Emulador;"
+
+#: ../DEV_extra_translations/extra_translations.py:694
+msgid "DOSBox Modem"
+msgstr "Mòdem DOSBox"
+
+#: ../DEV_extra_translations/extra_translations.py:823
+msgid "DXX-Rebirth"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:824
+msgid "A source port of Descent, the 3D Flying FPS by Outrage Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:753
+msgid "OpenMeetings Secure RTMP"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:754
+msgid "OpenMeetings Real Time Messaging Protocol over SSL"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:755
+msgid "Network;Video Conference;"
+msgstr "Xarxa;Videoconferència;"
+
+#: ../DEV_extra_translations/extra_translations.py:756
+msgid "OpenMeetings Tunneled RTMP"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:757
+msgid "OpenMeetings Real Time Messaging Protocol over HTTP"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:758
+msgid "OpenMeetings HTTP"
+msgstr "HTTP d'OpenMeetings"
+
+#: ../DEV_extra_translations/extra_translations.py:759
+msgid "OpenMeetings HTTP server"
+msgstr "Servidor HTTP d'OpenMeetings"
+
+#: ../DEV_extra_translations/extra_translations.py:760
+msgid "OpenMeetings DSP"
+msgstr "DSP d'OpenMeetings"
+
+#: ../DEV_extra_translations/extra_translations.py:761
+msgid "OpenMeetings Desktop Sharing Protocol (ODSP)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:835
+msgid "Bos Wars"
+msgstr "Bos Wars"
+
+#: ../DEV_extra_translations/extra_translations.py:836
+msgid "A futuristic RTS based on the Stratagus engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:15
+msgid "Games;Strategy;"
+msgstr "Jocs;Estratègia;"
+
+#: ../DEV_extra_translations/extra_translations.py:733
+msgid "Dofus"
+msgstr "Dofus"
+
+#: ../DEV_extra_translations/extra_translations.py:734
+msgid "A massively multiplayer online role-playing game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:206
+msgid "Games;Role;"
+msgstr "Jocs;Rol;"
+
+#: ../DEV_extra_translations/extra_translations.py:202
+msgid "Sid Meier's Civilization IV"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:203
+msgid "A turn-based strategy game from Firaxis Games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:163
+msgid "Chocolate Doom"
+msgstr "Chocolate Doom"
+
+#: ../DEV_extra_translations/extra_translations.py:164
+msgid ""
+"A Doom source port that accurately reproduces the experience of Doom as it "
+"was played in the 1990s"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:150
+msgid "Diablo II"
+msgstr "Diablo II"
+
+#: ../DEV_extra_translations/extra_translations.py:151
+#: ../DEV_extra_translations/extra_translations.py:685
+msgid "Fantasy combat game by Blizzard Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:424
+msgid "Kali"
+msgstr "Kali"
+
+#: ../DEV_extra_translations/extra_translations.py:425
+msgid "Internet game browser and IPX network emulator"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:418
+#: ../DEV_extra_translations/extra_translations.py:652
+msgid "SANE scanner"
+msgstr "Escàner SANE"
+
+#: ../DEV_extra_translations/extra_translations.py:419
+#: ../DEV_extra_translations/extra_translations.py:653
+msgid "Scanner Access Now Easy - scanner sharing server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:654
+msgid "Network;Scanning;"
+msgstr "Xarxa;Escaneig;"
+
+#: ../DEV_extra_translations/extra_translations.py:655
+msgid "SANE Manual"
+msgstr "Manual de SANE"
+
+#: ../DEV_extra_translations/extra_translations.py:656
+msgid ""
+"Scanner Access Now Easy - scanner sharing server, manual ports without "
+"nf_conntrack_sane module"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:792
+msgid "Kohan: Immortal Sovereigns"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:793
+msgid "A real-time strategy game by TimeGate Studios"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:152
+msgid "IRC - 194/tcp"
+msgstr "IRC - 194/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:153
+msgid "Internet Relay Chat on official port 194 (rarely used)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:154
+msgid "Network;IRC;"
+msgstr "Xarxa;IRC;"
+
+#: ../DEV_extra_translations/extra_translations.py:155
+msgid "IRC"
+msgstr "IRC"
+
+#: ../DEV_extra_translations/extra_translations.py:156
+msgid ""
+"Internet Relay Chat on common default port 6667, using nf_conntrack_irc DCC "
+"helper"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:157
+msgid "IRC SSL"
+msgstr "IRC SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:158
+msgid "Internet Relay Chat on SSL default port 6697"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:659
+msgid "Frostwire"
+msgstr "Frostwire"
+
+#: ../DEV_extra_translations/extra_translations.py:660
+msgid "Frostwire peer-peer file sharing on default port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:661
+msgid "Network;File Transfer;P2P;"
+msgstr "Xarxa;Transferència de fitxers;P2P;"
+
+#: ../DEV_extra_translations/extra_translations.py:59
+#: ../DEV_extra_translations/extra_translations.py:113
+#: ../DEV_extra_translations/extra_translations.py:351
+#: ../DEV_extra_translations/extra_translations.py:388
+#: ../DEV_extra_translations/extra_translations.py:397
+#: ../DEV_extra_translations/extra_translations.py:544
+#: ../DEV_extra_translations/extra_translations.py:547
+#: ../DEV_extra_translations/extra_translations.py:550
+#: ../DEV_extra_translations/extra_translations.py:601
+#: ../DEV_extra_translations/extra_translations.py:662
+#: ../DEV_extra_translations/extra_translations.py:669
+#: ../DEV_extra_translations/extra_translations.py:747
+msgid "Remember to open the ports on the router"
+msgstr "Recordeu d'obrir els ports de l'encaminador"
+
+#: ../DEV_extra_translations/extra_translations.py:516
+msgid "NFS (jhansonxi)"
+msgstr "NFS (jhansonxi)"
+
+#: ../DEV_extra_translations/extra_translations.py:517
+msgid ""
+"Network File System protocol with static ports at relatively unused "
+"4194:4197 (4195 broadcast out)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:32
+msgid "Network;File Transfer;"
+msgstr "Xarxa;Transferència de fitxers;"
+
+#: ../DEV_extra_translations/extra_translations.py:518
+msgid "NFS Quota (jhansonxi)"
+msgstr "Quota NFS (jhansonxi)"
+
+#: ../DEV_extra_translations/extra_translations.py:519
+msgid ""
+"Network File System protocol with filesystem usage quota support with static "
+"ports at relatively unused 4194:4198 (4195 broadcast out)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:189
+msgid "Freeciv"
+msgstr "Freeciv"
+
+#: ../DEV_extra_translations/extra_translations.py:190
+msgid ""
+"A turn-based strategy game similar to Civilization I & II by Microprose"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:33
+msgid "WINE: Starcraft"
+msgstr "WINE: Starcraft"
+
+#: ../DEV_extra_translations/extra_translations.py:34
+#: ../DEV_extra_translations/extra_translations.py:723
+msgid "A strategy game by Blizzard Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:72
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: ../DEV_extra_translations/extra_translations.py:73
+msgid "Communicate across all your devices"
+msgstr "Comuniqueu-vos amb tots els vostres dispositius"
+
+#: ../DEV_extra_translations/extra_translations.py:124
+msgid "Network;Telephony;"
+msgstr "Xarxa;Telefonia;"
+
+#: ../DEV_extra_translations/extra_translations.py:630
+msgid "Urban Terror - 27960/udp"
+msgstr "Urban Terror - 27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:631
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27660"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:632
+msgid "Urban Terror - 27961/udp"
+msgstr "Urban Terror - 27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:633
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27961"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:634
+msgid "Urban Terror - 27962/udp"
+msgstr "Urban Terror - 27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:635
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27962"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:636
+msgid "Urban Terror - 27963/udp"
+msgstr "Urban Terror - 27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:637
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27963"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:386
+msgid "Deluge Torrent"
+msgstr "Deluge Torrent"
+
+#: ../DEV_extra_translations/extra_translations.py:387
+msgid "Cross-platform BitTorrent client written with Python and GTK+"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:58
+msgid "Network;P2P;"
+msgstr "Xarxa;P2P;"
+
+#: ../DEV_extra_translations/extra_translations.py:798
+msgid "Savage: The Battle for Newerth/Savage XR"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:438
+#: ../DEV_extra_translations/extra_translations.py:799
+msgid "A RTS/FPS from S2 Games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:708
+msgid "Steel Storm"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:709
+msgid ""
+"A top-down arcade shooter with hovertanks by Kot-in-Action Creative Artel"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:347
+msgid "YS FLIGHT SIMULATION 2000"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:348
+msgid "A 3D flight simulator"
+msgstr "Un simulador de vol en 3D"
+
+#: ../DEV_extra_translations/extra_translations.py:7
+msgid "Games;Simulation;"
+msgstr "Jocs;Simulació;"
+
+#: ../DEV_extra_translations/extra_translations.py:91
+msgid "PulseAudio"
+msgstr "PulseAudio"
+
+#: ../DEV_extra_translations/extra_translations.py:92
+msgid "Networked sound server"
+msgstr "Servidor de so en xarxa"
+
+#: ../DEV_extra_translations/extra_translations.py:64
+msgid "Network;Audio Video;Audio;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:200
+msgid "FreeCol"
+msgstr "FreeCol"
+
+#: ../DEV_extra_translations/extra_translations.py:201
+msgid "A turn-based strategy game similar to Colonization by Microprose"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:482
+msgid "Skype - 23399"
+msgstr "Skype - 23399"
+
+#: ../DEV_extra_translations/extra_translations.py:483
+msgid "VoIP client"
+msgstr "Client VoIP"
+
+#: ../DEV_extra_translations/extra_translations.py:484
+msgid "Skype - 23398"
+msgstr "Skype - 23398"
+
+#: ../DEV_extra_translations/extra_translations.py:485
+#: ../DEV_extra_translations/extra_translations.py:487
+#: ../DEV_extra_translations/extra_translations.py:489
+#: ../DEV_extra_translations/extra_translations.py:491
+#: ../DEV_extra_translations/extra_translations.py:493
+#: ../DEV_extra_translations/extra_translations.py:495
+#: ../DEV_extra_translations/extra_translations.py:497
+#: ../DEV_extra_translations/extra_translations.py:499
+#: ../DEV_extra_translations/extra_translations.py:501
+msgid "VoIP client, suggested alternate port"
+msgstr "Client VoIP, port alternatiu suggerit"
+
+#: ../DEV_extra_translations/extra_translations.py:486
+msgid "Skype - 23397"
+msgstr "Skype - 23397"
+
+#: ../DEV_extra_translations/extra_translations.py:488
+msgid "Skype - 23396"
+msgstr "Skype - 23396"
+
+#: ../DEV_extra_translations/extra_translations.py:490
+msgid "Skype - 23395"
+msgstr "Skype - 23395"
+
+#: ../DEV_extra_translations/extra_translations.py:492
+msgid "Skype - 23394"
+msgstr "Skype - 23394"
+
+#: ../DEV_extra_translations/extra_translations.py:494
+msgid "Skype - 23393"
+msgstr "Skype - 23393"
+
+#: ../DEV_extra_translations/extra_translations.py:496
+msgid "Skype - 23392"
+msgstr "Skype - 23392"
+
+#: ../DEV_extra_translations/extra_translations.py:498
+msgid "Skype - 23391"
+msgstr "Skype - 23391"
+
+#: ../DEV_extra_translations/extra_translations.py:500
+msgid "Skype - 23390"
+msgstr "Skype - 23390"
+
+#: ../DEV_extra_translations/extra_translations.py:414
+msgid "Delta Force: BHD"
+msgstr "Delta Force: BHD"
+
+#: ../DEV_extra_translations/extra_translations.py:415
+msgid "Black Hawk Down. A FPS combat game by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:395
+msgid "Amule"
+msgstr "Amule"
+
+#: ../DEV_extra_translations/extra_translations.py:396
+msgid ""
+"Free peer-to-peer file sharing application that works with the EDonkey "
+"network and the Kad network"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:382
+msgid "Gamer's Internet Tunnel"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:383
+msgid "IPX network emulator from Morpheus Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:449
+msgid "Quake 4"
+msgstr "Quake 4"
+
+#: ../DEV_extra_translations/extra_translations.py:55
+#: ../DEV_extra_translations/extra_translations.py:210
+#: ../DEV_extra_translations/extra_translations.py:284
+#: ../DEV_extra_translations/extra_translations.py:450
+#: ../DEV_extra_translations/extra_translations.py:455
+#: ../DEV_extra_translations/extra_translations.py:513
+msgid "A FPS by id Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:118
+msgid "SSDP"
+msgstr "SSDP"
+
+#: ../DEV_extra_translations/extra_translations.py:119
+msgid "Simple Service Discovery Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:37
+msgid "Network;"
+msgstr "Xarxa;"
+
+#: ../DEV_extra_translations/extra_translations.py:101
+msgid "Quake III - 27960/udp"
+msgstr "Quake III - 27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:102
+msgid "A FPS by id Software, server on port 27660"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:103
+msgid "Quake III - 27961/udp"
+msgstr "Quake III - 27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:104
+msgid "A FPS by id Software, server on port 27961"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:105
+msgid "Quake III - 27962/udp"
+msgstr "Quake III - 27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:106
+msgid "A FPS by id Software, server on port 27962"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:107
+msgid "Quake III - 27963/udp"
+msgstr "Quake III - 27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:108
+msgid "A FPS by id Software, server on port 27963"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:125
+msgid "RTMP Real Time Messaging Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:126
+msgid "Real Time Messaging Protocol (Adobe Flash)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:120
+msgid "Sid Meier's Alpha Centauri"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:121
+msgid "SciFi strategy game by Firaxis"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:48
+msgid "OpenArena"
+msgstr "OpenArena"
+
+#: ../DEV_extra_translations/extra_translations.py:49
+msgid "A competitive FPS based on ioquake3/id tech 3 engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:65
+msgid "Hedgewars"
+msgstr "Hedgewars"
+
+#: ../DEV_extra_translations/extra_translations.py:66
+#: ../DEV_extra_translations/extra_translations.py:749
+msgid "An arcade combat game inspired by Worms from Team17 Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:67
+msgid "Games;Arcade;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:476
+msgid "Firefly Media Server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:477
+msgid "DAAP audio server formerly known as mt-daapd"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:688
+msgid "gpsd"
+msgstr "gpsd"
+
+#: ../DEV_extra_translations/extra_translations.py:689
+msgid "Interface daemon for GPS receivers"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:690
+msgid "Network;Geography;"
+msgstr "Xarxa;Geografia;"
+
+#: ../DEV_extra_translations/extra_translations.py:269
+msgid "Castle-Combat - 50386/tcp"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:270
+#: ../DEV_extra_translations/extra_translations.py:272
+msgid "A clone of Rampart from Atari Games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:271
+msgid "Castle-Combat - 8787/tcp"
+msgstr "Castle-Combat - 8787/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:670
+msgid "Clonk"
+msgstr "Clonk"
+
+#: ../DEV_extra_translations/extra_translations.py:671
+msgid "An action/RTS/platform game by RedWolf Design; standard ports"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:672
+msgid "Clonk Host"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:673
+msgid "An action/RTS/platform game by RedWolf Design; host ports"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:674
+msgid "Clonk LAN"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:675
+msgid ""
+"An action/RTS/platform game by RedWolf Design; LAN game discovery port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:604
+msgid "NASCAR Racing 2002/03 1 player"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:605
+#: ../DEV_extra_translations/extra_translations.py:607
+#: ../DEV_extra_translations/extra_translations.py:609
+#: ../DEV_extra_translations/extra_translations.py:611
+#: ../DEV_extra_translations/extra_translations.py:613
+#: ../DEV_extra_translations/extra_translations.py:615
+#: ../DEV_extra_translations/extra_translations.py:617
+msgid "Racing simulators from Papyrus Design Group"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:606
+msgid "NASCAR Racing 2002/03 2 players"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:608
+msgid "NASCAR Racing 2002/03 4 players"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:610
+msgid "NASCAR Racing 2002/03  8 players"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:612
+msgid "NASCAR Racing 2002/03 16 players"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:614
+msgid "NASCAR Racing 2002/03 32 players"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:616
+msgid "NASCAR Racing 2002/03 42 players"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:837
+msgid "NFS TLDP NFS"
+msgstr "NFS TLDP NFS"
+
+#: ../DEV_extra_translations/extra_translations.py:838
+msgid ""
+"Network File System protocol with static ports at 32765:32768 (some "
+"conflicts with popular games)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:839
+msgid "NFS Quota & TLDP NFS"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:840
+msgid ""
+"NFS with user/group filesystem usage quota support with static ports at "
+"32765:32769 (some conflicts with popular games)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:334
+msgid "XMPP"
+msgstr "XMPP"
+
+#: ../DEV_extra_translations/extra_translations.py:335
+msgid "Extensible Messaging and Presence Protocol client connection (Jabber)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:336
+msgid "Network;Telephony;Instant Messaging;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:337
+msgid "XMPP SSL"
+msgstr "XMPP SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:338
+msgid ""
+"Extensible Messaging and Presence Protocol (Jabber) client connection with "
+"SSL encryption"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:339
+msgid "XMPP Interserver"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:340
+msgid "Extensible Messaging and Presence Protocol server-server connection"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:341
+msgid "XMPP Serverless"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:342
+msgid ""
+"Extensible Messaging and Presence Protocol link-local messaging/serverless "
+"messaging"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:180
+msgid "Syslog"
+msgstr "Syslog"
+
+#: ../DEV_extra_translations/extra_translations.py:181
+msgid "System logging"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:182
+msgid "System;"
+msgstr "Sistema;"
+
+#: ../DEV_extra_translations/extra_translations.py:422
+msgid "usbip"
+msgstr "usbip"
+
+#: ../DEV_extra_translations/extra_translations.py:423
+msgid "A Peripheral Bus Extension for Device Sharing over IP Network"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:76
+msgid "Myth II: Soulblighter"
+msgstr "Myth II: Soulblighter"
+
+#: ../DEV_extra_translations/extra_translations.py:77
+msgid "A real-time tactics game from Bungie"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:439
+msgid "SIP"
+msgstr "SIP"
+
+#: ../DEV_extra_translations/extra_translations.py:440
+msgid ""
+"Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:441
+msgid "SIP TLS"
+msgstr "SIP TLS"
+
+#: ../DEV_extra_translations/extra_translations.py:442
+msgid "Session Initiation Protocol with TLS encryption"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:568
+msgid "Evil Islands: CotLS"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:569
+msgid "A RTS game with RPG and stealth elements from Nival Interactive"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:686
+msgid "PennMUSH"
+msgstr "PennMUSH"
+
+#: ../DEV_extra_translations/extra_translations.py:687
+msgid "A MUSH/MUD server"
+msgstr "Un servidor de MUSH/MUD"
+
+#: ../DEV_extra_translations/extra_translations.py:445
+msgid "Pioneers"
+msgstr "Pioneers"
+
+#: ../DEV_extra_translations/extra_translations.py:446
+msgid "A game based on The Settlers of Catan by Klaus Teuber"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:23
+msgid "Games;Board;"
+msgstr "Jocs;Tauler;"
+
+#: ../DEV_extra_translations/extra_translations.py:447
+msgid "Pioneers Metaserver"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:448
+msgid "Metaserver for Pioneers"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:178
+msgid "Multicast DNS"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:179
+msgid "Multicast DNS (Avahi, Bonjour)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:13
+msgid "Warzone 2100"
+msgstr "Warzone 2100"
+
+#: ../DEV_extra_translations/extra_translations.py:14
+msgid "A RTS game by Pumpkin Studios"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:524
+msgid "BZFlag"
+msgstr "BZFlag"
+
+#: ../DEV_extra_translations/extra_translations.py:525
+msgid "A FPS tank battle capture the flag game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:291
+msgid "GGZ Gaming Zone"
+msgstr "Zona de joc del GGZ"
+
+#: ../DEV_extra_translations/extra_translations.py:292
+msgid "Network support for GNOME Games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:95
+msgid "XBMC Remote"
+msgstr "Control de XBMC"
+
+#: ../DEV_extra_translations/extra_translations.py:96
+msgid "Remote control for XBMC"
+msgstr "Control remot per XBMC"
+
+#: ../DEV_extra_translations/extra_translations.py:70
+msgid "Audio Video;TV;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:762
+msgid "VNC server display :0"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:763
+msgid "Virtual Network Computing standard server display :0"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:592
+msgid "Network;Remote Access;"
+msgstr "Xarxa;Accès remot;"
+
+#: ../DEV_extra_translations/extra_translations.py:224
+#: ../DEV_extra_translations/extra_translations.py:227
+#: ../DEV_extra_translations/extra_translations.py:230
+#: ../DEV_extra_translations/extra_translations.py:233
+#: ../DEV_extra_translations/extra_translations.py:236
+#: ../DEV_extra_translations/extra_translations.py:239
+#: ../DEV_extra_translations/extra_translations.py:242
+#: ../DEV_extra_translations/extra_translations.py:245
+#: ../DEV_extra_translations/extra_translations.py:320
+#: ../DEV_extra_translations/extra_translations.py:333
+#: ../DEV_extra_translations/extra_translations.py:346
+#: ../DEV_extra_translations/extra_translations.py:410
+#: ../DEV_extra_translations/extra_translations.py:766
+msgid "It may be a security risk to use a default allow policy"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:765
+#: ../DEV_extra_translations/extra_translations.py:777
+msgid "VNC displays :0-:1"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:766
+msgid "Virtual Network Computing standard server displays :0 through :1"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:768
+#: ../DEV_extra_translations/extra_translations.py:780
+msgid "VNC displays :0-:3"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:769
+msgid "Virtual Network Computing standard server displays :0 through :3"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:771
+#: ../DEV_extra_translations/extra_translations.py:783
+msgid "VNC displays :0-:7"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:772
+msgid "Virtual Network Computing standard server displays :0 through :7"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:774
+msgid "VNC http server display :0"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:775
+msgid "Virtual Network Computing http server display :0"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:778
+msgid "Virtual Network Computing http server displays :0 through :1"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:781
+msgid "Virtual Network Computing http server displays :0 through :3"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:784
+msgid "Virtual Network Computing http server displays :0 through :7"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:245
+msgid "F-22 Raptor"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:6
+#: ../DEV_extra_translations/extra_translations.py:246
+msgid "A F-22 Raptor simulation by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:426
+msgid "Shogo: Mobile Armour Division"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:427
+msgid "A FPS by Monolith Productions"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:514
+msgid "Doomsday"
+msgstr "Doomsday"
+
+#: ../DEV_extra_translations/extra_translations.py:515
+msgid ""
+"A source port of id Software's Doom engine which supports Doom, Heretic, and "
+"Hexen"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:520
+msgid "Postal"
+msgstr "Postal"
+
+#: ../DEV_extra_translations/extra_translations.py:521
+msgid "Violent combat game from Running With Scissors"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:542
+msgid "BitTorrent Minimum"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:543
+#: ../DEV_extra_translations/extra_translations.py:546
+#: ../DEV_extra_translations/extra_translations.py:549
+msgid "BitTorrent peer-peer file sharing"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:545
+msgid "BitTorrent"
+msgstr "BitTorrent"
+
+#: ../DEV_extra_translations/extra_translations.py:548
+msgid "BitTorrent Full"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:667
+msgid "qBittorent"
+msgstr "qBittorent"
+
+#: ../DEV_extra_translations/extra_translations.py:668
+msgid "Cross-platform BitTorrent client GUI written with Qt4"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:510
+msgid "HPLIP"
+msgstr "HPLIP"
+
+#: ../DEV_extra_translations/extra_translations.py:511
+msgid "HP Linux Imaging and Printing"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:430
+msgid "Network;Printing;"
+msgstr "Xarxa;Impressió;"
+
+#: ../DEV_extra_translations/extra_translations.py:129
+msgid "OpenTTD server"
+msgstr "Servidor d'OpenTTD"
+
+#: ../DEV_extra_translations/extra_translations.py:130
+msgid "An enhanced clone of Chris Sawyer's Transport Tycoon Deluxe"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:193
+msgid "Yet Another Netplay Guider"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:194
+msgid "YANG - Yet Another Netplay Guider, default game connection"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:195
+msgid "Games;"
+msgstr "Jocs;"
+
+#: ../DEV_extra_translations/extra_translations.py:196
+msgid "Yet Another Netplay Guider Hosting"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:197
+msgid "YANG - Yet Another Netplay Guider, room hosting"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:198
+msgid "DXX-Rebirth on YANG"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:199
+msgid "DXX-Rebirth, a source port of Descent, connected through YANG"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:560
+msgid "netPanzer"
+msgstr "netPanzer"
+
+#: ../DEV_extra_translations/extra_translations.py:561
+msgid "An online multiplayer tactical warfare game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:597
+#: ../DEV_extra_translations/extra_translations.py:729
+msgid "Tremulous"
+msgstr "Tremulous"
+
+#: ../DEV_extra_translations/extra_translations.py:730
+msgid "Team-based SciFi/alien FPS from Dark Legion Development"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:657
+msgid "Vibe Streamer"
+msgstr "Vibe Streamer"
+
+#: ../DEV_extra_translations/extra_translations.py:658
+msgid "A free MP3 streaming server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:247
+#: ../DEV_extra_translations/extra_translations.py:248
+msgid "GameSpy"
+msgstr "GameSpy"
+
+#: ../DEV_extra_translations/extra_translations.py:249
+msgid "GameSpy Arcade"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:250
+msgid "GameSpy Arcade gaming network"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:21
+msgid "monopd"
+msgstr "monopd"
+
+#: ../DEV_extra_translations/extra_translations.py:22
+msgid "A game server for Monopoly-like board games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:241
+msgid "The Battle for Wesnoth"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:242
+msgid "Turn-based tactical strategy game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:292
+msgid "NRPE Nagios Plugin"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:90
+msgid "Remote Plugin Executor"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:18
+msgid "System;Monitor;"
+msgstr "Sistema;Monitor;"
+
+#: ../DEV_extra_translations/extra_translations.py:354
+msgid "Sacred - port 2005"
+msgstr "Sacred - port 2005"
+
+#: ../DEV_extra_translations/extra_translations.py:355
+#: ../DEV_extra_translations/extra_translations.py:357
+#: ../DEV_extra_translations/extra_translations.py:359
+#: ../DEV_extra_translations/extra_translations.py:361
+#: ../DEV_extra_translations/extra_translations.py:363
+#: ../DEV_extra_translations/extra_translations.py:365
+msgid "Server port for the fantasy RPG by Ascaron Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:356
+msgid "Sacred - ports 2005:2006"
+msgstr "Sacred - ports 2005:2006"
+
+#: ../DEV_extra_translations/extra_translations.py:358
+msgid "Sacred - ports 2005:2007"
+msgstr "Sacred - ports 2005:2007"
+
+#: ../DEV_extra_translations/extra_translations.py:360
+msgid "Sacred - ports 2005:2008"
+msgstr "Sacred - ports 2005:2008"
+
+#: ../DEV_extra_translations/extra_translations.py:362
+msgid "Sacred - ports 2005:2009"
+msgstr "Sacred - ports 2005:2009"
+
+#: ../DEV_extra_translations/extra_translations.py:364
+msgid "Sacred - ports 2005:2010"
+msgstr "Sacred - ports 2005:2010"
+
+#: ../DEV_extra_translations/extra_translations.py:570
+msgid "FreeOrion"
+msgstr "FreeOrion"
+
+#: ../DEV_extra_translations/extra_translations.py:571
+msgid ""
+"A turn-based 4X strategy game inspired by Master of Orion from MicroProse"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:229
+msgid "Wakfu"
+msgstr "Wakfu"
+
+#: ../DEV_extra_translations/extra_translations.py:230
+msgid "An online tactical turn-based MMORPG"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:255
+msgid "DNS"
+msgstr "DNS"
+
+#: ../DEV_extra_translations/extra_translations.py:256
+msgid "Domain Name System"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:480
+msgid "FooBillard"
+msgstr "FooBillard"
+
+#: ../DEV_extra_translations/extra_translations.py:481
+msgid "Cue sports simulation with Carambol, Snooker, and Pool"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:143
+msgid "Games;Sports;"
+msgstr "Jocs;Esports;"
+
+#: ../DEV_extra_translations/extra_translations.py:318
+msgid "Drakan: Order of the Flame"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:319
+msgid "A dragon-riding action-adventure from Surreal Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:726
+msgid "VNC"
+msgstr "VNC"
+
+#: ../DEV_extra_translations/extra_translations.py:727
+msgid "Virtual Network Computing"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:720
+msgid "Aleph One"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:721
+msgid "An enhanced port of Marathon 2: Durandal from Bungie Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:251
+msgid "Cube 2: Sauerbraten"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:252
+msgid "A FPS game based on the Cube engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:512
+msgid "Doom II"
+msgstr "Doom II"
+
+#: ../DEV_extra_translations/extra_translations.py:586
+msgid "Windows Messenger"
+msgstr "Windows Messenger"
+
+#: ../DEV_extra_translations/extra_translations.py:587
+msgid ""
+"Windows Messenger/Windows Live Messenger application sharing and whiteboard "
+"(requires SIP)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:588
+msgid "Windows Messenger File"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:589
+msgid "Windows Messenger/MSN Messenger file transfer"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:590
+msgid "Windows Messenger Assistance"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:591
+msgid "Remote Assistance/Remote Desktop Protocol/Terminal Services (RDP)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:462
+msgid "Delta Force: LW"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:463
+msgid "Land Warrior. A FPS combat game by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:577
+msgid "MegaMek"
+msgstr "MegaMek"
+
+#: ../DEV_extra_translations/extra_translations.py:578
+msgid "A unofficial online BattleTech game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:579
+msgid "Games;Strategy;Java;"
+msgstr "Jocs;Estratègia;Java;"
+
+#: ../DEV_extra_translations/extra_translations.py:279
+msgid "Castle Vox"
+msgstr "Castle Vox"
+
+#: ../DEV_extra_translations/extra_translations.py:280
+msgid ""
+"A simultaneous-turns strategy game from Sillysoft influenced by Diplomacy "
+"and Axis & Allies"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:239
+msgid "D2X-XL"
+msgstr "D2X-XL"
+
+#: ../DEV_extra_translations/extra_translations.py:240
+msgid ""
+"A source port of Descent II, the 3D Flying FPS by Outrage Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:114
+msgid "SSH"
+msgstr "SSH"
+
+#: ../DEV_extra_translations/extra_translations.py:115
+msgid "Secure Shell"
+msgstr "Secure Shell"
+
+#: ../DEV_extra_translations/extra_translations.py:116
+msgid "Network;Services;"
+msgstr "Xarxa;Serveis;"
+
+#: ../DEV_extra_translations/extra_translations.py:289
+msgid "Lux"
+msgstr "Lux"
+
+#: ../DEV_extra_translations/extra_translations.py:290
+msgid ""
+"Delux, Ancient Empires and American History: A turn-based strategy game from "
+"Sillysoft influenced by Risk"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:56
+msgid "Transmission Daemon"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:57
+msgid "Remote control for Transmission"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:398
+msgid "Warcraft II Battle.net"
+msgstr "Warcraft II Battle.net"
+
+#: ../DEV_extra_translations/extra_translations.py:399
+msgid "Strategy game by Blizzard Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:378
+msgid "Knights and Merchants TSK"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:379
+msgid "A RTS by Joymania"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:474
+msgid "Armored Fist 3"
+msgstr "Armored Fist 3"
+
+#: ../DEV_extra_translations/extra_translations.py:475
+msgid "A M1A2 Abrams tank simulation by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:8
+msgid "Assault Cube"
+msgstr "Assault Cube"
+
+#: ../DEV_extra_translations/extra_translations.py:9
+msgid "A free, multiplayer, first-person shooter game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:165
+msgid "Widelands"
+msgstr "Widelands"
+
+#: ../DEV_extra_translations/extra_translations.py:166
+msgid "A RTS similar to The Settlers I & II from Blue Byte Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:640
+msgid "MythTV"
+msgstr "MythTV"
+
+#: ../DEV_extra_translations/extra_translations.py:641
+msgid "MythTV backend"
+msgstr "Dorsal de MythTV"
+
+#: ../DEV_extra_translations/extra_translations.py:506
+msgid "Postal 2"
+msgstr "Postal 2"
+
+#: ../DEV_extra_translations/extra_translations.py:507
+msgid "A FPS by Running with Scissors (uses the Unreal engine)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:786
+msgid "LPD"
+msgstr "LPD"
+
+#: ../DEV_extra_translations/extra_translations.py:787
+msgid "LPD server"
+msgstr "Servidor LPD"
+
+#: ../DEV_extra_translations/extra_translations.py:794
+msgid "Frozen Bubble"
+msgstr "Frozen Bubble"
+
+#: ../DEV_extra_translations/extra_translations.py:795
+msgid "A clone of Puzzle Bobble/Bust-a-Move"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:829
+msgid "Vendetta Online"
+msgstr "Vendetta en línia"
+
+#: ../DEV_extra_translations/extra_translations.py:830
+msgid ""
+"A twitch-based, science fiction massively multiplayer online role-playing "
+"game (MMORPG)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:16
+#: ../DEV_extra_translations/extra_translations.py:300
+msgid "hddtemp"
+msgstr "hddtemp"
+
+#: ../DEV_extra_translations/extra_translations.py:301
+msgid "Trivial File Transfer Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:137
+msgid "DirectX 7"
+msgstr "DirectX 7"
+
+#: ../DEV_extra_translations/extra_translations.py:138
+msgid "Network games using DirectX 7 API"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:139
+msgid "DirectX 8"
+msgstr "DirectX 8"
+
+#: ../DEV_extra_translations/extra_translations.py:140
+msgid "Network games using DirectX 8 API"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:345
+msgid "Dark Horizons: LI"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:346
+msgid ""
+"Lore Invasion. A mech-style FPS by Max Gaming Technologies using the Torque "
+"Game Engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:281
+msgid "Teeworlds"
+msgstr "Teeworlds"
+
+#: ../DEV_extra_translations/extra_translations.py:282
+msgid "An open source sidescrolling multiplayer shooting game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:62
+msgid "MPD"
+msgstr "MPD"
+
+#: ../DEV_extra_translations/extra_translations.py:63
+msgid "Music Player Daemon. A server for streaming music"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:384
+msgid "OpenRPG"
+msgstr "OpenRPG"
+
+#: ../DEV_extra_translations/extra_translations.py:385
+msgid ""
+"A map/chat/dice-rolling tool to allow players to play tabletop games on-line"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:404
+msgid "Subversion Server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:405
+msgid "Subversion server for access to Subversion repositories"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:376
+msgid "NSClient++"
+msgstr "NSClient++"
+
+#: ../DEV_extra_translations/extra_translations.py:377
+msgid "Used to monitor Windows machines from a Nagios Server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:111
+msgid "Nicotine"
+msgstr "Nicotine"
+
+#: ../DEV_extra_translations/extra_translations.py:112
+msgid ""
+"Nicotine is a SoulSeek client written in Python, based on the PySoulSeek "
+"project"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:185
+msgid "Tribes 2"
+msgstr "Tribes 2"
+
+#: ../DEV_extra_translations/extra_translations.py:186
+msgid "A multiplayer combat online game by Dynamix - main port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:187
+msgid "Tribes 2 - 28000:29000/tcp/udp"
+msgstr "Tribes 2 - 28000:29000/tcp/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:188
+msgid "A multiplayer combat online game by Dynamix, all suggested ports open"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:790
+msgid "Return To Castle Wolfenstein"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:791
+msgid ""
+"WWII FPS and sequel from Splash Damage, Gray Matter Interactive, Nerve "
+"Software, and id Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:408
+msgid "Steam"
+msgstr "Steam"
+
+#: ../DEV_extra_translations/extra_translations.py:409
+msgid "Software distribution service and game server browser from Valve"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:410
+msgid "For Steam Client see the category: Games / Steam"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:259
+msgid "Descent 3"
+msgstr "Descent 3"
+
+#: ../DEV_extra_translations/extra_translations.py:260
+msgid "3D Flying FPS by Outrage Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:285
+msgid "NFS"
+msgstr "NFS"
+
+#: ../DEV_extra_translations/extra_translations.py:286
+msgid "Network File System"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:602
+msgid "Warsow"
+msgstr "Warsow"
+
+#: ../DEV_extra_translations/extra_translations.py:603
+msgid "A competitive FPS based on the Qfusion 3D/id tech 2 engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:594
+msgid "RDP"
+msgstr "RDP"
+
+#: ../DEV_extra_translations/extra_translations.py:595
+msgid "Remote Desktop Protocols"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:389
+msgid "TeamSpeak 3"
+msgstr "TeamSpeak 3"
+
+#: ../DEV_extra_translations/extra_translations.py:390
+msgid "TeamSpeak 3 voice service"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:391
+msgid "TeamSpeak 3 File"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:392
+msgid "TeamSpeak 3 file transfer"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:393
+msgid "TeamSpeak 3 Query"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:394
+msgid "TeamSpeak 3 TCP query"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:557
+msgid "Ur-Quan Masters"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:558
+msgid "An enhanced version of Star Control II from 3DO"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:559
+msgid "Games;Adventure;"
+msgstr "Jocs;Aventura;"
+
+#: ../DEV_extra_translations/extra_translations.py:306
+msgid "SiN"
+msgstr "SiN"
+
+#: ../DEV_extra_translations/extra_translations.py:307
+msgid "A FPS by Ritual Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:86
+msgid "SAMBA"
+msgstr "SAMBA"
+
+#: ../DEV_extra_translations/extra_translations.py:87
+msgid ""
+"SMB/CIFS protocol for Unix systems, allowing you to serve files and printers "
+"to Windows, NT, OS/2 and DOS clients"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:88
+msgid "Network;Services;|Network;File Transfer"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:745
+msgid "Vuze Remote"
+msgstr "Control de Vuze"
+
+#: ../DEV_extra_translations/extra_translations.py:746
+msgid "Remote control for Vuze"
+msgstr "Control remot per Vuze"
+
+#: ../DEV_extra_translations/extra_translations.py:802
+msgid "MiG-29 Fulcrum"
+msgstr "MiG-29 Fulcrum"
+
+#: ../DEV_extra_translations/extra_translations.py:803
+msgid "A Mikoyan-Gurevich MiG-29 Fulcrum simulation by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:209
+msgid "Quake"
+msgstr "Quake"
+
+#: ../DEV_extra_translations/extra_translations.py:211
+msgid "QuakeWorld"
+msgstr "QuakeWorld"
+
+#: ../DEV_extra_translations/extra_translations.py:212
+msgid "An enhanced multiplayer version of Quake by id Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:207
+msgid "Optimized Link State Routing"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:208
+msgid "A mesh networking protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:131
+msgid "Blood II: The Chosen"
+msgstr "Blood II: The Chosen"
+
+#: ../DEV_extra_translations/extra_translations.py:132
+msgid "A FPS from Monolith Productions"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:696
+msgid "People Nearby"
+msgstr "Gent propera"
+
+#: ../DEV_extra_translations/extra_translations.py:697
+msgid "People Nearby (Bonjour/Salut) functionality in Empathy"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:698
+msgid "Bonjour"
+msgstr "Bonjour"
+
+#: ../DEV_extra_translations/extra_translations.py:699
+msgid "Bonjour protocol"
+msgstr "Protocol Bonjour"
+
+#: ../DEV_extra_translations/extra_translations.py:700
+msgid "MSN Chat"
+msgstr "Xat de MSN"
+
+#: ../DEV_extra_translations/extra_translations.py:701
+msgid "MSN chat protocol (with file transfer and voice)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:702
+msgid "MSN Chat (SSL)"
+msgstr "Xat de MSN (SSL)"
+
+#: ../DEV_extra_translations/extra_translations.py:703
+msgid "MSN chat protocol SSL"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:704
+msgid "AIM Talk"
+msgstr "Conversa d'AIM"
+
+#: ../DEV_extra_translations/extra_translations.py:705
+msgid "AIM talk protocol"
+msgstr "Protocol de la conversa d'AIM"
+
+#: ../DEV_extra_translations/extra_translations.py:706
+msgid "Yahoo Chat"
+msgstr "Xat de Yahoo"
+
+#: ../DEV_extra_translations/extra_translations.py:707
+msgid "Yahoo chat protocol"
+msgstr "Protocol de xat de Yahoo"
+
+#: ../DEV_extra_translations/extra_translations.py:827
+msgid "FreeLords"
+msgstr "FreeLords"
+
+#: ../DEV_extra_translations/extra_translations.py:828
+msgid "A clone of Warlords"
+msgstr "Un clon de Warlords"
+
+#: ../DEV_extra_translations/extra_translations.py:99
+msgid "Snowball Surprise (SnowballZ)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:100
+msgid "A RTS snowball fight"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:676
+msgid "Crossfire"
+msgstr "Crossfire"
+
+#: ../DEV_extra_translations/extra_translations.py:677
+msgid ""
+"An open source, cooperative multiplayer graphical RPG and adventure game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:678
+msgid "Crossfire Metaserver"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:679
+msgid "Metaserver for Crossfire RPG"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:380
+msgid "Mumble"
+msgstr "Mumble"
+
+#: ../DEV_extra_translations/extra_translations.py:381
+msgid "A voice chat application for groups"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:716
+msgid "0verkill"
+msgstr "0verkill"
+
+#: ../DEV_extra_translations/extra_translations.py:717
+msgid "An ASCII-art 2D deathmatch game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:314
+msgid "Liquid War"
+msgstr "Liquid War"
+
+#: ../DEV_extra_translations/extra_translations.py:315
+msgid "An original shortest path algorithm and core concept"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:263
+msgid "Thousand Parsec"
+msgstr "Thousand Parsec"
+
+#: ../DEV_extra_translations/extra_translations.py:264
+#: ../DEV_extra_translations/extra_translations.py:266
+#: ../DEV_extra_translations/extra_translations.py:268
+msgid ""
+"A common framework for building turn based space empire building games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:265
+msgid "Thousand Parsec SSL"
+msgstr "Thousand Parsec SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:267
+msgid "Thousand Parsec Admin"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:599
+msgid "Transmission"
+msgstr "Transmission"
+
+#: ../DEV_extra_translations/extra_translations.py:600
+msgid ""
+"BitTorrent client which features a simple interface on top of a cross-"
+"platform backend"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:416
+msgid "Daimonin"
+msgstr "Daimonin"
+
+#: ../DEV_extra_translations/extra_translations.py:417
+msgid "An open-source MMORPG"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:293
+msgid "GNUMP3d"
+msgstr "GNUMP3d"
+
+#: ../DEV_extra_translations/extra_translations.py:294
+msgid "An audio streaming server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:400
+msgid "World of Warcraft"
+msgstr "World of Warcraft"
+
+#: ../DEV_extra_translations/extra_translations.py:401
+msgid "A MMORPG game by Blizzard Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:478
+msgid "Majesty: The Fantasy Kingdom Sim"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:479
+msgid "A RTS by Cyberlore Studios, ported to Linux by Linux Game Publishing"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:750
+msgid "Vuze"
+msgstr "Vuze"
+
+#: ../DEV_extra_translations/extra_translations.py:751
+msgid ""
+"BitTorrent client used to transfer files via the BitTorrent protocol. Vuze "
+"uses the Azureus Engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:752
+msgid ""
+"You need to add the main random port too that you selected the first time"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:466
+msgid "Asterisk"
+msgstr "Asterisk"
+
+#: ../DEV_extra_translations/extra_translations.py:467
+msgid ""
+"An open source telephony switching and private branch exchange service"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:468
+msgid "Review that ports are the same in /etc/asterisk/rtp.conf"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:349
+msgid "KTorrent"
+msgstr "KTorrent"
+
+#: ../DEV_extra_translations/extra_translations.py:350
+msgid "Feature rich BitTorrent client by KDE"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:183
+msgid "DHCP"
+msgstr "DHCP"
+
+#: ../DEV_extra_translations/extra_translations.py:184
+msgid "Dynamic Host Configuration Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:443
+msgid "Scorched 3D server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:444
+msgid "A modernization of the classic DOS game Scorched Earth"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:584
+msgid "Prey"
+msgstr "Prey"
+
+#: ../DEV_extra_translations/extra_translations.py:585
+msgid "A SciFi FPS action adventure by 3D Realms"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:435
+msgid "Nexuiz"
+msgstr "Nexuiz"
+
+#: ../DEV_extra_translations/extra_translations.py:436
+msgid "A FPS based on Darkplaces/Quake engine by id Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:159
+msgid "Battlefield 1942"
+msgstr "Battlefield 1942"
+
+#: ../DEV_extra_translations/extra_translations.py:160
+msgid "A WWII FPS from Digital Illusions CE"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:161
+msgid "Battlefield 1942 Console"
+msgstr "Consola de Battlefield 1942"
+
+#: ../DEV_extra_translations/extra_translations.py:162
+msgid "The RemoteConsole administration tool for Battlefield 1942"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:735
+msgid "XPilot"
+msgstr "XPilot"
+
+#: ../DEV_extra_translations/extra_translations.py:736
+#: ../DEV_extra_translations/extra_translations.py:738
+#: ../DEV_extra_translations/extra_translations.py:740
+#: ../DEV_extra_translations/extra_translations.py:742
+#: ../DEV_extra_translations/extra_translations.py:744
+msgid "A 2D space combat game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:737
+msgid "XPilot 2-players"
+msgstr "XPilot 2 jugadors"
+
+#: ../DEV_extra_translations/extra_translations.py:739
+msgid "XPilot 4-players"
+msgstr "XPilot 4 jugadors"
+
+#: ../DEV_extra_translations/extra_translations.py:741
+msgid "XPilot 8-players"
+msgstr "XPilot 8 jugadors"
+
+#: ../DEV_extra_translations/extra_translations.py:743
+msgid "XPilot 16-players"
+msgstr "XPilot 16 jugadors"
+
+#: ../DEV_extra_translations/extra_translations.py:17
+msgid "Data storage device temperature data server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:825
+msgid "Serious Sam"
+msgstr "Serious Sam"
+
+#: ../DEV_extra_translations/extra_translations.py:797
+#: ../DEV_extra_translations/extra_translations.py:826
+msgid "FPS by Croteam"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:431
+msgid "Enemy Territory: Quake Wars"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:432
+msgid "A FPS by Splash Damage"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:84
+msgid "NAT"
+msgstr "NAT"
+
+#: ../DEV_extra_translations/extra_translations.py:85
+msgid "Port Mapping Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:30
+#: ../DEV_extra_translations/extra_translations.py:788
+msgid "FTP"
+msgstr "FTP"
+
+#: ../DEV_extra_translations/extra_translations.py:31
+#: ../DEV_extra_translations/extra_translations.py:789
+msgid "File Transfer Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:225
+msgid "ManiaDrive game server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:226
+msgid "A clone of TrackMania from Nadeo"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:227
+msgid "ManiaDrive HTTP server "
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:228
+msgid "ManiaDrive/Raydium game monitor HTTP server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:24
+msgid "UPnP"
+msgstr "UPnP"
+
+#: ../DEV_extra_translations/extra_translations.py:25
+msgid ""
+"Universal Plug and Play. It is a framework which can be used to make "
+"networked applications"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:26
+msgid "System;General;"
+msgstr "Sistema;General;"
+
+#: ../DEV_extra_translations/extra_translations.py:217
+msgid "SEDS Serious Sam"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:218
+msgid "Dedicated server for the FPS by Croteam"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:219
+msgid "SEDS Remote Admin"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:220
+msgid ""
+"Default remote administration Telnet port for Serious Engine dedicated server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:221
+msgid "SEDS - port 25601"
+msgstr "SEDS - port 25601"
+
+#: ../DEV_extra_translations/extra_translations.py:222
+msgid "Dedicated server for the FPS by Croteam, alternate game port 25601"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:223
+msgid "SEDS Admin - port 25600"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:224
+msgid ""
+"Alternate 25600 remote administration Telnet port for Serious Engine "
+"dedicated server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:714
+msgid "Games for Windows - Live"
+msgstr "Jocs per al Windows - Live"
+
+#: ../DEV_extra_translations/extra_translations.py:715
+msgid "Network games using Games for Windows - Live API"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:508
+msgid "Spring game engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:509
+msgid ""
+"An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:598
+msgid ""
+"A free and open source team-based first-person shooter with real-time "
+"strategy elements"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:831
+msgid "LBreakout2 - 8001/udp"
+msgstr "LBreakout2 - 8001/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:832
+#: ../DEV_extra_translations/extra_translations.py:834
+msgid "A Breakout clone"
+msgstr "Un clon de Breakout"
+
+#: ../DEV_extra_translations/extra_translations.py:833
+msgid "LBreakout2 - 2002/udp"
+msgstr "LBreakout2 - 2002/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:454
+msgid "Doom3"
+msgstr "Doom3"
+
+#: ../DEV_extra_translations/extra_translations.py:204
+msgid "Ryzom"
+msgstr "Ryzom"
+
+#: ../DEV_extra_translations/extra_translations.py:205
+msgid ""
+"It's also known as The Saga of Ryzom, is a massively multiplayer online role-"
+"playing game (MMORPG)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:420
+msgid "F-16 Multirole Fighter"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:421
+msgid "A F-16 simulation by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:451
+msgid "MySQL"
+msgstr "MySQL"
+
+#: ../DEV_extra_translations/extra_translations.py:452
+msgid "MySQL Database"
+msgstr "Base de dades de MySQL"
+
+#: ../DEV_extra_translations/extra_translations.py:453
+msgid "Office;Database;"
+msgstr "Oficina; Base de dades;"
+
+#: ../DEV_extra_translations/extra_translations.py:562
+msgid "Neverwinter Nights server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:563
+msgid "Default port for Neverwinter Nights, a RPG from Bioware"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:5
+msgid "F-22 Lightning 3"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:213
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: ../DEV_extra_translations/extra_translations.py:214
+msgid ""
+"File hosting service, that offers cloud storage, file synchronization and "
+"client software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:83
+msgid "Network;Cloud;"
+msgstr "Xarxa;Núvol;"
+
+#: ../DEV_extra_translations/extra_translations.py:320
+msgid "HTTP"
+msgstr "HTTP"
+
+#: ../DEV_extra_translations/extra_translations.py:321
+msgid "WWW standard protocol on port 80/tcp (IANA/Debian www, http)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:322
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: ../DEV_extra_translations/extra_translations.py:323
+msgid "WWW standard protocol with SSL/TLS on port 443/tcp (IANA https)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:324
+msgid "HTTP - 8008/tcp"
+msgstr "HTTP - 8008/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:325
+msgid "WWW standard protocol on port 8008/tcp (IANA http-alt)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:326
+#: ../DEV_extra_translations/extra_translations.py:327
+msgid "Web Server (HTTP,HTTPS)"
+msgstr "Servidor web (HTTP,HTTPS)"
+
+#: ../DEV_extra_translations/extra_translations.py:328
+#: ../DEV_extra_translations/extra_translations.py:329
+msgid "Web Server (8080)"
+msgstr "Servidor web (8080)"
+
+#: ../DEV_extra_translations/extra_translations.py:330
+msgid "HTTP - 8090/tcp"
+msgstr "HTTP - 8090/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:331
+msgid ""
+"WWW standard protocol on port 8090/tcp (IANA unassigned, commonly "
+"http_alt_alt)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:718
+msgid "USB Redirector"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:719
+msgid "USB device sharing system from INCENTIVES Pro"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:97
+msgid "Globulation 2"
+msgstr "Globulation 2"
+
+#: ../DEV_extra_translations/extra_translations.py:98
+msgid "A RTS"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:469
+msgid "Webmin"
+msgstr "Webmin"
+
+#: ../DEV_extra_translations/extra_translations.py:470
+#: ../DEV_extra_translations/extra_translations.py:473
+msgid "Web-page based system management utility"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:471
+msgid "Network;Shell;"
+msgstr "Xarxa;Shell;"
+
+#: ../DEV_extra_translations/extra_translations.py:472
+msgid "Webmin fast RPC"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:536
+msgid "Counter-Strike 2D"
+msgstr "Counter-Strike 2D"
+
+#: ../DEV_extra_translations/extra_translations.py:537
+msgid ""
+"A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:682
+msgid "GameRanger"
+msgstr "GameRanger"
+
+#: ../DEV_extra_translations/extra_translations.py:683
+msgid "A game server browser from GameRanger Technologies"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:287
+msgid "0 A.D."
+msgstr "0 A.D."
+
+#: ../DEV_extra_translations/extra_translations.py:288
+msgid "A free/open-source RTS game of ancient warfare from Wildfire Games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:809
+msgid "CUPS"
+msgstr "CUPS"
+
+#: ../DEV_extra_translations/extra_translations.py:810
+msgid "Modular printing system for Unix-like computer operating systems"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:813
+msgid "NFS (Chris Lowth)"
+msgstr "NFS (Chris Lowth)"
+
+#: ../DEV_extra_translations/extra_translations.py:814
+msgid ""
+"Network File System protocol with static ports at 4000:4002 (some conflicts "
+"with popular games; statd broadcast on random port)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:815
+msgid "NFS Quota (Chris Lowth)"
+msgstr "Quota NFS (Chris Lowth)"
+
+#: ../DEV_extra_translations/extra_translations.py:816
+msgid ""
+"NFS with user/group filesystem usage quota support with static ports at "
+"4000:4003 (some conflicts with popular games; statd broadcast on random port)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:366
+msgid "Hexen II - 26900/udp"
+msgstr "Hexen II - 26900/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:367
+msgid "A fantasy FPS by Raven Software, server on port 27660"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:368
+msgid "Hexen II - 26901/udp"
+msgstr "Hexen II - 26901/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:369
+msgid "A fantasy FPS by Raven Software, server on port 26901"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:370
+msgid "Hexen II - 26902/udp"
+msgstr "Hexen II - 26902/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:371
+msgid "A fantasy FPS by Raven Software, server on port 26902"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:372
+msgid "Hexen II - 26903/udp"
+msgstr "Hexen II - 26903/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:373
+msgid "A fantasy FPS by Raven Software, server on port 26903"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:374
+msgid "HexenWorld - 26950/udp"
+msgstr "HexenWorld - 26950/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:375
+msgid "HexenWorld server by Raven Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:572
+msgid "Telnet"
+msgstr "Telnet"
+
+#: ../DEV_extra_translations/extra_translations.py:573
+msgid "Text-based remote access (like SSH but without the security)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:574
+msgid ""
+"Telnet is like SSH but without security. It'd be better to use the 'Telnet "
+"SSL'"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:575
+msgid "Telnet TLS/SSL"
+msgstr "Telnet TLS/SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:576
+msgid "Text-based remote access (like SSH but without the security) SSL"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:464
+msgid "Dropbox LanSync"
+msgstr "Dropbox LanSync"
+
+#: ../DEV_extra_translations/extra_translations.py:465
+msgid "A web-based file hosting service"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:710
+msgid "Tor Normal"
+msgstr "Tor normal"
+
+#: ../DEV_extra_translations/extra_translations.py:711
+msgid "Tor anonymity network"
+msgstr "Xarxa anònima Tor"
+
+#: ../DEV_extra_translations/extra_translations.py:304
+msgid "Comanche 4"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:305
+msgid "A Comanche RAH-66 helicopter simulation by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:141
+msgid "Full Metal Soccer server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:142
+#: ../DEV_extra_translations/extra_translations.py:145
+#: ../DEV_extra_translations/extra_translations.py:147
+msgid "A soccer game played with tanks by QuantiCode"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:144
+msgid "Full Metal Soccer ranking server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:146
+msgid "Full Metal Soccer master server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:191
+msgid "DAAP"
+msgstr "DAAP"
+
+#: ../DEV_extra_translations/extra_translations.py:192
+msgid "Digital Audio Access Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:538
+msgid "Socks Proxy"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:539
+msgid "SOCKS protocol for proxy server support"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:540
+msgid "Transparent Proxy"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:541
+msgid "Transparent proxy"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:402
+msgid "UFO: Alien Invasion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:403
+msgid "An open-source 3D RTS inspired by X-COM"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:253
+msgid "Armagetron Advanced"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:254
+msgid "A 3D clone of the Light Cycle game in Tron"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:257
+msgid "Alien Arena"
+msgstr "Alien Arena"
+
+#: ../DEV_extra_translations/extra_translations.py:258
+msgid "A SciFi competitive FPS based on the CRX/id Tech 2 engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:71
+msgid "Tachyon: The Fringe"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:72
+msgid "A 3D space combat game by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:428
+msgid "IPP"
+msgstr "IPP"
+
+#: ../DEV_extra_translations/extra_translations.py:429
+msgid "Internet Printing Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:580
+msgid "Delta Force: Xtreme"
+msgstr "Delta Force: Xtreme"
+
+#: ../DEV_extra_translations/extra_translations.py:12
+#: ../DEV_extra_translations/extra_translations.py:503
+#: ../DEV_extra_translations/extra_translations.py:581
+#: ../DEV_extra_translations/extra_translations.py:681
+msgid "A FPS combat game by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:722
+msgid "WINE: Warcraft III"
+msgstr "WINE: Warcraft III"
+
+#: ../DEV_extra_translations/extra_translations.py:724
+msgid "WINE: Warcraft III all ports"
+msgstr "WINE: tots els ports de Warcraft III"
+
+#: ../DEV_extra_translations/extra_translations.py:725
+msgid "Warcraft III with 6112-6119 TCP ports open"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:522
+msgid "Heroes of Might and Magic III"
+msgstr "Heroes of Might and Magic III"
+
+#: ../DEV_extra_translations/extra_translations.py:523
+msgid "A fantasy strategy game by 3DO"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:133
+msgid "STUN"
+msgstr "STUN"
+
+#: ../DEV_extra_translations/extra_translations.py:134
+msgid "Session Traversal Utilities for NAT"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:135
+msgid "STUN TLS"
+msgstr "STUN TLS"
+
+#: ../DEV_extra_translations/extra_translations.py:136
+msgid "Session Traversal Utilities for NAT with TLS encryption"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:684
+msgid "Diablo"
+msgstr "Diablo"
+
+#: ../DEV_extra_translations/extra_translations.py:433
+msgid "Delta Force: TFD"
+msgstr "Delta Force: TFD"
+
+#: ../DEV_extra_translations/extra_translations.py:434
+msgid "Task Force Dagger. A FPS combat game by NovaLogic"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:680
+msgid "Delta Force 2"
+msgstr "Delta Force 2"
+
+#: ../DEV_extra_translations/extra_translations.py:712
+msgid "DEFCON"
+msgstr "DEFCON"
+
+#: ../DEV_extra_translations/extra_translations.py:713
+msgid "A thermo-nuclear war strategy game from Introversion Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:78
+msgid "NTP"
+msgstr "NTP"
+
+#: ../DEV_extra_translations/extra_translations.py:79
+msgid "Network Time Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:80
+msgid "Network;Time;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:411
+msgid "AMANDA"
+msgstr "AMANDA"
+
+#: ../DEV_extra_translations/extra_translations.py:412
+msgid "Backup server from Zmanda; standard port with nf_conntrack_amanda"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:413
+msgid "Network;Archiving;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:231
+msgid "World of Padman - 27960/udp"
+msgstr "World of Padman - 27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:232
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27960"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:233
+msgid "World of Padman - 27961/udp"
+msgstr "World of Padman - 27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:234
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27961"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:235
+msgid "World of Padman - 27962/udp"
+msgstr "World of Padman - 27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:236
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27962"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:237
+msgid "World of Padman - 27963/udp"
+msgstr "World of Padman - 27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:238
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27963"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:28
+#: ../DEV_extra_translations/extra_translations.py:456
+#: ../DEV_extra_translations/extra_translations.py:457
+msgid "H.323 Call Signaling"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:29
+msgid "Network;Telephony;Video Conference;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:458
+msgid "H.323 discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:459
+msgid "H.323 multicast gatekeeper discovery (H.225)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:460
+msgid "H.323 RAS"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:461
+msgid "H.323 Gatekeeper Registration, Admission and Status (H.225)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:243
+msgid "Balazar III"
+msgstr "Balazar III"
+
+#: ../DEV_extra_translations/extra_translations.py:244
+msgid "A 2D/3D dungeon adventure game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:811
+msgid "GNUnet"
+msgstr "GNUnet"
+
+#: ../DEV_extra_translations/extra_translations.py:812
+msgid ""
+"A decentralized peer-to-peer networking framework with file sharing and "
+"messaging"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:19
+msgid "Abuse"
+msgstr "Abuse"
+
+#: ../DEV_extra_translations/extra_translations.py:20
+msgid "A dark 2D side-scrolling platform game developed by Crack dot Com"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:352
+msgid "Glest"
+msgstr "Glest"
+
+#: ../DEV_extra_translations/extra_translations.py:353
+msgid "A free, open source 3D RTS game server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:81
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: ../DEV_extra_translations/extra_translations.py:82
+msgid ""
+"Store files online and sync them between computers and mobile devices, as "
+"well as stream audio and music from cloud to mobile devices"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:11
+msgid "Joint Operations: Typhoon Rising"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:215
+msgid "Legends"
+msgstr "Legends"
+
+#: ../DEV_extra_translations/extra_translations.py:216
+msgid "A FPS based on the Torque Engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:817
+msgid "TeamSpeak 2 voice"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:818
+msgid "TeamSpeak 2 voice service"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:819
+msgid "TeamSpeak 2 web"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:820
+msgid "TeamSpeak 2 web interface"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:821
+#: ../DEV_extra_translations/extra_translations.py:822
+msgid "TeamSpeak 2 TCP query"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:273
+msgid "Postfix Mail Server SMTP"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:274
+#: ../DEV_extra_translations/extra_translations.py:276
+#: ../DEV_extra_translations/extra_translations.py:278
+msgid "Postfix is a high-performance mail transport agent"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:275
+msgid "Postfix Mail Server SMTPS"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:277
+msgid "Postfix Mail Server Submission"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:343
+msgid "FreeSpace 2"
+msgstr "FreeSpace 2"
+
+#: ../DEV_extra_translations/extra_translations.py:344
+msgid "Space combat simulation by Volition"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:302
+msgid "Minecraft"
+msgstr "Minecraft"
+
+#: ../DEV_extra_translations/extra_translations.py:303
+msgid "A 3D sandbox construction game by Markus Persson"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:437
+msgid "Savage 2: A Tortured Soul"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:122
+msgid "Murmur"
+msgstr "Murmur"
+
+#: ../DEV_extra_translations/extra_translations.py:123
+msgid "Murmur voice chat server (counterpart to Mumble client)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:50
+msgid "Conquest"
+msgstr "Conquest"
+
+#: ../DEV_extra_translations/extra_translations.py:51
+#: ../DEV_extra_translations/extra_translations.py:53
+msgid "A space warfare game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:52
+msgid "Conquest Metaserver"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:731
+msgid "ThinkTanks"
+msgstr "ThinkTanks"
+
+#: ../DEV_extra_translations/extra_translations.py:732
+msgid ""
+"A 3D tank combat game by BraveTree Productions using the Torque Game Engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:526
+msgid "Toribash - 20184"
+msgstr "Toribash - 20184"
+
+#: ../DEV_extra_translations/extra_translations.py:527
+#: ../DEV_extra_translations/extra_translations.py:529
+#: ../DEV_extra_translations/extra_translations.py:531
+#: ../DEV_extra_translations/extra_translations.py:533
+#: ../DEV_extra_translations/extra_translations.py:535
+msgid ""
+"A fighting game based on the physics sandbox model with customizable moves"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:528
+msgid "Toribash - 20185"
+msgstr "Toribash - 20185"
+
+#: ../DEV_extra_translations/extra_translations.py:530
+msgid "Toribash - 20186"
+msgstr "Toribash - 20186"
+
+#: ../DEV_extra_translations/extra_translations.py:532
+msgid "Toribash - 20187"
+msgstr "Toribash - 20187"
+
+#: ../DEV_extra_translations/extra_translations.py:534
+msgid "Toribash Full"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:642
+msgid "POP3"
+msgstr "POP3"
+
+#: ../DEV_extra_translations/extra_translations.py:643
+msgid "Post Office Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:644
+msgid "POP3S"
+msgstr "POP3S"
+
+#: ../DEV_extra_translations/extra_translations.py:645
+#: ../DEV_extra_translations/extra_translations.py:649
+msgid "Secure mail server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:646
+msgid "IMAP"
+msgstr "IMAP"
+
+#: ../DEV_extra_translations/extra_translations.py:647
+msgid "Internet Message Access Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:648
+msgid "IMAPS"
+msgstr "IMAPS"
+
+#: ../DEV_extra_translations/extra_translations.py:650
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ../DEV_extra_translations/extra_translations.py:651
+msgid "Simple Mail Transfer Protocol"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:582
+msgid "Blobby Volley 2"
+msgstr "Blobby Volley 2"
+
+#: ../DEV_extra_translations/extra_translations.py:583
+msgid "A volleyball game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:127
+msgid "Nagios"
+msgstr "Nagios"
+
+#: ../DEV_extra_translations/extra_translations.py:128
+msgid ""
+"Computer system monitor, network monitoring and infrastructure monitoring "
+"software application"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:796
+msgid "Serious Sam II"
+msgstr "Serious Sam II"
+
+#: ../DEV_extra_translations/extra_translations.py:283
+msgid "Quake II"
+msgstr "Quake II"
+
+#: ../DEV_extra_translations/extra_translations.py:800
+msgid "Skype Normal"
+msgstr "Skype normal"
+
+#: ../DEV_extra_translations/extra_translations.py:801
+msgid "Proprietary Voice over IP service and software application"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:406
+msgid "Heavy Gear II"
+msgstr "Heavy Gear II"
+
+#: ../DEV_extra_translations/extra_translations.py:407
+msgid ""
+"A mech FPS based on the Dream Pod 9 universe from Activision and Loki "
+"Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:54
+msgid "Dopewars"
+msgstr "Dopewars"
+
+#: ../DEV_extra_translations/extra_translations.py:551
+msgid "Railroad Tycoon II"
+msgstr "Railroad Tycoon II"
+
+#: ../DEV_extra_translations/extra_translations.py:552
+msgid "Railroad strategy game by PopTop Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:73
+msgid "MSN Gaming Zone"
+msgstr "Zona de jocs de MSN"
+
+#: ../DEV_extra_translations/extra_translations.py:74
+msgid "Games using MSN Gaming Zone API"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:504
+msgid "Red Eclipse"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:505
+msgid "An open source first-person shooter that runs on the Cube Engine 2"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:764
+msgid "TeamViewer"
+msgstr "TeamViewer"
+
+#: ../DEV_extra_translations/extra_translations.py:765
+msgid ""
+"Remote control, desktop sharing, online meetings, web conferencing and file "
+"transfer between computers"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:308
+msgid "rsync daemon"
+msgstr "Dimoni rsync"
+
+#: ../DEV_extra_translations/extra_translations.py:309
+msgid "File synchronization utility"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:109
+msgid "Tether"
+msgstr "Tether"
+
+#: ../DEV_extra_translations/extra_translations.py:110
+msgid ""
+"A clone of strategy game Moonbase Commander by Humongous Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:316
+msgid "The Mana World"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:317
+msgid "A fantasy MMORPG"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:332
+msgid "UPS Tools daemon"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:333
+msgid "Network UPS Tools"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:553
+msgid "Mechwarrior 4"
+msgstr "Mechwarrior 4"
+
+#: ../DEV_extra_translations/extra_translations.py:554
+msgid "A FPS based on the Fasa Battletech universe"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:261
+msgid "Soldier of Fortune"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:262
+msgid "Soldier of Fortune - A FPS by Raven Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:748
+msgid "Wormux"
+msgstr "Wormux"
+
+#: ../DEV_extra_translations/extra_translations.py:60
+msgid "London Law"
+msgstr "London Law"
+
+#: ../DEV_extra_translations/extra_translations.py:61
+msgid "An online multiplayer adaptation of the Scotland Yard board game"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:555
+msgid "Yura.net Domination (jRisk)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:556
+msgid "A clone of Risk"
+msgstr "Un clone de Risk"
+
+#: ../DEV_extra_translations/extra_translations.py:27
+msgid "Camfrog"
+msgstr "Camfrog"
+
+#: ../DEV_extra_translations/extra_translations.py:804
+msgid "iMaze"
+msgstr "iMaze"
+
+#: ../DEV_extra_translations/extra_translations.py:805
+msgid "A maze combat game in 3D"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:638
+msgid "Heretic II"
+msgstr "Heretic II"
+
+#: ../DEV_extra_translations/extra_translations.py:639
+msgid "Fantasy combat FPS by Raven Software"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:68
+msgid "MiniDLNA"
+msgstr "MiniDLNA"
+
+#: ../DEV_extra_translations/extra_translations.py:69
+msgid ""
+"Serves media files (music, pictures, and video) to clients on a network"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:618
+msgid "All Services"
+msgstr "Tots els serveis"
+
+#: ../DEV_extra_translations/extra_translations.py:619
+msgid "Client, dedicated servers, P2P and voice chat"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:620
+msgid "Games;Steam;"
+msgstr "Jocs;Steam;"
+
+#: ../DEV_extra_translations/extra_translations.py:621
+msgid "Client, Dedicated Servers, P2P and Voice Chat"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:622
+msgid "Client"
+msgstr "Client"
+
+#: ../DEV_extra_translations/extra_translations.py:623
+msgid ""
+"Game client traffic, typically Matchmaking and HLTV and Steam downloads"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:624
+msgid "Dedicated Servers"
+msgstr "Servidors dedicats"
+
+#: ../DEV_extra_translations/extra_translations.py:625
+msgid "SRCDS Rcon port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:626
+msgid "P2P and Voice Chat"
+msgstr "P2P i xat de veu"
+
+#: ../DEV_extra_translations/extra_translations.py:627
+msgid "Steamworks P2P Networking and Steam Voice Chat"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:628
+msgid "Call of Duty"
+msgstr "Call of Duty"
+
+#: ../DEV_extra_translations/extra_translations.py:629
+msgid "Additional Ports for Call of Duty: Modern Warfare 2 Multiplayer"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:806
+msgid "Webcam_server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:807
+msgid "A webcam viewer for web servers with an optional Java-based viewer"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:808
+msgid "Network;Audio Video;Video;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:295
+msgid "Icecast"
+msgstr "Icecast"
+
+#: ../DEV_extra_translations/extra_translations.py:176
+#: ../DEV_extra_translations/extra_translations.py:296
+msgid "Icecast stream"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:297
+msgid "Network;Audio Video;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:298
+msgid "Icecast - 8000:8001/tcp"
+msgstr "Icecast - 8000:8001/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:299
+msgid "Icecast with SHOUTcast-compatible stream"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:564
+msgid "Unreal Tournament 2004"
+msgstr "Unreal Tournament 2004"
+
+#: ../DEV_extra_translations/extra_translations.py:565
+msgid "A FPS by Epic Games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:566
+msgid "Unreal Tournament 2004 Admin"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:567
+msgid "Web-based administration for the FPS by Epic Games"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:93
+msgid "Kingpin: Life of Crime"
+msgstr "Kingpin: Life of Crime"
+
+#: ../DEV_extra_translations/extra_translations.py:94
+msgid "A FPS by Xatrix Entertainment"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:502
+msgid "Delta Force"
+msgstr "Delta Force"
+
+#: ../DEV_extra_translations/extra_translations.py:821
+msgid "PLEX"
+msgstr "PLEX"
+
+#: ../DEV_extra_translations/extra_translations.py:822
+msgid "Plex Media Server (Main port)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:823
+msgid "PLEX DLNA"
+msgstr "PLEX DLNA"
+
+#: ../DEV_extra_translations/extra_translations.py:824
+msgid "Access to the Plex DLNA Server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:825
+msgid "PLEX Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:826
+msgid "Controlling Plex Home Theater via Plex Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:827
+msgid "PLEX Avahi discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:828
+msgid "Older Bonjour/Avahi network discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:829
+msgid "PLEX Roku"
+msgstr "PLEX Roku"
+
+#: ../DEV_extra_translations/extra_translations.py:830
+msgid "Controlling Plex for Roku via Plex Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:831
+msgid "PLEX GDM"
+msgstr "PLEX GDM"
+
+#: ../DEV_extra_translations/extra_translations.py:832
+msgid "GDM network discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:833
+msgid "PLEX DLNA Server (Other port)"
+msgstr "Servidor DLNA de Plex (un altre port)"
+
+#: ../DEV_extra_translations/extra_translations.py:834
+msgid "Another port for Plex DLNA Server"
+msgstr "Un altre port per al servidor DLNA de Plex"
+
+#: ../DEV_extra_translations/extra_translations.py:148
+msgid "EDuke32"
+msgstr "EDuke32"
+
+#: ../DEV_extra_translations/extra_translations.py:149
+msgid "An enhanced version of Duke Nukem 3D"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:167
+msgid "VLC HTTP stream"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:168
+msgid "VLC media player HTTP stream default port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:169
+msgid "Audio Video;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:170
+msgid "VLC MMS HTTP stream"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:171
+msgid ""
+"VLC media player Microsoft Media Server stream over HTTP (Windows Media HTTP "
+"Streaming Protocol/MS-WMSP) default port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:172
+msgid "VLC RTP stream"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:173
+msgid "VLC media player Real-time Transport Protocol default port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:174
+msgid "VLC UDP stream"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:175
+msgid "VLC media player User Datagram Protocol default port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:177
+msgid "VLC media player Icecast stream default port"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:35
+msgid "Kerberos v5 KDC"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:36
+msgid "Kerberos v5 KDC server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:38
+msgid "Kerberos v5 admin"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:39
+#: ../DEV_extra_translations/extra_translations.py:43
+msgid "Kerberos v5 server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:40
+#: ../DEV_extra_translations/extra_translations.py:41
+msgid "Kerberos v5 password"
+msgstr "Contrasenya de Kerberos v5"
+
+#: ../DEV_extra_translations/extra_translations.py:42
+msgid "Kerberos v5 Full"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:44
+msgid "LDAP"
+msgstr "LDAP"
+
+#: ../DEV_extra_translations/extra_translations.py:45
+msgid "LDAP server"
+msgstr "Servidor LDAP"
+
+#: ../DEV_extra_translations/extra_translations.py:46
+msgid "LDAPS"
+msgstr "LDAPS"
+
+#: ../DEV_extra_translations/extra_translations.py:47
+msgid "LDAP server (LDAPS)"
+msgstr "Servidor LDAP (LDAPS)"
+
+#: ../DEV_extra_translations/extra_translations.py:841
+msgid "Authentication is required to run the Firewall Configuration"
+msgstr "Cal autenticació per executar la configuració del tallafoc"
+
+#: ../data/ui/update.ui.h:1
+msgid "Update a Firewall Rule"
+msgstr "Actualitza una regla de tallafoc"
+
+#: ../data/ui/update.ui.h:2 ../data/ui/add.ui.h:9
+msgid "Policy:"
+msgstr "Política:"
+
+#: ../data/ui/update.ui.h:3 ../data/ui/add.ui.h:10
+msgid "Direction:"
+msgstr "Direcció:"
+
+#: ../data/ui/update.ui.h:4 ../data/ui/add.ui.h:26
+msgid "Log:"
+msgstr "Registre:"
+
+#: ../data/ui/update.ui.h:5 ../data/ui/add.ui.h:17
+msgid "Protocol:"
+msgstr "Protocol:"
+
+#: ../data/ui/update.ui.h:6 ../data/ui/add.ui.h:2 ../data/ui/gufw.ui.h:26
+msgid "Allow"
+msgstr "Permet"
+
+#: ../data/ui/update.ui.h:7 ../data/ui/add.ui.h:3 ../data/ui/gufw.ui.h:27
+msgid "Deny"
+msgstr "Denega"
+
+#: ../data/ui/update.ui.h:8 ../data/ui/add.ui.h:4 ../data/ui/gufw.ui.h:28
+msgid "Reject"
+msgstr "Rebutja"
+
+#: ../data/ui/update.ui.h:9 ../data/ui/add.ui.h:5
+msgid "Limit"
+msgstr "Limita"
+
+#: ../data/ui/update.ui.h:10 ../data/ui/add.ui.h:6
+msgid "In"
+msgstr "Entrada"
+
+#: ../data/ui/update.ui.h:11 ../data/ui/add.ui.h:7
+msgid "Out"
+msgstr "Sortida"
+
+#: ../data/ui/update.ui.h:12 ../data/ui/add.ui.h:27
+msgid "Do not Log"
+msgstr "No enregistris"
+
+#: ../data/ui/update.ui.h:13 ../data/ui/add.ui.h:28
+#: ../gufw/gufw/view/gufw.py:196
+msgid "Log"
+msgstr "Registre"
+
+#: ../data/ui/update.ui.h:14 ../data/ui/add.ui.h:29
+msgid "Log All"
+msgstr "Enregistra-ho tot"
+
+#: ../data/ui/update.ui.h:15 ../data/ui/add.ui.h:8
+msgid "Both"
+msgstr "Ambdós"
+
+#: ../data/ui/update.ui.h:16 ../data/ui/add.ui.h:18
+msgid "TCP"
+msgstr "TCP"
+
+#: ../data/ui/update.ui.h:17 ../data/ui/add.ui.h:19
+msgid "UDP"
+msgstr "UDP"
+
+#: ../data/ui/update.ui.h:18 ../data/ui/add.ui.h:30
+msgid "From:"
+msgstr "Des de:"
+
+#: ../data/ui/update.ui.h:19 ../data/ui/add.ui.h:31
+msgid "To:"
+msgstr "Cap a:"
+
+#: ../data/ui/update.ui.h:20 ../data/ui/add.ui.h:32
+msgid "IP"
+msgstr "IP"
+
+#: ../data/ui/update.ui.h:21 ../data/ui/add.ui.h:33
+msgid "Paste your current local IP"
+msgstr "Enganxeu la vostra IP local actual"
+
+#: ../data/ui/update.ui.h:22 ../data/ui/add.ui.h:34
+msgid "You can write a port as '22' or a port range as '22:24'"
+msgstr "Podeu escriure un port com '22' o un interval de ports com '22: 24 '"
+
+#: ../data/ui/update.ui.h:23 ../data/ui/add.ui.h:35
+#: ../gufw/gufw/view/gufw.py:260
+msgid "Port"
+msgstr "Port"
+
+#: ../data/ui/update.ui.h:24 ../data/ui/add.ui.h:36
+msgid ""
+"You can write a port as '22' or a port range as '22:24'.\n"
+"If you're editing a Preconfigured or Simple rule, Interface field must be "
+"'All Interfaces' and the IPs and From Port fields must be empty."
+msgstr ""
+
+#: ../data/ui/update.ui.h:26 ../data/ui/add.ui.h:21
+msgid "Name:"
+msgstr "Nom:"
+
+#: ../data/ui/update.ui.h:27 ../data/ui/add.ui.h:22
+msgid "Rule Description"
+msgstr "Descripció de la regla"
+
+#: ../data/ui/update.ui.h:28 ../data/ui/add.ui.h:39
+msgid "Interface:"
+msgstr "Interfície:"
+
+#: ../data/ui/update.ui.h:29 ../data/ui/add.ui.h:42
+#: ../gufw/gufw/view/update.py:77
+msgid "You need to set an Interface"
+msgstr "Heu d'establir una interfície"
+
+#. Sort translation, please!
+#: ../data/ui/update.ui.h:31
+msgid "The rule will be moved to the end of the list"
+msgstr "La regla es mourà al final de la llista"
+
+#: ../data/ui/preferences.ui.h:1
+msgid "Firewall Preferences"
+msgstr "Preferències del tallafoc"
+
+#: ../data/ui/preferences.ui.h:2
+msgid "_Logging:"
+msgstr "_Enregistrament:"
+
+#: ../data/ui/preferences.ui.h:3
+msgid "Off"
+msgstr "Desactivat"
+
+#: ../data/ui/preferences.ui.h:4
+msgid "Low"
+msgstr "Baix"
+
+#: ../data/ui/preferences.ui.h:5
+msgid "Medium"
+msgstr "Mitjà"
+
+#: ../data/ui/preferences.ui.h:6
+msgid "High"
+msgstr "Alt"
+
+#: ../data/ui/preferences.ui.h:7
+msgid "Full"
+msgstr "Complet"
+
+#: ../data/ui/preferences.ui.h:8
+msgid "<b>ufw</b>"
+msgstr "<b>ufw</b>"
+
+#: ../data/ui/preferences.ui.h:9
+msgid "Lo_gging Gufw activity"
+msgstr "Enre_gistrament de l'activitat de Gufw"
+
+#: ../data/ui/preferences.ui.h:10
+msgid "Show confirm dialog for deleting rules"
+msgstr "Mostra el diàleg de confirmació per a la supressió de les regles"
+
+#: ../data/ui/preferences.ui.h:11
+msgid "<b>Gufw</b>"
+msgstr "<b>Gufw</b>"
+
+#: ../data/ui/preferences.ui.h:12
+msgid "Refresh Interval:"
+msgstr "Interval de refresc:"
+
+#: ../data/ui/preferences.ui.h:13
+msgid ""
+"Less seconds uses more CPU\n"
+"This interval will apply the next time you expand the Listening Report"
+msgstr ""
+"Menys segons utilitza més CPU\n"
+"Aquest interval s'aplicarà la propera vegada que expandiu l'informe "
+"d'escoltes"
+
+#: ../data/ui/preferences.ui.h:15
+msgid "<b>Listening Report</b>"
+msgstr "<b>Informe d'escoltes</b>"
+
+#: ../data/ui/preferences.ui.h:16
+msgid "Add a profile"
+msgstr "Afegeix un perfil"
+
+#: ../data/ui/preferences.ui.h:17 ../data/ui/gufw.ui.h:32
+msgid "Add"
+msgstr "Afegeix"
+
+#: ../data/ui/preferences.ui.h:18
+msgid "Remove the selected profile"
+msgstr "Suprimeix el perfil seleccionat"
+
+#: ../data/ui/preferences.ui.h:19 ../data/ui/gufw.ui.h:34
+msgid "Remove"
+msgstr "Suprimeix"
+
+#: ../data/ui/preferences.ui.h:20
+msgid "<b>Profiles</b>"
+msgstr "<b>Perfils</b>"
+
+#: ../data/ui/add.ui.h:1
+msgid "Add a Firewall Rule"
+msgstr "Afegeix una regla de tallafoc"
+
+#: ../data/ui/add.ui.h:11
+msgid "Category:"
+msgstr "Categoria:"
+
+#: ../data/ui/add.ui.h:12
+msgid "Subcategory:"
+msgstr "Subcategoria:"
+
+#: ../data/ui/add.ui.h:13
+msgid "Application:"
+msgstr "Aplicació:"
+
+#: ../data/ui/add.ui.h:14
+msgid "Application Filter"
+msgstr "Filtre d'aplicacions"
+
+#: ../data/ui/add.ui.h:15
+msgid "Copy app values and jump to Advanced Tab"
+msgstr ""
+
+#: ../data/ui/add.ui.h:16
+msgid "Preconfigured"
+msgstr "Preconfigurada"
+
+#: ../data/ui/add.ui.h:20
+msgid "Port:"
+msgstr "Port:"
+
+#: ../data/ui/add.ui.h:23
+msgid ""
+"You can write a port as '22', a port range as '22:24' or a service as 'http'"
+msgstr ""
+"Podeu escriure un port com '22', un interval de ports com '22: 24 ' o un "
+"servei com 'http'"
+
+#: ../data/ui/add.ui.h:24
+msgid "Port or service"
+msgstr "Port o servei"
+
+#: ../data/ui/add.ui.h:25
+msgid "Simple"
+msgstr "Senzilla"
+
+#: ../data/ui/add.ui.h:38
+msgid "Insert:"
+msgstr "Insereix:"
+
+#: ../data/ui/add.ui.h:40
+msgid "Rule number to insert"
+msgstr "Nombre de regla a inserir"
+
+#: ../data/ui/add.ui.h:41
+msgid "At the end"
+msgstr ""
+
+#: ../data/ui/add.ui.h:43
+msgid "Advanced"
+msgstr "Avançada"
+
+#: ../data/ui/gufw.ui.h:1
+msgid "Firewall"
+msgstr "Tallafoc"
+
+#: ../data/ui/gufw.ui.h:2
+msgid "_File"
+msgstr "_Fitxer"
+
+#: ../data/ui/gufw.ui.h:3
+msgid "_Import profile"
+msgstr "_Importa un perfil"
+
+#: ../data/ui/gufw.ui.h:4
+msgid "_Export this profile"
+msgstr "_Exporta aquest perfil"
+
+#: ../data/ui/gufw.ui.h:5
+msgid "Only the rules added from Gufw will be exported (not ufw rules)"
+msgstr "Només s'exportaran les regles afegides de Gufw (no les regles d'ufw)"
+
+#: ../data/ui/gufw.ui.h:6
+msgid "_Edit"
+msgstr "_Edita"
+
+#: ../data/ui/gufw.ui.h:7
+msgid "_Reset Current Profile"
+msgstr "_Restableix el perfil actual"
+
+#: ../data/ui/gufw.ui.h:8
+msgid "_Help"
+msgstr "A_juda"
+
+#: ../data/ui/gufw.ui.h:9
+msgid "_Documentation..."
+msgstr "_Documentació..."
+
+#: ../data/ui/gufw.ui.h:10
+msgid "Go to the official documentation"
+msgstr "Vés a la documentació oficial"
+
+#: ../data/ui/gufw.ui.h:11
+msgid "Get Help _Online..."
+msgstr "Obteniu ajuda en línia..."
+
+#: ../data/ui/gufw.ui.h:12
+msgid "Go to the official answers"
+msgstr "Vés a les respostes oficials"
+
+#: ../data/ui/gufw.ui.h:13
+msgid "_Report a Problem..."
+msgstr "_Informeu d'un problema..."
+
+#: ../data/ui/gufw.ui.h:14
+msgid "_Translate this Application..."
+msgstr "_Traduïu aquesta aplicació..."
+
+#: ../data/ui/gufw.ui.h:15
+msgid "_Follow"
+msgstr "_Seguiu-nos"
+
+#: ../data/ui/gufw.ui.h:16
+msgid "_Google +"
+msgstr "_Google +"
+
+#: ../data/ui/gufw.ui.h:17
+msgid "Google+ Community"
+msgstr "Comunitat de Google+"
+
+#: ../data/ui/gufw.ui.h:18
+msgid "Google+ _Community"
+msgstr "_Comunitat de Google+"
+
+#: ../data/ui/gufw.ui.h:19
+msgid "_Twitter"
+msgstr "_Twitter"
+
+#: ../data/ui/gufw.ui.h:20
+msgid "Thanks in advance!!"
+msgstr "Gràcies per avançat!"
+
+#: ../data/ui/gufw.ui.h:21
+msgid "_Donate..."
+msgstr "Feu un _donatiu..."
+
+#: ../data/ui/gufw.ui.h:22
+msgid "_Profile:"
+msgstr "_Perfil:"
+
+#: ../data/ui/gufw.ui.h:23
+msgid "S_tatus:"
+msgstr "Es_tat:"
+
+#: ../data/ui/gufw.ui.h:24
+msgid "_Incoming:"
+msgstr "_Entrada:"
+
+#: ../data/ui/gufw.ui.h:25
+msgid "_Outgoing:"
+msgstr "S_otida:"
+
+#: ../data/ui/gufw.ui.h:29
+msgid "_Routed:"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:30
+msgid "<b>Firewall</b>"
+msgstr "<b>Tallafoc</b>"
+
+#: ../data/ui/gufw.ui.h:31
+msgid "Add a rule..."
+msgstr "Afegeix una regla..."
+
+#: ../data/ui/gufw.ui.h:33
+msgid "Remove the selected rule(s)"
+msgstr "Suprimeix les regles seleccionades"
+
+#: ../data/ui/gufw.ui.h:35
+msgid "Edit the selected rule"
+msgstr "Edita la regla seleccionada"
+
+#: ../data/ui/gufw.ui.h:36
+msgid "Pause Listening Report"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:37
+msgid "Pause"
+msgstr "Pausa"
+
+#: ../data/ui/gufw.ui.h:38
+msgid "See current Listening Report"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:36
+msgid "Create a rule from the listening report..."
+msgstr "Crea una regla a partir de l'informe d'escoltes..."
+
+#: ../data/ui/gufw.ui.h:37
+msgid "Copy log to clipboard"
+msgstr "Copia el registre al porta-retalls"
+
+#: ../data/ui/gufw.ui.h:38
+msgid "Remove log"
+msgstr "Suprimeix el registre"
+
+#: ../data/ui/about.ui.h:1
+msgid "About Gufw Firewall"
+msgstr "Quant al tallafoc Gufw"
+
+#: ../data/ui/about.ui.h:2
+msgid ""
+"An uncomplicated way to manage your firewall, powered by ufw.\n"
+"Easy, simple, nice and useful!"
+msgstr ""
+"Una manera senzilla per gestionar el tallafoc, impulsada per ufw.\n"
+"Fàcil, senzilla, agradable i útil!"
+
+#: ../data/ui/about.ui.h:4
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Ezeki13 https://launchpad.net/~solidsnake-games\n"
+"  Gerardb https://launchpad.net/~gerbercar-gmail\n"
+"  Iván-Benjamín García Torà https://launchpad.net/~ivaniclixx\n"
+"  Joan Duran https://launchpad.net/~jodufi\n"
+"  Josep Sànchez https://launchpad.net/~papapep\n"
+"  Oriol https://launchpad.net/~manryponsa\n"
+"  Pedro Carrasco https://launchpad.net/~blare82\n"
+"  Rafael Carreras https://launchpad.net/~rafael-carreras\n"
+"  Robert Antoni Buj Gelonch https://launchpad.net/~robert-buj\n"
+"  Vicente Balaguer https://launchpad.net/~balaguer-vicent\n"
+"  costales https://launchpad.net/~costales\n"
+"  pokoli https://launchpad.net/~pokoli"
+
+#: ../gufw/gufw/instance.py:64
+msgid "Please, just one Gufw's instance"
+msgstr "Si us plau, només una instància de Gufw"
+
+#: ../gufw/gufw/instance.py:65
+msgid "Gufw is already running. If this is wrong, remove the file: "
+msgstr "Gufw ja s'està executant. Si això és erroni, suprimiu el fitxer: "
+
+#: ../gufw/gufw/model/firewall.py:61
+msgid "Deleting previous rules: "
+msgstr "S'estan suprimint les regles anteriors: "
+
+#: ../gufw/gufw/model/firewall.py:86
+msgid "Appending new rules: "
+msgstr "S'estan afegint les regles noves: "
+
+#: ../gufw/gufw/model/firewall.py:266 ../gufw/gufw/model/firewall.py:286
+#: ../gufw/gufw/model/firewall.py:287 ../gufw/gufw/model/firewall.py:302
+#: ../gufw/gufw/model/firewall.py:303 ../gufw/gufw/model/firewall.py:304
+#: ../gufw/gufw/model/firewall.py:306
+msgid "Home"
+msgstr "Casa"
+
+#. Filename without path and extension
+#. First run
+#: ../gufw/gufw/model/firewall.py:284 ../gufw/gufw/model/firewall.py:312
+#: ../gufw/gufw/model/firewall.py:313 ../gufw/gufw/model/firewall.py:314
+#: ../gufw/gufw/model/firewall.py:316
+msgid "Public"
+msgstr "Públic"
+
+#: ../gufw/gufw/model/firewall.py:285 ../gufw/gufw/model/firewall.py:307
+#: ../gufw/gufw/model/firewall.py:308 ../gufw/gufw/model/firewall.py:309
+#: ../gufw/gufw/model/firewall.py:311
+msgid "Office"
+msgstr "Oficina"
+
+#: ../gufw/gufw/model/firewall.py:304 ../gufw/gufw/model/firewall.py:309
+#: ../gufw/gufw/model/firewall.py:314
+msgid "Renamed profile: "
+msgstr "Perfil reanomenat: "
+
+#: ../gufw/gufw/view/add.py:99 ../gufw/gufw/view/add.py:349
+#: ../gufw/gufw/view/add.py:460 ../gufw/gufw/view/update.py:75
+#: ../gufw/gufw/view/update.py:101 ../gufw/gufw/view/update.py:186
+#: ../gufw/gufw/view/update.py:215
+msgid "All Interfaces"
+msgstr "Totes les interfícies"
+
+#: ../gufw/gufw/view/add.py:100 ../gufw/gufw/view/add.py:359
+#: ../gufw/gufw/view/add.py:464 ../gufw/gufw/view/update.py:102
+#: ../gufw/gufw/view/update.py:196 ../gufw/gufw/view/update.py:219
+msgid "Not Forward"
+msgstr ""
+
+#. Append new apps
+#: ../gufw/gufw/view/add.py:139 ../gufw/gufw/view/add.py:268
+#: ../gufw/gufw/view/add.py:538 ../gufw/gufw/view/add.py:545
+#: ../gufw/gufw/view/add.py:553 ../gufw/gufw/view/add.py:567
+#: ../gufw/gufw/view/add.py:569 ../gufw/gufw/view/add.py:571
+msgid "All"
+msgstr "Tot"
+
+#: ../gufw/gufw/view/add.py:153 ../gufw/gufw/view/add.py:366
+msgid "Ports: "
+msgstr "Ports: "
+
+#: ../gufw/gufw/view/add.py:195 ../gufw/gufw/view/add.py:204
+#: ../gufw/gufw/view/update.py:134
+msgid "Choose a TCP or UDP Protocol with a range of ports"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:351 ../gufw/gufw/view/update.py:188
+msgid "The IP/Port will be forward to this interface"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:354 ../gufw/gufw/view/update.py:191
+msgid "You need to set an Interface for forwarding to this another interface"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:376
+msgid "Error: Firewall is disabled"
+msgstr "Error: el tallafoc està inhabilitat"
+
+#: ../gufw/gufw/view/add.py:376
+msgid "The firewall has to be enabled first"
+msgstr "Primer s'ha d'habilitar el tallafoc"
+
+#: ../gufw/gufw/view/add.py:406 ../gufw/gufw/view/gufw.py:569
+msgid "Error running: "
+msgstr "Error en executar: "
+
+#: ../gufw/gufw/view/add.py:410
+msgid "Rule(s) added"
+msgstr "Regles afegides"
+
+#: ../gufw/gufw/view/add.py:413
+msgid "Warning: Some rules added. Review the log"
+msgstr "Avís: s'han afegit algunes regles. Reviseu el registre"
+
+#: ../gufw/gufw/view/add.py:416
+msgid "Error: No rules added. Review the log"
+msgstr "Avís: no s'ha afegit cap regla. Reviseu el registre"
+
+#: ../gufw/gufw/view/add.py:432
+msgid "Insert Port"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:432
+msgid "You need to insert a port in the port field"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:436
+msgid "Edward Snowden's Greatest Fear"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:436
+msgid "\"Nothing Will Change\""
+msgstr ""
+
+#: ../gufw/gufw/view/preferences.py:82 ../gufw/gufw/view/preferences.py:127
+msgid "Profile"
+msgstr "Perfil"
+
+#: ../gufw/gufw/view/preferences.py:91 ../gufw/gufw/view/preferences.py:95
+#: ../gufw/gufw/view/preferences.py:99 ../gufw/gufw/view/preferences.py:103
+msgid "Profile not valid"
+msgstr "Perfil no vàlid"
+
+#: ../gufw/gufw/view/preferences.py:91
+msgid "You can't use this profile name"
+msgstr "No podeu utilitzar aquest nom de perfil"
+
+#: ../gufw/gufw/view/preferences.py:95
+msgid "Enter at least one character"
+msgstr "Introduïu com a mínim un caràcter"
+
+#: ../gufw/gufw/view/preferences.py:99
+msgid "Too long! (max. 15 characters)"
+msgstr ""
+
+#: ../gufw/gufw/view/preferences.py:103
+msgid "Use only letters, numbers, dashes and underscores"
+msgstr ""
+
+#: ../gufw/gufw/view/preferences.py:108
+msgid "Profile exist"
+msgstr "Perfil existent"
+
+#: ../gufw/gufw/view/preferences.py:108
+msgid "There is a profile with the same name"
+msgstr "Hi ha un perfil amb el mateix nom"
+
+#: ../gufw/gufw/view/preferences.py:113
+msgid "Current profile"
+msgstr "Perfil actual"
+
+#: ../gufw/gufw/view/preferences.py:113
+msgid "You can't rename the current profile"
+msgstr "No podeu canviar el nom del perfil actual"
+
+#: ../gufw/gufw/view/preferences.py:120
+msgid "Edited Profile: "
+msgstr "Perfil editat: "
+
+#: ../gufw/gufw/view/preferences.py:138
+msgid "Created Profile: "
+msgstr "Perfil creat: "
+
+#: ../gufw/gufw/view/preferences.py:143
+msgid "Select a profile"
+msgstr "Seleccioneu un perfil"
+
+#: ../gufw/gufw/view/preferences.py:143
+msgid "You need to select a profile for deleting"
+msgstr "Heu de seleccionar un perfil per suprimir-lo"
+
+#: ../gufw/gufw/view/preferences.py:147
+msgid "Profile not erasable"
+msgstr "El perfil no es pot esborrar"
+
+#: ../gufw/gufw/view/preferences.py:147
+msgid "You can't remove the current profile"
+msgstr "No podeu suprimir el perfil actual"
+
+#: ../gufw/gufw/view/preferences.py:152
+msgid "Deleted Profile: "
+msgstr "Perfil suprimit: "
+
+#: ../gufw/gufw/view/preferences.py:156
+msgid "ufw Logging: "
+msgstr "Enregistrament d'ufw: "
+
+#: ../gufw/gufw/view/preferences.py:161
+msgid "Gufw Logging: Enabled"
+msgstr "Enregistrament de Gufw: habilitat"
+
+#: ../gufw/gufw/view/preferences.py:163
+msgid "Gufw Logging: Disabled"
+msgstr "Enregistrament de Gufw: inhabilitat"
+
+#: ../gufw/gufw/view/preferences.py:169
+msgid "Confirm Delete Dialog: Enabled"
+msgstr "Confirmació del diàleg de supressió: habilitada"
+
+#: ../gufw/gufw/view/preferences.py:172
+msgid "Confirm Delete Dialog: Disabled"
+msgstr "Confirmació del diàleg de supressió: inhabilitada"
+
+#: ../gufw/gufw/view/preferences.py:183
+msgid "Refresh Interval: "
+msgstr "Interval de refresc: "
+
+#: ../gufw/gufw/view/gufw.py:125 ../gufw/gufw/view/gufw.py:180
+#: ../gufw/gufw/view/gufw.py:302
+msgid "Getting started"
+msgstr "Com començar"
+
+#: ../gufw/gufw/view/gufw.py:186
+msgid "Rules"
+msgstr "Regles"
+
+#: ../gufw/gufw/view/gufw.py:191
+msgid "Report"
+msgstr "Informe"
+
+#. Rules
+#. Listening Report
+#: ../gufw/gufw/view/gufw.py:233 ../gufw/gufw/view/gufw.py:250
+msgid "Nº"
+msgstr "Nº"
+
+#: ../gufw/gufw/view/gufw.py:238
+msgid "Rule"
+msgstr "Regla"
+
+#: ../gufw/gufw/view/gufw.py:243
+msgid "Name"
+msgstr "Nom"
+
+#: ../gufw/gufw/view/gufw.py:255
+msgid "Protocol"
+msgstr "Protocol"
+
+#: ../gufw/gufw/view/gufw.py:265
+msgid "Address"
+msgstr "Adreça"
+
+#: ../gufw/gufw/view/gufw.py:270
+msgid "Application"
+msgstr "Aplicació"
+
+#: ../gufw/gufw/view/gufw.py:303
+msgid ""
+"An uncomplicated way to manage your firewall, powered by ufw. Easy, simple, "
+"nice and useful! :)"
+msgstr ""
+"Una manera senzilla per gestionar el tallafoc, impulsada per ufw. Fàcil, "
+"senzilla, agradable i útil! :)"
+
+#: ../gufw/gufw/view/gufw.py:304
+msgid "Basic"
+msgstr "Bàsic"
+
+#: ../gufw/gufw/view/gufw.py:305
+msgid "FAQ"
+msgstr "PMF"
+
+#: ../gufw/gufw/view/gufw.py:306
+msgid ""
+"If you are a normal user, you will be safe with this setting (Status=On, "
+"Incoming=Deny, Outgoing=Allow). Remember to append allow rules for your P2P "
+"apps:"
+msgstr ""
+"Si sou un usuari normal, estareu segur amb aquesta configuració (Estat = "
+"Activat, Entrada = Denega, Sortida = Permet). Recordeu afegir les regles "
+"permet per a les vostres aplicacions P2P:"
+
+#: ../gufw/gufw/view/gufw.py:307
+msgid "You can rename your profiles with just 2 clicks on them:"
+msgstr "Podeu canviar el nom dels vostres perfils en fer-hi només 2 clics:"
+
+#: ../gufw/gufw/view/gufw.py:308
+msgid "The Rule Name will help you to identify your rules in the future:"
+msgstr ""
+"El nom de la regla us ajudarà a identificar les vostres regles en el futur:"
+
+#: ../gufw/gufw/view/gufw.py:309
+msgid "How to autostart Gufw with the system?"
+msgstr "Com s'inicia automàticament Gufw amb el sistema?"
+
+#: ../gufw/gufw/view/gufw.py:310
+msgid ""
+"You do not need it. After you do all of the changes in Gufw, the settings "
+"are still in place until the next changes."
+msgstr ""
+"No ho necessiteu. Després de fer tots els canvis a Gufw, es mantindran els "
+"paràmetres fins que es produeixin els canvis següents."
+
+#: ../gufw/gufw/view/gufw.py:311
+msgid "Why is Gufw disabled by default?"
+msgstr "Per què està inhabilitat per defecte Gufw?"
+
+#: ../gufw/gufw/view/gufw.py:312
+msgid "By default, the firewall does not open ports to the outside world."
+msgstr "Per defecte, el tallafoc no obre els ports cap al món exterior."
+
+#: ../gufw/gufw/view/gufw.py:313
+msgid "Some rules are added by themselves?"
+msgstr "Algunes regles s'afegeixen per si mateixes?"
+
+#: ../gufw/gufw/view/gufw.py:314
+msgid ""
+"Well, the behaviour is such that when you change or import a profile, or "
+"when you edit a rule, Gufw will add that rule again, then ufw re-adds that "
+"rule for IPv4 and IPv6."
+msgstr ""
+"Bé, el comportament és tal que quan canvieu o importeu un perfil, o quan "
+"editeu una regla, Gufw afegirà aquesta regla de nou, i ufw tornarà a afegir "
+"aquesta regla per IPv4 i IPv6."
+
+#: ../gufw/gufw/view/gufw.py:315
+msgid "What is Allow, Deny, Reject and Limit?"
+msgstr "Què vol dir Permet, Denega, Rebutja i Limita?"
+
+#: ../gufw/gufw/view/gufw.py:316
+msgid "Allow: Will allow traffic."
+msgstr "Permet: permetrà el trànsit."
+
+#: ../gufw/gufw/view/gufw.py:317
+msgid "Deny: Will deny traffic."
+msgstr "Denega: denegarà el trànsit."
+
+#: ../gufw/gufw/view/gufw.py:318
+msgid "Reject: Will deny traffic and will inform that it has been rejected."
+msgstr "Rebutja: denegarà el trànsit i informarà que s'ha rebutjat."
+
+#: ../gufw/gufw/view/gufw.py:319
+msgid "Limit: Will deny traffic if an IP tried several connections."
+msgstr ""
+"Limita: denegarà el trànsit si una IP ha intenta diverses connexions."
+
+#: ../gufw/gufw/view/gufw.py:320
+msgid "I see some rules in all profiles"
+msgstr "Veig algunes regles en tots els perfils"
+
+#: ../gufw/gufw/view/gufw.py:321
+msgid "All the ufw rules will be appear in all profiles."
+msgstr "Totes les regles d'ufw apareixeran en tots els perfils."
+
+#: ../gufw/gufw/view/gufw.py:322
+msgid "What do I see in the Listening Report?"
+msgstr "Què veig en l'Informe d'escoltes?"
+
+#: ../gufw/gufw/view/gufw.py:323
+msgid ""
+"The ports on the live system in the listening state for TCP and the open "
+"state for UDP."
+msgstr ""
+"Els ports del sistema, en directe, amb estat d'escolta per a TCP i amb estat "
+"obert per a UDP."
+
+#: ../gufw/gufw/view/gufw.py:324
+msgid "I want even more!"
+msgstr "Encara vull més!"
+
+#: ../gufw/gufw/view/gufw.py:325
+msgid "You'll find more information in the community documentation :)"
+msgstr "Trobareu més informació a la documentació de la comunitat :)"
+
+#: ../gufw/gufw/view/gufw.py:334 ../gufw/gufw/view/gufw.py:338
+#: ../gufw/gufw/view/gufw.py:341
+msgid "Visit this web (please, copy & paste in your browser):"
+msgstr ""
+"Visiteu aquest web (si us plau, no ho copieu i enganxeu al vostre navegador):"
+
+#: ../gufw/gufw/view/gufw.py:349
+msgid "Import Profile"
+msgstr "Importa un perfil"
+
+#: ../gufw/gufw/view/gufw.py:355
+msgid "Import cancelled"
+msgstr "Importació cancel·lada"
+
+#: ../gufw/gufw/view/gufw.py:359 ../gufw/gufw/view/gufw.py:363
+msgid "Error"
+msgstr "Error"
+
+#: ../gufw/gufw/view/gufw.py:359
+msgid ""
+"Filename has wrong permissions (not 600). Trust only on your exported "
+"profiles"
+msgstr ""
+"El fitxer té permisos incorrectes (no 600). Confieu només amb els vostres "
+"perfils exportats"
+
+#: ../gufw/gufw/view/gufw.py:363
+msgid ""
+"Filename has not valid characters. Rename the file\n"
+"to only letters, numbers, dashes and underscores"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:367
+msgid "Operation cancelled"
+msgstr "Operació cancel·lada"
+
+#: ../gufw/gufw/view/gufw.py:368
+msgid "Profile already exists"
+msgstr "El perfil ja existeix"
+
+#: ../gufw/gufw/view/gufw.py:368
+msgid ""
+"Delete it before from the Preferences Window or rename the file (the profile "
+"will be the filename)"
+msgstr ""
+"Elimineu-lo abans des de la finestra de les preferències o canvieu el nom "
+"del fitxer (el perfil serà el nom de fitxer)"
+
+#: ../gufw/gufw/view/gufw.py:372
+msgid "Profile imported: "
+msgstr "Perfil importat: "
+
+#: ../gufw/gufw/view/gufw.py:373
+msgid "Profile imported, now you can choose it in the profiles"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:376
+msgid "Export Profile"
+msgstr "Exporta un perfil"
+
+#: ../gufw/gufw/view/gufw.py:379
+msgid "Export cancelled"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:386
+msgid "Profile exported: "
+msgstr "Perfil exportat: "
+
+#: ../gufw/gufw/view/gufw.py:387
+msgid "Profile exported"
+msgstr "Perfil exportat"
+
+#: ../gufw/gufw/view/gufw.py:411
+msgid "Reset Firewall"
+msgstr "Restabliment el tallafoc"
+
+#: ../gufw/gufw/view/gufw.py:411
+msgid ""
+"This will remove all rules in the current\n"
+"profile and disable the firewall"
+msgstr ""
+"Això suprimirà totes les regles del perfil\n"
+"actual i inhabilitarà el tallafoc"
+
+#: ../gufw/gufw/view/gufw.py:411 ../gufw/gufw/view/gufw.py:555
+msgid "Do you want to continue?"
+msgstr "Voleu continuar?"
+
+#: ../gufw/gufw/view/gufw.py:416
+msgid "Removed rules and reset firewall!"
+msgstr "Regles eliminades i restabliment del tallafoc!"
+
+#: ../gufw/gufw/view/gufw.py:421
+msgid "Gufw Log: Removed"
+msgstr "Registre de Gufw: suprimit"
+
+#: ../gufw/gufw/view/gufw.py:422
+msgid "Gufw Log removed"
+msgstr "S'ha suprimit el registre de Gufw"
+
+#: ../gufw/gufw/view/gufw.py:427
+msgid "Text copied to clipboard"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:468
+msgid "Incoming: "
+msgstr "Entrada: "
+
+#: ../gufw/gufw/view/gufw.py:469
+msgid "Incoming policy changed"
+msgstr "Política d'entrada canviada"
+
+#: ../gufw/gufw/view/gufw.py:471
+msgid "There was an error changing the incoming policy"
+msgstr "S'ha produït un error en canviar la política d'entrada"
+
+#: ../gufw/gufw/view/gufw.py:471 ../gufw/gufw/view/gufw.py:479
+#: ../gufw/gufw/view/gufw.py:490
+msgid ""
+"Restart your firewall to refresh to the real status\n"
+"and please report this bug"
+msgstr ""
+"Reinicieu el vostre tallafoc per refrescar l'estat real\n"
+"i informeu d'aquest error"
+
+#: ../gufw/gufw/view/gufw.py:476
+msgid "Outgoing: "
+msgstr "Sotida: "
+
+#: ../gufw/gufw/view/gufw.py:477
+msgid "Outgoing policy changed"
+msgstr "Política de sortida canviada"
+
+#: ../gufw/gufw/view/gufw.py:479
+msgid "There was an error changing the outgoing policy"
+msgstr "S'ha produït un error en canviar la política de sortida"
+
+#: ../gufw/gufw/view/gufw.py:487
+msgid "Routed: "
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:488
+msgid "Routed policy changed"
+msgstr "Política d'encaminament canviada"
+
+#: ../gufw/gufw/view/gufw.py:490
+msgid "There was an error changing the routed policy"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:511 ../gufw/gufw/view/gufw.py:590
+msgid "Select just one row"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:511
+msgid "You can create a rule from just one row selected"
+msgstr "Podeu crear una regla a partir d'una fila seleccionada"
+
+#: ../gufw/gufw/view/gufw.py:525
+msgid "Status: Enabled"
+msgstr "Estat: habilitat"
+
+#: ../gufw/gufw/view/gufw.py:526
+msgid "Firewall enabled"
+msgstr "Tallafoc habilitat"
+
+#: ../gufw/gufw/view/gufw.py:528
+msgid "Status: Disabled"
+msgstr "Estat: inhabilitat"
+
+#: ../gufw/gufw/view/gufw.py:529
+msgid "Firewall disabled"
+msgstr "Tallafoc inhabilitat"
+
+#: ../gufw/gufw/view/gufw.py:540
+msgid "There was an error changing the firewall status"
+msgstr "S'ha produït un error en canviar l'estat del tallafoc"
+
+#: ../gufw/gufw/view/gufw.py:540
+msgid ""
+"Restart your firewall to refresh to the real status and please report this "
+"bug"
+msgstr ""
+"Reinicieu el tallafoc per actualitzar l'estat real i informeu d'aquest error"
+
+#: ../gufw/gufw/view/gufw.py:555
+msgid "Delete rule"
+msgstr "Suprimeix la regla"
+
+#: ../gufw/gufw/view/gufw.py:555
+msgid "You will delete all selected rules"
+msgstr "Suprimireu totes les regles seleccionades"
+
+#: ../gufw/gufw/view/gufw.py:567
+msgid "Rule(s) deleted"
+msgstr "Regla suprimides"
+
+#: ../gufw/gufw/view/gufw.py:570
+msgid "Error. Review Gufw Log"
+msgstr "Error. Reviseu el registre de Gufw"
+
+#: ../gufw/gufw/view/gufw.py:575
+msgid "No rule selected"
+msgstr "No s'ha seleccionat cap regla"
+
+#: ../gufw/gufw/view/gufw.py:575
+msgid "You have to select a rule"
+msgstr "Heu de seleccionar una regla"
+
+#: ../gufw/gufw/view/gufw.py:590
+msgid "You can edit just one rule"
+msgstr "Només podeu editar una sola regla"
+
+#. ufw rule > inmutable
+#: ../gufw/gufw/view/gufw.py:598
+msgid "Immutable Rule"
+msgstr "Regla immutable"
+
+#: ../gufw/gufw/view/gufw.py:598
+msgid "You can't edit a rule added from ufw"
+msgstr "No podeu editar una regla afegida d'ufw"
+
+#: ../gufw/gufw/view/gufw.py:618
+msgid "Changing profile: "
+msgstr "Canvi de perfil: "
+
+#: ../gufw/gufw/view/gufw.py:687
+msgid " ALLOW "
+msgstr " PERMET "
+
+#: ../gufw/gufw/view/gufw.py:688
+msgid " DENY "
+msgstr " DENEGA "
+
+#: ../gufw/gufw/view/gufw.py:689
+msgid " REJECT "
+msgstr " REBUTJA "
+
+#: ../gufw/gufw/view/gufw.py:690
+msgid " LIMIT "
+msgstr " LIMITA "
+
+#: ../gufw/gufw/view/gufw.py:691
+msgid " OUT "
+msgstr " SORTIDA "
+
+#: ../gufw/gufw/view/gufw.py:692
+msgid " IN "
+msgstr " ENTRADA "
+
+#: ../gufw/gufw/view/gufw.py:693
+msgid " FWD "
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:694
+msgid "Anywhere"
+msgstr "Qualsevol lloc"
+
+#: ../gufw/gufw/view/gufw.py:695
+msgid "(log)"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:696
+msgid "(log-all)"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:697
+msgid " (out)"
+msgstr " (sortida)"
+
+#: ../gufw/gufw/view/gufw.py:698
+msgid " on "
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:741
+msgid "Gufw profile"
+msgstr "Perfil de Gufw"
+
+#: ../gufw/gufw/view/gufw.py:745
+msgid "All files"
+msgstr "Tots els fitxers"
+
+#: ../gufw/gufw/view/gufw.py:785
+msgid "Insert IP/Ports"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:785
+msgid "You need to insert IP/ports in to/from fields"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:794
+msgid "Insert number bigger that number of rules"
+msgstr "Introduïu un nombre més gran que el nombre de regles"
+
+#: ../gufw/gufw/view/gufw.py:794
+msgid ""
+"By example, if you have 3 rules, you can't insert a rule into position 4"
+msgstr ""
+"Per exemple,  si teniu 3 regles, podeu introduir una regla a la posició 4"
+
+#: ../gufw/gufw/view/update.py:244
+msgid "No changes were made!"
+msgstr "No s'ha realitzat cap canvi"
+
+#: ../gufw/gufw/view/update.py:251
+msgid "Editing rule (Removing): "
+msgstr "Edició de la regla (supressió): "
+
+#: ../gufw/gufw/view/update.py:257
+msgid "Editing rule (Adding): "
+msgstr "Edició de la regla (afegiment): "
+
+#: ../gufw/gufw/view/update.py:258
+msgid "Updated rule "
+msgstr "S'ha actualitzat la regla "
+
+#~ msgid "Action"
+#~ msgstr "Acció"
+
+#~ msgid "From"
+#~ msgstr "Des de"
+
+#~ msgid "To"
+#~ msgstr "A"
+
+#~ msgid "Error: Fields filled out incorrectly"
+#~ msgstr "Error: els camps s'han omplert incorrectament"
+
+#~ msgid "Error: Insert a port number"
+#~ msgstr "Error: inseriu un número de port"
+
+#~ msgid "Rule(s) removed"
+#~ msgstr "S'han eliminat regles"
+
+#~ msgid "<b>Rules</b>"
+#~ msgstr "<b>Regles</b>"
+
+#~ msgid "Select rule(s)"
+#~ msgstr "Seleccioneu les regles"
+
+#~ msgid "Error performing operation"
+#~ msgstr "S'ha produit un error en efectuar l'operació"
+
+#~ msgid "Rule added"
+#~ msgstr "S'ha afegit una regla"
+
+#~ msgid "Show extended actions"
+#~ msgstr "Mostra les accions esteses"
+
+#~ msgid "Allow all INCOMING traffic"
+#~ msgstr "Permet tot el trànsit d'entrada"
+
+#~ msgid "Deny all INCOMING traffic"
+#~ msgstr "Denega tot el trànsit d'entrada"
+
+#~ msgid "Reject all INCOMING traffic"
+#~ msgstr "Rebutja tot el trànsit d'entrada"
+
+#~ msgid "Deny all OUTGOING traffic"
+#~ msgstr "Denega tot el trànsit de sortida"
+
+#~ msgid "Allow all OUTGOING traffic"
+#~ msgstr "Permet tot el trànsit de sortida"
+
+#~ msgid "Reject all OUTGOING traffic"
+#~ msgstr "Rebutja tot el trànsit de sortida"
+
+#~ msgid "Outgoing:"
+#~ msgstr "De sortida:"
+
+#~ msgid "Incoming:"
+#~ msgstr "D'entrada:"
+
+#~ msgid "Disabled firewall"
+#~ msgstr "Tallafocs desactivat"
+
+#~ msgid "Enabled firewall"
+#~ msgstr "Tallafocs activat"
+
+#~ msgid "Removing rules..."
+#~ msgstr "S'estan eliminant les regles..."
+
+#~ msgid "Error: Range ports only with tcp or udp protocol"
+#~ msgstr "Error: l'interval de ports només pot ser el dels protocols TCP o UDP"
+
+#~ msgid "Nagios Plugin"
+#~ msgstr "Connector de Nagios"

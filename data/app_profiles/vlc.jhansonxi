@@ -1,0 +1,30 @@
+[VLC HTTP]
+title=VLC HTTP stream
+description=VLC media player HTTP stream default port
+ports=8080/tcp
+categories=Audio Video;
+
+[VLC MMSH]
+title=VLC MMS HTTP stream
+description=VLC media player Microsoft Media Server stream over HTTP (Windows Media HTTP Streaming Protocol/MS-WMSP) default port
+ports=8080/tcp
+categories=Audio Video;
+
+[VLC RTP]
+title=VLC RTP stream
+description=VLC media player Real-time Transport Protocol default port
+ports=5004/udp
+categories=Audio Video;
+
+[VLC UDP]
+title=VLC UDP stream
+description=VLC media player User Datagram Protocol default port
+ports=1234/udp
+categories=Audio Video;
+
+[VLC Icecast]
+title=Icecast stream
+description=VLC media player Icecast stream default port
+ports=8000/tcp
+categories=Audio Video;
+

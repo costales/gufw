@@ -1,0 +1,7 @@
+[DHCP]
+title=DHCP
+description=Dynamic Host Configuration Protocol
+ports=67/udp
+categories=Network;
+reference=[http://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol Wikipedia: Dynamic Host Configuration Protocol]
+

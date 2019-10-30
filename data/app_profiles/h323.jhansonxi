@@ -1,0 +1,23 @@
+[H323 call signaling]
+title=H.323 Call Signaling
+description=H.323 Call Signaling
+ports=1720/tcp
+modules=nf_conntrack_h323;nf_nat_h323;
+categories=Network;Telephony;Video Conference;
+reference=[http://www.cisco.com/en/US/tech/tk1077/technologies_tech_note09186a00800c5e0d.shtml#h225callcontrol Cisco: Understanding H.323 Gatekeepers]
+
+[H323 gatekeeper discovery]
+title=H.323 discovery
+description=H.323 multicast gatekeeper discovery (H.225)
+ports=1718/udp
+categories=Network;Telephony;Video Conference;
+reference=[http://www.cisco.com/en/US/tech/tk1077/technologies_tech_note09186a00800c5e0d.shtml#h225rassig Cisco: Understanding H.323 Gatekeepers]
+
+[H323 RAS messages]
+title=H.323 RAS
+description=H.323 Gatekeeper Registration, Admission and Status (H.225)
+ports=1719/udp
+modules=nf_conntrack_h323;nf_nat_h323;
+categories=Network;Telephony;Video Conference;
+reference=[http://www.cisco.com/en/US/tech/tk1077/technologies_tech_note09186a00800c5e0d.shtml#h225rassig Cisco: Understanding H.323 Gatekeepers]
+

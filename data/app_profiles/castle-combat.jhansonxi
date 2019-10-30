@@ -1,0 +1,14 @@
+[Castle-Combat 50386]
+title=Castle-Combat - 50386/tcp
+description=A clone of Rampart from Atari Games
+ports=50386/tcp
+categories=Games;Arcade;
+reference=Source tarball /doc/rules.html
+
+[Castle-Combat 8787]
+title=Castle-Combat - 8787/tcp
+description=A clone of Rampart from Atari Games
+ports=8787/tcp
+categories=Games;Arcade;
+reference=netstat -nap
+

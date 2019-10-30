@@ -1,0 +1,24 @@
+[BitTorrent minimum]
+title=BitTorrent Minimum
+description=BitTorrent peer-peer file sharing
+ports=6881:6882/udp|6881:6882/tcp
+warning=Remember to open the ports on the router
+categories=Network;P2P;
+reference=[http://btfaq.com/serve/cache/25.html Brian's BitTorrent FAQ and Guide]
+
+[BitTorrent normal]
+title=BitTorrent
+description=BitTorrent peer-peer file sharing
+ports=6881:6889/udp|6881:6889/tcp
+warning=Remember to open the ports on the router
+categories=Network;P2P;
+reference=[http://btfaq.com/serve/cache/25.html Brian's BitTorrent FAQ and Guide]
+
+[BitTorrent full]
+title=BitTorrent Full
+description=BitTorrent peer-peer file sharing
+ports=6881:6999/udp|6881:6999/tcp
+warning=Remember to open the ports on the router
+categories=Network;P2P;
+reference=[http://btfaq.com/serve/cache/25.html Brian's BitTorrent FAQ and Guide]
+

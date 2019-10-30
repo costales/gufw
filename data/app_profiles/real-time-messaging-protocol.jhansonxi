@@ -1,0 +1,7 @@
+[RTMP]
+title=RTMP Real Time Messaging Protocol
+description=Real Time Messaging Protocol (Adobe Flash)
+ports=1935/tcp
+categories=Network;
+reference=[http://en.wikipedia.org/wiki/Real_Time_Messaging_Protocol Wikipedia: Real Time Messaging Protocol]
+

@@ -1,0 +1,14 @@
+[NFS Server-4000]
+title=NFS (Chris Lowth)
+description=Network File System protocol with static ports at 4000:4002 (some conflicts with popular games; statd broadcast on random port)
+ports=111,2049,4000:4002/udp|111,2049,4000:4002/tcp
+categories=Network;File Transfer;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[NFS Server with Quota-4000]
+title=NFS Quota (Chris Lowth)
+description=NFS with user/group filesystem usage quota support with static ports at 4000:4003 (some conflicts with popular games; statd broadcast on random port)
+ports=111,2049,4000:4003/udp|111,2049,4000:4003/tcp
+categories=Network;File Transfer;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+

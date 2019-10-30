@@ -1,0 +1,7 @@
+[rsync]
+title=rsync daemon
+description=File synchronization utility
+ports=873/tcp
+categories=Network;File Transfer;
+reference=[http://en.wikipedia.org/wiki/Rsync Wikipedia: Rsync]
+

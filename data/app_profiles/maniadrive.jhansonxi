@@ -1,0 +1,14 @@
+[ManiaDrive]
+title=ManiaDrive game server
+description=A clone of TrackMania from Nadeo
+ports=29104/udp
+categories=Games;Arcade;
+reference=[http://memak.raydium.org/viewtopic.php?f=10&t=369 ManiaDrive forum: ManiaDrive 1.0.1 doesn't works in my GNU/Linux system]
+
+[ManiaDrive HTTP]
+title=ManiaDrive HTTP server 
+description=ManiaDrive/Raydium game monitor HTTP server
+ports=29104/tcp
+categories=Games;Arcade;
+reference=[http://maniadrive.raydium.org/index.php/2006/01/15/8-maniadrive-first-public-release-in-on-the-way ManiaDrive news: ManiaDrive first public release in on the way !]
+

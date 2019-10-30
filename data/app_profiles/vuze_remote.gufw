@@ -1,0 +1,7 @@
+[Vuze_Remote]
+title=Vuze Remote
+description=Remote control for Vuze
+ports=9091/tcp
+warning=Remember to open the ports on the router
+categories=Network;P2P;
+reference=[http://wiki.vuze.com/w/FAQ_Remote_Pairing#I_get_the_error_message_.22Vuze_isn.27t_accessible_outside_your_local_network.22]

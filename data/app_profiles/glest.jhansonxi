@@ -1,0 +1,7 @@
+[Glest]
+title=Glest
+description=A free, open source 3D RTS game server
+ports=61357/tcp
+categories=Games;Strategy;
+reference=[http://glest.wikia.com/wiki/MG/FAQ#What_network_ports_must_be_open_for_network_play.3F_How_do_I_configure_my_firewall.3F MegaGlest FAQ: What network ports must be open for network play?]
+

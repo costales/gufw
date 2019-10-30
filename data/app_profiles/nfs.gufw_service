@@ -1,0 +1,6 @@
+[nfs]
+title=NFS
+description=Network File System
+ports=2049,111/tcp|2049,111/udp
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/Network_File_System - Wikipedia]

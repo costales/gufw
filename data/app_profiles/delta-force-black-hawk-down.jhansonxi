@@ -1,0 +1,7 @@
+[Delta Force BHD]
+title=Delta Force: BHD
+description=Black Hawk Down. A FPS combat game by NovaLogic
+ports=17479/udp
+categories=Games;Action;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

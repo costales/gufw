@@ -1,0 +1,65 @@
+Gufw - version 19.10.0
+© 2008-2019 ﻿﻿Marcos Alvarez Costales
+-----------------------------------
+
+
+What is it?
+===========
+A graphical user interface for Ubuntu's Uncomplicated Firewall.
+
+
+How do I install & run it?
+==========================
+Read the INSTALL file
+
+
+What does it look like?
+=======================
+Take a look here!
+http://gufw.org
+
+
+Where can i find out more?
+==========================
+You can visit the project web site:
+http://gufw.org
+
+
+What is new?
+============
+Added Mumble profile
+Updated translations
+
+
+Are you a Gufw distro maintainer?
+=================================
+Please, join to this mail list:
+    1. Register in http://launchpad.net
+    2. Join to this team (I'll aprove you) https://launchpad.net/~gufw-maintainers
+    3. Subscribe to Gufw Maintainers mail list: https://launchpad.net/people/+me/+editemails
+
+
+License
+=======
+Gufw is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public Licence as published
+by the Free Software Foundation; either version 3 of the License,
+or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+Logo
+====
+Shield logo created by myke (http://michael.spiegel1.at/)
+Tutorial: http://www.gimpusers.com/tutorials/create-a-shield-symbol.html
+Licensed under CC BY 3.0 http://creativecommons.org/licenses/by/3.0/at/
+
+Profiles: http://jhansonxi.blogspot.com.es/2013/03/latest-batch-of-ufw-application-profiles.html
+Licensed under GPL 3.

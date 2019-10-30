@@ -1,0 +1,6 @@
+[USB Redirector]
+title=USB Redirector
+description=USB device sharing system from INCENTIVES Pro
+ports=32032/tcp
+categories=Network;
+reference=[http://incentivespro.com/help/firewall.html Notification for FireWall setup]

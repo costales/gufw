@@ -1,0 +1,7 @@
+[SiN]
+title=SiN
+description=A FPS by Ritual Entertainment
+ports=22450/udp
+categories=Games;Action;
+reference=[http://icculus.org/lgfaq/en/network.php Icculous.org: Networking Queries]
+

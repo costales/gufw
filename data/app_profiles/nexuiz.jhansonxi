@@ -1,0 +1,7 @@
+[Nexuiz]
+title=Nexuiz
+description=A FPS based on Darkplaces/Quake engine by id Software
+ports=26000
+categories=Games;Action;
+reference=[http://www.alientrap.org/nexuiz/faq#Which%20ports%20do%20I%20have%20to%20open%20in%20firewall/forward%20from%20my%20router%20to%20run%20a%20server? Nexuiz FAQ]
+

@@ -1,0 +1,7 @@
+[Prey]
+title=Prey
+description=A SciFi FPS action adventure by 3D Realms
+ports=27719/udp
+categories=Games;Action;
+reference=[http://forums.3drealms.com/vb/archive/index.php/t-19891.html 3D Realms Forums: Multiprey servers]
+

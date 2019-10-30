@@ -1,0 +1,7 @@
+[Starcraft]
+title=WINE: Starcraft
+description=A strategy game by Blizzard Entertainment
+ports=6112
+categories=Games;Strategy;
+reference=[http://us.blizzard.com/support/article.xml?locale=en_US&articleId=21109 Blizzard Support: Port Information]
+

@@ -1,0 +1,7 @@
+[ChocolateDoom]
+title=Chocolate Doom
+description=A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s
+ports=2342/udp
+categories=Games;Action;
+reference=[http://www.chocolate-doom.org/wiki/index.php/Multiplayer]
+

@@ -1,0 +1,7 @@
+[MySQL]
+title=MySQL
+description=MySQL Database
+ports=3306/tcp
+categories=Office;Database;
+reference=[http://dev.mysql.com/doc/refman/5.5/en/can-not-connect-to-server.html MySQL 5.5 Reference Manual: B.5.2.2 Can't connect to [local] MySQL server]
+

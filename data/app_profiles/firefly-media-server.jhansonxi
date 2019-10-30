@@ -1,0 +1,7 @@
+[Firefly Media Server]
+title=Firefly Media Server
+description=DAAP audio server formerly known as mt-daapd
+ports=3689/tcp
+categories=Network;Audio Video;Audio;
+reference=[http://wiki.fireflymediaserver.org/RemoteAccess Firefly Media Server Wiki: RemoteAccess]
+

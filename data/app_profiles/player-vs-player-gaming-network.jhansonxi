@@ -1,0 +1,14 @@
+[PvPGN]
+title=PvPGN
+description=Player vs Player Gaming Network server emulation based on bnetd
+ports=6112:6119,4000/udp|6112:6119,4000/tcp
+categories=Network;Games;
+reference=[http://developer.berlios.de/docman/display_doc.php?docid=547&group_id=2291#portforwarding Player vs Player Gaming Network Docs: NAT / Firewall or TCP/IP Addressing]
+
+[PvPGN-AT]
+title=PvPGN Address Translation
+description=Player vs Player Gaming Network Address translation port
+ports=16100
+categories=Network;Games;
+reference=[http://developer.berlios.de/docman/display_doc.php?docid=547&group_id=2291#portforwarding Player vs Player Gaming Network Docs: NAT / Firewall or TCP/IP Addressing]
+

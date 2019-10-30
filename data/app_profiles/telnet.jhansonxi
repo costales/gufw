@@ -1,0 +1,15 @@
+[Telnet]
+title=Telnet
+description=Text-based remote access (like SSH but without the security)
+ports=23/tcp
+warning=Telnet is like SSH but without security. It'd be better to use the 'Telnet SSL'
+categories=Network;Shell;
+reference=[http://en.wikipedia.org/wiki/Telnet Wikipedia: Telnet]
+
+[Telnet SSL]
+title=Telnet TLS/SSL
+description=Text-based remote access (like SSH but without the security) SSL
+ports=992
+categories=Network;Shell;
+reference=[http://en.wikipedia.org/wiki/Telnet Wikipedia: Telnet]
+

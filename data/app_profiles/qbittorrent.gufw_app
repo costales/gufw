@@ -1,0 +1,6 @@
+[qbittorrent]
+title=qBittorrent
+description=Cross-platform BitTorrent client GUI written with Qt4
+ports=6881/tcp|6881/udp
+warning=Remember to open the ports on the router
+categories=Network;P2P;

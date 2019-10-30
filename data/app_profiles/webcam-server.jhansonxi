@@ -1,0 +1,6 @@
+[webcam_server]
+title=Webcam_server
+description=A webcam viewer for web servers with an optional Java-based viewer
+ports=8888/tcp
+categories=Network;Audio Video;Video;
+reference=[http://webcamserver.cvs.sourceforge.net/viewvc/webcamserver/webcamserver/src/webcam_server.c?revision=1.2 SCM Repositories: webcamserver - webcam_server.c]

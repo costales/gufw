@@ -1,0 +1,35 @@
+[XPilot 1]
+title=XPilot
+description=A 2D space combat game
+ports=15345:15345/udp
+categories=Games;Arcade;
+reference=[http://www.j-a-r-n-o.nl/Xpilot/Newbie/Unix/newbie302.shtml Jarno's Newbieguide: Unix]
+
+[XPilot 2]
+title=XPilot 2-players
+description=A 2D space combat game
+ports=15345:15346/udp
+categories=Games;Arcade;
+reference=[http://www.j-a-r-n-o.nl/Xpilot/Newbie/Unix/newbie302.shtml Jarno's Newbieguide: Unix]
+
+[XPilot 4]
+title=XPilot 4-players
+description=A 2D space combat game
+ports=15345:15348/udp
+categories=Games;Arcade;
+reference=[http://www.j-a-r-n-o.nl/Xpilot/Newbie/Unix/newbie302.shtml Jarno's Newbieguide: Unix]
+
+[XPilot 8]
+title=XPilot 8-players
+description=A 2D space combat game
+ports=15345:15352/udp
+categories=Games;Arcade;
+reference=[http://www.j-a-r-n-o.nl/Xpilot/Newbie/Unix/newbie302.shtml Jarno's Newbieguide: Unix]
+
+[XPilot 16]
+title=XPilot 16-players
+description=A 2D space combat game
+ports=15345:15360/udp
+categories=Games;Arcade;
+reference=[http://www.j-a-r-n-o.nl/Xpilot/Newbie/Unix/newbie302.shtml Jarno's Newbieguide: Unix]
+

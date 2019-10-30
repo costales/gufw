@@ -1,0 +1,7 @@
+[Abuse]
+title=Abuse
+description=A dark 2D side-scrolling platform game developed by Crack dot Com
+ports=20202
+categories=Games;Action;
+reference=[http://abuse.zoy.org/browser/abuse/trunk/src/netcfg.cpp Abuse Trac Repository Browser: /abuse/trunk/src/netcfg.cpp]
+

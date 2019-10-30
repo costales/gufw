@@ -1,0 +1,6 @@
+[Ryzom]
+title=Ryzom
+description=It's also known as The Saga of Ryzom, is a massively multiplayer online role-playing game (MMORPG)
+ports=47851:47860/udp|80/tcp|443/tcp|40916/tcp|43434/tcp|48851:48860/tcp|50000/tcp
+categories=Games;Role;
+reference=[http://forums.ryzom.com/showthread.php?t=7650]

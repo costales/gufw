@@ -1,0 +1,5 @@
+[u1]
+title=Ubuntu One
+description=Store files online and sync them between computers and mobile devices, as well as stream audio and music from cloud to mobile devices
+ports=443/tcp|443/udp
+categories=Network;Cloud;

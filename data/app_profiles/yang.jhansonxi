@@ -1,0 +1,21 @@
+[YANG]
+title=Yet Another Netplay Guider
+description=YANG - Yet Another Netplay Guider, default game connection
+ports=23513/udp
+categories=Games;
+reference=[http://yang-online.com/portforwarding.htm YANG: Port Forwarding Guide]
+
+[YANG room hosting]
+title=Yet Another Netplay Guider Hosting
+description=YANG - Yet Another Netplay Guider, room hosting
+ports=8501/tcp
+categories=Games;
+reference=[http://yang-online.com/portforwarding.htm YANG: Port Forwarding Guide]
+
+[DXX-Rebirth - YANG]
+title=DXX-Rebirth on YANG
+description=DXX-Rebirth, a source port of Descent, connected through YANG
+ports=42424/udp
+categories=Games;Action;
+reference=[http://www.multi-players-zone.com/descent.htm YANG: Descent Multiplayer Play]
+

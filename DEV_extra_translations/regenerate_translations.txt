@@ -1,0 +1,3 @@
+cd DEV_extra_translations
+python get.py
+xgettext --from-code=UTF-8 -d gufw -o po/gufw.pot gufw/gufw/*.py gufw/gufw/model/*.py gufw/gufw/view/*.py data/ui/*.ui DEV_extra_translations/extra_translations.py

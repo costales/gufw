@@ -1,0 +1,50 @@
+[NASCAR Racing 4-2002-2003 Season - 1]
+title=NASCAR Racing 2002/03 1 player
+description=Racing simulators from Papyrus Design Group
+ports=32766:32768/udp
+categories=Games;Simulation;
+reference=[http://findports.com/document.php?id=511 Findports.com : Nascar 2002 tcp/udp ports list]
+
+[NASCAR Racing 4-2002-2003 Season - 2]
+title=NASCAR Racing 2002/03 2 players
+description=Racing simulators from Papyrus Design Group
+ports=32766:32769/udp
+categories=Games;Simulation;
+reference=[http://findports.com/document.php?id=511 Findports.com : Nascar 2002 tcp/udp ports list]
+
+[NASCAR Racing 4-2002-2003 Season - 4]
+title=NASCAR Racing 2002/03 4 players
+description=Racing simulators from Papyrus Design Group
+ports=32766:32771/udp
+categories=Games;Simulation;
+reference=[http://findports.com/document.php?id=511 Findports.com : Nascar 2002 tcp/udp ports list]
+
+[NASCAR Racing 4-2002-2003 Season - 8]
+title=NASCAR Racing 2002/03  8 players
+description=Racing simulators from Papyrus Design Group
+ports=32766:32775/udp
+categories=Games;Simulation;
+reference=[http://findports.com/document.php?id=511 Findports.com : Nascar 2002 tcp/udp ports list]
+
+[NASCAR Racing 4-2002-2003 Season - 16]
+title=NASCAR Racing 2002/03 16 players
+description=Racing simulators from Papyrus Design Group
+ports=32766:32783/udp
+categories=Games;Simulation;
+reference=[http://findports.com/document.php?id=511 Findports.com : Nascar 2002 tcp/udp ports list]
+
+[NASCAR Racing 4-2002-2003 Season - 32]
+title=NASCAR Racing 2002/03 32 players
+description=Racing simulators from Papyrus Design Group
+ports=32766:32799/udp
+categories=Games;Simulation;
+reference=[http://findports.com/document.php?id=511 Findports.com : Nascar 2002 tcp/udp ports list]
+
+[NASCAR Racing 4-2002-2003 Season - 42]
+title=NASCAR Racing 2002/03 42 players
+description=Racing simulators from Papyrus Design Group
+ports=32766:32809/udp
+categories=Games;Simulation;
+reference=[http://findports.com/document.php?id=511 Findports.com : Nascar 2002 tcp/udp ports list]
+
+

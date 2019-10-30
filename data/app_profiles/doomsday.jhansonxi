@@ -1,0 +1,7 @@
+[Doomsday]
+title=Doomsday
+description=A source port of id Software's Doom engine which supports Doom, Heretic, and Hexen
+ports=13209,1337/udp|13209,1337/tcp
+categories=Games;Action;
+reference=[http://forums.newdoom.com/showthread.php?t=27578 DaniJ: Setting up Doomsday for Multiplayer]
+

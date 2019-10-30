@@ -1,0 +1,14 @@
+[Pioneers]
+title=Pioneers
+description=A game based on The Settlers of Catan by Klaus Teuber
+ports=5556/tcp
+categories=Games;Board;
+reference=[http://osdir.com/ml/games.pioneers.devel/2005-11/msg00034.html games.pioneers.devel: I get no servers for public game (also can't create a public game)]
+
+[Pioneers meta]
+title=Pioneers Metaserver
+description=Metaserver for Pioneers
+ports=5557/tcp
+categories=Games;Board;
+reference=[http://osdir.com/ml/games.pioneers.devel/2005-11/msg00034.html games.pioneers.devel: I get no servers for public game (also can't create a public game)]
+

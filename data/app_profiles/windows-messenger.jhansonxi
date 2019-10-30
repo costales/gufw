@@ -1,0 +1,22 @@
+[Windows Messenger ASWB]
+title=Windows Messenger
+description=Windows Messenger/Windows Live Messenger application sharing and whiteboard (requires SIP)
+ports=1503/tcp
+categories=Network;
+reference=[http://technet.microsoft.com/en-us/library/bb457095.aspx Windows Messenger in Windows XP: Working With Firewalls and Network Address Translation Devices]
+
+[Windows Messenger FT]
+title=Windows Messenger File
+description=Windows Messenger/MSN Messenger file transfer
+ports=6891:6900/tcp
+categories=Network;File Transfer;
+reference=[http://technet.microsoft.com/en-us/library/bb457095.aspx Windows Messenger in Windows XP: Working With Firewalls and Network Address Translation Devices]
+
+[Windows Messenger RA]
+title=Windows Messenger Assistance
+description=Remote Assistance/Remote Desktop Protocol/Terminal Services (RDP)
+ports=3389/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://support.microsoft.com/kb/927847 Network ports and URLs that are used by Windows Live Messenger]
+

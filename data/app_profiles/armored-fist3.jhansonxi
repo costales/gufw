@@ -1,0 +1,7 @@
+[Armored Fist 3]
+title=Armored Fist 3
+description=A M1A2 Abrams tank simulation by NovaLogic
+ports=2803/udp
+categories=Games;Simulation;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

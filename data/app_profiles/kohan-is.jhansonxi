@@ -1,0 +1,7 @@
+[Kohan IS]
+title=Kohan: Immortal Sovereigns
+description=A real-time strategy game by TimeGate Studios
+ports=3855,17437/udp
+categories=Games;Strategy;
+reference=[http://updates.lokigames.com/loki_demos/kohan-demo.run.txt Kohan: Immortal Sovereigns Demo readme]
+

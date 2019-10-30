@@ -1,0 +1,14 @@
+[STUN]
+title=STUN
+description=Session Traversal Utilities for NAT
+ports=3478
+categories=Network;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[STUN TLS]
+title=STUN TLS
+description=Session Traversal Utilities for NAT with TLS encryption
+ports=5349
+categories=Network;
+reference=[http://en.wikipedia.org/wiki/Session_Traversal_Utilities_for_NAT Wikipedia: Session Traversal Utilities for NAT]
+

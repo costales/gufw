@@ -1,0 +1,14 @@
+[DirectX 7]
+title=DirectX 7
+description=Network games using DirectX 7 API
+ports=2300:2400/udp|2300:2400,47624/tcp
+categories=Network;
+reference=[http://support.microsoft.com/kb/q240429/ Microsoft: DirectX Ports required to play on a network]
+
+[DirectX 8]
+title=DirectX 8
+description=Network games using DirectX 8 API
+ports=6073,2302:2400/udp
+categories=Network;
+reference=[http://support.microsoft.com/kb/q240429/ Microsoft: DirectX Ports required to play on a network]
+

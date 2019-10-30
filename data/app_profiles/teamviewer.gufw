@@ -1,0 +1,8 @@
+[teamviewer]
+title=TeamViewer
+description=Remote control, desktop sharing, online meetings, web conferencing and file transfer between computers
+ports=5938
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[https://community.teamviewer.com/t5/Knowledge-Base/Which-ports-are-used-by-TeamViewer/ta-p/4139]
+

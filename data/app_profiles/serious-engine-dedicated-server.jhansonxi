@@ -1,0 +1,28 @@
+[SEDS default port]
+title=SEDS Serious Sam
+description=Dedicated server for the FPS by Croteam
+ports=27016
+categories=Games;Action;
+reference=[http://forums.steamgames.com/forums/showthread.php?t=1248110 Steam Forums: Serious Sam HD series - Solutions to common problems]
+
+[SEDS default admin port]
+title=SEDS Remote Admin
+description=Default remote administration Telnet port for Serious Engine dedicated server
+ports=27015/tcp
+categories=Games;Action;
+reference=[http://forums.steamgames.com/forums/showthread.php?t=1248110 Steam Forums: Serious Sam HD series - Solutions to common problems]
+
+[SEDS alternate port]
+title=SEDS - port 25601
+description=Dedicated server for the FPS by Croteam, alternate game port 25601
+ports=25601
+categories=Games;Action;
+reference=[http://forums.steamgames.com/forums/showthread.php?t=1248110 Steam Forums: Serious Sam HD series - Solutions to common problems]
+
+[SEDS alternate admin port]
+title=SEDS Admin - port 25600
+description=Alternate 25600 remote administration Telnet port for Serious Engine dedicated server
+ports=25600/tcp
+categories=Games;Action;
+reference=[http://forums.steamgames.com/forums/showthread.php?t=1248110 Steam Forums: Serious Sam HD series - Solutions to common problems]
+

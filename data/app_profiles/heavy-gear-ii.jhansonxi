@@ -1,0 +1,7 @@
+[Heavy Gear II]
+title=Heavy Gear II
+description=A mech FPS based on the Dream Pod 9 universe from Activision and Loki Software
+ports=6112,21157/udp
+categories=Games;Action;
+reference=[http://www.linux.org/docs/ldp/howto/IP-Masquerade-HOWTO/supported-client-software.html Linux IP Masquerade HOWTO: 6.3.1. Network Clients that -Work- with IP Masquerade]
+

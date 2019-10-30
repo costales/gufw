@@ -1,0 +1,7 @@
+[Teeworlds]
+title=Teeworlds
+description=An open source sidescrolling multiplayer shooting game
+ports=8303
+categories=Games;Action;
+reference=[https://www.teeworlds.com/?page=docs&wiki=SettingUpAServer]
+

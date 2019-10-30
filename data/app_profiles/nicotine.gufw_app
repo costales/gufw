@@ -1,0 +1,6 @@
+[nicotine]
+title=Nicotine
+description=Nicotine is a SoulSeek client written in Python, based on the PySoulSeek project
+ports=2234:2239,2242,2240/tcp
+warning=Remember to open the ports on the router
+categories=Network;P2P;

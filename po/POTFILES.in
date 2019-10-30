@@ -1,0 +1,27 @@
+[encoding: UTF-8]
+setup.py
+gufw.desktop.in
+DEV_extra_translations/get.py
+DEV_extra_translations/extra_translations.py
+policykit/actions/com.ubuntu.pkexec.gufw.policy
+[type: gettext/glade]data/ui/update.ui
+[type: gettext/glade]data/ui/preferences.ui
+[type: gettext/glade]data/ui/add.ui
+[type: gettext/glade]data/ui/gufw.ui
+[type: gettext/glade]data/ui/about.ui
+gufw/__init__.py
+gufw/gufw.py
+gufw/gufw/__init__.py
+gufw/gufw/instance.py
+gufw/gufw/controller.py
+gufw/gufw/model/__init__.py
+gufw/gufw/model/frontend.py
+gufw/gufw/model/ufw_backend.py
+gufw/gufw/model/firewall.py
+gufw/gufw/view/__init__.py
+gufw/gufw/view/add.py
+gufw/gufw/view/preferences.py
+gufw/gufw/view/gufw.py
+gufw/gufw/view/about.py
+gufw/gufw/view/update.py
+gufw/gufw/view/listening.py

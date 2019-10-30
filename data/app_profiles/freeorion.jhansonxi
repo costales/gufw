@@ -1,0 +1,7 @@
+[FreeOrion]
+title=FreeOrion
+description=A turn-based 4X strategy game inspired by Master of Orion from MicroProse
+ports=12346/tcp
+categories=Games;Action;
+reference=[http://www.freeorion.org/index.php/Multiplayer FreeOrionWiki: Multiplayer]
+

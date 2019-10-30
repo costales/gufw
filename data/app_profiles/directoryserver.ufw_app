@@ -1,0 +1,35 @@
+[Kerberos KDC]
+title=Kerberos v5 KDC
+description=Kerberos v5 KDC server
+ports=88
+categories=Network;
+
+[Kerberos Admin]
+title=Kerberos v5 admin
+description=Kerberos v5 server
+ports=749/tcp
+categories=Network;
+
+[Kerberos Password]
+title=Kerberos v5 password
+description=Kerberos v5 password
+ports=464/udp
+categories=Network;
+
+[Kerberos Full]
+title=Kerberos v5 Full
+description=Kerberos v5 server
+ports=88,749/tcp|464/udp
+categories=Network;
+
+[LDAP]
+title=LDAP
+description=LDAP server
+ports=389/tcp
+categories=Network;
+
+[LDAPS]
+title=LDAPS
+description=LDAP server (LDAPS)
+ports=636/tcp
+categories=Network;

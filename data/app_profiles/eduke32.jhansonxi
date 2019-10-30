@@ -1,0 +1,7 @@
+[EDuke32]
+title=EDuke32
+description=An enhanced version of Duke Nukem 3D
+ports=23513/udp
+categories=Games;Action;
+reference=[http://wiki.eduke32.com/wiki/Multiplayer EDuke32 wiki: Multiplayer]
+

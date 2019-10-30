@@ -1,0 +1,7 @@
+[Shogo MAD]
+title=Shogo: Mobile Armour Division
+description=A FPS by Monolith Productions
+ports=27888/udp
+categories=Games;Action;
+reference=[http://icculus.org/lgfaq/en/network.php Icculous.org: Networking Queries]
+

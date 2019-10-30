@@ -1,0 +1,7 @@
+[Civilization IV]
+title=Sid Meier's Civilization IV
+description=A turn-based strategy game from Firaxis Games
+ports=2033,2056/udp|2033/tcp
+categories=Games;Strategy;
+reference=[http://www.2kgames.com/civ4/patch-detail.htm v1.61 Patch changes]
+

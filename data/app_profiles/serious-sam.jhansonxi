@@ -1,0 +1,7 @@
+[Serious Sam]
+title=Serious Sam
+description=FPS by Croteam
+ports=25600:25601/udp|25600:25601/tcp
+categories=Games;Action;
+reference=[http://forums.seriouszone.com/showthread.php?57886-Serious-Sam-TFE-Server-Ports-Keep-Changing&p=910199&viewfull=1#post910199 Seriously!: Technical Support (SS1) - TFE Server Ports Keep Changing]
+

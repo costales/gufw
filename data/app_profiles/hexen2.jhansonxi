@@ -1,0 +1,35 @@
+[Hexen II 0]
+title=Hexen II - 26900/udp
+description=A fantasy FPS by Raven Software, server on port 27660
+ports=26900/udp
+categories=Games;Action;
+reference=[http://uhexen2.sourceforge.net/readme.html Hexen II: Hammer of Thyrion readme]
+
+[Hexen II 1]
+title=Hexen II - 26901/udp
+description=A fantasy FPS by Raven Software, server on port 26901
+ports=26901/udp
+categories=Games;Action;
+reference=[http://uhexen2.sourceforge.net/readme.html Hexen II: Hammer of Thyrion readme]
+
+[Hexen II 2]
+title=Hexen II - 26902/udp
+description=A fantasy FPS by Raven Software, server on port 26902
+ports=26902/udp
+categories=Games;Action;
+reference=[http://uhexen2.sourceforge.net/readme.html Hexen II: Hammer of Thyrion readme]
+
+[Hexen II 3]
+title=Hexen II - 26903/udp
+description=A fantasy FPS by Raven Software, server on port 26903
+ports=26903/udp
+categories=Games;Action;
+reference=[http://uhexen2.sourceforge.net/readme.html Hexen II: Hammer of Thyrion readme]
+
+[HexenWorld]
+title=HexenWorld - 26950/udp
+description=HexenWorld server by Raven Software
+ports=26950/udp
+categories=Games;Action;
+reference=[http://uhexen2.sourceforge.net/readme.html Hexen II: Hammer of Thyrion readme]
+

@@ -1,0 +1,4765 @@
+# Romanian translation for gui-ufw
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the gui-ufw package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gui-ufw\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-12-23 14:38+0000\n"
+"PO-Revision-Date: 2012-10-23 18:33+0000\n"
+"Last-Translator: Nicolae Crefelean <Unknown>\n"
+"Language-Team: Romanian <ro@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2018-06-23 08:04+0000\n"
+"X-Generator: Launchpad (build 18688)\n"
+
+#: ../gufw.desktop.in.h:1
+msgid "Firewall Configuration"
+msgstr "Configurare Firewall"
+
+#: ../gufw.desktop.in.h:2
+msgid "An easy way to configure your firewall"
+msgstr "O cale mai ușoară pentru configurarea firewall-ului"
+
+#: ../DEV_extra_translations/extra_translations.py:663
+msgid "PvPGN"
+msgstr "PvPGN"
+
+#: ../DEV_extra_translations/extra_translations.py:664
+msgid "Player vs Player Gaming Network server emulation based on bnetd"
+msgstr "Emulare a unui server Player vs Player Gaming Network bazat pe bnetd"
+
+#: ../DEV_extra_translations/extra_translations.py:75
+msgid "Network;Games;"
+msgstr "Network;Games;"
+
+#: ../DEV_extra_translations/extra_translations.py:665
+msgid "PvPGN Address Translation"
+msgstr "Translație de adrese PvPGN"
+
+#: ../DEV_extra_translations/extra_translations.py:666
+msgid "Player vs Player Gaming Network Address translation port"
+msgstr ""
+"Port de translație a adresei de rețea pentru Player vs Player Gaming Network"
+
+#: ../DEV_extra_translations/extra_translations.py:310
+msgid "Rune"
+msgstr "Rune"
+
+#: ../DEV_extra_translations/extra_translations.py:311
+msgid "A third-person fantasy combat game by Human Head Studios"
+msgstr "Un joc SF de lupte de la Human Head Studios"
+
+#: ../DEV_extra_translations/extra_translations.py:10
+msgid "Games;Action;"
+msgstr "Jocuri;Acțiune;"
+
+#: ../DEV_extra_translations/extra_translations.py:312
+msgid "Rune admin"
+msgstr "Administrator Rune"
+
+#: ../DEV_extra_translations/extra_translations.py:313
+msgid "Web-based administration for the Rune game by Human Head Studios"
+msgstr "Administrare web pentru jocul Rune de la Human Head Studios"
+
+#: ../DEV_extra_translations/extra_translations.py:691
+msgid "DOSBox IPX"
+msgstr "DOSBox IPX"
+
+#: ../DEV_extra_translations/extra_translations.py:692
+#: ../DEV_extra_translations/extra_translations.py:695
+msgid "DOS system emulator"
+msgstr "Emulator DOS"
+
+#: ../DEV_extra_translations/extra_translations.py:693
+msgid "System;Emulator;"
+msgstr "Sistem;Emulator;"
+
+#: ../DEV_extra_translations/extra_translations.py:694
+msgid "DOSBox Modem"
+msgstr "DOSBox Modem"
+
+#: ../DEV_extra_translations/extra_translations.py:823
+msgid "DXX-Rebirth"
+msgstr "DXX-Rebirth"
+
+#: ../DEV_extra_translations/extra_translations.py:824
+msgid "A source port of Descent, the 3D Flying FPS by Outrage Entertainment"
+msgstr ""
+"Portarea sursei jocului Descent, joc 3D cu zboruri, de la Outrage "
+"Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:753
+msgid "OpenMeetings Secure RTMP"
+msgstr "OpenMeetings Secure RTMP"
+
+#: ../DEV_extra_translations/extra_translations.py:754
+msgid "OpenMeetings Real Time Messaging Protocol over SSL"
+msgstr "Protocol de mesagerie prin SSL în timp real OpenMeetings"
+
+#: ../DEV_extra_translations/extra_translations.py:755
+msgid "Network;Video Conference;"
+msgstr "Rețea;Video conferință;"
+
+#: ../DEV_extra_translations/extra_translations.py:756
+msgid "OpenMeetings Tunneled RTMP"
+msgstr "OpenMeetings Tunneled RTMP"
+
+#: ../DEV_extra_translations/extra_translations.py:757
+msgid "OpenMeetings Real Time Messaging Protocol over HTTP"
+msgstr "Protocol de mesagerie prin HTTP în timp real OpenMeetings"
+
+#: ../DEV_extra_translations/extra_translations.py:758
+msgid "OpenMeetings HTTP"
+msgstr "OpenMeetings HTTP"
+
+#: ../DEV_extra_translations/extra_translations.py:759
+msgid "OpenMeetings HTTP server"
+msgstr "server HTTP OpenMeetings"
+
+#: ../DEV_extra_translations/extra_translations.py:760
+msgid "OpenMeetings DSP"
+msgstr "OpenMeetings DSP"
+
+#: ../DEV_extra_translations/extra_translations.py:761
+msgid "OpenMeetings Desktop Sharing Protocol (ODSP)"
+msgstr "Protocol de partajare a desktopului OpenMeetings (ODSP)"
+
+#: ../DEV_extra_translations/extra_translations.py:835
+msgid "Bos Wars"
+msgstr "Bos Wars"
+
+#: ../DEV_extra_translations/extra_translations.py:836
+msgid "A futuristic RTS based on the Stratagus engine"
+msgstr "Un joc RTS futuristic cu motor Stratagus"
+
+#: ../DEV_extra_translations/extra_translations.py:15
+msgid "Games;Strategy;"
+msgstr "Jocuri;Strategie;"
+
+#: ../DEV_extra_translations/extra_translations.py:733
+msgid "Dofus"
+msgstr "Dofus"
+
+#: ../DEV_extra_translations/extra_translations.py:734
+msgid "A massively multiplayer online role-playing game"
+msgstr "Joc MMORPG"
+
+#: ../DEV_extra_translations/extra_translations.py:206
+msgid "Games;Role;"
+msgstr "Jocuri;Jocuri de rol;"
+
+#: ../DEV_extra_translations/extra_translations.py:202
+msgid "Sid Meier's Civilization IV"
+msgstr "Sid Meier's Civilization IV"
+
+#: ../DEV_extra_translations/extra_translations.py:203
+msgid "A turn-based strategy game from Firaxis Games"
+msgstr "Joc de strategie de la Firaxis Games"
+
+#: ../DEV_extra_translations/extra_translations.py:163
+msgid "Chocolate Doom"
+msgstr "Chocolate Doom"
+
+#: ../DEV_extra_translations/extra_translations.py:164
+msgid ""
+"A Doom source port that accurately reproduces the experience of Doom as it "
+"was played in the 1990s"
+msgstr ""
+"Portare a jocului Doom care reproduce exact experiența jocului din anii '90"
+
+#: ../DEV_extra_translations/extra_translations.py:150
+msgid "Diablo II"
+msgstr "Diablo II"
+
+#: ../DEV_extra_translations/extra_translations.py:151
+#: ../DEV_extra_translations/extra_translations.py:685
+msgid "Fantasy combat game by Blizzard Entertainment"
+msgstr "Joc fantasy de la Blizzard Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:424
+msgid "Kali"
+msgstr "Kali"
+
+#: ../DEV_extra_translations/extra_translations.py:425
+msgid "Internet game browser and IPX network emulator"
+msgstr "Browser pentru jocuri pe internet și emulator de rețele IPX"
+
+#: ../DEV_extra_translations/extra_translations.py:418
+#: ../DEV_extra_translations/extra_translations.py:652
+msgid "SANE scanner"
+msgstr "Scaner SANE"
+
+#: ../DEV_extra_translations/extra_translations.py:419
+#: ../DEV_extra_translations/extra_translations.py:653
+msgid "Scanner Access Now Easy - scanner sharing server"
+msgstr "SANE - Server partajare scanner"
+
+#: ../DEV_extra_translations/extra_translations.py:654
+msgid "Network;Scanning;"
+msgstr "Rețea;Scanare;"
+
+#: ../DEV_extra_translations/extra_translations.py:655
+msgid "SANE Manual"
+msgstr "Manual SANE"
+
+#: ../DEV_extra_translations/extra_translations.py:656
+msgid ""
+"Scanner Access Now Easy - scanner sharing server, manual ports without "
+"nf_conntrack_sane module"
+msgstr ""
+"SANE - server partajare scanner, porturi manuale fără modulul "
+"nf_conntrack_sane"
+
+#: ../DEV_extra_translations/extra_translations.py:792
+msgid "Kohan: Immortal Sovereigns"
+msgstr "Kohan: Immortal Sovereigns"
+
+#: ../DEV_extra_translations/extra_translations.py:793
+msgid "A real-time strategy game by TimeGate Studios"
+msgstr "Joc de strategie în timp real de la TimeGate Studios"
+
+#: ../DEV_extra_translations/extra_translations.py:152
+msgid "IRC - 194/tcp"
+msgstr "IRC - 194/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:153
+msgid "Internet Relay Chat on official port 194 (rarely used)"
+msgstr "IRC pe portul oficial 194 (rar utilizat)"
+
+#: ../DEV_extra_translations/extra_translations.py:154
+msgid "Network;IRC;"
+msgstr "Rețea;IRC;"
+
+#: ../DEV_extra_translations/extra_translations.py:155
+msgid "IRC"
+msgstr "IRC"
+
+#: ../DEV_extra_translations/extra_translations.py:156
+msgid ""
+"Internet Relay Chat on common default port 6667, using nf_conntrack_irc DCC "
+"helper"
+msgstr ""
+"IRC pe portul implicit 6667, care utilizează nf_conntrack_irc DCC helper"
+
+#: ../DEV_extra_translations/extra_translations.py:157
+msgid "IRC SSL"
+msgstr "IRC SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:158
+msgid "Internet Relay Chat on SSL default port 6697"
+msgstr "IRC cu SSL pe portul implicit 6697"
+
+#: ../DEV_extra_translations/extra_translations.py:659
+msgid "Frostwire"
+msgstr "Frostwire"
+
+#: ../DEV_extra_translations/extra_translations.py:660
+msgid "Frostwire peer-peer file sharing on default port"
+msgstr "Partajare de fișiere cu Frostwire - port implicit"
+
+#: ../DEV_extra_translations/extra_translations.py:661
+msgid "Network;File Transfer;P2P;"
+msgstr "Rețea;Transfer fișiere;P2P;"
+
+#: ../DEV_extra_translations/extra_translations.py:59
+#: ../DEV_extra_translations/extra_translations.py:113
+#: ../DEV_extra_translations/extra_translations.py:351
+#: ../DEV_extra_translations/extra_translations.py:388
+#: ../DEV_extra_translations/extra_translations.py:397
+#: ../DEV_extra_translations/extra_translations.py:544
+#: ../DEV_extra_translations/extra_translations.py:547
+#: ../DEV_extra_translations/extra_translations.py:550
+#: ../DEV_extra_translations/extra_translations.py:601
+#: ../DEV_extra_translations/extra_translations.py:662
+#: ../DEV_extra_translations/extra_translations.py:669
+#: ../DEV_extra_translations/extra_translations.py:747
+msgid "Remember to open the ports on the router"
+msgstr "Nu uitați să deschideți porturile la router"
+
+#: ../DEV_extra_translations/extra_translations.py:516
+msgid "NFS (jhansonxi)"
+msgstr "NFS (jhansonxi)"
+
+#: ../DEV_extra_translations/extra_translations.py:517
+msgid ""
+"Network File System protocol with static ports at relatively unused "
+"4194:4197 (4195 broadcast out)"
+msgstr ""
+"Protocol NFS cu porturi statice relativ neutilizate 4194:4197 (4195 "
+"broadcast out - emitere spre rețea)"
+
+#: ../DEV_extra_translations/extra_translations.py:32
+msgid "Network;File Transfer;"
+msgstr "Rețea:Transfer fișiere;"
+
+#: ../DEV_extra_translations/extra_translations.py:518
+msgid "NFS Quota (jhansonxi)"
+msgstr "NFS Quota (jhansonxi)"
+
+#: ../DEV_extra_translations/extra_translations.py:519
+msgid ""
+"Network File System protocol with filesystem usage quota support with static "
+"ports at relatively unused 4194:4198 (4195 broadcast out)"
+msgstr ""
+"Suport pentru protocol NFS cu limită pentru utilizarea sistemului de fișiere "
+"cu porturile statice rar utilizate 4194:4198 (4195 broadcast out - emitere "
+"spre rețea)"
+
+#: ../DEV_extra_translations/extra_translations.py:189
+msgid "Freeciv"
+msgstr "Freeciv"
+
+#: ../DEV_extra_translations/extra_translations.py:190
+msgid ""
+"A turn-based strategy game similar to Civilization I & II by Microprose"
+msgstr "Joc de strategie asemănător cu Civilization I & II de la Microprose"
+
+#: ../DEV_extra_translations/extra_translations.py:33
+msgid "WINE: Starcraft"
+msgstr "WINE: Starcraft"
+
+#: ../DEV_extra_translations/extra_translations.py:34
+#: ../DEV_extra_translations/extra_translations.py:723
+msgid "A strategy game by Blizzard Entertainment"
+msgstr "Joc de strategie de la Blizzard Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:72
+msgid "KDE Connect"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:73
+msgid "Communicate across all your devices"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:124
+msgid "Network;Telephony;"
+msgstr "Rețea;Telefonie;"
+
+#: ../DEV_extra_translations/extra_translations.py:630
+msgid "Urban Terror - 27960/udp"
+msgstr "Urban Terror - 27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:631
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27660"
+msgstr ""
+"Joc FPS realistic de la Frozen Sand, bazat pe Quake III de la id Software, "
+"server pe portul 27660"
+
+#: ../DEV_extra_translations/extra_translations.py:632
+msgid "Urban Terror - 27961/udp"
+msgstr "Urban Terror - 27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:633
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27961"
+msgstr ""
+"Joc FPS realistic de la Frozen Sand, bazat pe Quake III de la id Software, "
+"server pe portul 27961"
+
+#: ../DEV_extra_translations/extra_translations.py:634
+msgid "Urban Terror - 27962/udp"
+msgstr "Urban Terror - 27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:635
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27962"
+msgstr ""
+"Joc FPS realistic de la Frozen Sand, bazat pe Quake III de la id Software, "
+"server pe portul 27962"
+
+#: ../DEV_extra_translations/extra_translations.py:636
+msgid "Urban Terror - 27963/udp"
+msgstr "Urban Terror - 27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:637
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27963"
+msgstr ""
+"Joc FPS realistic de la Frozen Sand, bazat pe Quake III de la id Software, "
+"server pe portul 27963"
+
+#: ../DEV_extra_translations/extra_translations.py:386
+msgid "Deluge Torrent"
+msgstr "Deluge Torrent"
+
+#: ../DEV_extra_translations/extra_translations.py:387
+msgid "Cross-platform BitTorrent client written with Python and GTK+"
+msgstr "Client BitTorrent multi-platformă scris în Python și GTK+"
+
+#: ../DEV_extra_translations/extra_translations.py:58
+msgid "Network;P2P;"
+msgstr "Rețea;P2P;"
+
+#: ../DEV_extra_translations/extra_translations.py:798
+msgid "Savage: The Battle for Newerth/Savage XR"
+msgstr "Savage: The Battle for Newerth/Savage XR"
+
+#: ../DEV_extra_translations/extra_translations.py:438
+#: ../DEV_extra_translations/extra_translations.py:799
+msgid "A RTS/FPS from S2 Games"
+msgstr "Joc RTS/FPS de la S2 Games"
+
+#: ../DEV_extra_translations/extra_translations.py:708
+msgid "Steel Storm"
+msgstr "Steel Storm"
+
+#: ../DEV_extra_translations/extra_translations.py:709
+msgid ""
+"A top-down arcade shooter with hovertanks by Kot-in-Action Creative Artel"
+msgstr "Joc arcade shooter cu tancuri, creat de Kot-in-Action Creative Artel"
+
+#: ../DEV_extra_translations/extra_translations.py:347
+msgid "YS FLIGHT SIMULATION 2000"
+msgstr "YS FLIGHT SIMULATION 2000"
+
+#: ../DEV_extra_translations/extra_translations.py:348
+msgid "A 3D flight simulator"
+msgstr "Simulator 3D de zbor"
+
+#: ../DEV_extra_translations/extra_translations.py:7
+msgid "Games;Simulation;"
+msgstr "Jocuri;Simulatoare;"
+
+#: ../DEV_extra_translations/extra_translations.py:91
+msgid "PulseAudio"
+msgstr "PulseAudio"
+
+#: ../DEV_extra_translations/extra_translations.py:92
+msgid "Networked sound server"
+msgstr "Server de sunet în rețea"
+
+#: ../DEV_extra_translations/extra_translations.py:64
+msgid "Network;Audio Video;Audio;"
+msgstr "Rețea;Audio Video;Audio;"
+
+#: ../DEV_extra_translations/extra_translations.py:200
+msgid "FreeCol"
+msgstr "FreeCol"
+
+#: ../DEV_extra_translations/extra_translations.py:201
+msgid "A turn-based strategy game similar to Colonization by Microprose"
+msgstr "Joc de strategie similar cu Colonization de la Microprose"
+
+#: ../DEV_extra_translations/extra_translations.py:482
+msgid "Skype - 23399"
+msgstr "Skype - 23399"
+
+#: ../DEV_extra_translations/extra_translations.py:483
+msgid "VoIP client"
+msgstr "Client VoIP"
+
+#: ../DEV_extra_translations/extra_translations.py:484
+msgid "Skype - 23398"
+msgstr "Skype - 23398"
+
+#: ../DEV_extra_translations/extra_translations.py:485
+#: ../DEV_extra_translations/extra_translations.py:487
+#: ../DEV_extra_translations/extra_translations.py:489
+#: ../DEV_extra_translations/extra_translations.py:491
+#: ../DEV_extra_translations/extra_translations.py:493
+#: ../DEV_extra_translations/extra_translations.py:495
+#: ../DEV_extra_translations/extra_translations.py:497
+#: ../DEV_extra_translations/extra_translations.py:499
+#: ../DEV_extra_translations/extra_translations.py:501
+msgid "VoIP client, suggested alternate port"
+msgstr "Client VoIP, port alternativ sugerat"
+
+#: ../DEV_extra_translations/extra_translations.py:486
+msgid "Skype - 23397"
+msgstr "Skype - 23397"
+
+#: ../DEV_extra_translations/extra_translations.py:488
+msgid "Skype - 23396"
+msgstr "Skype - 23396"
+
+#: ../DEV_extra_translations/extra_translations.py:490
+msgid "Skype - 23395"
+msgstr "Skype - 23395"
+
+#: ../DEV_extra_translations/extra_translations.py:492
+msgid "Skype - 23394"
+msgstr "Skype - 23394"
+
+#: ../DEV_extra_translations/extra_translations.py:494
+msgid "Skype - 23393"
+msgstr "Skype - 23393"
+
+#: ../DEV_extra_translations/extra_translations.py:496
+msgid "Skype - 23392"
+msgstr "Skype - 23392"
+
+#: ../DEV_extra_translations/extra_translations.py:498
+msgid "Skype - 23391"
+msgstr "Skype - 23391"
+
+#: ../DEV_extra_translations/extra_translations.py:500
+msgid "Skype - 23390"
+msgstr "Skype - 23390"
+
+#: ../DEV_extra_translations/extra_translations.py:414
+msgid "Delta Force: BHD"
+msgstr "Delta Force: BHD"
+
+#: ../DEV_extra_translations/extra_translations.py:415
+msgid "Black Hawk Down. A FPS combat game by NovaLogic"
+msgstr "Black Hawk Down, joc de luptă de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:395
+msgid "Amule"
+msgstr "Amule"
+
+#: ../DEV_extra_translations/extra_translations.py:396
+msgid ""
+"Free peer-to-peer file sharing application that works with the EDonkey "
+"network and the Kad network"
+msgstr ""
+"Aplicație gratuită pentru partajare de fișiere P2P care funcționează cu "
+"rețele EDonkey și Kad"
+
+#: ../DEV_extra_translations/extra_translations.py:382
+msgid "Gamer's Internet Tunnel"
+msgstr "Gamer's Internet Tunnel"
+
+#: ../DEV_extra_translations/extra_translations.py:383
+msgid "IPX network emulator from Morpheus Software"
+msgstr "Emulator de rețele IPX de la Morpheus Software"
+
+#: ../DEV_extra_translations/extra_translations.py:449
+msgid "Quake 4"
+msgstr "Quake 4"
+
+#: ../DEV_extra_translations/extra_translations.py:55
+#: ../DEV_extra_translations/extra_translations.py:210
+#: ../DEV_extra_translations/extra_translations.py:284
+#: ../DEV_extra_translations/extra_translations.py:450
+#: ../DEV_extra_translations/extra_translations.py:455
+#: ../DEV_extra_translations/extra_translations.py:513
+msgid "A FPS by id Software"
+msgstr "Un FPS de la id Software"
+
+#: ../DEV_extra_translations/extra_translations.py:118
+msgid "SSDP"
+msgstr "SSDP"
+
+#: ../DEV_extra_translations/extra_translations.py:119
+msgid "Simple Service Discovery Protocol"
+msgstr "Protocol Descoperire servicii simple (Simple Service Discovery)"
+
+#: ../DEV_extra_translations/extra_translations.py:37
+msgid "Network;"
+msgstr "Rețea;"
+
+#: ../DEV_extra_translations/extra_translations.py:101
+msgid "Quake III - 27960/udp"
+msgstr "Quake III - 27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:102
+msgid "A FPS by id Software, server on port 27660"
+msgstr "FPS de la id Software, server pe portul 27660"
+
+#: ../DEV_extra_translations/extra_translations.py:103
+msgid "Quake III - 27961/udp"
+msgstr "Quake III - 27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:104
+msgid "A FPS by id Software, server on port 27961"
+msgstr "FPS de la id Software, server pe portul 27661"
+
+#: ../DEV_extra_translations/extra_translations.py:105
+msgid "Quake III - 27962/udp"
+msgstr "Quake III - 27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:106
+msgid "A FPS by id Software, server on port 27962"
+msgstr "FPS de la id Software, server pe portul 27661"
+
+#: ../DEV_extra_translations/extra_translations.py:107
+msgid "Quake III - 27963/udp"
+msgstr "Quake III - 27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:108
+msgid "A FPS by id Software, server on port 27963"
+msgstr "FPS de la id Software, server pe portul 27663"
+
+#: ../DEV_extra_translations/extra_translations.py:125
+msgid "RTMP Real Time Messaging Protocol"
+msgstr "Protocol RTMP"
+
+#: ../DEV_extra_translations/extra_translations.py:126
+msgid "Real Time Messaging Protocol (Adobe Flash)"
+msgstr "Real Time Messaging Protocol (Adobe Flash)"
+
+#: ../DEV_extra_translations/extra_translations.py:120
+msgid "Sid Meier's Alpha Centauri"
+msgstr "Sid Meier's Alpha Centauri"
+
+#: ../DEV_extra_translations/extra_translations.py:121
+msgid "SciFi strategy game by Firaxis"
+msgstr "Joc SF de strategie de la Firaxis"
+
+#: ../DEV_extra_translations/extra_translations.py:48
+msgid "OpenArena"
+msgstr "OpenArena"
+
+#: ../DEV_extra_translations/extra_translations.py:49
+msgid "A competitive FPS based on ioquake3/id tech 3 engine"
+msgstr "Un FPS-concurs bazat pe motorul ioquake3/id tech 3"
+
+#: ../DEV_extra_translations/extra_translations.py:65
+msgid "Hedgewars"
+msgstr "Hedgewars"
+
+#: ../DEV_extra_translations/extra_translations.py:66
+#: ../DEV_extra_translations/extra_translations.py:749
+msgid "An arcade combat game inspired by Worms from Team17 Software"
+msgstr "Joc arcade inspirat de Worms de la Team17 Software"
+
+#: ../DEV_extra_translations/extra_translations.py:67
+msgid "Games;Arcade;"
+msgstr "Jocuri;Arcade;"
+
+#: ../DEV_extra_translations/extra_translations.py:476
+msgid "Firefly Media Server"
+msgstr "Server multimedia Firefly"
+
+#: ../DEV_extra_translations/extra_translations.py:477
+msgid "DAAP audio server formerly known as mt-daapd"
+msgstr "Server audio DAAP cunoscut înainte ca mt-daapd"
+
+#: ../DEV_extra_translations/extra_translations.py:688
+msgid "gpsd"
+msgstr "gpsd"
+
+#: ../DEV_extra_translations/extra_translations.py:689
+msgid "Interface daemon for GPS receivers"
+msgstr "Interfață pentru receptoare GPS"
+
+#: ../DEV_extra_translations/extra_translations.py:690
+msgid "Network;Geography;"
+msgstr "Rețea;Geografie;"
+
+#: ../DEV_extra_translations/extra_translations.py:269
+msgid "Castle-Combat - 50386/tcp"
+msgstr "Castle-Combat - 50386/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:270
+#: ../DEV_extra_translations/extra_translations.py:272
+msgid "A clone of Rampart from Atari Games"
+msgstr "Clonă a Rampart de la Atari Games"
+
+#: ../DEV_extra_translations/extra_translations.py:271
+msgid "Castle-Combat - 8787/tcp"
+msgstr "Castle-Combat - 8787/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:670
+msgid "Clonk"
+msgstr "Clonk"
+
+#: ../DEV_extra_translations/extra_translations.py:671
+msgid "An action/RTS/platform game by RedWolf Design; standard ports"
+msgstr "Un joc de acțiune/RTS de la RedWolf Design; porturi standard"
+
+#: ../DEV_extra_translations/extra_translations.py:672
+msgid "Clonk Host"
+msgstr "Gazdă Clonk"
+
+#: ../DEV_extra_translations/extra_translations.py:673
+msgid "An action/RTS/platform game by RedWolf Design; host ports"
+msgstr "Un joc de acțiune/RTS de la RedWolf Design; porturi pentru gazdă"
+
+#: ../DEV_extra_translations/extra_translations.py:674
+msgid "Clonk LAN"
+msgstr "Clonk LAN"
+
+#: ../DEV_extra_translations/extra_translations.py:675
+msgid ""
+"An action/RTS/platform game by RedWolf Design; LAN game discovery port"
+msgstr ""
+"Un joc de acțiune/RTS de la RedWolf Design; port pentru detectarea jocului "
+"în LAN"
+
+#: ../DEV_extra_translations/extra_translations.py:604
+msgid "NASCAR Racing 2002/03 1 player"
+msgstr "NASCAR Racing 2002/03 un jucător"
+
+#: ../DEV_extra_translations/extra_translations.py:605
+#: ../DEV_extra_translations/extra_translations.py:607
+#: ../DEV_extra_translations/extra_translations.py:609
+#: ../DEV_extra_translations/extra_translations.py:611
+#: ../DEV_extra_translations/extra_translations.py:613
+#: ../DEV_extra_translations/extra_translations.py:615
+#: ../DEV_extra_translations/extra_translations.py:617
+msgid "Racing simulators from Papyrus Design Group"
+msgstr "Simulatoare de curse de la Papyrus Design Group"
+
+#: ../DEV_extra_translations/extra_translations.py:606
+msgid "NASCAR Racing 2002/03 2 players"
+msgstr "NASCAR Racing 2002/03 2 jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:608
+msgid "NASCAR Racing 2002/03 4 players"
+msgstr "NASCAR Racing 2002/03 4 jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:610
+msgid "NASCAR Racing 2002/03  8 players"
+msgstr "NASCAR Racing 2002/03  8 jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:612
+msgid "NASCAR Racing 2002/03 16 players"
+msgstr "NASCAR Racing 2002/03 16 jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:614
+msgid "NASCAR Racing 2002/03 32 players"
+msgstr "NASCAR Racing 2002/03 32 jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:616
+msgid "NASCAR Racing 2002/03 42 players"
+msgstr "NASCAR Racing 2002/03 42 jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:837
+msgid "NFS TLDP NFS"
+msgstr "NFS TLDP NFS"
+
+#: ../DEV_extra_translations/extra_translations.py:838
+msgid ""
+"Network File System protocol with static ports at 32765:32768 (some "
+"conflicts with popular games)"
+msgstr ""
+"Protocol NFS cu porturi statice la 32765:32768 (unele intră în conflict cu "
+"jocuri populare)"
+
+#: ../DEV_extra_translations/extra_translations.py:839
+msgid "NFS Quota & TLDP NFS"
+msgstr "Limită NFS & TLDP NFS"
+
+#: ../DEV_extra_translations/extra_translations.py:840
+msgid ""
+"NFS with user/group filesystem usage quota support with static ports at "
+"32765:32769 (some conflicts with popular games)"
+msgstr ""
+"Suport NFS cu limită de utilizare pe utilizator/grup cu porturi statice la  "
+"32765:32769 (unele intră în conflict cu jocuri populare)"
+
+#: ../DEV_extra_translations/extra_translations.py:334
+msgid "XMPP"
+msgstr "XMPP"
+
+#: ../DEV_extra_translations/extra_translations.py:335
+msgid "Extensible Messaging and Presence Protocol client connection (Jabber)"
+msgstr ""
+"Conexiune pentru client Jabber pe protocol Extensible Messaging and Presence"
+
+#: ../DEV_extra_translations/extra_translations.py:336
+msgid "Network;Telephony;Instant Messaging;"
+msgstr "Rețea;Telefonie;Mesagerie Instantanee;"
+
+#: ../DEV_extra_translations/extra_translations.py:337
+msgid "XMPP SSL"
+msgstr "XMPP SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:338
+msgid ""
+"Extensible Messaging and Presence Protocol (Jabber) client connection with "
+"SSL encryption"
+msgstr ""
+"Conexiune pentru client Jabber pe protocol Extensible Messaging and Presence "
+"cu criptare SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:339
+msgid "XMPP Interserver"
+msgstr "Interserver XMPP"
+
+#: ../DEV_extra_translations/extra_translations.py:340
+msgid "Extensible Messaging and Presence Protocol server-server connection"
+msgstr ""
+"Conexiune server-server pe protocol Extensible Messaging and Presence"
+
+#: ../DEV_extra_translations/extra_translations.py:341
+msgid "XMPP Serverless"
+msgstr "XMPP fără server"
+
+#: ../DEV_extra_translations/extra_translations.py:342
+msgid ""
+"Extensible Messaging and Presence Protocol link-local messaging/serverless "
+"messaging"
+msgstr ""
+"Mesagerie fără server/locală pe protocol Extensible Messaging and Presence"
+
+#: ../DEV_extra_translations/extra_translations.py:180
+msgid "Syslog"
+msgstr "Syslog"
+
+#: ../DEV_extra_translations/extra_translations.py:181
+msgid "System logging"
+msgstr "Jurnalizare sistem"
+
+#: ../DEV_extra_translations/extra_translations.py:182
+msgid "System;"
+msgstr "Sistem;"
+
+#: ../DEV_extra_translations/extra_translations.py:422
+msgid "usbip"
+msgstr "usbip"
+
+#: ../DEV_extra_translations/extra_translations.py:423
+msgid "A Peripheral Bus Extension for Device Sharing over IP Network"
+msgstr "Extensie USB pentru partajare de dispozitive într-o rețea IP"
+
+#: ../DEV_extra_translations/extra_translations.py:76
+msgid "Myth II: Soulblighter"
+msgstr "Myth II: Soulblighter"
+
+#: ../DEV_extra_translations/extra_translations.py:77
+msgid "A real-time tactics game from Bungie"
+msgstr "Joc de strategie în timp real de la Bungie"
+
+#: ../DEV_extra_translations/extra_translations.py:439
+msgid "SIP"
+msgstr "SIP"
+
+#: ../DEV_extra_translations/extra_translations.py:440
+msgid ""
+"Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
+msgstr ""
+"Protocol de inițializare sesiune, ne-criptat, utilizând modulul  "
+"nf_conntrack_sip"
+
+#: ../DEV_extra_translations/extra_translations.py:441
+msgid "SIP TLS"
+msgstr "SIP TLS"
+
+#: ../DEV_extra_translations/extra_translations.py:442
+msgid "Session Initiation Protocol with TLS encryption"
+msgstr "Protocol de inițializare sesiune cu criptare TLS"
+
+#: ../DEV_extra_translations/extra_translations.py:568
+msgid "Evil Islands: CotLS"
+msgstr "Evil Islands: CotLS"
+
+#: ../DEV_extra_translations/extra_translations.py:569
+msgid "A RTS game with RPG and stealth elements from Nival Interactive"
+msgstr "Un joc RTS cu elemente RPG și stealth de la Nival Interactive"
+
+#: ../DEV_extra_translations/extra_translations.py:686
+msgid "PennMUSH"
+msgstr "PennMUSH"
+
+#: ../DEV_extra_translations/extra_translations.py:687
+msgid "A MUSH/MUD server"
+msgstr "Server MUSH/MUD"
+
+#: ../DEV_extra_translations/extra_translations.py:445
+msgid "Pioneers"
+msgstr "Pioneers"
+
+#: ../DEV_extra_translations/extra_translations.py:446
+msgid "A game based on The Settlers of Catan by Klaus Teuber"
+msgstr "Joc bazat pe The Settlers of Catan de Klaus Teuber"
+
+#: ../DEV_extra_translations/extra_translations.py:23
+msgid "Games;Board;"
+msgstr "Jocuri;Jocuri pe tablă;"
+
+#: ../DEV_extra_translations/extra_translations.py:447
+msgid "Pioneers Metaserver"
+msgstr "MEtaserver Pioneers"
+
+#: ../DEV_extra_translations/extra_translations.py:448
+msgid "Metaserver for Pioneers"
+msgstr "Metaserver pentru  Pioneers"
+
+#: ../DEV_extra_translations/extra_translations.py:178
+msgid "Multicast DNS"
+msgstr "Multicast DNS"
+
+#: ../DEV_extra_translations/extra_translations.py:179
+msgid "Multicast DNS (Avahi, Bonjour)"
+msgstr "Multicast DNS (Avahi, Bonjour)"
+
+#: ../DEV_extra_translations/extra_translations.py:13
+msgid "Warzone 2100"
+msgstr "Warzone 2100"
+
+#: ../DEV_extra_translations/extra_translations.py:14
+msgid "A RTS game by Pumpkin Studios"
+msgstr "Un joc RTS de la Pumpkin Studios"
+
+#: ../DEV_extra_translations/extra_translations.py:524
+msgid "BZFlag"
+msgstr "BZFlag"
+
+#: ../DEV_extra_translations/extra_translations.py:525
+msgid "A FPS tank battle capture the flag game"
+msgstr "Joc cu tancuri gen World of Tanks"
+
+#: ../DEV_extra_translations/extra_translations.py:291
+msgid "GGZ Gaming Zone"
+msgstr "GGZ Gaming Zone"
+
+#: ../DEV_extra_translations/extra_translations.py:292
+msgid "Network support for GNOME Games"
+msgstr "Suport rețea pentru jocuri Gnome"
+
+#: ../DEV_extra_translations/extra_translations.py:95
+msgid "XBMC Remote"
+msgstr "XBMC - Distanță"
+
+#: ../DEV_extra_translations/extra_translations.py:96
+msgid "Remote control for XBMC"
+msgstr "Controlează XBMC de la distanță"
+
+#: ../DEV_extra_translations/extra_translations.py:70
+msgid "Audio Video;TV;"
+msgstr "Audio Video;TV;"
+
+#: ../DEV_extra_translations/extra_translations.py:762
+msgid "VNC server display :0"
+msgstr "ecran server VNC :0"
+
+#: ../DEV_extra_translations/extra_translations.py:763
+msgid "Virtual Network Computing standard server display :0"
+msgstr "Afișaj pentru server standard VNC:0"
+
+#: ../DEV_extra_translations/extra_translations.py:592
+msgid "Network;Remote Access;"
+msgstr "Rețea;Acces la distanță;"
+
+#: ../DEV_extra_translations/extra_translations.py:224
+#: ../DEV_extra_translations/extra_translations.py:227
+#: ../DEV_extra_translations/extra_translations.py:230
+#: ../DEV_extra_translations/extra_translations.py:233
+#: ../DEV_extra_translations/extra_translations.py:236
+#: ../DEV_extra_translations/extra_translations.py:239
+#: ../DEV_extra_translations/extra_translations.py:242
+#: ../DEV_extra_translations/extra_translations.py:245
+#: ../DEV_extra_translations/extra_translations.py:320
+#: ../DEV_extra_translations/extra_translations.py:333
+#: ../DEV_extra_translations/extra_translations.py:346
+#: ../DEV_extra_translations/extra_translations.py:410
+#: ../DEV_extra_translations/extra_translations.py:766
+msgid "It may be a security risk to use a default allow policy"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:765
+#: ../DEV_extra_translations/extra_translations.py:777
+msgid "VNC displays :0-:1"
+msgstr "ecrane server VNC :0-:1"
+
+#: ../DEV_extra_translations/extra_translations.py:766
+msgid "Virtual Network Computing standard server displays :0 through :1"
+msgstr "Afișaje pentru server standard VNC de la :0 la :1"
+
+#: ../DEV_extra_translations/extra_translations.py:768
+#: ../DEV_extra_translations/extra_translations.py:780
+msgid "VNC displays :0-:3"
+msgstr "ecrane server VNC :0-:3"
+
+#: ../DEV_extra_translations/extra_translations.py:769
+msgid "Virtual Network Computing standard server displays :0 through :3"
+msgstr "Afișaje pentru server standard VNC de la :0 la :3"
+
+#: ../DEV_extra_translations/extra_translations.py:771
+#: ../DEV_extra_translations/extra_translations.py:783
+msgid "VNC displays :0-:7"
+msgstr "ecrane server VNC :0-:7"
+
+#: ../DEV_extra_translations/extra_translations.py:772
+msgid "Virtual Network Computing standard server displays :0 through :7"
+msgstr "Afișaje pentru server standard VNC de la :0 la :7"
+
+#: ../DEV_extra_translations/extra_translations.py:774
+msgid "VNC http server display :0"
+msgstr "ecran server http VNC :0"
+
+#: ../DEV_extra_translations/extra_translations.py:775
+msgid "Virtual Network Computing http server display :0"
+msgstr "Afișaje pentru server http VNC :0"
+
+#: ../DEV_extra_translations/extra_translations.py:778
+msgid "Virtual Network Computing http server displays :0 through :1"
+msgstr "Afișaje pentru server http VNC de la :0 la :1"
+
+#: ../DEV_extra_translations/extra_translations.py:781
+msgid "Virtual Network Computing http server displays :0 through :3"
+msgstr "Afișaje pentru server http VNC de la :0 la :3"
+
+#: ../DEV_extra_translations/extra_translations.py:784
+msgid "Virtual Network Computing http server displays :0 through :7"
+msgstr "Afișaje pentru server http VNC de la :0 la :7"
+
+#: ../DEV_extra_translations/extra_translations.py:245
+msgid "F-22 Raptor"
+msgstr "F-22 Raptor"
+
+#: ../DEV_extra_translations/extra_translations.py:6
+#: ../DEV_extra_translations/extra_translations.py:246
+msgid "A F-22 Raptor simulation by NovaLogic"
+msgstr "Un simulator pentru F-22 Raptor de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:426
+msgid "Shogo: Mobile Armour Division"
+msgstr "Shogo: Mobile Armour Division"
+
+#: ../DEV_extra_translations/extra_translations.py:427
+msgid "A FPS by Monolith Productions"
+msgstr "Joc FPS de la Monolith Productions"
+
+#: ../DEV_extra_translations/extra_translations.py:514
+msgid "Doomsday"
+msgstr "Doomsday"
+
+#: ../DEV_extra_translations/extra_translations.py:515
+msgid ""
+"A source port of id Software's Doom engine which supports Doom, Heretic, and "
+"Hexen"
+msgstr ""
+"Portare a motorului de jocuri de la id Software care suportă Doom, Heretic "
+"și Hexen"
+
+#: ../DEV_extra_translations/extra_translations.py:520
+msgid "Postal"
+msgstr "Postal"
+
+#: ../DEV_extra_translations/extra_translations.py:521
+msgid "Violent combat game from Running With Scissors"
+msgstr "Joc de lupte violente de la Running with Scissors"
+
+#: ../DEV_extra_translations/extra_translations.py:542
+msgid "BitTorrent Minimum"
+msgstr "BitTorrent Minimum"
+
+#: ../DEV_extra_translations/extra_translations.py:543
+#: ../DEV_extra_translations/extra_translations.py:546
+#: ../DEV_extra_translations/extra_translations.py:549
+msgid "BitTorrent peer-peer file sharing"
+msgstr "Partajare de fișiere BitTorrent"
+
+#: ../DEV_extra_translations/extra_translations.py:545
+msgid "BitTorrent"
+msgstr "BitTorrent"
+
+#: ../DEV_extra_translations/extra_translations.py:548
+msgid "BitTorrent Full"
+msgstr "BitTorrent complet"
+
+#: ../DEV_extra_translations/extra_translations.py:667
+msgid "qBittorent"
+msgstr "qBittorent"
+
+#: ../DEV_extra_translations/extra_translations.py:668
+msgid "Cross-platform BitTorrent client GUI written with Qt4"
+msgstr "Client cu interfață grafică pentru BitTorrent scris în Qt4"
+
+#: ../DEV_extra_translations/extra_translations.py:510
+msgid "HPLIP"
+msgstr "HPLIP"
+
+#: ../DEV_extra_translations/extra_translations.py:511
+msgid "HP Linux Imaging and Printing"
+msgstr "Tipărire și scanare HP pentru Linux (HPLIP)"
+
+#: ../DEV_extra_translations/extra_translations.py:430
+msgid "Network;Printing;"
+msgstr "Rețea;Tipărire;"
+
+#: ../DEV_extra_translations/extra_translations.py:129
+msgid "OpenTTD server"
+msgstr "Server OpenTTD"
+
+#: ../DEV_extra_translations/extra_translations.py:130
+msgid "An enhanced clone of Chris Sawyer's Transport Tycoon Deluxe"
+msgstr "Clonă îmbunătățită a Transport Tycoon Deluxe a lui Chris Sawyer"
+
+#: ../DEV_extra_translations/extra_translations.py:193
+msgid "Yet Another Netplay Guider"
+msgstr "Yet Another Netplay Guider"
+
+#: ../DEV_extra_translations/extra_translations.py:194
+msgid "YANG - Yet Another Netplay Guider, default game connection"
+msgstr "YANG - Yet Another Netplay Guider, conexiune implicită a jocului"
+
+#: ../DEV_extra_translations/extra_translations.py:195
+msgid "Games;"
+msgstr "Jocuri;"
+
+#: ../DEV_extra_translations/extra_translations.py:196
+msgid "Yet Another Netplay Guider Hosting"
+msgstr "Găzduire Yet Another Netplay Guider"
+
+#: ../DEV_extra_translations/extra_translations.py:197
+msgid "YANG - Yet Another Netplay Guider, room hosting"
+msgstr "YANG - Yet Another Netplay Guider, găzduire"
+
+#: ../DEV_extra_translations/extra_translations.py:198
+msgid "DXX-Rebirth on YANG"
+msgstr "DXX-Rebirth on YANG"
+
+#: ../DEV_extra_translations/extra_translations.py:199
+msgid "DXX-Rebirth, a source port of Descent, connected through YANG"
+msgstr "DXX-Rebirth, portare a  Descent, conectat prin YANG"
+
+#: ../DEV_extra_translations/extra_translations.py:560
+msgid "netPanzer"
+msgstr "netPanzer"
+
+#: ../DEV_extra_translations/extra_translations.py:561
+msgid "An online multiplayer tactical warfare game"
+msgstr "Un joc multiplayer online de strategie/război"
+
+#: ../DEV_extra_translations/extra_translations.py:597
+#: ../DEV_extra_translations/extra_translations.py:729
+msgid "Tremulous"
+msgstr "Tremulous"
+
+#: ../DEV_extra_translations/extra_translations.py:730
+msgid "Team-based SciFi/alien FPS from Dark Legion Development"
+msgstr "FPS SF pentru echipe de la Dark Legion Development"
+
+#: ../DEV_extra_translations/extra_translations.py:657
+msgid "Vibe Streamer"
+msgstr "Vibe Streamer"
+
+#: ../DEV_extra_translations/extra_translations.py:658
+msgid "A free MP3 streaming server"
+msgstr "Server gratuit de fluxuri MP3"
+
+#: ../DEV_extra_translations/extra_translations.py:247
+#: ../DEV_extra_translations/extra_translations.py:248
+msgid "GameSpy"
+msgstr "GameSpy"
+
+#: ../DEV_extra_translations/extra_translations.py:249
+msgid "GameSpy Arcade"
+msgstr "GameSpy Arcade"
+
+#: ../DEV_extra_translations/extra_translations.py:250
+msgid "GameSpy Arcade gaming network"
+msgstr "Rețea de jocuri GameSpy Arcade"
+
+#: ../DEV_extra_translations/extra_translations.py:21
+msgid "monopd"
+msgstr "monopd"
+
+#: ../DEV_extra_translations/extra_translations.py:22
+msgid "A game server for Monopoly-like board games"
+msgstr "Server pentru jocuri în stil Monopoly"
+
+#: ../DEV_extra_translations/extra_translations.py:241
+msgid "The Battle for Wesnoth"
+msgstr "The Battle for Wesnoth"
+
+#: ../DEV_extra_translations/extra_translations.py:242
+msgid "Turn-based tactical strategy game"
+msgstr "Joc de strategie și tactică"
+
+#: ../DEV_extra_translations/extra_translations.py:292
+msgid "NRPE Nagios Plugin"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:90
+msgid "Remote Plugin Executor"
+msgstr "Executare modul la distanță"
+
+#: ../DEV_extra_translations/extra_translations.py:18
+msgid "System;Monitor;"
+msgstr "Sistem;Monitorizare;"
+
+#: ../DEV_extra_translations/extra_translations.py:354
+msgid "Sacred - port 2005"
+msgstr "Sacred - port 2005"
+
+#: ../DEV_extra_translations/extra_translations.py:355
+#: ../DEV_extra_translations/extra_translations.py:357
+#: ../DEV_extra_translations/extra_translations.py:359
+#: ../DEV_extra_translations/extra_translations.py:361
+#: ../DEV_extra_translations/extra_translations.py:363
+#: ../DEV_extra_translations/extra_translations.py:365
+msgid "Server port for the fantasy RPG by Ascaron Entertainment"
+msgstr ""
+"Port pentru server pentru jocul de fantezie de la Ascaron Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:356
+msgid "Sacred - ports 2005:2006"
+msgstr "Sacred - porturi 2005:2006"
+
+#: ../DEV_extra_translations/extra_translations.py:358
+msgid "Sacred - ports 2005:2007"
+msgstr "Sacred - porturi 2005:2007"
+
+#: ../DEV_extra_translations/extra_translations.py:360
+msgid "Sacred - ports 2005:2008"
+msgstr "Sacred - porturi 2005:2008"
+
+#: ../DEV_extra_translations/extra_translations.py:362
+msgid "Sacred - ports 2005:2009"
+msgstr "Sacred - porturi 2005:2009"
+
+#: ../DEV_extra_translations/extra_translations.py:364
+msgid "Sacred - ports 2005:2010"
+msgstr "Sacred - porturi 2005:2010"
+
+#: ../DEV_extra_translations/extra_translations.py:570
+msgid "FreeOrion"
+msgstr "FreeOrion"
+
+#: ../DEV_extra_translations/extra_translations.py:571
+msgid ""
+"A turn-based 4X strategy game inspired by Master of Orion from MicroProse"
+msgstr "Un joc de strategie 4X inspirat de Master of Orion de la MicroProse"
+
+#: ../DEV_extra_translations/extra_translations.py:229
+msgid "Wakfu"
+msgstr "Wakfu"
+
+#: ../DEV_extra_translations/extra_translations.py:230
+msgid "An online tactical turn-based MMORPG"
+msgstr "Joc MMORPG tactic online"
+
+#: ../DEV_extra_translations/extra_translations.py:255
+msgid "DNS"
+msgstr "DNS"
+
+#: ../DEV_extra_translations/extra_translations.py:256
+msgid "Domain Name System"
+msgstr "Sistem nume domeniu (DNS)"
+
+#: ../DEV_extra_translations/extra_translations.py:480
+msgid "FooBillard"
+msgstr "FooBillard"
+
+#: ../DEV_extra_translations/extra_translations.py:481
+msgid "Cue sports simulation with Carambol, Snooker, and Pool"
+msgstr "Simulare jocuri cu bile ca Snooker, Carambol și Biliard"
+
+#: ../DEV_extra_translations/extra_translations.py:143
+msgid "Games;Sports;"
+msgstr "Jocuri;Sport;"
+
+#: ../DEV_extra_translations/extra_translations.py:318
+msgid "Drakan: Order of the Flame"
+msgstr "Drakan: Order of the Flame"
+
+#: ../DEV_extra_translations/extra_translations.py:319
+msgid "A dragon-riding action-adventure from Surreal Software"
+msgstr "Joc de aventuri cu dragoni de la Surreal Software"
+
+#: ../DEV_extra_translations/extra_translations.py:726
+msgid "VNC"
+msgstr "VNC"
+
+#: ../DEV_extra_translations/extra_translations.py:727
+msgid "Virtual Network Computing"
+msgstr "Virtualizare în rețea (VNC)"
+
+#: ../DEV_extra_translations/extra_translations.py:720
+msgid "Aleph One"
+msgstr "Aleph One"
+
+#: ../DEV_extra_translations/extra_translations.py:721
+msgid "An enhanced port of Marathon 2: Durandal from Bungie Software"
+msgstr "O versiune îmbunătățită a Marathon2:Durandal de la Bungie Software"
+
+#: ../DEV_extra_translations/extra_translations.py:251
+msgid "Cube 2: Sauerbraten"
+msgstr "Cube 2: Sauerbraten"
+
+#: ../DEV_extra_translations/extra_translations.py:252
+msgid "A FPS game based on the Cube engine"
+msgstr "Joc FPS bazat pe motorul Cube"
+
+#: ../DEV_extra_translations/extra_translations.py:512
+msgid "Doom II"
+msgstr "Doom II"
+
+#: ../DEV_extra_translations/extra_translations.py:586
+msgid "Windows Messenger"
+msgstr "Windows Messenger"
+
+#: ../DEV_extra_translations/extra_translations.py:587
+msgid ""
+"Windows Messenger/Windows Live Messenger application sharing and whiteboard "
+"(requires SIP)"
+msgstr ""
+"Partajare de aplicații și elemente grafice în Windows Messenger/Windows Live "
+"Messsenger (necesită SIP)"
+
+#: ../DEV_extra_translations/extra_translations.py:588
+msgid "Windows Messenger File"
+msgstr "Fișier Windows Messenger"
+
+#: ../DEV_extra_translations/extra_translations.py:589
+msgid "Windows Messenger/MSN Messenger file transfer"
+msgstr "Transfer fișiere Windows Messenger/MSN Messenger"
+
+#: ../DEV_extra_translations/extra_translations.py:590
+msgid "Windows Messenger Assistance"
+msgstr "Ajutor Windows Messenger"
+
+#: ../DEV_extra_translations/extra_translations.py:591
+msgid "Remote Assistance/Remote Desktop Protocol/Terminal Services (RDP)"
+msgstr ""
+"Asistență de la distanță/Protocol Remote Desktop/Terminal Services (RDP)"
+
+#: ../DEV_extra_translations/extra_translations.py:462
+msgid "Delta Force: LW"
+msgstr "Delta Force: LW"
+
+#: ../DEV_extra_translations/extra_translations.py:463
+msgid "Land Warrior. A FPS combat game by NovaLogic"
+msgstr "Land Warrior, joc FPS de lupte de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:577
+msgid "MegaMek"
+msgstr "MegaMek"
+
+#: ../DEV_extra_translations/extra_translations.py:578
+msgid "A unofficial online BattleTech game"
+msgstr "Un joc online BattleTech neoficial"
+
+#: ../DEV_extra_translations/extra_translations.py:579
+msgid "Games;Strategy;Java;"
+msgstr "Jocuri;Strategie;Java;"
+
+#: ../DEV_extra_translations/extra_translations.py:279
+msgid "Castle Vox"
+msgstr "Castle Vox"
+
+#: ../DEV_extra_translations/extra_translations.py:280
+msgid ""
+"A simultaneous-turns strategy game from Sillysoft influenced by Diplomacy "
+"and Axis & Allies"
+msgstr ""
+"Un joc de strategie de la Sillysoft influențat de Diplomacy și Axis & Allies"
+
+#: ../DEV_extra_translations/extra_translations.py:239
+msgid "D2X-XL"
+msgstr "D2X-XL"
+
+#: ../DEV_extra_translations/extra_translations.py:240
+msgid ""
+"A source port of Descent II, the 3D Flying FPS by Outrage Entertainment"
+msgstr ""
+"Portare a surselor de la Descent II, joc 3D FPS de la Outrage Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:114
+msgid "SSH"
+msgstr "SSH"
+
+#: ../DEV_extra_translations/extra_translations.py:115
+msgid "Secure Shell"
+msgstr "Shell Securizat"
+
+#: ../DEV_extra_translations/extra_translations.py:116
+msgid "Network;Services;"
+msgstr "Rețea;servicii;"
+
+#: ../DEV_extra_translations/extra_translations.py:289
+msgid "Lux"
+msgstr "Lux"
+
+#: ../DEV_extra_translations/extra_translations.py:290
+msgid ""
+"Delux, Ancient Empires and American History: A turn-based strategy game from "
+"Sillysoft influenced by Risk"
+msgstr ""
+"Delux, Imperii Vechi și Istorie Americană: joc de strategie de la Sillysoft "
+"influențat de Risk"
+
+#: ../DEV_extra_translations/extra_translations.py:56
+msgid "Transmission Daemon"
+msgstr "Daemon Transmission"
+
+#: ../DEV_extra_translations/extra_translations.py:57
+msgid "Remote control for Transmission"
+msgstr "Controlează Transmission de la distanță"
+
+#: ../DEV_extra_translations/extra_translations.py:398
+msgid "Warcraft II Battle.net"
+msgstr "Warcraft II Battle.net"
+
+#: ../DEV_extra_translations/extra_translations.py:399
+msgid "Strategy game by Blizzard Entertainment"
+msgstr "Joc de strategie de la Blizzard Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:378
+msgid "Knights and Merchants TSK"
+msgstr "Knights and Merchants TSK"
+
+#: ../DEV_extra_translations/extra_translations.py:379
+msgid "A RTS by Joymania"
+msgstr "Un RTS de Joymania"
+
+#: ../DEV_extra_translations/extra_translations.py:474
+msgid "Armored Fist 3"
+msgstr "Armored Fist 3"
+
+#: ../DEV_extra_translations/extra_translations.py:475
+msgid "A M1A2 Abrams tank simulation by NovaLogic"
+msgstr "Simulator tanc M1A2 Abrams de la Novalogic"
+
+#: ../DEV_extra_translations/extra_translations.py:8
+msgid "Assault Cube"
+msgstr "Assault Cube"
+
+#: ../DEV_extra_translations/extra_translations.py:9
+msgid "A free, multiplayer, first-person shooter game"
+msgstr "Joc FPS gratuit, multiplayer"
+
+#: ../DEV_extra_translations/extra_translations.py:165
+msgid "Widelands"
+msgstr "Widelands"
+
+#: ../DEV_extra_translations/extra_translations.py:166
+msgid "A RTS similar to The Settlers I & II from Blue Byte Software"
+msgstr "Un joc RTS similar cu The Settlers I și II de la Blue Byte Software"
+
+#: ../DEV_extra_translations/extra_translations.py:640
+msgid "MythTV"
+msgstr "MythTV"
+
+#: ../DEV_extra_translations/extra_translations.py:641
+msgid "MythTV backend"
+msgstr "Backend MythTV"
+
+#: ../DEV_extra_translations/extra_translations.py:506
+msgid "Postal 2"
+msgstr "Postal 2"
+
+#: ../DEV_extra_translations/extra_translations.py:507
+msgid "A FPS by Running with Scissors (uses the Unreal engine)"
+msgstr "Un FPS de la Running with Scissors (utilizează motorul Unreal)"
+
+#: ../DEV_extra_translations/extra_translations.py:786
+msgid "LPD"
+msgstr "LPD"
+
+#: ../DEV_extra_translations/extra_translations.py:787
+msgid "LPD server"
+msgstr "Server LPD"
+
+#: ../DEV_extra_translations/extra_translations.py:794
+msgid "Frozen Bubble"
+msgstr "Frozen Bubble"
+
+#: ../DEV_extra_translations/extra_translations.py:795
+msgid "A clone of Puzzle Bobble/Bust-a-Move"
+msgstr "Clonă a Puzzle Bobble/Bust-a-Move"
+
+#: ../DEV_extra_translations/extra_translations.py:829
+msgid "Vendetta Online"
+msgstr "Vendetta Online"
+
+#: ../DEV_extra_translations/extra_translations.py:830
+msgid ""
+"A twitch-based, science fiction massively multiplayer online role-playing "
+"game (MMORPG)"
+msgstr "Un joc MMORPG Science Fiction"
+
+#: ../DEV_extra_translations/extra_translations.py:16
+#: ../DEV_extra_translations/extra_translations.py:300
+msgid "hddtemp"
+msgstr "hddtemp"
+
+#: ../DEV_extra_translations/extra_translations.py:301
+msgid "Trivial File Transfer Protocol"
+msgstr "Protocol Trivial pentru transfer fișiere"
+
+#: ../DEV_extra_translations/extra_translations.py:137
+msgid "DirectX 7"
+msgstr "DirectX 7"
+
+#: ../DEV_extra_translations/extra_translations.py:138
+msgid "Network games using DirectX 7 API"
+msgstr "Jocuri în rețea care folosesc API-ul DirectX 7"
+
+#: ../DEV_extra_translations/extra_translations.py:139
+msgid "DirectX 8"
+msgstr "DirectX 8"
+
+#: ../DEV_extra_translations/extra_translations.py:140
+msgid "Network games using DirectX 8 API"
+msgstr "Jocuri în rețea care folosesc API-ul DirectX 8"
+
+#: ../DEV_extra_translations/extra_translations.py:345
+msgid "Dark Horizons: LI"
+msgstr "Dark Horizons: LI"
+
+#: ../DEV_extra_translations/extra_translations.py:346
+msgid ""
+"Lore Invasion. A mech-style FPS by Max Gaming Technologies using the Torque "
+"Game Engine"
+msgstr ""
+"Lore Invasion, un FPS de la Max Gaming Technologies care utilizează motorul "
+"de jocuri Torque Game Engine"
+
+#: ../DEV_extra_translations/extra_translations.py:281
+msgid "Teeworlds"
+msgstr "Teeworlds"
+
+#: ../DEV_extra_translations/extra_translations.py:282
+msgid "An open source sidescrolling multiplayer shooting game"
+msgstr "Joc cu sursă deschisă, multiplayer cu împușcături"
+
+#: ../DEV_extra_translations/extra_translations.py:62
+msgid "MPD"
+msgstr "MPD"
+
+#: ../DEV_extra_translations/extra_translations.py:63
+msgid "Music Player Daemon. A server for streaming music"
+msgstr "Utilitar redare muzică (mpd). Server pentru fluxuri audio"
+
+#: ../DEV_extra_translations/extra_translations.py:384
+msgid "OpenRPG"
+msgstr "OpenRPG"
+
+#: ../DEV_extra_translations/extra_translations.py:385
+msgid ""
+"A map/chat/dice-rolling tool to allow players to play tabletop games on-line"
+msgstr "Utilitar pentru jocuri on-line cu zaruri și altele de genul ăsta"
+
+#: ../DEV_extra_translations/extra_translations.py:404
+msgid "Subversion Server"
+msgstr "Server Subversion"
+
+#: ../DEV_extra_translations/extra_translations.py:405
+msgid "Subversion server for access to Subversion repositories"
+msgstr "Server Subversion pentru acces la depozite Subversion"
+
+#: ../DEV_extra_translations/extra_translations.py:376
+msgid "NSClient++"
+msgstr "NSClient++"
+
+#: ../DEV_extra_translations/extra_translations.py:377
+msgid "Used to monitor Windows machines from a Nagios Server"
+msgstr ""
+"Utilizat pentru monitorizarea sistemelor Windows de pe un server Nagios"
+
+#: ../DEV_extra_translations/extra_translations.py:111
+msgid "Nicotine"
+msgstr "Nicotine"
+
+#: ../DEV_extra_translations/extra_translations.py:112
+msgid ""
+"Nicotine is a SoulSeek client written in Python, based on the PySoulSeek "
+"project"
+msgstr ""
+"Nicotine este un client SoulSeek scris în Pyhton, bazat pe proiectul "
+"PySoulSeek"
+
+#: ../DEV_extra_translations/extra_translations.py:185
+msgid "Tribes 2"
+msgstr "Tribes 2"
+
+#: ../DEV_extra_translations/extra_translations.py:186
+msgid "A multiplayer combat online game by Dynamix - main port"
+msgstr "Joc online multiplayer de la Dynamix - portul principal"
+
+#: ../DEV_extra_translations/extra_translations.py:187
+msgid "Tribes 2 - 28000:29000/tcp/udp"
+msgstr "Tribes 2 - 28000:29000/tcp/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:188
+msgid "A multiplayer combat online game by Dynamix, all suggested ports open"
+msgstr ""
+"Joc online multiplayer de la Dynamix - toate porturile recomandate deschise"
+
+#: ../DEV_extra_translations/extra_translations.py:790
+msgid "Return To Castle Wolfenstein"
+msgstr "Return To Castle Wolfenstein"
+
+#: ../DEV_extra_translations/extra_translations.py:791
+msgid ""
+"WWII FPS and sequel from Splash Damage, Gray Matter Interactive, Nerve "
+"Software, and id Software"
+msgstr ""
+"Joc FPS cu Al Doilea Război Mondial de la Splash Damage, Gray Matter "
+"Interactive, Nerve Software, și id Software"
+
+#: ../DEV_extra_translations/extra_translations.py:408
+msgid "Steam"
+msgstr "Steam"
+
+#: ../DEV_extra_translations/extra_translations.py:409
+msgid "Software distribution service and game server browser from Valve"
+msgstr ""
+"Serviciu de distribuire de software și browser de servere de la Valve"
+
+#: ../DEV_extra_translations/extra_translations.py:410
+msgid "For Steam Client see the category: Games / Steam"
+msgstr "Pentru clientul Steam mergeți la: Jocuri / Steam"
+
+#: ../DEV_extra_translations/extra_translations.py:259
+msgid "Descent 3"
+msgstr "Descent 3"
+
+#: ../DEV_extra_translations/extra_translations.py:260
+msgid "3D Flying FPS by Outrage Entertainment"
+msgstr "Joc FPS 3D Flying de la Outrage Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:285
+msgid "NFS"
+msgstr "NFS"
+
+#: ../DEV_extra_translations/extra_translations.py:286
+msgid "Network File System"
+msgstr "Sistem Fișiere Rețea (NFS)"
+
+#: ../DEV_extra_translations/extra_translations.py:602
+msgid "Warsow"
+msgstr "Warsow"
+
+#: ../DEV_extra_translations/extra_translations.py:603
+msgid "A competitive FPS based on the Qfusion 3D/id tech 2 engine"
+msgstr "Joc FPS bazat pe motorul Qfusion 3D/id tech 2"
+
+#: ../DEV_extra_translations/extra_translations.py:594
+msgid "RDP"
+msgstr "RDP"
+
+#: ../DEV_extra_translations/extra_translations.py:595
+msgid "Remote Desktop Protocols"
+msgstr "Protocoale Remote Desktop"
+
+#: ../DEV_extra_translations/extra_translations.py:389
+msgid "TeamSpeak 3"
+msgstr "TeamSpeak 3"
+
+#: ../DEV_extra_translations/extra_translations.py:390
+msgid "TeamSpeak 3 voice service"
+msgstr "Serviciu de voce pentru TeamSpeak 3"
+
+#: ../DEV_extra_translations/extra_translations.py:391
+msgid "TeamSpeak 3 File"
+msgstr "Fișier teamSpeak 3"
+
+#: ../DEV_extra_translations/extra_translations.py:392
+msgid "TeamSpeak 3 file transfer"
+msgstr "Transfer de fișiere pentru TeamSpeak 3"
+
+#: ../DEV_extra_translations/extra_translations.py:393
+msgid "TeamSpeak 3 Query"
+msgstr "Interogare TeamSpeak 3"
+
+#: ../DEV_extra_translations/extra_translations.py:394
+msgid "TeamSpeak 3 TCP query"
+msgstr "Interogare TCP pentru TeamSpeak 3"
+
+#: ../DEV_extra_translations/extra_translations.py:557
+msgid "Ur-Quan Masters"
+msgstr "Ur-Quan Masters"
+
+#: ../DEV_extra_translations/extra_translations.py:558
+msgid "An enhanced version of Star Control II from 3DO"
+msgstr "Versiune îmbunătățită a Star Control II de la 3DO"
+
+#: ../DEV_extra_translations/extra_translations.py:559
+msgid "Games;Adventure;"
+msgstr "Jocuri;Aventură;"
+
+#: ../DEV_extra_translations/extra_translations.py:306
+msgid "SiN"
+msgstr "SiN"
+
+#: ../DEV_extra_translations/extra_translations.py:307
+msgid "A FPS by Ritual Entertainment"
+msgstr "Un FPS de la Ritual Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:86
+msgid "SAMBA"
+msgstr "SAMBA"
+
+#: ../DEV_extra_translations/extra_translations.py:87
+msgid ""
+"SMB/CIFS protocol for Unix systems, allowing you to serve files and printers "
+"to Windows, NT, OS/2 and DOS clients"
+msgstr ""
+"Protocol SMB/CIFS pentru sisteme Unix care permite partajarea de fișiere și "
+"imprimante cu clienți Windows, NT, OS/2 și DOS"
+
+#: ../DEV_extra_translations/extra_translations.py:88
+msgid "Network;Services;|Network;File Transfer"
+msgstr "Rețea;Servicii;|Rețea;Transfer fișiere"
+
+#: ../DEV_extra_translations/extra_translations.py:745
+msgid "Vuze Remote"
+msgstr "Vuze - Remote"
+
+#: ../DEV_extra_translations/extra_translations.py:746
+msgid "Remote control for Vuze"
+msgstr "Controlează Vuze de la distanță"
+
+#: ../DEV_extra_translations/extra_translations.py:802
+msgid "MiG-29 Fulcrum"
+msgstr "MiG-29 Fulcrum"
+
+#: ../DEV_extra_translations/extra_translations.py:803
+msgid "A Mikoyan-Gurevich MiG-29 Fulcrum simulation by NovaLogic"
+msgstr "Simulator Mikoyan-Gurevich MiG-29 Fulcrum de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:209
+msgid "Quake"
+msgstr "Quake"
+
+#: ../DEV_extra_translations/extra_translations.py:211
+msgid "QuakeWorld"
+msgstr "QuakeWorld"
+
+#: ../DEV_extra_translations/extra_translations.py:212
+msgid "An enhanced multiplayer version of Quake by id Software"
+msgstr "O versiune multiplayer îmbunătățită a Quake de la id Software"
+
+#: ../DEV_extra_translations/extra_translations.py:207
+msgid "Optimized Link State Routing"
+msgstr "Rutare optimizată pentru starea legăturii"
+
+#: ../DEV_extra_translations/extra_translations.py:208
+msgid "A mesh networking protocol"
+msgstr "Protocol pentru rețele tip „mesh”"
+
+#: ../DEV_extra_translations/extra_translations.py:131
+msgid "Blood II: The Chosen"
+msgstr "Blood II: The Chosen"
+
+#: ../DEV_extra_translations/extra_translations.py:132
+msgid "A FPS from Monolith Productions"
+msgstr "Un FPS de la Monolith Productions"
+
+#: ../DEV_extra_translations/extra_translations.py:696
+msgid "People Nearby"
+msgstr "People Nearby"
+
+#: ../DEV_extra_translations/extra_translations.py:697
+msgid "People Nearby (Bonjour/Salut) functionality in Empathy"
+msgstr "Funcționalitate People Nearby (Bonjour/Salut) în Empathy"
+
+#: ../DEV_extra_translations/extra_translations.py:698
+msgid "Bonjour"
+msgstr "Bonjour"
+
+#: ../DEV_extra_translations/extra_translations.py:699
+msgid "Bonjour protocol"
+msgstr "Protocol Bonjour"
+
+#: ../DEV_extra_translations/extra_translations.py:700
+msgid "MSN Chat"
+msgstr "MSN Chat"
+
+#: ../DEV_extra_translations/extra_translations.py:701
+msgid "MSN chat protocol (with file transfer and voice)"
+msgstr "Protocol MSN cu transfer de fișier și voce"
+
+#: ../DEV_extra_translations/extra_translations.py:702
+msgid "MSN Chat (SSL)"
+msgstr "MSN Chat (SSL)"
+
+#: ../DEV_extra_translations/extra_translations.py:703
+msgid "MSN chat protocol SSL"
+msgstr "Protocol SSL pentru mesagerie MSN"
+
+#: ../DEV_extra_translations/extra_translations.py:704
+msgid "AIM Talk"
+msgstr "AIM Talk"
+
+#: ../DEV_extra_translations/extra_translations.py:705
+msgid "AIM talk protocol"
+msgstr "Protocol AIM  pentru voce"
+
+#: ../DEV_extra_translations/extra_translations.py:706
+msgid "Yahoo Chat"
+msgstr "Yahoo Chat"
+
+#: ../DEV_extra_translations/extra_translations.py:707
+msgid "Yahoo chat protocol"
+msgstr "Protocol mesagerie yahoo"
+
+#: ../DEV_extra_translations/extra_translations.py:827
+msgid "FreeLords"
+msgstr "FreeLords"
+
+#: ../DEV_extra_translations/extra_translations.py:828
+msgid "A clone of Warlords"
+msgstr "O clonă a Warlords"
+
+#: ../DEV_extra_translations/extra_translations.py:99
+msgid "Snowball Surprise (SnowballZ)"
+msgstr "Snowball Surprise (SnowballZ)"
+
+#: ../DEV_extra_translations/extra_translations.py:100
+msgid "A RTS snowball fight"
+msgstr "Joc RTS de bătaie cu zăpadă"
+
+#: ../DEV_extra_translations/extra_translations.py:676
+msgid "Crossfire"
+msgstr "Crossfire"
+
+#: ../DEV_extra_translations/extra_translations.py:677
+msgid ""
+"An open source, cooperative multiplayer graphical RPG and adventure game"
+msgstr "Joc RPG și de aventuri, multiplayer, cu sursă deschisă"
+
+#: ../DEV_extra_translations/extra_translations.py:678
+msgid "Crossfire Metaserver"
+msgstr "Metaserver Crossfire"
+
+#: ../DEV_extra_translations/extra_translations.py:679
+msgid "Metaserver for Crossfire RPG"
+msgstr "Metaserver pentru jocul RPG  Crossfire"
+
+#: ../DEV_extra_translations/extra_translations.py:380
+msgid "Mumble"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:381
+msgid "A voice chat application for groups"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:716
+msgid "0verkill"
+msgstr "0verkill"
+
+#: ../DEV_extra_translations/extra_translations.py:717
+msgid "An ASCII-art 2D deathmatch game"
+msgstr "Joc de artă ASCII 2D"
+
+#: ../DEV_extra_translations/extra_translations.py:314
+msgid "Liquid War"
+msgstr "Liquid War"
+
+#: ../DEV_extra_translations/extra_translations.py:315
+msgid "An original shortest path algorithm and core concept"
+msgstr "Algoritm original pentru calea cea mai scurtă și un concept de bază"
+
+#: ../DEV_extra_translations/extra_translations.py:263
+msgid "Thousand Parsec"
+msgstr "Thousand Parsec"
+
+#: ../DEV_extra_translations/extra_translations.py:264
+#: ../DEV_extra_translations/extra_translations.py:266
+#: ../DEV_extra_translations/extra_translations.py:268
+msgid ""
+"A common framework for building turn based space empire building games"
+msgstr ""
+"Cadru (framework) comun pentru construirea de jocuri de strategie și lupte "
+"spațiale"
+
+#: ../DEV_extra_translations/extra_translations.py:265
+msgid "Thousand Parsec SSL"
+msgstr "Thousand Parsec SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:267
+msgid "Thousand Parsec Admin"
+msgstr "Administrator Thousand Parsec"
+
+#: ../DEV_extra_translations/extra_translations.py:599
+msgid "Transmission"
+msgstr "Transmission"
+
+#: ../DEV_extra_translations/extra_translations.py:600
+msgid ""
+"BitTorrent client which features a simple interface on top of a cross-"
+"platform backend"
+msgstr "Client BitTorrent multi-sistem cu o interfață simplă"
+
+#: ../DEV_extra_translations/extra_translations.py:416
+msgid "Daimonin"
+msgstr "Daimonin"
+
+#: ../DEV_extra_translations/extra_translations.py:417
+msgid "An open-source MMORPG"
+msgstr "Un MMORPG cu sursă deschisă"
+
+#: ../DEV_extra_translations/extra_translations.py:293
+msgid "GNUMP3d"
+msgstr "GNUMP3d"
+
+#: ../DEV_extra_translations/extra_translations.py:294
+msgid "An audio streaming server"
+msgstr "Server pentru fluxuri audio"
+
+#: ../DEV_extra_translations/extra_translations.py:400
+msgid "World of Warcraft"
+msgstr "World of Warcraft"
+
+#: ../DEV_extra_translations/extra_translations.py:401
+msgid "A MMORPG game by Blizzard Entertainment"
+msgstr "Joc MMORPG de la Blizzard Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:478
+msgid "Majesty: The Fantasy Kingdom Sim"
+msgstr "Majesty: The Fantasy Kingdom Sim"
+
+#: ../DEV_extra_translations/extra_translations.py:479
+msgid "A RTS by Cyberlore Studios, ported to Linux by Linux Game Publishing"
+msgstr ""
+"Un RTS de la Cyberlore Studios, portat pe Linux de Linux Game Publishing"
+
+#: ../DEV_extra_translations/extra_translations.py:750
+msgid "Vuze"
+msgstr "Vuze"
+
+#: ../DEV_extra_translations/extra_translations.py:751
+msgid ""
+"BitTorrent client used to transfer files via the BitTorrent protocol. Vuze "
+"uses the Azureus Engine"
+msgstr ""
+"Client BitTorrent pentru tranferul de fișiere prin protocolul BitTorrent. "
+"Vuze utilizează motorul Azureus"
+
+#: ../DEV_extra_translations/extra_translations.py:752
+msgid ""
+"You need to add the main random port too that you selected the first time"
+msgstr ""
+"Trebuie să adăugați și portul aleator principal pe care l-ați ales prima dată"
+
+#: ../DEV_extra_translations/extra_translations.py:466
+msgid "Asterisk"
+msgstr "Asterisc"
+
+#: ../DEV_extra_translations/extra_translations.py:467
+msgid ""
+"An open source telephony switching and private branch exchange service"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:468
+msgid "Review that ports are the same in /etc/asterisk/rtp.conf"
+msgstr "Verificați dacă sunt aceleași porturi în /etc/asterisk/rtp.conf"
+
+#: ../DEV_extra_translations/extra_translations.py:349
+msgid "KTorrent"
+msgstr "KTorrent"
+
+#: ../DEV_extra_translations/extra_translations.py:350
+msgid "Feature rich BitTorrent client by KDE"
+msgstr "Client Bittorrent KDE cu multe funcții"
+
+#: ../DEV_extra_translations/extra_translations.py:183
+msgid "DHCP"
+msgstr "DHCP"
+
+#: ../DEV_extra_translations/extra_translations.py:184
+msgid "Dynamic Host Configuration Protocol"
+msgstr "Protocol DHCP"
+
+#: ../DEV_extra_translations/extra_translations.py:443
+msgid "Scorched 3D server"
+msgstr "Server Scorched 3D"
+
+#: ../DEV_extra_translations/extra_translations.py:444
+msgid "A modernization of the classic DOS game Scorched Earth"
+msgstr "Varianta modernizată a jocului clasic pentru DOS Scorched Earth"
+
+#: ../DEV_extra_translations/extra_translations.py:584
+msgid "Prey"
+msgstr "Prey"
+
+#: ../DEV_extra_translations/extra_translations.py:585
+msgid "A SciFi FPS action adventure by 3D Realms"
+msgstr "Joc SF de aventuri de la 3D Realms"
+
+#: ../DEV_extra_translations/extra_translations.py:435
+msgid "Nexuiz"
+msgstr "Nexuiz"
+
+#: ../DEV_extra_translations/extra_translations.py:436
+msgid "A FPS based on Darkplaces/Quake engine by id Software"
+msgstr "Joc FPS bazat pe motorul Darkplaces/Quake de la id Software"
+
+#: ../DEV_extra_translations/extra_translations.py:159
+msgid "Battlefield 1942"
+msgstr "Battlefield 1942"
+
+#: ../DEV_extra_translations/extra_translations.py:160
+msgid "A WWII FPS from Digital Illusions CE"
+msgstr "Un joc FPS cu Al dilea război mondial de la Digital Illusions CE"
+
+#: ../DEV_extra_translations/extra_translations.py:161
+msgid "Battlefield 1942 Console"
+msgstr "Battlefield 1942 - consolă"
+
+#: ../DEV_extra_translations/extra_translations.py:162
+msgid "The RemoteConsole administration tool for Battlefield 1942"
+msgstr "Utilitar de administrare de la distanță pentru Battlefield 1942"
+
+#: ../DEV_extra_translations/extra_translations.py:735
+msgid "XPilot"
+msgstr "XPilot"
+
+#: ../DEV_extra_translations/extra_translations.py:736
+#: ../DEV_extra_translations/extra_translations.py:738
+#: ../DEV_extra_translations/extra_translations.py:740
+#: ../DEV_extra_translations/extra_translations.py:742
+#: ../DEV_extra_translations/extra_translations.py:744
+msgid "A 2D space combat game"
+msgstr "Joc 2D de lupte în spațiu"
+
+#: ../DEV_extra_translations/extra_translations.py:737
+msgid "XPilot 2-players"
+msgstr "XPilot 2-jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:739
+msgid "XPilot 4-players"
+msgstr "XPilot 4-jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:741
+msgid "XPilot 8-players"
+msgstr "XPilot 8-jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:743
+msgid "XPilot 16-players"
+msgstr "XPilot 16-jucători"
+
+#: ../DEV_extra_translations/extra_translations.py:17
+msgid "Data storage device temperature data server"
+msgstr ""
+"Server pentru stocarea datelor privind temperatura dispozitivelor de stocare"
+
+#: ../DEV_extra_translations/extra_translations.py:825
+msgid "Serious Sam"
+msgstr "Serious Sam"
+
+#: ../DEV_extra_translations/extra_translations.py:797
+#: ../DEV_extra_translations/extra_translations.py:826
+msgid "FPS by Croteam"
+msgstr "FPS de la Croteam"
+
+#: ../DEV_extra_translations/extra_translations.py:431
+msgid "Enemy Territory: Quake Wars"
+msgstr "Enemy Territory: Quake Wars"
+
+#: ../DEV_extra_translations/extra_translations.py:432
+msgid "A FPS by Splash Damage"
+msgstr "Un FPS de la Splash Damage"
+
+#: ../DEV_extra_translations/extra_translations.py:84
+msgid "NAT"
+msgstr "NAT"
+
+#: ../DEV_extra_translations/extra_translations.py:85
+msgid "Port Mapping Protocol"
+msgstr "Protocol de mapare a porturilor"
+
+#: ../DEV_extra_translations/extra_translations.py:30
+#: ../DEV_extra_translations/extra_translations.py:788
+msgid "FTP"
+msgstr "FTP"
+
+#: ../DEV_extra_translations/extra_translations.py:31
+#: ../DEV_extra_translations/extra_translations.py:789
+msgid "File Transfer Protocol"
+msgstr "Protocol transfer fișiere"
+
+#: ../DEV_extra_translations/extra_translations.py:225
+msgid "ManiaDrive game server"
+msgstr "Server jocuri ManiaDrive"
+
+#: ../DEV_extra_translations/extra_translations.py:226
+msgid "A clone of TrackMania from Nadeo"
+msgstr "Clonă a TrackMania de la Nadeo"
+
+#: ../DEV_extra_translations/extra_translations.py:227
+msgid "ManiaDrive HTTP server "
+msgstr "Server HTTP ManiaDrive "
+
+#: ../DEV_extra_translations/extra_translations.py:228
+msgid "ManiaDrive/Raydium game monitor HTTP server"
+msgstr "Server HTTP de monitorizare jocuri ManiaDrive/Raydium"
+
+#: ../DEV_extra_translations/extra_translations.py:24
+msgid "UPnP"
+msgstr "UPnP"
+
+#: ../DEV_extra_translations/extra_translations.py:25
+msgid ""
+"Universal Plug and Play. It is a framework which can be used to make "
+"networked applications"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:26
+msgid "System;General;"
+msgstr "Sistem;General;"
+
+#: ../DEV_extra_translations/extra_translations.py:217
+msgid "SEDS Serious Sam"
+msgstr "SEDS Serious Sam"
+
+#: ../DEV_extra_translations/extra_translations.py:218
+msgid "Dedicated server for the FPS by Croteam"
+msgstr "Server dedicat pentru jocuri de la Croteam"
+
+#: ../DEV_extra_translations/extra_translations.py:219
+msgid "SEDS Remote Admin"
+msgstr "Administrator de la distanță SEDS"
+
+#: ../DEV_extra_translations/extra_translations.py:220
+msgid ""
+"Default remote administration Telnet port for Serious Engine dedicated server"
+msgstr ""
+"Portul implicitTelnet de administrare de la distanță pentru serverul dedicat "
+"Serious Engine"
+
+#: ../DEV_extra_translations/extra_translations.py:221
+msgid "SEDS - port 25601"
+msgstr "SEDS - port 25601"
+
+#: ../DEV_extra_translations/extra_translations.py:222
+msgid "Dedicated server for the FPS by Croteam, alternate game port 25601"
+msgstr ""
+"Server dedicat pentru jocuri FPS de la Croteam, port alternativ 25601"
+
+#: ../DEV_extra_translations/extra_translations.py:223
+msgid "SEDS Admin - port 25600"
+msgstr "Administrator SEDS - port 25600"
+
+#: ../DEV_extra_translations/extra_translations.py:224
+msgid ""
+"Alternate 25600 remote administration Telnet port for Serious Engine "
+"dedicated server"
+msgstr ""
+"Port alternativ 25600 pentru administrarea Telnet de la distanță a "
+"serverului dedicat pentru Serious Engine"
+
+#: ../DEV_extra_translations/extra_translations.py:714
+msgid "Games for Windows - Live"
+msgstr "Jocuri pentru Windows-Live"
+
+#: ../DEV_extra_translations/extra_translations.py:715
+msgid "Network games using Games for Windows - Live API"
+msgstr "Jocuri în rețea care utilizează API-ul Games for Windows-Live"
+
+#: ../DEV_extra_translations/extra_translations.py:508
+msgid "Spring game engine"
+msgstr "Motor de jocuri Spring"
+
+#: ../DEV_extra_translations/extra_translations.py:509
+msgid ""
+"An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
+msgstr ""
+"O clonă îmbunătățită a jocului Total Annihilation de la Cavedog Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:598
+msgid ""
+"A free and open source team-based first-person shooter with real-time "
+"strategy elements"
+msgstr ""
+"Joc FPS gratuit cu sursă deschisă și cu elemente de strategie în timp real"
+
+#: ../DEV_extra_translations/extra_translations.py:831
+msgid "LBreakout2 - 8001/udp"
+msgstr "LBreakout2 - 8001/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:832
+#: ../DEV_extra_translations/extra_translations.py:834
+msgid "A Breakout clone"
+msgstr "O clonă a Breakout"
+
+#: ../DEV_extra_translations/extra_translations.py:833
+msgid "LBreakout2 - 2002/udp"
+msgstr "LBreakout2 - 2002/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:454
+msgid "Doom3"
+msgstr "Doom3"
+
+#: ../DEV_extra_translations/extra_translations.py:204
+msgid "Ryzom"
+msgstr "Ryzom"
+
+#: ../DEV_extra_translations/extra_translations.py:205
+msgid ""
+"It's also known as The Saga of Ryzom, is a massively multiplayer online role-"
+"playing game (MMORPG)"
+msgstr "Cunoscut și ca The Saga of Ryzom, un joc MMORPG"
+
+#: ../DEV_extra_translations/extra_translations.py:420
+msgid "F-16 Multirole Fighter"
+msgstr "F-16 Multirole Fighter"
+
+#: ../DEV_extra_translations/extra_translations.py:421
+msgid "A F-16 simulation by NovaLogic"
+msgstr "Simulator F-16 de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:451
+msgid "MySQL"
+msgstr "MySQL"
+
+#: ../DEV_extra_translations/extra_translations.py:452
+msgid "MySQL Database"
+msgstr "Bază de date MySQL"
+
+#: ../DEV_extra_translations/extra_translations.py:453
+msgid "Office;Database;"
+msgstr "Birou;Baze de date;"
+
+#: ../DEV_extra_translations/extra_translations.py:562
+msgid "Neverwinter Nights server"
+msgstr "Server Neverwinter Nights"
+
+#: ../DEV_extra_translations/extra_translations.py:563
+msgid "Default port for Neverwinter Nights, a RPG from Bioware"
+msgstr "Portul implicit pentru Neverwinter Nights, un joc RPG de la Bioware"
+
+#: ../DEV_extra_translations/extra_translations.py:5
+msgid "F-22 Lightning 3"
+msgstr "F-22 Lightning 3"
+
+#: ../DEV_extra_translations/extra_translations.py:213
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: ../DEV_extra_translations/extra_translations.py:214
+msgid ""
+"File hosting service, that offers cloud storage, file synchronization and "
+"client software"
+msgstr ""
+"Serviciu de găzduire de fișiere ce oferă stocare „cloud”, sincronizare de "
+"fișiere și aplicații client"
+
+#: ../DEV_extra_translations/extra_translations.py:83
+msgid "Network;Cloud;"
+msgstr "Rețea;Cloud;"
+
+#: ../DEV_extra_translations/extra_translations.py:320
+msgid "HTTP"
+msgstr "HTTP"
+
+#: ../DEV_extra_translations/extra_translations.py:321
+msgid "WWW standard protocol on port 80/tcp (IANA/Debian www, http)"
+msgstr "Protocol WWW standard pe portul 80/tcp (IANA/Debian www, http)"
+
+#: ../DEV_extra_translations/extra_translations.py:322
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: ../DEV_extra_translations/extra_translations.py:323
+msgid "WWW standard protocol with SSL/TLS on port 443/tcp (IANA https)"
+msgstr "Protocol WWW standard cu SSL/TLS pe portul 443/tcp (IANA https)"
+
+#: ../DEV_extra_translations/extra_translations.py:324
+msgid "HTTP - 8008/tcp"
+msgstr "HTTP - 8008/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:325
+msgid "WWW standard protocol on port 8008/tcp (IANA http-alt)"
+msgstr "Protocol WWW standard pe portul 8008/tcp (IANA htttp-alt)"
+
+#: ../DEV_extra_translations/extra_translations.py:326
+#: ../DEV_extra_translations/extra_translations.py:327
+msgid "Web Server (HTTP,HTTPS)"
+msgstr "Server web (HTTP, HTTPS)"
+
+#: ../DEV_extra_translations/extra_translations.py:328
+#: ../DEV_extra_translations/extra_translations.py:329
+msgid "Web Server (8080)"
+msgstr "Server web (8080)"
+
+#: ../DEV_extra_translations/extra_translations.py:330
+msgid "HTTP - 8090/tcp"
+msgstr "HTTP - 8090/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:331
+msgid ""
+"WWW standard protocol on port 8090/tcp (IANA unassigned, commonly "
+"http_alt_alt)"
+msgstr ""
+"Protocol WWW standard pe portul 8090/tcp (IANA neatribuit, de obicei "
+"http_alt_alt)"
+
+#: ../DEV_extra_translations/extra_translations.py:718
+msgid "USB Redirector"
+msgstr "Redirectare USB"
+
+#: ../DEV_extra_translations/extra_translations.py:719
+msgid "USB device sharing system from INCENTIVES Pro"
+msgstr "Sistem de partajare USB de la INCENTIVES Pro"
+
+#: ../DEV_extra_translations/extra_translations.py:97
+msgid "Globulation 2"
+msgstr "Globulation 2"
+
+#: ../DEV_extra_translations/extra_translations.py:98
+msgid "A RTS"
+msgstr "Un RTS"
+
+#: ../DEV_extra_translations/extra_translations.py:469
+msgid "Webmin"
+msgstr "Webmin"
+
+#: ../DEV_extra_translations/extra_translations.py:470
+#: ../DEV_extra_translations/extra_translations.py:473
+msgid "Web-page based system management utility"
+msgstr "Utilitar web de administrare a sistemului"
+
+#: ../DEV_extra_translations/extra_translations.py:471
+msgid "Network;Shell;"
+msgstr "Rețea;Shell;"
+
+#: ../DEV_extra_translations/extra_translations.py:472
+msgid "Webmin fast RPC"
+msgstr "Webmin fast RPC"
+
+#: ../DEV_extra_translations/extra_translations.py:536
+msgid "Counter-Strike 2D"
+msgstr "Counter-Strike 2D"
+
+#: ../DEV_extra_translations/extra_translations.py:537
+msgid ""
+"A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software"
+msgstr ""
+"Clonă 2D a jocului Counter Strike (făcut de Valve Software) de la Unreal "
+"Software"
+
+#: ../DEV_extra_translations/extra_translations.py:682
+msgid "GameRanger"
+msgstr "GameRanger"
+
+#: ../DEV_extra_translations/extra_translations.py:683
+msgid "A game server browser from GameRanger Technologies"
+msgstr "Browser pentru servere de jocuri de la GameRanger Technologies"
+
+#: ../DEV_extra_translations/extra_translations.py:287
+msgid "0 A.D."
+msgstr "0 A.D."
+
+#: ../DEV_extra_translations/extra_translations.py:288
+msgid "A free/open-source RTS game of ancient warfare from Wildfire Games"
+msgstr ""
+"Joc RTS gratuit/cu sursă deschisă cu lupte din antichitate de la Wildfire "
+"Games"
+
+#: ../DEV_extra_translations/extra_translations.py:809
+msgid "CUPS"
+msgstr "CUPS"
+
+#: ../DEV_extra_translations/extra_translations.py:810
+msgid "Modular printing system for Unix-like computer operating systems"
+msgstr ""
+"Sistem de tipărire modular pentru sistemele de operare bazate pe Unix"
+
+#: ../DEV_extra_translations/extra_translations.py:813
+msgid "NFS (Chris Lowth)"
+msgstr "NFS (Chris Lowth)"
+
+#: ../DEV_extra_translations/extra_translations.py:814
+msgid ""
+"Network File System protocol with static ports at 4000:4002 (some conflicts "
+"with popular games; statd broadcast on random port)"
+msgstr ""
+"Protocol de sistem de fișiere în rețea (NFS) cu porturi statice la 4000:4002 "
+"(unele intră în conflict cu jocuri populare; statd emite pe un port "
+"aleatoriu)"
+
+#: ../DEV_extra_translations/extra_translations.py:815
+msgid "NFS Quota (Chris Lowth)"
+msgstr "NFS Quota (Chris Lowth)"
+
+#: ../DEV_extra_translations/extra_translations.py:816
+msgid ""
+"NFS with user/group filesystem usage quota support with static ports at "
+"4000:4003 (some conflicts with popular games; statd broadcast on random port)"
+msgstr ""
+"Suport pentru NFS cu limită de utilizare pe utilizator/grup cu porturi "
+"statice 4000:4003  (unele intră în conflict cu jocuri populare; statd emite "
+"pe un port aleatoriu)"
+
+#: ../DEV_extra_translations/extra_translations.py:366
+msgid "Hexen II - 26900/udp"
+msgstr "Hexen II - 26900/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:367
+msgid "A fantasy FPS by Raven Software, server on port 27660"
+msgstr "Joc FPS fantastic de la Raven Software, server pe portul 27660"
+
+#: ../DEV_extra_translations/extra_translations.py:368
+msgid "Hexen II - 26901/udp"
+msgstr "Hexen II - 26901/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:369
+msgid "A fantasy FPS by Raven Software, server on port 26901"
+msgstr "Joc FPS fantastic de la Raven Software, server pe portul 26901"
+
+#: ../DEV_extra_translations/extra_translations.py:370
+msgid "Hexen II - 26902/udp"
+msgstr "Hexen II - 26902/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:371
+msgid "A fantasy FPS by Raven Software, server on port 26902"
+msgstr "Joc FPS fantastic de la Raven Software, server pe portul 27902"
+
+#: ../DEV_extra_translations/extra_translations.py:372
+msgid "Hexen II - 26903/udp"
+msgstr "Hexen II - 26903/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:373
+msgid "A fantasy FPS by Raven Software, server on port 26903"
+msgstr "Joc FPS fantastic de la Raven Software, server pe portul 27903"
+
+#: ../DEV_extra_translations/extra_translations.py:374
+msgid "HexenWorld - 26950/udp"
+msgstr "HexenWorld - 26950/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:375
+msgid "HexenWorld server by Raven Software"
+msgstr "Server HexenWorld de la Raven Software"
+
+#: ../DEV_extra_translations/extra_translations.py:572
+msgid "Telnet"
+msgstr "Telnet"
+
+#: ../DEV_extra_translations/extra_translations.py:573
+msgid "Text-based remote access (like SSH but without the security)"
+msgstr "Acces la distanță pe bază de text (ca SSH dar fără securitate)"
+
+#: ../DEV_extra_translations/extra_translations.py:574
+msgid ""
+"Telnet is like SSH but without security. It'd be better to use the 'Telnet "
+"SSL'"
+msgstr ""
+"Telnet este ca SSH, dar fără securitate. Mai bine utilizați „Telnet SSL”"
+
+#: ../DEV_extra_translations/extra_translations.py:575
+msgid "Telnet TLS/SSL"
+msgstr "Telnet TLS/SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:576
+msgid "Text-based remote access (like SSH but without the security) SSL"
+msgstr "Acces la distanță din consolă SSL (ca SSH, dar fără securitate)"
+
+#: ../DEV_extra_translations/extra_translations.py:464
+msgid "Dropbox LanSync"
+msgstr "Dropbox LanSync"
+
+#: ../DEV_extra_translations/extra_translations.py:465
+msgid "A web-based file hosting service"
+msgstr "Un serviciu de găzduire de fișiere bazat pe web"
+
+#: ../DEV_extra_translations/extra_translations.py:710
+msgid "Tor Normal"
+msgstr "Tor Normal"
+
+#: ../DEV_extra_translations/extra_translations.py:711
+msgid "Tor anonymity network"
+msgstr "Rețea anonimă Tor"
+
+#: ../DEV_extra_translations/extra_translations.py:304
+msgid "Comanche 4"
+msgstr "Comanche 4"
+
+#: ../DEV_extra_translations/extra_translations.py:305
+msgid "A Comanche RAH-66 helicopter simulation by NovaLogic"
+msgstr "Simulator de elicopter  Comanche RAH-66 de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:141
+msgid "Full Metal Soccer server"
+msgstr "Server Full Metal Soccer"
+
+#: ../DEV_extra_translations/extra_translations.py:142
+#: ../DEV_extra_translations/extra_translations.py:145
+#: ../DEV_extra_translations/extra_translations.py:147
+msgid "A soccer game played with tanks by QuantiCode"
+msgstr "Joc de fotbal cu tancurile de la QuantiCode"
+
+#: ../DEV_extra_translations/extra_translations.py:144
+msgid "Full Metal Soccer ranking server"
+msgstr "Server de clasament Full Metal Soccer"
+
+#: ../DEV_extra_translations/extra_translations.py:146
+msgid "Full Metal Soccer master server"
+msgstr "Server principal Full Metal Soccer"
+
+#: ../DEV_extra_translations/extra_translations.py:191
+msgid "DAAP"
+msgstr "DAAP"
+
+#: ../DEV_extra_translations/extra_translations.py:192
+msgid "Digital Audio Access Protocol"
+msgstr "Protocol Acces Audio Digital (DAAP)"
+
+#: ../DEV_extra_translations/extra_translations.py:538
+msgid "Socks Proxy"
+msgstr "Socks Proxy"
+
+#: ../DEV_extra_translations/extra_translations.py:539
+msgid "SOCKS protocol for proxy server support"
+msgstr "Protocol SOCKS pentru suport server proxy"
+
+#: ../DEV_extra_translations/extra_translations.py:540
+msgid "Transparent Proxy"
+msgstr "Proxy transparent"
+
+#: ../DEV_extra_translations/extra_translations.py:541
+msgid "Transparent proxy"
+msgstr "Proxy transparent"
+
+#: ../DEV_extra_translations/extra_translations.py:402
+msgid "UFO: Alien Invasion"
+msgstr "UFO: Alien Invasion"
+
+#: ../DEV_extra_translations/extra_translations.py:403
+msgid "An open-source 3D RTS inspired by X-COM"
+msgstr "Un joc RTS 3D cu sursă deschisă inspirat de X-COM"
+
+#: ../DEV_extra_translations/extra_translations.py:253
+msgid "Armagetron Advanced"
+msgstr "Armagetron Advanced"
+
+#: ../DEV_extra_translations/extra_translations.py:254
+msgid "A 3D clone of the Light Cycle game in Tron"
+msgstr "Clonă 3D a Light Cycle din Tron"
+
+#: ../DEV_extra_translations/extra_translations.py:257
+msgid "Alien Arena"
+msgstr "Alien Arena"
+
+#: ../DEV_extra_translations/extra_translations.py:258
+msgid "A SciFi competitive FPS based on the CRX/id Tech 2 engine"
+msgstr "Joc SF FPS bazat pe motorul CRX/id Tech 2"
+
+#: ../DEV_extra_translations/extra_translations.py:71
+msgid "Tachyon: The Fringe"
+msgstr "Tachyon: The Fringe"
+
+#: ../DEV_extra_translations/extra_translations.py:72
+msgid "A 3D space combat game by NovaLogic"
+msgstr "Joc 3D de lupte în spațiu de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:428
+msgid "IPP"
+msgstr "IPP"
+
+#: ../DEV_extra_translations/extra_translations.py:429
+msgid "Internet Printing Protocol"
+msgstr "Protocol de tipărire pe internet"
+
+#: ../DEV_extra_translations/extra_translations.py:580
+msgid "Delta Force: Xtreme"
+msgstr "Delta Force: Xtreme"
+
+#: ../DEV_extra_translations/extra_translations.py:12
+#: ../DEV_extra_translations/extra_translations.py:503
+#: ../DEV_extra_translations/extra_translations.py:581
+#: ../DEV_extra_translations/extra_translations.py:681
+msgid "A FPS combat game by NovaLogic"
+msgstr "Un joc de luptă FPS de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:722
+msgid "WINE: Warcraft III"
+msgstr "WINE: Warcraft III"
+
+#: ../DEV_extra_translations/extra_translations.py:724
+msgid "WINE: Warcraft III all ports"
+msgstr "WINE:Toate porturile Warcraft III"
+
+#: ../DEV_extra_translations/extra_translations.py:725
+msgid "Warcraft III with 6112-6119 TCP ports open"
+msgstr "Porturi TCP 6112-6119  deschise pentru Warcraft III"
+
+#: ../DEV_extra_translations/extra_translations.py:522
+msgid "Heroes of Might and Magic III"
+msgstr "Heroes of Might and Magic III"
+
+#: ../DEV_extra_translations/extra_translations.py:523
+msgid "A fantasy strategy game by 3DO"
+msgstr "Joc de strategie de la 3DO"
+
+#: ../DEV_extra_translations/extra_translations.py:133
+msgid "STUN"
+msgstr "STUN"
+
+#: ../DEV_extra_translations/extra_translations.py:134
+msgid "Session Traversal Utilities for NAT"
+msgstr "Utilitare Session Traversal pentru NAT (STUN)"
+
+#: ../DEV_extra_translations/extra_translations.py:135
+msgid "STUN TLS"
+msgstr "STUN TLS"
+
+#: ../DEV_extra_translations/extra_translations.py:136
+msgid "Session Traversal Utilities for NAT with TLS encryption"
+msgstr "Utilitare Session Traversal pentru NAT (STUN) cu criptare TLS"
+
+#: ../DEV_extra_translations/extra_translations.py:684
+msgid "Diablo"
+msgstr "Diablo"
+
+#: ../DEV_extra_translations/extra_translations.py:433
+msgid "Delta Force: TFD"
+msgstr "Delta Force: TFD"
+
+#: ../DEV_extra_translations/extra_translations.py:434
+msgid "Task Force Dagger. A FPS combat game by NovaLogic"
+msgstr "Task Force Dagger. Joc FPS de la NovaLogic"
+
+#: ../DEV_extra_translations/extra_translations.py:680
+msgid "Delta Force 2"
+msgstr "Delta Force 2"
+
+#: ../DEV_extra_translations/extra_translations.py:712
+msgid "DEFCON"
+msgstr "DEFCON"
+
+#: ../DEV_extra_translations/extra_translations.py:713
+msgid "A thermo-nuclear war strategy game from Introversion Software"
+msgstr ""
+"Un joc de strategie cu război termo-nuclear de la Introversion Software"
+
+#: ../DEV_extra_translations/extra_translations.py:78
+msgid "NTP"
+msgstr "NTP"
+
+#: ../DEV_extra_translations/extra_translations.py:79
+msgid "Network Time Protocol"
+msgstr "Network Time Protocol"
+
+#: ../DEV_extra_translations/extra_translations.py:80
+msgid "Network;Time;"
+msgstr "Rețea;Timp;"
+
+#: ../DEV_extra_translations/extra_translations.py:411
+msgid "AMANDA"
+msgstr "AMANDA"
+
+#: ../DEV_extra_translations/extra_translations.py:412
+msgid "Backup server from Zmanda; standard port with nf_conntrack_amanda"
+msgstr "Server de backup de la Zmanda; port standard cu nf_conntrack_amanda"
+
+#: ../DEV_extra_translations/extra_translations.py:413
+msgid "Network;Archiving;"
+msgstr "Rețea;Arhivare;"
+
+#: ../DEV_extra_translations/extra_translations.py:231
+msgid "World of Padman - 27960/udp"
+msgstr "World of Padman - 27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:232
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27960"
+msgstr ""
+"Un FPS de la Padworld Entertainment bazat pe Quake III, server pe portul "
+"27960"
+
+#: ../DEV_extra_translations/extra_translations.py:233
+msgid "World of Padman - 27961/udp"
+msgstr "World of Padman - 27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:234
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27961"
+msgstr ""
+"Un FPS de la Padworld Entertainment bazat pe Quake III, server pe portul "
+"27961"
+
+#: ../DEV_extra_translations/extra_translations.py:235
+msgid "World of Padman - 27962/udp"
+msgstr "World of Padman - 27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:236
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27962"
+msgstr ""
+"Un FPS de la Padworld Entertainment bazat pe Quake III, server pe portul "
+"27962"
+
+#: ../DEV_extra_translations/extra_translations.py:237
+msgid "World of Padman - 27963/udp"
+msgstr "World of Padman - 27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:238
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27963"
+msgstr ""
+"Un FPS de la Padworld Entertainment bazat pe Quake III, server pe portul "
+"27962"
+
+#: ../DEV_extra_translations/extra_translations.py:28
+#: ../DEV_extra_translations/extra_translations.py:456
+#: ../DEV_extra_translations/extra_translations.py:457
+msgid "H.323 Call Signaling"
+msgstr "Semnalizare apel H.323"
+
+#: ../DEV_extra_translations/extra_translations.py:29
+msgid "Network;Telephony;Video Conference;"
+msgstr "Rețea;Telefonie;Conferințe video;"
+
+#: ../DEV_extra_translations/extra_translations.py:458
+msgid "H.323 discovery"
+msgstr "Descoperire H.323"
+
+#: ../DEV_extra_translations/extra_translations.py:459
+msgid "H.323 multicast gatekeeper discovery (H.225)"
+msgstr "H.323 multicast gatekeeper discovery (H.225)"
+
+#: ../DEV_extra_translations/extra_translations.py:460
+msgid "H.323 RAS"
+msgstr "H.323 RAS"
+
+#: ../DEV_extra_translations/extra_translations.py:461
+msgid "H.323 Gatekeeper Registration, Admission and Status (H.225)"
+msgstr "H.323 Gatekeeper Registration, Admission and Status (H.225)"
+
+#: ../DEV_extra_translations/extra_translations.py:243
+msgid "Balazar III"
+msgstr "Balazar III"
+
+#: ../DEV_extra_translations/extra_translations.py:244
+msgid "A 2D/3D dungeon adventure game"
+msgstr "Joc de aventuri 2D/3D"
+
+#: ../DEV_extra_translations/extra_translations.py:811
+msgid "GNUnet"
+msgstr "GNUnet"
+
+#: ../DEV_extra_translations/extra_translations.py:812
+msgid ""
+"A decentralized peer-to-peer networking framework with file sharing and "
+"messaging"
+msgstr ""
+"Un cadru descentralizat pentru rețele P2P cu partajare de fișiere și "
+"mesagerie"
+
+#: ../DEV_extra_translations/extra_translations.py:19
+msgid "Abuse"
+msgstr "Abuse"
+
+#: ../DEV_extra_translations/extra_translations.py:20
+msgid "A dark 2D side-scrolling platform game developed by Crack dot Com"
+msgstr "Joc 2D derulant de la Crack dot Com"
+
+#: ../DEV_extra_translations/extra_translations.py:352
+msgid "Glest"
+msgstr "Glest"
+
+#: ../DEV_extra_translations/extra_translations.py:353
+msgid "A free, open source 3D RTS game server"
+msgstr "Server de jocuri 3D RTS gratuit, cu sursă deschisă"
+
+#: ../DEV_extra_translations/extra_translations.py:81
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: ../DEV_extra_translations/extra_translations.py:82
+msgid ""
+"Store files online and sync them between computers and mobile devices, as "
+"well as stream audio and music from cloud to mobile devices"
+msgstr ""
+"Stocați fișierele online și sincronizați-le cu calculatoarele și "
+"dispozitivele dvs. mobile, redați fluxuri audio (streaming) din „cloud” pe "
+"dispozitivele mobile"
+
+#: ../DEV_extra_translations/extra_translations.py:11
+msgid "Joint Operations: Typhoon Rising"
+msgstr "Joint Operations: Typhoon Rising"
+
+#: ../DEV_extra_translations/extra_translations.py:215
+msgid "Legends"
+msgstr "Legends"
+
+#: ../DEV_extra_translations/extra_translations.py:216
+msgid "A FPS based on the Torque Engine"
+msgstr "Joc FPS bazat pe motorul Torque"
+
+#: ../DEV_extra_translations/extra_translations.py:817
+msgid "TeamSpeak 2 voice"
+msgstr "TeamSpeak 2 voce"
+
+#: ../DEV_extra_translations/extra_translations.py:818
+msgid "TeamSpeak 2 voice service"
+msgstr "Serviciu pentru voce TeamSpeak 2"
+
+#: ../DEV_extra_translations/extra_translations.py:819
+msgid "TeamSpeak 2 web"
+msgstr "TeamSpeak 2 web"
+
+#: ../DEV_extra_translations/extra_translations.py:820
+msgid "TeamSpeak 2 web interface"
+msgstr "Interfața web TeamSpeak 2"
+
+#: ../DEV_extra_translations/extra_translations.py:821
+#: ../DEV_extra_translations/extra_translations.py:822
+msgid "TeamSpeak 2 TCP query"
+msgstr "Căutare TCP Pentru TeamSpeak 2"
+
+#: ../DEV_extra_translations/extra_translations.py:273
+msgid "Postfix Mail Server SMTP"
+msgstr "Server de mail Postfix SMTP"
+
+#: ../DEV_extra_translations/extra_translations.py:274
+#: ../DEV_extra_translations/extra_translations.py:276
+#: ../DEV_extra_translations/extra_translations.py:278
+msgid "Postfix is a high-performance mail transport agent"
+msgstr "Postfix este un agent de mail de înaltă performanță"
+
+#: ../DEV_extra_translations/extra_translations.py:275
+msgid "Postfix Mail Server SMTPS"
+msgstr "Server Postfix SMTPS de mail"
+
+#: ../DEV_extra_translations/extra_translations.py:277
+msgid "Postfix Mail Server Submission"
+msgstr "Trimitere către server de mai Postfix"
+
+#: ../DEV_extra_translations/extra_translations.py:343
+msgid "FreeSpace 2"
+msgstr "FreeSpace 2"
+
+#: ../DEV_extra_translations/extra_translations.py:344
+msgid "Space combat simulation by Volition"
+msgstr "Simulator bătălii spațiale de la Volition"
+
+#: ../DEV_extra_translations/extra_translations.py:302
+msgid "Minecraft"
+msgstr "Minecraft"
+
+#: ../DEV_extra_translations/extra_translations.py:303
+msgid "A 3D sandbox construction game by Markus Persson"
+msgstr "Joc 3D de construcții de Markus Persson"
+
+#: ../DEV_extra_translations/extra_translations.py:437
+msgid "Savage 2: A Tortured Soul"
+msgstr "Savage 2: A Tortured Soul"
+
+#: ../DEV_extra_translations/extra_translations.py:122
+msgid "Murmur"
+msgstr "Murmur"
+
+#: ../DEV_extra_translations/extra_translations.py:123
+msgid "Murmur voice chat server (counterpart to Mumble client)"
+msgstr "Server de mesagerie vocală Murmur (în pereche cu clientul Mumble)"
+
+#: ../DEV_extra_translations/extra_translations.py:50
+msgid "Conquest"
+msgstr "Conquest"
+
+#: ../DEV_extra_translations/extra_translations.py:51
+#: ../DEV_extra_translations/extra_translations.py:53
+msgid "A space warfare game"
+msgstr "Joc cu lupte în spațiu"
+
+#: ../DEV_extra_translations/extra_translations.py:52
+msgid "Conquest Metaserver"
+msgstr "Metaserver Conquest"
+
+#: ../DEV_extra_translations/extra_translations.py:731
+msgid "ThinkTanks"
+msgstr "ThinkTanks"
+
+#: ../DEV_extra_translations/extra_translations.py:732
+msgid ""
+"A 3D tank combat game by BraveTree Productions using the Torque Game Engine"
+msgstr ""
+"Joc 3D de luptă cu tancurile de la BraveTree Productions care utilizează "
+"motorul Torque Game Engine"
+
+#: ../DEV_extra_translations/extra_translations.py:526
+msgid "Toribash - 20184"
+msgstr "Toribash - 20184"
+
+#: ../DEV_extra_translations/extra_translations.py:527
+#: ../DEV_extra_translations/extra_translations.py:529
+#: ../DEV_extra_translations/extra_translations.py:531
+#: ../DEV_extra_translations/extra_translations.py:533
+#: ../DEV_extra_translations/extra_translations.py:535
+msgid ""
+"A fighting game based on the physics sandbox model with customizable moves"
+msgstr "Joc de luptă cu mișcări personalizabile"
+
+#: ../DEV_extra_translations/extra_translations.py:528
+msgid "Toribash - 20185"
+msgstr "Toribash - 20185"
+
+#: ../DEV_extra_translations/extra_translations.py:530
+msgid "Toribash - 20186"
+msgstr "Toribash - 20186"
+
+#: ../DEV_extra_translations/extra_translations.py:532
+msgid "Toribash - 20187"
+msgstr "Toribash - 20187"
+
+#: ../DEV_extra_translations/extra_translations.py:534
+msgid "Toribash Full"
+msgstr "Toribash complet"
+
+#: ../DEV_extra_translations/extra_translations.py:642
+msgid "POP3"
+msgstr "POP3"
+
+#: ../DEV_extra_translations/extra_translations.py:643
+msgid "Post Office Protocol"
+msgstr "Protocol Post Office (POP)"
+
+#: ../DEV_extra_translations/extra_translations.py:644
+msgid "POP3S"
+msgstr "POP3S"
+
+#: ../DEV_extra_translations/extra_translations.py:645
+#: ../DEV_extra_translations/extra_translations.py:649
+msgid "Secure mail server"
+msgstr "Server sigur de poștă electronică"
+
+#: ../DEV_extra_translations/extra_translations.py:646
+msgid "IMAP"
+msgstr "IMAP"
+
+#: ../DEV_extra_translations/extra_translations.py:647
+msgid "Internet Message Access Protocol"
+msgstr "Protocol IMAP"
+
+#: ../DEV_extra_translations/extra_translations.py:648
+msgid "IMAPS"
+msgstr "IMAPS"
+
+#: ../DEV_extra_translations/extra_translations.py:650
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ../DEV_extra_translations/extra_translations.py:651
+msgid "Simple Mail Transfer Protocol"
+msgstr "Protocol SMTP"
+
+#: ../DEV_extra_translations/extra_translations.py:582
+msgid "Blobby Volley 2"
+msgstr "Blobby Volley 2"
+
+#: ../DEV_extra_translations/extra_translations.py:583
+msgid "A volleyball game"
+msgstr "Joc de volei"
+
+#: ../DEV_extra_translations/extra_translations.py:127
+msgid "Nagios"
+msgstr "Nagios"
+
+#: ../DEV_extra_translations/extra_translations.py:128
+msgid ""
+"Computer system monitor, network monitoring and infrastructure monitoring "
+"software application"
+msgstr "Aplicație pentru monitorizare sistem, rețea și infrastructură"
+
+#: ../DEV_extra_translations/extra_translations.py:796
+msgid "Serious Sam II"
+msgstr "Serious Sam II"
+
+#: ../DEV_extra_translations/extra_translations.py:283
+msgid "Quake II"
+msgstr "Quake II"
+
+#: ../DEV_extra_translations/extra_translations.py:800
+msgid "Skype Normal"
+msgstr "Skype Normal"
+
+#: ../DEV_extra_translations/extra_translations.py:801
+msgid "Proprietary Voice over IP service and software application"
+msgstr "Aplicație proprietară de VoIP"
+
+#: ../DEV_extra_translations/extra_translations.py:406
+msgid "Heavy Gear II"
+msgstr "Heavy Gear II"
+
+#: ../DEV_extra_translations/extra_translations.py:407
+msgid ""
+"A mech FPS based on the Dream Pod 9 universe from Activision and Loki "
+"Software"
+msgstr ""
+"Joc FPS în rețea pe baza universului DreamPod 9 de la Activision și Loki "
+"Software"
+
+#: ../DEV_extra_translations/extra_translations.py:54
+msgid "Dopewars"
+msgstr "Dopewars"
+
+#: ../DEV_extra_translations/extra_translations.py:551
+msgid "Railroad Tycoon II"
+msgstr "Railroad Tycoon II"
+
+#: ../DEV_extra_translations/extra_translations.py:552
+msgid "Railroad strategy game by PopTop Software"
+msgstr "Joc de strategie pe calea ferată de la PopTop Software"
+
+#: ../DEV_extra_translations/extra_translations.py:73
+msgid "MSN Gaming Zone"
+msgstr "MSN Gaming Zone"
+
+#: ../DEV_extra_translations/extra_translations.py:74
+msgid "Games using MSN Gaming Zone API"
+msgstr "Jocuri care utilizează API-ul MSN Gaming Zone"
+
+#: ../DEV_extra_translations/extra_translations.py:504
+msgid "Red Eclipse"
+msgstr "Red Eclipse"
+
+#: ../DEV_extra_translations/extra_translations.py:505
+msgid "An open source first-person shooter that runs on the Cube Engine 2"
+msgstr "Joc FPS cu sursă deschisă care rulează pe Cube Engine 2"
+
+#: ../DEV_extra_translations/extra_translations.py:764
+msgid "TeamViewer"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:765
+msgid ""
+"Remote control, desktop sharing, online meetings, web conferencing and file "
+"transfer between computers"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:308
+msgid "rsync daemon"
+msgstr "daemon rsync"
+
+#: ../DEV_extra_translations/extra_translations.py:309
+msgid "File synchronization utility"
+msgstr "Utilitar de sincronizare de fișiere"
+
+#: ../DEV_extra_translations/extra_translations.py:109
+msgid "Tether"
+msgstr "Tether"
+
+#: ../DEV_extra_translations/extra_translations.py:110
+msgid ""
+"A clone of strategy game Moonbase Commander by Humongous Entertainment"
+msgstr ""
+"O clonă a jocului de strategie Moonbase Commander de la Humongous "
+"Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:316
+msgid "The Mana World"
+msgstr "The Mana World"
+
+#: ../DEV_extra_translations/extra_translations.py:317
+msgid "A fantasy MMORPG"
+msgstr "Un MMORPG fantastic"
+
+#: ../DEV_extra_translations/extra_translations.py:332
+msgid "UPS Tools daemon"
+msgstr "daemon utilitar UPS"
+
+#: ../DEV_extra_translations/extra_translations.py:333
+msgid "Network UPS Tools"
+msgstr "Utilitare UPS de rețea"
+
+#: ../DEV_extra_translations/extra_translations.py:553
+msgid "Mechwarrior 4"
+msgstr "Mechwarrior 4"
+
+#: ../DEV_extra_translations/extra_translations.py:554
+msgid "A FPS based on the Fasa Battletech universe"
+msgstr "Joc FPS bazat pe Fasa battletech"
+
+#: ../DEV_extra_translations/extra_translations.py:261
+msgid "Soldier of Fortune"
+msgstr "Soldier of Fortune"
+
+#: ../DEV_extra_translations/extra_translations.py:262
+msgid "Soldier of Fortune - A FPS by Raven Software"
+msgstr "Soldier of Fortune -  FPS de la Raven Software"
+
+#: ../DEV_extra_translations/extra_translations.py:748
+msgid "Wormux"
+msgstr "Wormux"
+
+#: ../DEV_extra_translations/extra_translations.py:60
+msgid "London Law"
+msgstr "London Law"
+
+#: ../DEV_extra_translations/extra_translations.py:61
+msgid "An online multiplayer adaptation of the Scotland Yard board game"
+msgstr "O adaptare multiplayer online a jocului Scotland Yard"
+
+#: ../DEV_extra_translations/extra_translations.py:555
+msgid "Yura.net Domination (jRisk)"
+msgstr "Yura.net Domination (jRisk)"
+
+#: ../DEV_extra_translations/extra_translations.py:556
+msgid "A clone of Risk"
+msgstr "O clonă a Risk"
+
+#: ../DEV_extra_translations/extra_translations.py:27
+msgid "Camfrog"
+msgstr "Camfrog"
+
+#: ../DEV_extra_translations/extra_translations.py:804
+msgid "iMaze"
+msgstr "iMaze"
+
+#: ../DEV_extra_translations/extra_translations.py:805
+msgid "A maze combat game in 3D"
+msgstr "Joc cu labirinturi 3D"
+
+#: ../DEV_extra_translations/extra_translations.py:638
+msgid "Heretic II"
+msgstr "Heretic II"
+
+#: ../DEV_extra_translations/extra_translations.py:639
+msgid "Fantasy combat FPS by Raven Software"
+msgstr "FPS fantastic de la Raven Software"
+
+#: ../DEV_extra_translations/extra_translations.py:68
+msgid "MiniDLNA"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:69
+msgid ""
+"Serves media files (music, pictures, and video) to clients on a network"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:618
+msgid "All Services"
+msgstr "Toate serviciile"
+
+#: ../DEV_extra_translations/extra_translations.py:619
+msgid "Client, dedicated servers, P2P and voice chat"
+msgstr "Client, servere dedicate, mesagerie vocală și P2P"
+
+#: ../DEV_extra_translations/extra_translations.py:620
+msgid "Games;Steam;"
+msgstr "Jocuri;Steam;"
+
+#: ../DEV_extra_translations/extra_translations.py:621
+msgid "Client, Dedicated Servers, P2P and Voice Chat"
+msgstr "Client, Servere Dedicate, Mesagerie Vocală și P2P"
+
+#: ../DEV_extra_translations/extra_translations.py:622
+msgid "Client"
+msgstr "Client"
+
+#: ../DEV_extra_translations/extra_translations.py:623
+msgid ""
+"Game client traffic, typically Matchmaking and HLTV and Steam downloads"
+msgstr ""
+"Trafic pentru clientul de jocuri, în general descărcări pentru Matchmaking, "
+"HLTV  și Steam"
+
+#: ../DEV_extra_translations/extra_translations.py:624
+msgid "Dedicated Servers"
+msgstr "Servere dedicate"
+
+#: ../DEV_extra_translations/extra_translations.py:625
+msgid "SRCDS Rcon port"
+msgstr "Port SRCDS Rcon"
+
+#: ../DEV_extra_translations/extra_translations.py:626
+msgid "P2P and Voice Chat"
+msgstr "Mesagerie vocală și P2P"
+
+#: ../DEV_extra_translations/extra_translations.py:627
+msgid "Steamworks P2P Networking and Steam Voice Chat"
+msgstr "Mesagerie vocală și rețea P2P pentru Steam și Steamworks"
+
+#: ../DEV_extra_translations/extra_translations.py:628
+msgid "Call of Duty"
+msgstr "Call of Duty"
+
+#: ../DEV_extra_translations/extra_translations.py:629
+msgid "Additional Ports for Call of Duty: Modern Warfare 2 Multiplayer"
+msgstr "Porturi adiționale pentru Call of Duty: Modern Warfare 2 Multiplayer"
+
+#: ../DEV_extra_translations/extra_translations.py:806
+msgid "Webcam_server"
+msgstr "server_webcam"
+
+#: ../DEV_extra_translations/extra_translations.py:807
+msgid "A webcam viewer for web servers with an optional Java-based viewer"
+msgstr ""
+"Vizualizare camere web pentru servere, cu utilitar opțional de vizualizare "
+"bazat pe Java"
+
+#: ../DEV_extra_translations/extra_translations.py:808
+msgid "Network;Audio Video;Video;"
+msgstr "Rețea;Audio Video;Video;"
+
+#: ../DEV_extra_translations/extra_translations.py:295
+msgid "Icecast"
+msgstr "Icecast"
+
+#: ../DEV_extra_translations/extra_translations.py:176
+#: ../DEV_extra_translations/extra_translations.py:296
+msgid "Icecast stream"
+msgstr "Flux Icecast"
+
+#: ../DEV_extra_translations/extra_translations.py:297
+msgid "Network;Audio Video;"
+msgstr "Rețea;Audio Video;"
+
+#: ../DEV_extra_translations/extra_translations.py:298
+msgid "Icecast - 8000:8001/tcp"
+msgstr "Icecast - 8000:8001/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:299
+msgid "Icecast with SHOUTcast-compatible stream"
+msgstr "Flux Icecast compatibil cu SHOUTcast"
+
+#: ../DEV_extra_translations/extra_translations.py:564
+msgid "Unreal Tournament 2004"
+msgstr "Unreal Tournament 2004"
+
+#: ../DEV_extra_translations/extra_translations.py:565
+msgid "A FPS by Epic Games"
+msgstr "Joc PFS de la Epic Games"
+
+#: ../DEV_extra_translations/extra_translations.py:566
+msgid "Unreal Tournament 2004 Admin"
+msgstr "Administrator Unreal Tournament 2004"
+
+#: ../DEV_extra_translations/extra_translations.py:567
+msgid "Web-based administration for the FPS by Epic Games"
+msgstr "Administrare web pentru jocul FPS de la Epic Games"
+
+#: ../DEV_extra_translations/extra_translations.py:93
+msgid "Kingpin: Life of Crime"
+msgstr "Kingpin: Life of Crime"
+
+#: ../DEV_extra_translations/extra_translations.py:94
+msgid "A FPS by Xatrix Entertainment"
+msgstr "Un FPS de la Xatrix Entertainment"
+
+#: ../DEV_extra_translations/extra_translations.py:502
+msgid "Delta Force"
+msgstr "Delta Force"
+
+#: ../DEV_extra_translations/extra_translations.py:821
+msgid "PLEX"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:822
+msgid "Plex Media Server (Main port)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:823
+msgid "PLEX DLNA"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:824
+msgid "Access to the Plex DLNA Server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:825
+msgid "PLEX Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:826
+msgid "Controlling Plex Home Theater via Plex Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:827
+msgid "PLEX Avahi discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:828
+msgid "Older Bonjour/Avahi network discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:829
+msgid "PLEX Roku"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:830
+msgid "Controlling Plex for Roku via Plex Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:831
+msgid "PLEX GDM"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:832
+msgid "GDM network discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:833
+msgid "PLEX DLNA Server (Other port)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:834
+msgid "Another port for Plex DLNA Server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:148
+msgid "EDuke32"
+msgstr "EDuke32"
+
+#: ../DEV_extra_translations/extra_translations.py:149
+msgid "An enhanced version of Duke Nukem 3D"
+msgstr "O versiune îmbunătățită de Duke Nukem3D"
+
+#: ../DEV_extra_translations/extra_translations.py:167
+msgid "VLC HTTP stream"
+msgstr "Flux  HTTP pentru VLC"
+
+#: ../DEV_extra_translations/extra_translations.py:168
+msgid "VLC media player HTTP stream default port"
+msgstr "Port implicit pentru flux HTTP pentru playerul media VLC"
+
+#: ../DEV_extra_translations/extra_translations.py:169
+msgid "Audio Video;"
+msgstr "Audio Video;"
+
+#: ../DEV_extra_translations/extra_translations.py:170
+msgid "VLC MMS HTTP stream"
+msgstr "Flux HTTP  MMS pentru VLC"
+
+#: ../DEV_extra_translations/extra_translations.py:171
+msgid ""
+"VLC media player Microsoft Media Server stream over HTTP (Windows Media HTTP "
+"Streaming Protocol/MS-WMSP) default port"
+msgstr ""
+"Port implicit pentru flux Microsoft Media Server pe HTTP (Windows Media HTTP "
+"Streaming Protocol/MS-WMSP) pentru Playerul VLC"
+
+#: ../DEV_extra_translations/extra_translations.py:172
+msgid "VLC RTP stream"
+msgstr "Flux RTP pentru VLC"
+
+#: ../DEV_extra_translations/extra_translations.py:173
+msgid "VLC media player Real-time Transport Protocol default port"
+msgstr "Port implicit pentru VLC și Real-time Transport Protocol"
+
+#: ../DEV_extra_translations/extra_translations.py:174
+msgid "VLC UDP stream"
+msgstr "Flux UDP pentru VLC"
+
+#: ../DEV_extra_translations/extra_translations.py:175
+msgid "VLC media player User Datagram Protocol default port"
+msgstr "Port implicit pentru VLC și User Datagram Protocol"
+
+#: ../DEV_extra_translations/extra_translations.py:177
+msgid "VLC media player Icecast stream default port"
+msgstr "Port implicit pentru VLC și flux Icecast"
+
+#: ../DEV_extra_translations/extra_translations.py:35
+msgid "Kerberos v5 KDC"
+msgstr "Kerberos v5 KDC"
+
+#: ../DEV_extra_translations/extra_translations.py:36
+msgid "Kerberos v5 KDC server"
+msgstr "Server Kerberos v5 KDC"
+
+#: ../DEV_extra_translations/extra_translations.py:38
+msgid "Kerberos v5 admin"
+msgstr "Kerberos v5 admin"
+
+#: ../DEV_extra_translations/extra_translations.py:39
+#: ../DEV_extra_translations/extra_translations.py:43
+msgid "Kerberos v5 server"
+msgstr "Server Kerberos v5"
+
+#: ../DEV_extra_translations/extra_translations.py:40
+#: ../DEV_extra_translations/extra_translations.py:41
+msgid "Kerberos v5 password"
+msgstr "Parolă Kerberos v5"
+
+#: ../DEV_extra_translations/extra_translations.py:42
+msgid "Kerberos v5 Full"
+msgstr "Kerberos v5 complet"
+
+#: ../DEV_extra_translations/extra_translations.py:44
+msgid "LDAP"
+msgstr "LDAP"
+
+#: ../DEV_extra_translations/extra_translations.py:45
+msgid "LDAP server"
+msgstr "Server LDAP"
+
+#: ../DEV_extra_translations/extra_translations.py:46
+msgid "LDAPS"
+msgstr "LDAPS"
+
+#: ../DEV_extra_translations/extra_translations.py:47
+msgid "LDAP server (LDAPS)"
+msgstr "Server LDAP (LDAPS)"
+
+#: ../DEV_extra_translations/extra_translations.py:841
+msgid "Authentication is required to run the Firewall Configuration"
+msgstr ""
+"Este necesară introducerea parolei pentru a putea configura firewall-ul"
+
+#: ../data/ui/update.ui.h:1
+msgid "Update a Firewall Rule"
+msgstr "Actualizare regulă firewall"
+
+#: ../data/ui/update.ui.h:2 ../data/ui/add.ui.h:9
+msgid "Policy:"
+msgstr "Politică:"
+
+#: ../data/ui/update.ui.h:3 ../data/ui/add.ui.h:10
+msgid "Direction:"
+msgstr "Direcție:"
+
+#: ../data/ui/update.ui.h:4 ../data/ui/add.ui.h:26
+msgid "Log:"
+msgstr "Jurnal:"
+
+#: ../data/ui/update.ui.h:5 ../data/ui/add.ui.h:17
+msgid "Protocol:"
+msgstr "Protocol:"
+
+#: ../data/ui/update.ui.h:6 ../data/ui/add.ui.h:2 ../data/ui/gufw.ui.h:26
+msgid "Allow"
+msgstr "Permite"
+
+#: ../data/ui/update.ui.h:7 ../data/ui/add.ui.h:3 ../data/ui/gufw.ui.h:27
+msgid "Deny"
+msgstr "Refuză"
+
+#: ../data/ui/update.ui.h:8 ../data/ui/add.ui.h:4 ../data/ui/gufw.ui.h:28
+msgid "Reject"
+msgstr "Respinge"
+
+#: ../data/ui/update.ui.h:9 ../data/ui/add.ui.h:5
+msgid "Limit"
+msgstr "Limitează"
+
+#: ../data/ui/update.ui.h:10 ../data/ui/add.ui.h:6
+msgid "In"
+msgstr "Intrare"
+
+#: ../data/ui/update.ui.h:11 ../data/ui/add.ui.h:7
+msgid "Out"
+msgstr "Ieșire"
+
+#: ../data/ui/update.ui.h:12 ../data/ui/add.ui.h:27
+msgid "Do not Log"
+msgstr "Fără jurnalizare"
+
+#: ../data/ui/update.ui.h:13 ../data/ui/add.ui.h:28
+#: ../gufw/gufw/view/gufw.py:196
+msgid "Log"
+msgstr "Jurnal"
+
+#: ../data/ui/update.ui.h:14 ../data/ui/add.ui.h:29
+msgid "Log All"
+msgstr "Scrie tot în jurnal"
+
+#: ../data/ui/update.ui.h:15 ../data/ui/add.ui.h:8
+msgid "Both"
+msgstr "Ambele"
+
+#: ../data/ui/update.ui.h:16 ../data/ui/add.ui.h:18
+msgid "TCP"
+msgstr "TCP"
+
+#: ../data/ui/update.ui.h:17 ../data/ui/add.ui.h:19
+msgid "UDP"
+msgstr "UDP"
+
+#: ../data/ui/update.ui.h:18 ../data/ui/add.ui.h:30
+msgid "From:"
+msgstr "De la:"
+
+#: ../data/ui/update.ui.h:19 ../data/ui/add.ui.h:31
+msgid "To:"
+msgstr "Până la:"
+
+#: ../data/ui/update.ui.h:20 ../data/ui/add.ui.h:32
+msgid "IP"
+msgstr "IP"
+
+#: ../data/ui/update.ui.h:21 ../data/ui/add.ui.h:33
+msgid "Paste your current local IP"
+msgstr "Lipește IP-ul local actual"
+
+#: ../data/ui/update.ui.h:22 ../data/ui/add.ui.h:34
+msgid "You can write a port as '22' or a port range as '22:24'"
+msgstr "Nu se poate scrie un port ca „22” sau o serie de porturi ca „22:24”"
+
+#: ../data/ui/update.ui.h:23 ../data/ui/add.ui.h:35
+#: ../gufw/gufw/view/gufw.py:260
+msgid "Port"
+msgstr "Port"
+
+#: ../data/ui/update.ui.h:24 ../data/ui/add.ui.h:36
+msgid ""
+"You can write a port as '22' or a port range as '22:24'.\n"
+"If you're editing a Preconfigured or Simple rule, Interface field must be "
+"'All Interfaces' and the IPs and From Port fields must be empty."
+msgstr ""
+"Puteți scrie un port ca„22” sau o serie de porturi ca „22:24”.\n"
+"Dacă editați o regulă simplă sau pre-configurată, în câmpul Interfață "
+"trebuie să fie completat cu „Toate interfețele” și câmpurile pentru IP-uri "
+"și „Porturi de la” trebuie să fie goale."
+
+#: ../data/ui/update.ui.h:26 ../data/ui/add.ui.h:21
+msgid "Name:"
+msgstr "Nume:"
+
+#: ../data/ui/update.ui.h:27 ../data/ui/add.ui.h:22
+msgid "Rule Description"
+msgstr "Descrierea regulii"
+
+#: ../data/ui/update.ui.h:28 ../data/ui/add.ui.h:39
+msgid "Interface:"
+msgstr "Interfață:"
+
+#: ../data/ui/update.ui.h:29 ../data/ui/add.ui.h:42
+#: ../gufw/gufw/view/update.py:77
+msgid "You need to set an Interface"
+msgstr "Trebuie să configurați o interfață"
+
+#. Sort translation, please!
+#: ../data/ui/update.ui.h:31
+msgid "The rule will be moved to the end of the list"
+msgstr "Regula va fi mutată la sfârșitul listei"
+
+#: ../data/ui/preferences.ui.h:1
+msgid "Firewall Preferences"
+msgstr "Preferințe firewall"
+
+#: ../data/ui/preferences.ui.h:2
+msgid "_Logging:"
+msgstr "Jurna_lizare:"
+
+#: ../data/ui/preferences.ui.h:3
+msgid "Off"
+msgstr "Oprit"
+
+#: ../data/ui/preferences.ui.h:4
+msgid "Low"
+msgstr "Redusă"
+
+#: ../data/ui/preferences.ui.h:5
+msgid "Medium"
+msgstr "Medie"
+
+#: ../data/ui/preferences.ui.h:6
+msgid "High"
+msgstr "Ridicată"
+
+#: ../data/ui/preferences.ui.h:7
+msgid "Full"
+msgstr "Complet"
+
+#: ../data/ui/preferences.ui.h:8
+msgid "<b>ufw</b>"
+msgstr "<b>ufw</b>"
+
+#: ../data/ui/preferences.ui.h:9
+msgid "Lo_gging Gufw activity"
+msgstr "Jurna_l de activități Gufw"
+
+#: ../data/ui/preferences.ui.h:10
+msgid "Show confirm dialog for deleting rules"
+msgstr "Arată dialogul de confirmare pentru ștergerea de reguli"
+
+#: ../data/ui/preferences.ui.h:11
+msgid "<b>Gufw</b>"
+msgstr "<b>Gufw</b>"
+
+#: ../data/ui/preferences.ui.h:12
+msgid "Refresh Interval:"
+msgstr "Interval de reîmprospătare:"
+
+#: ../data/ui/preferences.ui.h:13
+msgid ""
+"Less seconds uses more CPU\n"
+"This interval will apply the next time you expand the Listening Report"
+msgstr ""
+"Un interval mai mic solicită mai mult procesorul\n"
+"Acest interval va fi configurat data viitoare când extindeți Raportul de "
+"urmărire"
+
+#: ../data/ui/preferences.ui.h:15
+msgid "<b>Listening Report</b>"
+msgstr "<b>Raport de urmărire</b>"
+
+#: ../data/ui/preferences.ui.h:16
+msgid "Add a profile"
+msgstr "Adăugare profil"
+
+#: ../data/ui/preferences.ui.h:17 ../data/ui/gufw.ui.h:32
+msgid "Add"
+msgstr "Adaugă"
+
+#: ../data/ui/preferences.ui.h:18
+msgid "Remove the selected profile"
+msgstr "Eliminare profil selectat"
+
+#: ../data/ui/preferences.ui.h:19 ../data/ui/gufw.ui.h:34
+msgid "Remove"
+msgstr "Elimină"
+
+#: ../data/ui/preferences.ui.h:20
+msgid "<b>Profiles</b>"
+msgstr "<b>Profiluri</b>"
+
+#: ../data/ui/add.ui.h:1
+msgid "Add a Firewall Rule"
+msgstr "Adăugare regulă firewall"
+
+#: ../data/ui/add.ui.h:11
+msgid "Category:"
+msgstr "Categorie:"
+
+#: ../data/ui/add.ui.h:12
+msgid "Subcategory:"
+msgstr "Subcategorie:"
+
+#: ../data/ui/add.ui.h:13
+msgid "Application:"
+msgstr "Aplicație:"
+
+#: ../data/ui/add.ui.h:14
+msgid "Application Filter"
+msgstr "Filtru de aplicație"
+
+#: ../data/ui/add.ui.h:15
+msgid "Copy app values and jump to Advanced Tab"
+msgstr "Copiază valorile aplicației și sari la fila Avansat"
+
+#: ../data/ui/add.ui.h:16
+msgid "Preconfigured"
+msgstr "Preconfigurat"
+
+#: ../data/ui/add.ui.h:20
+msgid "Port:"
+msgstr "Port:"
+
+#: ../data/ui/add.ui.h:23
+msgid ""
+"You can write a port as '22', a port range as '22:24' or a service as 'http'"
+msgstr ""
+"Puteți scrie un port ca „22”, o serie de porturi ca „22:24” sau un serviciu "
+"ca „http”"
+
+#: ../data/ui/add.ui.h:24
+msgid "Port or service"
+msgstr "Port sau serviciu"
+
+#: ../data/ui/add.ui.h:25
+msgid "Simple"
+msgstr "Simplu"
+
+#: ../data/ui/add.ui.h:38
+msgid "Insert:"
+msgstr "Introduceți:"
+
+#: ../data/ui/add.ui.h:40
+msgid "Rule number to insert"
+msgstr "Număr regulă pentru inserare"
+
+#: ../data/ui/add.ui.h:41
+msgid "At the end"
+msgstr "La final"
+
+#: ../data/ui/add.ui.h:43
+msgid "Advanced"
+msgstr "Avansat"
+
+#: ../data/ui/gufw.ui.h:1
+msgid "Firewall"
+msgstr "Firewall"
+
+#: ../data/ui/gufw.ui.h:2
+msgid "_File"
+msgstr "_Fișier"
+
+#: ../data/ui/gufw.ui.h:3
+msgid "_Import profile"
+msgstr "_Importă profil"
+
+#: ../data/ui/gufw.ui.h:4
+msgid "_Export this profile"
+msgstr "_Exportați profilul"
+
+#: ../data/ui/gufw.ui.h:5
+msgid "Only the rules added from Gufw will be exported (not ufw rules)"
+msgstr ""
+"Doar regulile adăugate din Gufw vor fi exportate (nu și regulile ufw)"
+
+#: ../data/ui/gufw.ui.h:6
+msgid "_Edit"
+msgstr "_Editare"
+
+#: ../data/ui/gufw.ui.h:7
+msgid "_Reset Current Profile"
+msgstr "_Resetare profil curent"
+
+#: ../data/ui/gufw.ui.h:8
+msgid "_Help"
+msgstr "_Ajutor"
+
+#: ../data/ui/gufw.ui.h:9
+msgid "_Documentation..."
+msgstr "_Documentație..."
+
+#: ../data/ui/gufw.ui.h:10
+msgid "Go to the official documentation"
+msgstr "Consultați documentația oficială"
+
+#: ../data/ui/gufw.ui.h:11
+msgid "Get Help _Online..."
+msgstr "Obțineți ajutor _online..."
+
+#: ../data/ui/gufw.ui.h:12
+msgid "Go to the official answers"
+msgstr "Consultați răspunsurile oficiale"
+
+#: ../data/ui/gufw.ui.h:13
+msgid "_Report a Problem..."
+msgstr "_Raportați o problemă..."
+
+#: ../data/ui/gufw.ui.h:14
+msgid "_Translate this Application..."
+msgstr "_Tradu această aplicație..."
+
+#: ../data/ui/gufw.ui.h:15
+msgid "_Follow"
+msgstr "_Urmărește"
+
+#: ../data/ui/gufw.ui.h:16
+msgid "_Google +"
+msgstr "_Google +"
+
+#: ../data/ui/gufw.ui.h:17
+msgid "Google+ Community"
+msgstr "Comunitate Google+"
+
+#: ../data/ui/gufw.ui.h:18
+msgid "Google+ _Community"
+msgstr "_Comunitatea Google+"
+
+#: ../data/ui/gufw.ui.h:19
+msgid "_Twitter"
+msgstr "_Twitter"
+
+#: ../data/ui/gufw.ui.h:20
+msgid "Thanks in advance!!"
+msgstr "Mulțumim anticipat!!"
+
+#: ../data/ui/gufw.ui.h:21
+msgid "_Donate..."
+msgstr "_Donați..."
+
+#: ../data/ui/gufw.ui.h:22
+msgid "_Profile:"
+msgstr "_Profil:"
+
+#: ../data/ui/gufw.ui.h:23
+msgid "S_tatus:"
+msgstr "S_tare:"
+
+#: ../data/ui/gufw.ui.h:24
+msgid "_Incoming:"
+msgstr "_Intrare:"
+
+#: ../data/ui/gufw.ui.h:25
+msgid "_Outgoing:"
+msgstr "Ieși_re:"
+
+#: ../data/ui/gufw.ui.h:29
+msgid "_Routed:"
+msgstr "_Rutat:"
+
+#: ../data/ui/gufw.ui.h:30
+msgid "<b>Firewall</b>"
+msgstr "<b>Firewall</b>"
+
+#: ../data/ui/gufw.ui.h:31
+msgid "Add a rule..."
+msgstr "Adaugă o regulă..."
+
+#: ../data/ui/gufw.ui.h:33
+msgid "Remove the selected rule(s)"
+msgstr "Şterge regula/regulile selectat(e)"
+
+#: ../data/ui/gufw.ui.h:35
+msgid "Edit the selected rule"
+msgstr "Editează regula selectată"
+
+#: ../data/ui/gufw.ui.h:36
+msgid "Pause Listening Report"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:37
+msgid "Pause"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:38
+msgid "See current Listening Report"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:36
+msgid "Create a rule from the listening report..."
+msgstr "Creați regulă din raportul de urmărire..."
+
+#: ../data/ui/gufw.ui.h:37
+msgid "Copy log to clipboard"
+msgstr "Copiere jurnal în clipboard"
+
+#: ../data/ui/gufw.ui.h:38
+msgid "Remove log"
+msgstr "Șterge jurnal"
+
+#: ../data/ui/about.ui.h:1
+msgid "About Gufw Firewall"
+msgstr "Despre firewall-ul Gufw"
+
+#: ../data/ui/about.ui.h:2
+msgid ""
+"An uncomplicated way to manage your firewall, powered by ufw.\n"
+"Easy, simple, nice and useful!"
+msgstr ""
+"Un mod simplu de a administra firewall-ul, oferit de ufw.\n"
+"Ușor, simplu, drăguț și util!"
+
+#: ../data/ui/about.ui.h:4
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Adi Roiban https://launchpad.net/~adiroiban\n"
+"  Ciprian https://launchpad.net/~c1pr1ancip\n"
+"  Gabriel Aanicăi https://launchpad.net/~gabi-aanicai\n"
+"  George Silviu Enea https://launchpad.net/~premamotion\n"
+"  Horia Duțescu https://launchpad.net/~hvd-deactivatedaccount-"
+"deactivatedaccount\n"
+"  Lucian Adrian Grijincu https://launchpad.net/~lucian.grijincu\n"
+"  Manuel R. Ciosici https://launchpad.net/~manuelciosici-deactivatedaccount\n"
+"  Meriuță Cornel https://launchpad.net/~meriutacornel-c\n"
+"  Nicolae Crefelean https://launchpad.net/~kneekoo\n"
+"  Vlad Paul Paval https://launchpad.net/~wladypauly\n"
+"  costales https://launchpad.net/~costales\n"
+"  laurb3st https://launchpad.net/~laurb3st"
+
+#: ../gufw/gufw/instance.py:64
+msgid "Please, just one Gufw's instance"
+msgstr "Vă rugăm, doar o singură rulare a Gufw"
+
+#: ../gufw/gufw/instance.py:65
+msgid "Gufw is already running. If this is wrong, remove the file: "
+msgstr "Gufw rulează deja. Dacă este o eroare, eliminați fișierul: "
+
+#: ../gufw/gufw/model/firewall.py:61
+msgid "Deleting previous rules: "
+msgstr "Se șterg regulile anterioare: "
+
+#: ../gufw/gufw/model/firewall.py:86
+msgid "Appending new rules: "
+msgstr "Se adaugă regulile noi: "
+
+#: ../gufw/gufw/model/firewall.py:266 ../gufw/gufw/model/firewall.py:286
+#: ../gufw/gufw/model/firewall.py:287 ../gufw/gufw/model/firewall.py:302
+#: ../gufw/gufw/model/firewall.py:303 ../gufw/gufw/model/firewall.py:304
+#: ../gufw/gufw/model/firewall.py:306
+msgid "Home"
+msgstr "Acasă"
+
+#. Filename without path and extension
+#. First run
+#: ../gufw/gufw/model/firewall.py:284 ../gufw/gufw/model/firewall.py:312
+#: ../gufw/gufw/model/firewall.py:313 ../gufw/gufw/model/firewall.py:314
+#: ../gufw/gufw/model/firewall.py:316
+msgid "Public"
+msgstr "Publică"
+
+#: ../gufw/gufw/model/firewall.py:285 ../gufw/gufw/model/firewall.py:307
+#: ../gufw/gufw/model/firewall.py:308 ../gufw/gufw/model/firewall.py:309
+#: ../gufw/gufw/model/firewall.py:311
+msgid "Office"
+msgstr "Aplicații de birou"
+
+#: ../gufw/gufw/model/firewall.py:304 ../gufw/gufw/model/firewall.py:309
+#: ../gufw/gufw/model/firewall.py:314
+msgid "Renamed profile: "
+msgstr "Profil redenumit: "
+
+#: ../gufw/gufw/view/add.py:99 ../gufw/gufw/view/add.py:349
+#: ../gufw/gufw/view/add.py:460 ../gufw/gufw/view/update.py:75
+#: ../gufw/gufw/view/update.py:101 ../gufw/gufw/view/update.py:186
+#: ../gufw/gufw/view/update.py:215
+msgid "All Interfaces"
+msgstr "Toate interfețele"
+
+#: ../gufw/gufw/view/add.py:100 ../gufw/gufw/view/add.py:359
+#: ../gufw/gufw/view/add.py:464 ../gufw/gufw/view/update.py:102
+#: ../gufw/gufw/view/update.py:196 ../gufw/gufw/view/update.py:219
+msgid "Not Forward"
+msgstr "Nu se înaintează"
+
+#. Append new apps
+#: ../gufw/gufw/view/add.py:139 ../gufw/gufw/view/add.py:268
+#: ../gufw/gufw/view/add.py:538 ../gufw/gufw/view/add.py:545
+#: ../gufw/gufw/view/add.py:553 ../gufw/gufw/view/add.py:567
+#: ../gufw/gufw/view/add.py:569 ../gufw/gufw/view/add.py:571
+msgid "All"
+msgstr "Toate"
+
+#: ../gufw/gufw/view/add.py:153 ../gufw/gufw/view/add.py:366
+msgid "Ports: "
+msgstr "Porturi: "
+
+#: ../gufw/gufw/view/add.py:195 ../gufw/gufw/view/add.py:204
+#: ../gufw/gufw/view/update.py:134
+msgid "Choose a TCP or UDP Protocol with a range of ports"
+msgstr "Alegeți un protocol TCP sau UDP cu o serie de porturi"
+
+#: ../gufw/gufw/view/add.py:351 ../gufw/gufw/view/update.py:188
+msgid "The IP/Port will be forward to this interface"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:354 ../gufw/gufw/view/update.py:191
+msgid "You need to set an Interface for forwarding to this another interface"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:376
+msgid "Error: Firewall is disabled"
+msgstr "Eroare: firewall-ul este dezactivat"
+
+#: ../gufw/gufw/view/add.py:376
+msgid "The firewall has to be enabled first"
+msgstr "Firewall-ul trebuie activat mai întâi"
+
+#: ../gufw/gufw/view/add.py:406 ../gufw/gufw/view/gufw.py:569
+msgid "Error running: "
+msgstr "Eroare de funcționare: "
+
+#: ../gufw/gufw/view/add.py:410
+msgid "Rule(s) added"
+msgstr "Regulă/reguli adăugată/e"
+
+#: ../gufw/gufw/view/add.py:413
+msgid "Warning: Some rules added. Review the log"
+msgstr "Atenție: s-au adăugat niște reguli. Verificați jurnalul"
+
+#: ../gufw/gufw/view/add.py:416
+msgid "Error: No rules added. Review the log"
+msgstr "Eroare: Nu s-a adăugat nicio regulă. Verificați jurnalul"
+
+#: ../gufw/gufw/view/add.py:432
+msgid "Insert Port"
+msgstr "Introducere port"
+
+#: ../gufw/gufw/view/add.py:432
+msgid "You need to insert a port in the port field"
+msgstr "Trebuie să introduceți un port în câmpul corespunzător"
+
+#: ../gufw/gufw/view/add.py:436
+msgid "Edward Snowden's Greatest Fear"
+msgstr "Edward Snowden's Greatest Fear"
+
+#: ../gufw/gufw/view/add.py:436
+msgid "\"Nothing Will Change\""
+msgstr "„NU se va schimba nimic”"
+
+#: ../gufw/gufw/view/preferences.py:82 ../gufw/gufw/view/preferences.py:127
+msgid "Profile"
+msgstr "Profil"
+
+#: ../gufw/gufw/view/preferences.py:91 ../gufw/gufw/view/preferences.py:95
+#: ../gufw/gufw/view/preferences.py:99 ../gufw/gufw/view/preferences.py:103
+msgid "Profile not valid"
+msgstr "Profil nevalid"
+
+#: ../gufw/gufw/view/preferences.py:91
+msgid "You can't use this profile name"
+msgstr "Nu se poate utiliza acest nume de profil"
+
+#: ../gufw/gufw/view/preferences.py:95
+msgid "Enter at least one character"
+msgstr "Introduceți cel puțin un caracter"
+
+#: ../gufw/gufw/view/preferences.py:99
+msgid "Too long! (max. 15 characters)"
+msgstr "Prea lung! (max. 15 caractere)"
+
+#: ../gufw/gufw/view/preferences.py:103
+msgid "Use only letters, numbers, dashes and underscores"
+msgstr "Utilizați doar litere, cifre, cratime și underscore"
+
+#: ../gufw/gufw/view/preferences.py:108
+msgid "Profile exist"
+msgstr "Profilul există"
+
+#: ../gufw/gufw/view/preferences.py:108
+msgid "There is a profile with the same name"
+msgstr "Mai există un profil cu acest nume"
+
+#: ../gufw/gufw/view/preferences.py:113
+msgid "Current profile"
+msgstr "Profil curent"
+
+#: ../gufw/gufw/view/preferences.py:113
+msgid "You can't rename the current profile"
+msgstr "Nu se poate redenumi profilul curent"
+
+#: ../gufw/gufw/view/preferences.py:120
+msgid "Edited Profile: "
+msgstr "Profil editat: "
+
+#: ../gufw/gufw/view/preferences.py:138
+msgid "Created Profile: "
+msgstr "Profil creat: "
+
+#: ../gufw/gufw/view/preferences.py:143
+msgid "Select a profile"
+msgstr "Alegeți un profil"
+
+#: ../gufw/gufw/view/preferences.py:143
+msgid "You need to select a profile for deleting"
+msgstr "Trebuie să alegeți un profil care va fi șters"
+
+#: ../gufw/gufw/view/preferences.py:147
+msgid "Profile not erasable"
+msgstr "Profilul nu poate fi șters"
+
+#: ../gufw/gufw/view/preferences.py:147
+msgid "You can't remove the current profile"
+msgstr "Nu se  poate șterge profilul curent"
+
+#: ../gufw/gufw/view/preferences.py:152
+msgid "Deleted Profile: "
+msgstr "Profil șters: "
+
+#: ../gufw/gufw/view/preferences.py:156
+msgid "ufw Logging: "
+msgstr "Jurnal ufw: "
+
+#: ../gufw/gufw/view/preferences.py:161
+msgid "Gufw Logging: Enabled"
+msgstr "Jurnalizare Gufw: activată"
+
+#: ../gufw/gufw/view/preferences.py:163
+msgid "Gufw Logging: Disabled"
+msgstr "Jurnalizare Gufw: dezactivată"
+
+#: ../gufw/gufw/view/preferences.py:169
+msgid "Confirm Delete Dialog: Enabled"
+msgstr "Confirmare dialog de ștergere: activată"
+
+#: ../gufw/gufw/view/preferences.py:172
+msgid "Confirm Delete Dialog: Disabled"
+msgstr "Confirmare dialog de ștergere: dezactivată"
+
+#: ../gufw/gufw/view/preferences.py:183
+msgid "Refresh Interval: "
+msgstr "Interval reîmprospătare: "
+
+#: ../gufw/gufw/view/gufw.py:125 ../gufw/gufw/view/gufw.py:180
+#: ../gufw/gufw/view/gufw.py:302
+msgid "Getting started"
+msgstr "Primii pași"
+
+#: ../gufw/gufw/view/gufw.py:186
+msgid "Rules"
+msgstr "Reguli"
+
+#: ../gufw/gufw/view/gufw.py:191
+msgid "Report"
+msgstr "Raport"
+
+#. Rules
+#. Listening Report
+#: ../gufw/gufw/view/gufw.py:233 ../gufw/gufw/view/gufw.py:250
+msgid "Nº"
+msgstr "Nº"
+
+#: ../gufw/gufw/view/gufw.py:238
+msgid "Rule"
+msgstr "Regulă"
+
+#: ../gufw/gufw/view/gufw.py:243
+msgid "Name"
+msgstr "Nume"
+
+#: ../gufw/gufw/view/gufw.py:255
+msgid "Protocol"
+msgstr "Protocol"
+
+#: ../gufw/gufw/view/gufw.py:265
+msgid "Address"
+msgstr "Adresă"
+
+#: ../gufw/gufw/view/gufw.py:270
+msgid "Application"
+msgstr "Aplicație"
+
+#: ../gufw/gufw/view/gufw.py:303
+msgid ""
+"An uncomplicated way to manage your firewall, powered by ufw. Easy, simple, "
+"nice and useful! :)"
+msgstr ""
+"Mod simplu de administrare a firewall-ului, oferit de ufw. Ușor, simplu, "
+"drăguț și util! :)"
+
+#: ../gufw/gufw/view/gufw.py:304
+msgid "Basic"
+msgstr "Elementar"
+
+#: ../gufw/gufw/view/gufw.py:305
+msgid "FAQ"
+msgstr "Întrebări frecvente"
+
+#: ../gufw/gufw/view/gufw.py:306
+msgid ""
+"If you are a normal user, you will be safe with this setting (Status=On, "
+"Incoming=Deny, Outgoing=Allow). Remember to append allow rules for your P2P "
+"apps:"
+msgstr ""
+"Dacă sunteți un utilizator obișnuit, este bine să păstrați aceste "
+"configurări (Stare=Activat, Intrare=Refuză,Ieșire=Permite). Nu uitați să "
+"adăugați regulile pentru aplicațiile P2P:"
+
+#: ../gufw/gufw/view/gufw.py:307
+msgid "You can rename your profiles with just 2 clicks on them:"
+msgstr "Puteți redenumi profilurile cu doar 2 clickuri pe numele lor:"
+
+#: ../gufw/gufw/view/gufw.py:308
+msgid "The Rule Name will help you to identify your rules in the future:"
+msgstr "Numele regulii vă ajută să identificați regulile în viitor:"
+
+#: ../gufw/gufw/view/gufw.py:309
+msgid "How to autostart Gufw with the system?"
+msgstr "Cum se pornește Gufw odată cu sistemul?"
+
+#: ../gufw/gufw/view/gufw.py:310
+msgid ""
+"You do not need it. After you do all of the changes in Gufw, the settings "
+"are still in place until the next changes."
+msgstr ""
+"Nu vă trebuie. După ce faceți toate modificările în Gufw, configurarea "
+"rămâne validă până la următoarele modificări."
+
+#: ../gufw/gufw/view/gufw.py:311
+msgid "Why is Gufw disabled by default?"
+msgstr "De ce Gufw este dezactivat implicit?"
+
+#: ../gufw/gufw/view/gufw.py:312
+msgid "By default, the firewall does not open ports to the outside world."
+msgstr "Implicit, firewall-ul nu deschide porturi către exterior."
+
+#: ../gufw/gufw/view/gufw.py:313
+msgid "Some rules are added by themselves?"
+msgstr "Unele reguli se adaugă singure?"
+
+#: ../gufw/gufw/view/gufw.py:314
+msgid ""
+"Well, the behaviour is such that when you change or import a profile, or "
+"when you edit a rule, Gufw will add that rule again, then ufw re-adds that "
+"rule for IPv4 and IPv6."
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:315
+msgid "What is Allow, Deny, Reject and Limit?"
+msgstr "Ce înseamnă Permite, Refuză, Respinge și Limitează?"
+
+#: ../gufw/gufw/view/gufw.py:316
+msgid "Allow: Will allow traffic."
+msgstr "Permite: va permite traficul."
+
+#: ../gufw/gufw/view/gufw.py:317
+msgid "Deny: Will deny traffic."
+msgstr "Refuză: va refuza traficul."
+
+#: ../gufw/gufw/view/gufw.py:318
+msgid "Reject: Will deny traffic and will inform that it has been rejected."
+msgstr ""
+"Respinge: va refuza traficul și va informa utilizatorul că a fost refuzat "
+"traficul."
+
+#: ../gufw/gufw/view/gufw.py:319
+msgid "Limit: Will deny traffic if an IP tried several connections."
+msgstr ""
+"Limitează: va refuza traficul dacă un IP a încercat să facă mai multe "
+"conexiuni."
+
+#: ../gufw/gufw/view/gufw.py:320
+msgid "I see some rules in all profiles"
+msgstr "Văd niște reguli în toate profilurile."
+
+#: ../gufw/gufw/view/gufw.py:321
+msgid "All the ufw rules will be appear in all profiles."
+msgstr "Toate regulile ufw vor apărea în toate profilurile."
+
+#: ../gufw/gufw/view/gufw.py:322
+msgid "What do I see in the Listening Report?"
+msgstr "Ce văd în raportul de urmărire?"
+
+#: ../gufw/gufw/view/gufw.py:323
+msgid ""
+"The ports on the live system in the listening state for TCP and the open "
+"state for UDP."
+msgstr "Porturile TCP și UDP deschise de pe sistem."
+
+#: ../gufw/gufw/view/gufw.py:324
+msgid "I want even more!"
+msgstr "Vreau mai mult!"
+
+#: ../gufw/gufw/view/gufw.py:325
+msgid "You'll find more information in the community documentation :)"
+msgstr ""
+"Găsiți mai multe informații în documentația pusă la dispoziție de comunitate "
+":)"
+
+#: ../gufw/gufw/view/gufw.py:334 ../gufw/gufw/view/gufw.py:338
+#: ../gufw/gufw/view/gufw.py:341
+msgid "Visit this web (please, copy & paste in your browser):"
+msgstr "Vizitați acest site (copiați și lipiți în navigatorul dvs.):"
+
+#: ../gufw/gufw/view/gufw.py:349
+msgid "Import Profile"
+msgstr "Importare profil"
+
+#: ../gufw/gufw/view/gufw.py:355
+msgid "Import cancelled"
+msgstr "Importare anulată"
+
+#: ../gufw/gufw/view/gufw.py:359 ../gufw/gufw/view/gufw.py:363
+msgid "Error"
+msgstr "Eroare"
+
+#: ../gufw/gufw/view/gufw.py:359
+msgid ""
+"Filename has wrong permissions (not 600). Trust only on your exported "
+"profiles"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:363
+msgid ""
+"Filename has not valid characters. Rename the file\n"
+"to only letters, numbers, dashes and underscores"
+msgstr ""
+"Numele de fișier are caractere invalide. Redenumiți fișierul\n"
+"ca să conțină doar litere, cifre, cratime și underscore"
+
+#: ../gufw/gufw/view/gufw.py:367
+msgid "Operation cancelled"
+msgstr "Operațiune anulată"
+
+#: ../gufw/gufw/view/gufw.py:368
+msgid "Profile already exists"
+msgstr "Profilul există deja"
+
+#: ../gufw/gufw/view/gufw.py:368
+msgid ""
+"Delete it before from the Preferences Window or rename the file (the profile "
+"will be the filename)"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:372
+msgid "Profile imported: "
+msgstr "Profil importat: "
+
+#: ../gufw/gufw/view/gufw.py:373
+msgid "Profile imported, now you can choose it in the profiles"
+msgstr "Profil importat, îl puteți alege acum"
+
+#: ../gufw/gufw/view/gufw.py:376
+msgid "Export Profile"
+msgstr "Exportare profil"
+
+#: ../gufw/gufw/view/gufw.py:379
+msgid "Export cancelled"
+msgstr "Exportare anulată"
+
+#: ../gufw/gufw/view/gufw.py:386
+msgid "Profile exported: "
+msgstr "Profil exportat: "
+
+#: ../gufw/gufw/view/gufw.py:387
+msgid "Profile exported"
+msgstr "Profil exportat"
+
+#: ../gufw/gufw/view/gufw.py:411
+msgid "Reset Firewall"
+msgstr "Reinițializare firewall-ul"
+
+#: ../gufw/gufw/view/gufw.py:411
+msgid ""
+"This will remove all rules in the current\n"
+"profile and disable the firewall"
+msgstr ""
+"Se vor șterge toate regulile din profilul\n"
+"curent și se va dezactiva firewall-ul"
+
+#: ../gufw/gufw/view/gufw.py:411 ../gufw/gufw/view/gufw.py:555
+msgid "Do you want to continue?"
+msgstr "Doriți să continuați?"
+
+#: ../gufw/gufw/view/gufw.py:416
+msgid "Removed rules and reset firewall!"
+msgstr "S-au eliminat regulile și s-a reinițializat firewall-ul!"
+
+#: ../gufw/gufw/view/gufw.py:421
+msgid "Gufw Log: Removed"
+msgstr "Jurnal Gufw: Șters"
+
+#: ../gufw/gufw/view/gufw.py:422
+msgid "Gufw Log removed"
+msgstr "Jurnal Gufw șters"
+
+#: ../gufw/gufw/view/gufw.py:427
+msgid "Text copied to clipboard"
+msgstr "Text copiat în clipboard"
+
+#: ../gufw/gufw/view/gufw.py:468
+msgid "Incoming: "
+msgstr "Intrare: "
+
+#: ../gufw/gufw/view/gufw.py:469
+msgid "Incoming policy changed"
+msgstr "Politică de intrare schimbată"
+
+#: ../gufw/gufw/view/gufw.py:471
+msgid "There was an error changing the incoming policy"
+msgstr "A apărut o eroare la schimbarea politicii de intrare"
+
+#: ../gufw/gufw/view/gufw.py:471 ../gufw/gufw/view/gufw.py:479
+#: ../gufw/gufw/view/gufw.py:490
+msgid ""
+"Restart your firewall to refresh to the real status\n"
+"and please report this bug"
+msgstr ""
+"Reproniți firewall-ul pentru a actualizarea starea sa reală,\n"
+"vă rugăm să raportați acest defect"
+
+#: ../gufw/gufw/view/gufw.py:476
+msgid "Outgoing: "
+msgstr "Ieșire: "
+
+#: ../gufw/gufw/view/gufw.py:477
+msgid "Outgoing policy changed"
+msgstr "Politică de ieșire schimbată"
+
+#: ../gufw/gufw/view/gufw.py:479
+msgid "There was an error changing the outgoing policy"
+msgstr "A apărut o eroare la schimbarea politicii de ieșire"
+
+#: ../gufw/gufw/view/gufw.py:487
+msgid "Routed: "
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:488
+msgid "Routed policy changed"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:490
+msgid "There was an error changing the routed policy"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:511 ../gufw/gufw/view/gufw.py:590
+msgid "Select just one row"
+msgstr "Selectați doar un rând:"
+
+#: ../gufw/gufw/view/gufw.py:511
+msgid "You can create a rule from just one row selected"
+msgstr "Puteți crea o regulă doar dintr-un singur rând selectat"
+
+#: ../gufw/gufw/view/gufw.py:525
+msgid "Status: Enabled"
+msgstr "Stare: activat"
+
+#: ../gufw/gufw/view/gufw.py:526
+msgid "Firewall enabled"
+msgstr "Firewall activat"
+
+#: ../gufw/gufw/view/gufw.py:528
+msgid "Status: Disabled"
+msgstr "Stare: dezactivat"
+
+#: ../gufw/gufw/view/gufw.py:529
+msgid "Firewall disabled"
+msgstr "Firewall dezactivat"
+
+#: ../gufw/gufw/view/gufw.py:540
+msgid "There was an error changing the firewall status"
+msgstr "Eroare la schimbarea stării firewall-ului"
+
+#: ../gufw/gufw/view/gufw.py:540
+msgid ""
+"Restart your firewall to refresh to the real status and please report this "
+"bug"
+msgstr ""
+"Reporniți firewall-ul pentru a actualiza starea reală și vă rugăm să "
+"raportați defectul"
+
+#: ../gufw/gufw/view/gufw.py:555
+msgid "Delete rule"
+msgstr "Șterge regula"
+
+#: ../gufw/gufw/view/gufw.py:555
+msgid "You will delete all selected rules"
+msgstr "Veți șterge toate regulile"
+
+#: ../gufw/gufw/view/gufw.py:567
+msgid "Rule(s) deleted"
+msgstr "Regulă/reguli adăugată/e"
+
+#: ../gufw/gufw/view/gufw.py:570
+msgid "Error. Review Gufw Log"
+msgstr "Eroare: verificați jurnalul Gufw"
+
+#: ../gufw/gufw/view/gufw.py:575
+msgid "No rule selected"
+msgstr "Nicio regulă selectată"
+
+#: ../gufw/gufw/view/gufw.py:575
+msgid "You have to select a rule"
+msgstr "Trebuie să selectați o regulă"
+
+#: ../gufw/gufw/view/gufw.py:590
+msgid "You can edit just one rule"
+msgstr "Puteți edita doar o regulă"
+
+#. ufw rule > inmutable
+#: ../gufw/gufw/view/gufw.py:598
+msgid "Immutable Rule"
+msgstr "Regulă invariabilă"
+
+#: ../gufw/gufw/view/gufw.py:598
+msgid "You can't edit a rule added from ufw"
+msgstr "Nu se poate edita o regulă adăugată de ufw"
+
+#: ../gufw/gufw/view/gufw.py:618
+msgid "Changing profile: "
+msgstr "Profil de modificat: "
+
+#: ../gufw/gufw/view/gufw.py:687
+msgid " ALLOW "
+msgstr " PERMITE "
+
+#: ../gufw/gufw/view/gufw.py:688
+msgid " DENY "
+msgstr " REFUZĂ "
+
+#: ../gufw/gufw/view/gufw.py:689
+msgid " REJECT "
+msgstr " RESPINGE "
+
+#: ../gufw/gufw/view/gufw.py:690
+msgid " LIMIT "
+msgstr " LIMITEAZĂ "
+
+#: ../gufw/gufw/view/gufw.py:691
+msgid " OUT "
+msgstr " IEȘIRE "
+
+#: ../gufw/gufw/view/gufw.py:692
+msgid " IN "
+msgstr " INTRARE "
+
+#: ../gufw/gufw/view/gufw.py:693
+msgid " FWD "
+msgstr " FWD "
+
+#: ../gufw/gufw/view/gufw.py:694
+msgid "Anywhere"
+msgstr "Oriunde"
+
+#: ../gufw/gufw/view/gufw.py:695
+msgid "(log)"
+msgstr "(log)"
+
+#: ../gufw/gufw/view/gufw.py:696
+msgid "(log-all)"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:697
+msgid " (out)"
+msgstr " (ieșire)"
+
+#: ../gufw/gufw/view/gufw.py:698
+msgid " on "
+msgstr " pornit "
+
+#: ../gufw/gufw/view/gufw.py:741
+msgid "Gufw profile"
+msgstr "Profil Gufw"
+
+#: ../gufw/gufw/view/gufw.py:745
+msgid "All files"
+msgstr "Toate fișierele"
+
+#: ../gufw/gufw/view/gufw.py:785
+msgid "Insert IP/Ports"
+msgstr "Introduceți IP/porturi"
+
+#: ../gufw/gufw/view/gufw.py:785
+msgid "You need to insert IP/ports in to/from fields"
+msgstr "Trebuie să introduceți IP-uri/porturi în câmpurile „la/de la”"
+
+#: ../gufw/gufw/view/gufw.py:794
+msgid "Insert number bigger that number of rules"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:794
+msgid ""
+"By example, if you have 3 rules, you can't insert a rule into position 4"
+msgstr ""
+
+#: ../gufw/gufw/view/update.py:244
+msgid "No changes were made!"
+msgstr ""
+
+#: ../gufw/gufw/view/update.py:251
+msgid "Editing rule (Removing): "
+msgstr "Regulă de editat (Se elimină): "
+
+#: ../gufw/gufw/view/update.py:257
+msgid "Editing rule (Adding): "
+msgstr "Regulă de editat (Se adaugă): "
+
+#: ../gufw/gufw/view/update.py:258
+msgid "Updated rule "
+msgstr "Regulă actualizată "
+
+#~ msgid "From"
+#~ msgstr "De la"
+
+#~ msgid "Error: Fields filled out incorrectly"
+#~ msgstr "Eroare: Câmpurile au fost completate incorect"
+
+#~ msgid "Error performing operation"
+#~ msgstr "Eroare la efectuarea operațiunii"
+
+#~ msgid "Rule added"
+#~ msgstr "Regulă adăugată"
+
+#~ msgid "Reject all INCOMING traffic"
+#~ msgstr "Refuză tot traficul de INTRARE"
+
+#~ msgid "Deny all INCOMING traffic"
+#~ msgstr "Refuză tot traficul de INTRARE"
+
+#~ msgid "Incoming:"
+#~ msgstr "Intrare:"
+
+#~ msgid "<b>Rules</b>"
+#~ msgstr "<b>Reguli</b>"
+
+#~ msgid "Select rule(s)"
+#~ msgstr "Alege regula/reguli"
+
+#~ msgid "Allow all INCOMING traffic"
+#~ msgstr "Permite tot traficul de IEȘIRE"
+
+#~ msgid "Deny all OUTGOING traffic"
+#~ msgstr "Refuză tot traficul de IEȘIRE"
+
+#~ msgid "Allow all OUTGOING traffic"
+#~ msgstr "Permite tot traficul de IEȘIRE"
+
+#~ msgid "Reject all OUTGOING traffic"
+#~ msgstr "Refuză tot traficul de IEȘIRE"
+
+#~ msgid "Outgoing:"
+#~ msgstr "Ieșire:"
+
+#~ msgid "Rule(s) removed"
+#~ msgstr "Regulile au fost eliminate"
+
+#~ msgid "Action"
+#~ msgstr "Acțiune"
+
+#~ msgid "To"
+#~ msgstr "Către"
+
+#~ msgid "Removing rules..."
+#~ msgstr "Se elimină reguli..."
+
+#~ msgid "Wrong identification"
+#~ msgstr "Identificare greșită"
+
+#~ msgid "Error: Insert a port number"
+#~ msgstr "Eroare: Introduceți un număr de port"
+
+#~ msgid "Error: Range ports only with tcp or udp protocol"
+#~ msgstr ""
+#~ "Eroare: Intervalul de porturi poate fi utilizat doar pentru protocoalele TCP "
+#~ "și UDP"
+
+#~ msgid "This will remove all rules and disable the firewall!"
+#~ msgstr "Aceasta va elimina toate regulile și va dezactiva firewall-ul!"
+
+#~ msgid "Firewall: Add Rule"
+#~ msgstr "Firewall: Adaugă regulă"
+
+#~ msgid "Enabled firewall"
+#~ msgstr "Firewall activat"
+
+#~ msgid "Disabled firewall"
+#~ msgstr "Firewall dezactivat"
+
+#~ msgid "REJECT IN"
+#~ msgstr "RESPINGE INTRAREA"
+
+#~ msgid "ALLOW IN"
+#~ msgstr "PERMITE INTRAREA"
+
+#~ msgid "LIMIT IN"
+#~ msgstr "LIMITEAZĂ INTRAREA"
+
+#~ msgid "ALLOW OUT"
+#~ msgstr "PERMITE IEȘIREA"
+
+#~ msgid "Firewall: Log"
+#~ msgstr "Firewall: Jurnal"
+
+#~ msgid "DENY"
+#~ msgstr "BLOCHEAZĂ"
+
+#~ msgid "LIMIT OUT"
+#~ msgstr "LIMITEAZĂ IEȘIREA"
+
+#~ msgid "ALLOW"
+#~ msgstr "PERMITE"
+
+#~ msgid "LIMIT"
+#~ msgstr "LIMITEAZĂ"
+
+#~ msgid "Documentation..."
+#~ msgstr "Documentație..."
+
+#~ msgid "Report a Problem..."
+#~ msgstr "Raportați o problemă..."
+
+#~ msgid "Show notifications"
+#~ msgstr "Afișează notificările"
+
+#~ msgid "Firewall: Preferences"
+#~ msgstr "Firewall: Preferințe"
+
+#~ msgid "<b>Gufw Options</b>"
+#~ msgstr "<b>Opțiuni Gufw</b>"
+
+#~ msgid "Logging"
+#~ msgstr "Jurnalizare"
+
+#~ msgid "Listening Report"
+#~ msgstr "Raport urmărire"
+
+#~ msgid "Logging:"
+#~ msgstr "Jurnalizare:"
+
+#~ msgid "<b>ufw Options</b>"
+#~ msgstr "<b>Opțiuni ufw</b>"
+
+#~ msgid "Graphical user interface for ufw"
+#~ msgstr "Interfaţă grafică pentru ufw"
+
+#~ msgid "Show as server script"
+#~ msgstr "Afişează ca script server"
+
+#~ msgid "Unlock the firewall"
+#~ msgstr "Deblochează firewall-ul"
+
+#~ msgid ""
+#~ "Ports in the listening state for TCP and open state for UDP.\n"
+#~ "If enabled, will result in higher CPU usage."
+#~ msgstr ""
+#~ "Porturile urmărite pentru TCP şi deschise pentru UDP\n"
+#~ "Dacă este activată, va creşte solicitarea CPU."
+
+#~ msgid "Use PortA:PortB for a port range."
+#~ msgstr "Folosește PortA:PortB pentru un interval de porturi."
+
+#~ msgid "Re_move Rule"
+#~ msgstr "Șterge regula"
+
+#~ msgid "Re_set Firewall..."
+#~ msgstr "Resetează Firewall-ul"
+
+#~ msgid "Show in a simpler format that can be used for scripting"
+#~ msgstr "Arată într-un format mai simplu, care poate fi folosit în scripturi"
+
+#~ msgid "Status"
+#~ msgstr "Stare"
+
+#~ msgid "Show notifications for new connections in Listening Report"
+#~ msgstr "Arată notificările pentru noile conexiuni în Raportul de urmărire"
+
+#~ msgid "Show extended actions"
+#~ msgstr "Arată acțiuni extinse"
+
+#~ msgid "Remove all Gufw logs"
+#~ msgstr "Elimină toate jurnalele Gufw"
+
+#~ msgid "Reloaded ufw rules"
+#~ msgstr "Reguli ufw reîncărcate"
+
+#~ msgid ""
+#~ "Lead developer:\n"
+#~ "Marcos Alvarez Costales https://launchpad.net/~costales\n"
+#~ "\n"
+#~ "Developers (in alphabetical order):\n"
+#~ "David Planella https://launchpad.net/~dpm\n"
+#~ "Emilio López https://launchpad.net/~turl\n"
+#~ "Giacomo Picchiarelli https://launchpad.net/~gpicchiarelli\n"
+#~ "Jeremy Bicha https://launchpad.net/~jbicha\n"
+#~ "Raúl Soriano https://launchpad.net/~gatoloko\n"
+#~ "Rogério Vicente https://launchpad.net/~rogeriopvl\n"
+#~ "Rubén Megido https://launchpad.net/~runoo\n"
+#~ "Vadim Peretokin https://launchpad.net/~vperetokin\n"
+#~ "\n"
+#~ "Contributors:\n"
+#~ "Cedrick Hannier https://launchpad.net/~cedynamix\n"
+#~ "\n"
+#~ "MOTU\n"
+#~ "Devid Antonio Filoni https://launchpad.net/~d.filoni"
+#~ msgstr ""
+#~ "Dezvoltator principal:\n"
+#~ "Marcos Alvarez Costales https://launchpad.net/~costales\n"
+#~ "\n"
+#~ "Dezvoltatori (în ordine alfabetică):\n"
+#~ "David Planella https://launchpad.net/~dpm\n"
+#~ "Emilio López https://launchpad.net/~turl\n"
+#~ "Giacomo Picchiarelli https://launchpad.net/~gpicchiarelli\n"
+#~ "Jeremy Bicha https://launchpad.net/~jbicha\n"
+#~ "Raúl Soriano https://launchpad.net/~gatoloko\n"
+#~ "Rogério Vicente https://launchpad.net/~rogeriopvl\n"
+#~ "Rubén Megido https://launchpad.net/~runoo\n"
+#~ "Vadim Peretokin https://launchpad.net/~vperetokin\n"
+#~ "\n"
+#~ "Contributori:\n"
+#~ "Cedrick Hannier https://launchpad.net/~cedynamix\n"
+#~ "\n"
+#~ "MOTU\n"
+#~ "Devid Antonio Filoni https://launchpad.net/~d.filoni"
+
+#~ msgid "Shield logo by myke http://michael.spiegel1.at/"
+#~ msgstr "Design logo scut de myke http://michael.spiegel1.at/"
+
+#~ msgid "DENY IN"
+#~ msgstr "OPREȘTE INTRAREA"
+
+#~ msgid "Clean values in boxes"
+#~ msgstr "Șterge valorile din căsuțe"
+
+#~ msgid "REJECT"
+#~ msgstr "RESPINGE"
+
+#~ msgid "DENY OUT"
+#~ msgstr "NU PERMITE IEȘIREA"
+
+#~ msgid "REJECT OUT"
+#~ msgstr "BLOCHEAZĂ IEȘIREA"
+
+#~ msgid "_Log..."
+#~ msgstr "_Jurnal..."
+
+#~ msgid "_Add Rule..."
+#~ msgstr "_Adaugă regulă..."
+
+#~ msgid "Re_load Rules"
+#~ msgstr "Reîncarcă regulile"
+
+#~ msgid "Unlock"
+#~ msgstr "Deblochează"
+
+#~ msgid "It may be a security risk to use a default allow policy for RDP"
+#~ msgstr ""
+#~ "Este riscant să folosiți o politică de permitere a conexiunilor RDP (Remote "
+#~ "Desktop Protocols - Protocoale Conexiune la Distanță)"
+
+#~ msgid "It may be a security risk to use a default allow policy for SSH"
+#~ msgstr "Este riscant să utilizați politica implicită de permitere a SSH"
+
+#~ msgid "Translate this Application..."
+#~ msgstr "Traduceți această aplicaţie..."
+
+#~ msgid "Get Help Online..."
+#~ msgstr "Obțineți ajutor online"
+
+#~ msgid "Nagios Plugin"
+#~ msgstr "Modul  Nagios"

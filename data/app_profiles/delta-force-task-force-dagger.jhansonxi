@@ -1,0 +1,7 @@
+[Delta Force TFD]
+title=Delta Force: TFD
+description=Task Force Dagger. A FPS combat game by NovaLogic
+ports=17478/udp
+categories=Games;Action;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

@@ -1,0 +1,7 @@
+[Descent 3]
+title=Descent 3
+description=3D Flying FPS by Outrage Entertainment
+ports=2092,3445/udp|7170/tcp
+categories=Games;Action;
+reference=[http://icculus.org/lgfaq/en/network.php Icculous.org: Networking Queries]
+

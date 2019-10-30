@@ -1,0 +1,49 @@
+[plex]
+title=PLEX
+description=Plex Media Server (Main port)
+ports=32400/tcp
+categories=Network;Audio Video;
+reference=[https://support.plex.tv/hc/en-us/articles/201543147-What-network-ports-do-I-need-to-allow-through-my-firewall - Plex support]
+
+[plexDLNA]
+title=PLEX DLNA
+description=Access to the Plex DLNA Server
+ports=1900/udp
+categories=Network;Audio Video;
+reference=[https://support.plex.tv/hc/en-us/articles/201543147-What-network-ports-do-I-need-to-allow-through-my-firewall - Plex support]
+
+[plexCompanion]
+title=PLEX Companion
+description=Controlling Plex Home Theater via Plex Companion
+ports=3005/tcp
+categories=Network;Audio Video;
+reference=[https://support.plex.tv/hc/en-us/articles/201543147-What-network-ports-do-I-need-to-allow-through-my-firewall - Plex support]
+
+[plexAvahi]
+title=PLEX Avahi discovery
+description=Older Bonjour/Avahi network discovery
+ports=5353/udp
+categories=Network;Audio Video;
+reference=[https://support.plex.tv/hc/en-us/articles/201543147-What-network-ports-do-I-need-to-allow-through-my-firewall - Plex support]
+
+[plexRoku]
+title=PLEX Roku
+description=Controlling Plex for Roku via Plex Companion
+ports=8324/tcp
+categories=Network;Audio Video;
+reference=[https://support.plex.tv/hc/en-us/articles/201543147-What-network-ports-do-I-need-to-allow-through-my-firewall - Plex support]
+
+[plexGDM]
+title=PLEX GDM
+description=GDM network discovery
+ports=32410/udp|32412/udp|32413/udp|32414/udp
+categories=Network;Audio Video;
+reference=[https://support.plex.tv/hc/en-us/articles/201543147-What-network-ports-do-I-need-to-allow-through-my-firewall - Plex support]
+
+[plexDLNA2]
+title=PLEX DLNA Server (Other port)
+description=Another port for Plex DLNA Server
+ports=32469/tcp
+categories=Network;Audio Video;
+reference=[https://support.plex.tv/hc/en-us/articles/201543147-What-network-ports-do-I-need-to-allow-through-my-firewall - Plex support]
+

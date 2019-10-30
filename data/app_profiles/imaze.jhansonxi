@@ -1,0 +1,7 @@
+[iMaze]
+title=iMaze
+description=A maze combat game in 3D
+ports=5323
+categories=Games;Action;
+reference=netstat -nap|grep imazesrv
+

@@ -1,0 +1,7 @@
+[Neverwinter Nights]
+title=Neverwinter Nights server
+description=Default port for Neverwinter Nights, a RPG from Bioware
+ports=5121/udp
+categories=Games;Role;
+reference=[http://www.sorcerers.net/Games/NWN/tech_faq.php#03 Sorcerer's Place - Neverwinter Nights Technical FAQ]
+

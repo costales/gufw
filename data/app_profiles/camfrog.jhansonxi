@@ -1,0 +1,7 @@
+[Camfrog server]
+title=Camfrog
+description=H.323 Call Signaling
+ports=5000:15000/udp|6005/tcp
+categories=Network;Telephony;Video Conference;
+reference=[http://www.camfrog.com/faq.phtml Camfrog FAQ]
+

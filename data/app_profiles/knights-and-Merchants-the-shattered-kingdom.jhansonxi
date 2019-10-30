@@ -1,0 +1,7 @@
+[Knights and Merchants TSK]
+title=Knights and Merchants TSK
+description=A RTS by Joymania
+ports=3000/udp
+categories=Games;Strategy;
+reference=[http://demofiles.linuxgamepublishing.com/knights/manual.pdf Linux Games Publishing: Demo manual PDF]
+

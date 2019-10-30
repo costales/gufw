@@ -1,0 +1,7 @@
+[Tachyon The Fringe]
+title=Tachyon: The Fringe
+description=A 3D space combat game by NovaLogic
+ports=2766/udp
+categories=Games;Action;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

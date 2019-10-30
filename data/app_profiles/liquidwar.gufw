@@ -1,0 +1,7 @@
+[LiquidWar]
+title=Liquid War
+description=An original shortest path algorithm and core concept
+ports=8035
+categories=Games;Action;
+reference=[http://www.ufoot.org/liquidwar/v5/metaserver]
+

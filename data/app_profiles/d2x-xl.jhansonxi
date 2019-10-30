@@ -1,0 +1,7 @@
+[D2X-XL]
+title=D2X-XL
+description=A source port of Descent II, the 3D Flying FPS by Outrage Entertainment
+ports=28342/udp
+categories=Games;Action;
+reference=[http://www.descent2.de/d2x-multiplayer.html D2X - Multiplayer How-To]
+

@@ -1,0 +1,7 @@
+[Murmur]
+title=Murmur
+description=Murmur voice chat server (counterpart to Mumble client)
+ports=64738
+categories=Network;Telephony;
+reference=http://mumble.sourceforge.net/FAQ/English#What_is_the_default_server_port_for_Murmur.3F|Mumble FAQ]]
+

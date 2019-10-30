@@ -1,0 +1,7 @@
+[HOMM3]
+title=Heroes of Might and Magic III
+description=A fantasy strategy game by 3DO
+ports=2300:2400,28800:29100,47624/udp|2300:2400,28800:29100,47624/tcp
+categories=Games;Strategy;
+reference=[http://heroescommunity.com/viewthread.php3?TID=12141&pagenumber=1 Heroes Community: How can I solve my online-gaming problems exactly?]
+

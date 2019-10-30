@@ -1,0 +1,7 @@
+[SnowballZ]
+title=Snowball Surprise (SnowballZ)
+description=A RTS snowball fight
+ports=5555/tcp
+categories=Games;Strategy;
+reference=netstat -nap|grep python
+

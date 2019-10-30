@@ -1,0 +1,7 @@
+[IPP]
+title=IPP
+description=Internet Printing Protocol
+ports=631
+categories=Network;Printing;
+reference=[http://en.wikipedia.org/wiki/Internet_Printing_Protocol Wikipedia: Internet Printing Protocol]
+

@@ -1,0 +1,6 @@
+[SSDP]
+title=SSDP
+description=Simple Service Discovery Protocol
+ports=1900/udp
+categories=Network;
+reference=[http://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol Wikipedia: Simple Service Discovery Protocol]

@@ -1,0 +1,27 @@
+[OpenMeetings RTMPS]
+title=OpenMeetings Secure RTMP
+description=OpenMeetings Real Time Messaging Protocol over SSL
+ports=8443/tcp
+categories=Network;Video Conference;
+reference=[http://openmeetings.googlecode.com/svn/wiki/InstallationOpenMeetings.wiki InstallationOpenMeetings.wiki]
+
+[OpenMeetings RTMPT]
+title=OpenMeetings Tunneled RTMP
+description=OpenMeetings Real Time Messaging Protocol over HTTP
+ports=8088/tcp
+categories=Network;Video Conference;
+reference=[http://openmeetings.googlecode.com/svn/wiki/InstallationOpenMeetings.wiki InstallationOpenMeetings.wiki]
+
+[OpenMeetings HTTP]
+title=OpenMeetings HTTP
+description=OpenMeetings HTTP server
+ports=5080/tcp
+categories=Network;Video Conference;
+reference=[http://openmeetings.googlecode.com/svn/wiki/InstallationOpenMeetings.wiki InstallationOpenMeetings.wiki]
+
+[OpenMeetings ODSP]
+title=OpenMeetings DSP
+description=OpenMeetings Desktop Sharing Protocol (ODSP)
+ports=4445
+categories=Network;Video Conference;
+reference=[http://openmeetings.googlecode.com/svn/wiki/InstallationOpenMeetings.wiki InstallationOpenMeetings.wiki]

@@ -1,0 +1,5 @@
+[Warsow]
+title=Warsow
+description=A competitive FPS based on the Qfusion 3D/id tech 2 engine
+ports=27950,44400/udp|27950/tcp
+categories=Games;Action;

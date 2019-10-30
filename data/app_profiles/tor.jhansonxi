@@ -1,0 +1,7 @@
+[Tor]
+title=Tor Normal
+description=Tor anonymity network
+ports=9001/tcp
+categories=Network;File Transfer;
+reference=[https://trac.torproject.org/projects/tor/wiki/TheOnionRouter/TorFAQ#ImbehindaNATFirewall TorFAQ: I'm behind a NAT/Firewall]
+

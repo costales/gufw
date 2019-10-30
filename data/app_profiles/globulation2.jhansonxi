@@ -1,0 +1,7 @@
+[Globulation 2]
+title=Globulation 2
+description=A RTS
+ports=7486/tcp
+categories=Games;Strategy;
+reference=[http://globulation2.org/wiki/Frequently_Asked_Questions#I.27m_behind_a_NAT_and_I_can.27t_join_or_start_a_game._what_can_I_do.3F Globulation2 wiki:  I'm behind a NAT and I can't join or start a game]
+

@@ -1,0 +1,7 @@
+[Hedgewars]
+title=Hedgewars
+description=An arcade combat game inspired by Worms from Team17 Software
+ports=46631/tcp
+categories=Games;Arcade;
+reference=[http://www.hedgewars.org/faq.html#n1302 Hedgewars wiki: Network game does not work for me!]
+

@@ -1,0 +1,7 @@
+[Domination]
+title=Yura.net Domination (jRisk)
+description=A clone of Risk
+ports=4444/tcp6
+categories=Games;Strategy;
+reference=[http://domination.sourceforge.net/faq.shtml Domination FAQ]
+

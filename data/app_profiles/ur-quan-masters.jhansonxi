@@ -1,0 +1,7 @@
+[Ur-Quan Masters]
+title=Ur-Quan Masters
+description=An enhanced version of Star Control II from 3DO
+ports=21836:21837/udp|21836:21837/tcp
+categories=Games;Adventure;
+reference=[http://wiki.uqm.stack.nl/Netplay_howto#Telling_your_router_to_forward_UQM_packets UQM wiki: Telling your router to forward UQM packets]
+

@@ -1,0 +1,21 @@
+[Thousand Parsec]
+title=Thousand Parsec
+description=A common framework for building turn based space empire building games
+ports=6923/tcp
+categories=Games;Strategy;
+reference=[http://www.thousandparsec.net/tp/dev/documents/protocol3.php Protocol Definition for Thousand Parsec]
+
+[Thousand Parsec SSL]
+title=Thousand Parsec SSL
+description=A common framework for building turn based space empire building games
+ports=6924/tcp
+categories=Games;Strategy;
+reference=[http://www.thousandparsec.net/tp/dev/documents/protocol3.php Protocol Definition for Thousand Parsec]
+
+[Thousand Parsec admin]
+title=Thousand Parsec Admin
+description=A common framework for building turn based space empire building games
+ports=6925/tcp
+categories=Games;Strategy;
+reference=[http://www.thousandparsec.net/~irc/logs/%23tp.2010-02-08.log.html IRC #tp log for Monday, 2010-02-08]
+

@@ -1,0 +1,22 @@
+[IRC 194]
+title=IRC - 194/tcp
+description=Internet Relay Chat on official port 194 (rarely used)
+ports=194/tcp
+categories=Network;IRC;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[IRC 6667]
+title=IRC
+description=Internet Relay Chat on common default port 6667, using nf_conntrack_irc DCC helper
+ports=6667/tcp
+modules=nf_conntrack_irc;nf_nat_irc;
+categories=Network;IRC;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+
+[IRC SSL]
+title=IRC SSL
+description=Internet Relay Chat on SSL default port 6697
+ports=6697/tcp
+categories=Network;IRC;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+

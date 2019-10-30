@@ -1,0 +1,7 @@
+[Diablo]
+title=Diablo
+description=Fantasy combat game by Blizzard Entertainment
+ports=6112:6119/udp|6112:6119/tcp
+categories=Games;Action;
+reference=[http://us.blizzard.com/support/article.xml?locale=en_US&articleId=21109 Blizzard Support: Port Information]
+

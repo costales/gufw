@@ -1,0 +1,7 @@
+[MSN Gaming Zone]
+title=MSN Gaming Zone
+description=Games using MSN Gaming Zone API
+ports=1863,6667,6891:6900,28000:29100/tcp
+categories=Network;Games;
+reference=[http://zone.msn.com/en/support/article/support3401.htm What ports do I need to open to play MSN Games?]
+

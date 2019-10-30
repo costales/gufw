@@ -1,0 +1,14 @@
+[NFS Server-32765]
+title=NFS TLDP NFS
+description=Network File System protocol with static ports at 32765:32768 (some conflicts with popular games)
+ports=111,2049,32765:32768/udp|111,2049,32765:32768/tcp
+categories=Network;File Transfer;
+reference=[http://wiki.debian.org/SecuringNFS Debian Wiki: SecuringNFS]
+
+[NFS Server with Quota-32765]
+title=NFS Quota & TLDP NFS
+description=NFS with user/group filesystem usage quota support with static ports at 32765:32769 (some conflicts with popular games)
+ports=111,2049,32765:32769/udp|111,2049,32765:32769/tcp
+categories=Network;File Transfer;
+reference=[http://wiki.debian.org/SecuringNFS Debian Wiki: SecuringNFS]
+

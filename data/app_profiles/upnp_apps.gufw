@@ -1,0 +1,6 @@
+[upnp]
+title=UPnP
+description=Universal Plug and Play. It is a framework which can be used to make networked applications
+ports=1900/udp|5431|49152|80
+categories=System;General;
+reference=[http://www.upnp-hacks.org/faq.html#ports]

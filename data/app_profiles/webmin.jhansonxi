@@ -1,0 +1,14 @@
+[Webmin]
+title=Webmin
+description=Web-page based system management utility
+ports=10000/tcp
+categories=Network;Shell;
+reference=[http://www.webmin.com/faq.html Webmin FAQ]
+
+[Webmin fast RPC]
+title=Webmin fast RPC
+description=Web-page based system management utility
+ports=10000:10010/tcp
+categories=Network;Shell;
+reference=[http://www.webmin.com/faq.html Webmin FAQ]
+

@@ -1,0 +1,8 @@
+[RDP]
+title=RDP
+description=Remote Desktop Protocols
+ports=3389/tcp
+warning=It may be a security risk to use a default allow policy
+categories=Network;Remote Access;
+reference=[http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Ports_1024_to_49151 Wikipedia: List of TCP and UDP port numbers]
+

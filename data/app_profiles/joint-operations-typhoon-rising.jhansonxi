@@ -1,0 +1,7 @@
+[Joint Operations TR]
+title=Joint Operations: Typhoon Rising
+description=A FPS combat game by NovaLogic
+ports=7597,32768,49152,64206/udp
+categories=Games;Action;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

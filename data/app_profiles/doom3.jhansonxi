@@ -1,0 +1,7 @@
+[Doom3]
+title=Doom3
+description=A FPS by id Software
+ports=27666,27650/udp|27666,27650/tcp
+categories=Games;Action;
+reference=[http://www.secit.at/doc/qstat-2.6/html/qstatdoc.html qstat documentation]
+

@@ -1,0 +1,7 @@
+[PPTP]
+title=SANE scanner
+description=Scanner Access Now Easy - scanner sharing server
+ports=1723/tcp|47/gpe
+modules=nf_conntrack_pptp;nf_nat_pptp;
+categories=Network;
+reference=[http://wiki.linuxmce.com/index.php/PPTP_server LinuxMCE wiki: PPTP server]

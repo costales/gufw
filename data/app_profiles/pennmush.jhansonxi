@@ -1,0 +1,7 @@
+[PennMUSH]
+title=PennMUSH
+description=A MUSH/MUD server
+ports=6969/tcp
+categories=Network;Games;
+reference=[http://javelin.pennmush.org/cgi-penn/fom?_recurse=1&file=1&#file_83 PennMUSH Faq-O-Matic: Listening on alternate ports]
+

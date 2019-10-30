@@ -1,0 +1,28 @@
+[World of Padman 0]
+title=World of Padman - 27960/udp
+description=A FPS by Padworld Entertainment based on Quake III, server on port 27960
+ports=27960/udp
+categories=Games;Action;
+reference=[http://padworld.myexp.de/forum/viewtopic.php?p=56216#p56216 World of Padman Board: Ich hab ein Problem bitte um hilfe]
+
+[World of Padman 1]
+title=World of Padman - 27961/udp
+description=A FPS by Padworld Entertainment based on Quake III, server on port 27961
+ports=27961/udp
+categories=Games;Action;
+reference=[http://padworld.myexp.de/forum/viewtopic.php?p=56216#p56216 World of Padman Board: Ich hab ein Problem bitte um hilfe]
+
+[World of Padman 2]
+title=World of Padman - 27962/udp
+description=A FPS by Padworld Entertainment based on Quake III, server on port 27962
+ports=27962/udp
+categories=Games;Action;
+reference=[http://padworld.myexp.de/forum/viewtopic.php?p=56216#p56216 World of Padman Board: Ich hab ein Problem bitte um hilfe]
+
+[World of Padman 3]
+title=World of Padman - 27963/udp
+description=A FPS by Padworld Entertainment based on Quake III, server on port 27963
+ports=27963/udp
+categories=Games;Action;
+reference=[http://padworld.myexp.de/forum/viewtopic.php?p=56216#p56216 World of Padman Board: Ich hab ein Problem bitte um hilfe]
+

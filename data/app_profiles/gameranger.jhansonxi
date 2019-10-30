@@ -1,0 +1,7 @@
+[GameRanger]
+title=GameRanger
+description=A game server browser from GameRanger Technologies
+ports=16000/udp
+categories=Network;Games;
+reference=[http://www.gameranger.com/support/network/ Network Changes in GameRanger]
+

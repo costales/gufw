@@ -1,0 +1,61 @@
+[Skype]
+title=Skype - 23399
+description=VoIP client
+ports=23399
+categories=Network;Telephony;
+reference=[http://www.speedguide.net/port.php?port=23399 SpeedGuide.net: Port 23399 (tcp/udp)]
+
+[Skype 23398]
+title=Skype - 23398
+description=VoIP client, suggested alternate port
+ports=23398
+categories=Network;Telephony;
+
+[Skype 23397]
+title=Skype - 23397
+description=VoIP client, suggested alternate port
+ports=23397
+categories=Network;Telephony;
+
+[Skype 23396]
+title=Skype - 23396
+description=VoIP client, suggested alternate port
+ports=23396
+categories=Network;Telephony;
+
+[Skype 23395]
+title=Skype - 23395
+description=VoIP client, suggested alternate port
+ports=23395
+categories=Network;Telephony;
+
+[Skype 23394]
+title=Skype - 23394
+description=VoIP client, suggested alternate port
+ports=23394
+categories=Network;Telephony;
+
+[Skype 23393]
+title=Skype - 23393
+description=VoIP client, suggested alternate port
+ports=23393
+categories=Network;Telephony;
+
+[Skype 23392]
+title=Skype - 23392
+description=VoIP client, suggested alternate port
+ports=23392
+categories=Network;Telephony;
+
+[Skype 23391]
+title=Skype - 23391
+description=VoIP client, suggested alternate port
+ports=23391
+categories=Network;Telephony;
+
+[Skype 23390]
+title=Skype - 23390
+description=VoIP client, suggested alternate port
+ports=23390
+categories=Network;Telephony;
+

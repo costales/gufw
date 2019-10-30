@@ -1,0 +1,7 @@
+[Widelands]
+title=Widelands
+description=A RTS similar to The Settlers I & II from Blue Byte Software
+ports=7396
+categories=Games;Strategy;
+reference=[http://wl.widelands.org/wiki/WidelandsFaq/#we_have_problems_connecting_to_a_widelands_host Widelands wiki: We have problems connecting to a Widelands host]
+

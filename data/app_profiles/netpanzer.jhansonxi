@@ -1,0 +1,7 @@
+[netPanzer]
+title=netPanzer
+description=An online multiplayer tactical warfare game
+ports=3030
+categories=Games;Action;
+reference=[http://www.netpanzer.org/wiki/index.php?page=FAQ#13 netPanzer FAQ: I'm behind a firewall/router can I still use netPanzer?]
+

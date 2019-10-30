@@ -1,0 +1,7 @@
+[ThinkTanks]
+title=ThinkTanks
+description=A 3D tank combat game by BraveTree Productions using the Torque Game Engine
+ports=28000:28010/udp
+categories=Games;Action;
+reference=[http://www.torquepowered.com/community/forums/viewthread/13906/1#comment-98871 Torque Game Engine ThinkTanks forums: Firewalls]
+

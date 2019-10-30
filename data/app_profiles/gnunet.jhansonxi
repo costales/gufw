@@ -1,0 +1,8 @@
+[GNUnet]
+title=GNUnet
+description=A decentralized peer-to-peer networking framework with file sharing and messaging
+ports=1080,2086
+categories=Network;File Transfer;
+warning=Remember to open the ports on the router
+reference=[https://gnunet.org/node/12 Frequently Asked Questions: How do I have to configure my firewall?]
+

@@ -1,0 +1,7 @@
+[OpenTTD]
+title=OpenTTD server
+description=An enhanced clone of Chris Sawyer's Transport Tycoon Deluxe
+ports=3979
+categories=Games;Simulation;
+reference=[http://wiki.openttd.org/Server OpenTTD wiki: Server]
+

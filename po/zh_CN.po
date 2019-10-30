@@ -1,0 +1,4579 @@
+# Chinese (Simplified) translation for gui-ufw
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the gui-ufw package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gui-ufw\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-12-23 14:38+0000\n"
+"PO-Revision-Date: 2012-05-02 19:41+0000\n"
+"Last-Translator: costales <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2018-06-23 08:04+0000\n"
+"X-Generator: Launchpad (build 18688)\n"
+
+#: ../gufw.desktop.in.h:1
+msgid "Firewall Configuration"
+msgstr "防火墙配置"
+
+#: ../gufw.desktop.in.h:2
+msgid "An easy way to configure your firewall"
+msgstr "配置防火墙的简单方法"
+
+#: ../DEV_extra_translations/extra_translations.py:663
+msgid "PvPGN"
+msgstr "PvPGN"
+
+#: ../DEV_extra_translations/extra_translations.py:664
+msgid "Player vs Player Gaming Network server emulation based on bnetd"
+msgstr "基于bnetd的玩家对玩家游戏网络服务器仿真"
+
+#: ../DEV_extra_translations/extra_translations.py:75
+msgid "Network;Games;"
+msgstr "网络；游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:665
+msgid "PvPGN Address Translation"
+msgstr "PvPGN地址转换"
+
+#: ../DEV_extra_translations/extra_translations.py:666
+msgid "Player vs Player Gaming Network Address translation port"
+msgstr "玩家对玩家游戏网络地址转换端口"
+
+#: ../DEV_extra_translations/extra_translations.py:310
+msgid "Rune"
+msgstr "《符文》"
+
+#: ../DEV_extra_translations/extra_translations.py:311
+msgid "A third-person fantasy combat game by Human Head Studios"
+msgstr "一款由Human Head Studios制作的第三人称科幻打斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:10
+msgid "Games;Action;"
+msgstr "游戏、动作"
+
+#: ../DEV_extra_translations/extra_translations.py:312
+msgid "Rune admin"
+msgstr "《符文管理》"
+
+#: ../DEV_extra_translations/extra_translations.py:313
+msgid "Web-based administration for the Rune game by Human Head Studios"
+msgstr "一款由Human Head Studios制作网络管理符文的游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:691
+msgid "DOSBox IPX"
+msgstr "DOSBox IPX"
+
+#: ../DEV_extra_translations/extra_translations.py:692
+#: ../DEV_extra_translations/extra_translations.py:695
+msgid "DOS system emulator"
+msgstr "DOS系统模拟器"
+
+#: ../DEV_extra_translations/extra_translations.py:693
+msgid "System;Emulator;"
+msgstr "系统；模拟器；"
+
+#: ../DEV_extra_translations/extra_translations.py:694
+msgid "DOSBox Modem"
+msgstr "DOSBox调制解调器"
+
+#: ../DEV_extra_translations/extra_translations.py:823
+msgid "DXX-Rebirth"
+msgstr "《DXX-重生》"
+
+#: ../DEV_extra_translations/extra_translations.py:824
+msgid "A source port of Descent, the 3D Flying FPS by Outrage Entertainment"
+msgstr "一款由Outrage Entertainment制作的下降源端口3D飞行第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:753
+msgid "OpenMeetings Secure RTMP"
+msgstr "OpenMeetings安全的实时消息传输协议"
+
+#: ../DEV_extra_translations/extra_translations.py:754
+msgid "OpenMeetings Real Time Messaging Protocol over SSL"
+msgstr "基于SSL的OpenMeetings实时消息传输协议"
+
+#: ../DEV_extra_translations/extra_translations.py:755
+msgid "Network;Video Conference;"
+msgstr "网络；视频会议"
+
+#: ../DEV_extra_translations/extra_translations.py:756
+msgid "OpenMeetings Tunneled RTMP"
+msgstr "OpenMeetings隧道化实时消息传输协议"
+
+#: ../DEV_extra_translations/extra_translations.py:757
+msgid "OpenMeetings Real Time Messaging Protocol over HTTP"
+msgstr "基于HTTP的OpenMeetings实时消息传输协议"
+
+#: ../DEV_extra_translations/extra_translations.py:758
+msgid "OpenMeetings HTTP"
+msgstr "OpenMeetings HTTP"
+
+#: ../DEV_extra_translations/extra_translations.py:759
+msgid "OpenMeetings HTTP server"
+msgstr "OpenMeetings HTTP服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:760
+msgid "OpenMeetings DSP"
+msgstr "OpenMeetings数字信号处理器"
+
+#: ../DEV_extra_translations/extra_translations.py:761
+msgid "OpenMeetings Desktop Sharing Protocol (ODSP)"
+msgstr "OpenMeetings桌面共享协议（ODSP）"
+
+#: ../DEV_extra_translations/extra_translations.py:835
+msgid "Bos Wars"
+msgstr "Bos Wars"
+
+#: ../DEV_extra_translations/extra_translations.py:836
+msgid "A futuristic RTS based on the Stratagus engine"
+msgstr "一款基于战略引擎的未来实时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:15
+msgid "Games;Strategy;"
+msgstr "游戏；战略"
+
+#: ../DEV_extra_translations/extra_translations.py:733
+msgid "Dofus"
+msgstr "《龙梦幻境》"
+
+#: ../DEV_extra_translations/extra_translations.py:734
+msgid "A massively multiplayer online role-playing game"
+msgstr "一款大型的多人在线角色扮演游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:206
+msgid "Games;Role;"
+msgstr "游戏；角色"
+
+#: ../DEV_extra_translations/extra_translations.py:202
+msgid "Sid Meier's Civilization IV"
+msgstr "席德·梅尔文明4"
+
+#: ../DEV_extra_translations/extra_translations.py:203
+msgid "A turn-based strategy game from Firaxis Games"
+msgstr "一款来自Firaxis Games的回合制战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:163
+msgid "Chocolate Doom"
+msgstr "《巧克力毁灭战士》"
+
+#: ../DEV_extra_translations/extra_translations.py:164
+msgid ""
+"A Doom source port that accurately reproduces the experience of Doom as it "
+"was played in the 1990s"
+msgstr "一个准确复制20世纪90年代所播放《毁灭战士》经验的Doom源端口"
+
+#: ../DEV_extra_translations/extra_translations.py:150
+msgid "Diablo II"
+msgstr "《暗黑破坏神2》"
+
+#: ../DEV_extra_translations/extra_translations.py:151
+#: ../DEV_extra_translations/extra_translations.py:685
+msgid "Fantasy combat game by Blizzard Entertainment"
+msgstr "一款由Blizzard Entertainment制作的科幻战斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:424
+msgid "Kali"
+msgstr "Kali"
+
+#: ../DEV_extra_translations/extra_translations.py:425
+msgid "Internet game browser and IPX network emulator"
+msgstr "网络游戏浏览器和IPX网络模拟器"
+
+#: ../DEV_extra_translations/extra_translations.py:418
+#: ../DEV_extra_translations/extra_translations.py:652
+msgid "SANE scanner"
+msgstr "SANE scanner"
+
+#: ../DEV_extra_translations/extra_translations.py:419
+#: ../DEV_extra_translations/extra_translations.py:653
+msgid "Scanner Access Now Easy - scanner sharing server"
+msgstr "扫描仪现在容易访问 - 扫描仪共享服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:654
+msgid "Network;Scanning;"
+msgstr "网络;扫描;"
+
+#: ../DEV_extra_translations/extra_translations.py:655
+msgid "SANE Manual"
+msgstr "SANE手册"
+
+#: ../DEV_extra_translations/extra_translations.py:656
+msgid ""
+"Scanner Access Now Easy - scanner sharing server, manual ports without "
+"nf_conntrack_sane module"
+msgstr "扫描仪现在容易访问 - 扫描仪共享服务器，没有nf_conntrack_sane模块的手动端口"
+
+#: ../DEV_extra_translations/extra_translations.py:792
+msgid "Kohan: Immortal Sovereigns"
+msgstr "《可汗:不朽的君王》"
+
+#: ../DEV_extra_translations/extra_translations.py:793
+msgid "A real-time strategy game by TimeGate Studios"
+msgstr "一款由TimeGate Studios制作的实时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:152
+msgid "IRC - 194/tcp"
+msgstr "网间实时聊天 - 194/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:153
+msgid "Internet Relay Chat on official port 194 (rarely used)"
+msgstr "官方端口为194的网间实时聊天（很少用）"
+
+#: ../DEV_extra_translations/extra_translations.py:154
+msgid "Network;IRC;"
+msgstr "网络；网间实时聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:155
+msgid "IRC"
+msgstr "网间实时聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:156
+msgid ""
+"Internet Relay Chat on common default port 6667, using nf_conntrack_irc DCC "
+"helper"
+msgstr "一般默认端口为6667的网间实时聊天，使用nf_conntrack_irc DCC助手"
+
+#: ../DEV_extra_translations/extra_translations.py:157
+msgid "IRC SSL"
+msgstr "网间实时聊天 SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:158
+msgid "Internet Relay Chat on SSL default port 6697"
+msgstr "SSL默认端口为6697的网间实时聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:659
+msgid "Frostwire"
+msgstr "Frostwire"
+
+#: ../DEV_extra_translations/extra_translations.py:660
+msgid "Frostwire peer-peer file sharing on default port"
+msgstr "默认端口上的FrostwireP2P文件共享"
+
+#: ../DEV_extra_translations/extra_translations.py:661
+msgid "Network;File Transfer;P2P;"
+msgstr "网络；文件传输；P2P;"
+
+#: ../DEV_extra_translations/extra_translations.py:59
+#: ../DEV_extra_translations/extra_translations.py:113
+#: ../DEV_extra_translations/extra_translations.py:351
+#: ../DEV_extra_translations/extra_translations.py:388
+#: ../DEV_extra_translations/extra_translations.py:397
+#: ../DEV_extra_translations/extra_translations.py:544
+#: ../DEV_extra_translations/extra_translations.py:547
+#: ../DEV_extra_translations/extra_translations.py:550
+#: ../DEV_extra_translations/extra_translations.py:601
+#: ../DEV_extra_translations/extra_translations.py:662
+#: ../DEV_extra_translations/extra_translations.py:669
+#: ../DEV_extra_translations/extra_translations.py:747
+msgid "Remember to open the ports on the router"
+msgstr "记得打开路由器端口"
+
+#: ../DEV_extra_translations/extra_translations.py:516
+msgid "NFS (jhansonxi)"
+msgstr "NFS (jhansonxi)"
+
+#: ../DEV_extra_translations/extra_translations.py:517
+msgid ""
+"Network File System protocol with static ports at relatively unused "
+"4194:4197 (4195 broadcast out)"
+msgstr "自带相对来说基本不使用的静态端口4194:4197 (4195广播)网络文件系统协议"
+
+#: ../DEV_extra_translations/extra_translations.py:32
+msgid "Network;File Transfer;"
+msgstr "网络；文件传输"
+
+#: ../DEV_extra_translations/extra_translations.py:518
+msgid "NFS Quota (jhansonxi)"
+msgstr "NFS配额(jhansonxi)"
+
+#: ../DEV_extra_translations/extra_translations.py:519
+msgid ""
+"Network File System protocol with filesystem usage quota support with static "
+"ports at relatively unused 4194:4198 (4195 broadcast out)"
+msgstr "自带相对来说基本不使用的静态端口4194:4198 (4195广播)文件系统使用配额的网络文件系统"
+
+#: ../DEV_extra_translations/extra_translations.py:189
+msgid "Freeciv"
+msgstr "Freeciv"
+
+#: ../DEV_extra_translations/extra_translations.py:190
+msgid ""
+"A turn-based strategy game similar to Civilization I & II by Microprose"
+msgstr "一个类似Microprose制作的《文明I＆II》的回合制战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:33
+msgid "WINE: Starcraft"
+msgstr "WINE: Starcraft"
+
+#: ../DEV_extra_translations/extra_translations.py:34
+#: ../DEV_extra_translations/extra_translations.py:723
+msgid "A strategy game by Blizzard Entertainment"
+msgstr "一款由Blizzard Entertainment制作的战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:72
+msgid "KDE Connect"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:73
+msgid "Communicate across all your devices"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:124
+msgid "Network;Telephony;"
+msgstr "网络Telephony"
+
+#: ../DEV_extra_translations/extra_translations.py:630
+msgid "Urban Terror - 27960/udp"
+msgstr "都市反恐 - 27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:631
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27660"
+msgstr "Frozen Sand开发的一个逼真的第一人称射击游戏，基于id Software制作的雷神之锤III，服务器在端口27660上"
+
+#: ../DEV_extra_translations/extra_translations.py:632
+msgid "Urban Terror - 27961/udp"
+msgstr "都市反恐 - 27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:633
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27961"
+msgstr "Frozen Sand开发的一个逼真的第一人称射击游戏，基于id Software制作的雷神之锤III，服务器在端口27961上"
+
+#: ../DEV_extra_translations/extra_translations.py:634
+msgid "Urban Terror - 27962/udp"
+msgstr "都市反恐 - 27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:635
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27962"
+msgstr "Frozen Sand开发的一个逼真的第一人称射击游戏，基于id Software制作的雷神之锤III，服务器在端口27962上"
+
+#: ../DEV_extra_translations/extra_translations.py:636
+msgid "Urban Terror - 27963/udp"
+msgstr "都市反恐 - 27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:637
+msgid ""
+"A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
+"port 27963"
+msgstr "Frozen Sand开发的一个逼真的第一人称射击游戏，基于id Software制作的雷神之锤III，服务器在端口27963上"
+
+#: ../DEV_extra_translations/extra_translations.py:386
+msgid "Deluge Torrent"
+msgstr "Deluge Torrent"
+
+#: ../DEV_extra_translations/extra_translations.py:387
+msgid "Cross-platform BitTorrent client written with Python and GTK+"
+msgstr "用Python和GTK+写的跨平台的BitTorrent客户端"
+
+#: ../DEV_extra_translations/extra_translations.py:58
+msgid "Network;P2P;"
+msgstr "网络；点对点"
+
+#: ../DEV_extra_translations/extra_translations.py:798
+msgid "Savage: The Battle for Newerth/Savage XR"
+msgstr "《野人:纽沃斯之战》"
+
+#: ../DEV_extra_translations/extra_translations.py:438
+#: ../DEV_extra_translations/extra_translations.py:799
+msgid "A RTS/FPS from S2 Games"
+msgstr "一款由S2 Games制作的及时战略/第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:708
+msgid "Steel Storm"
+msgstr "钢铁风暴"
+
+#: ../DEV_extra_translations/extra_translations.py:709
+msgid ""
+"A top-down arcade shooter with hovertanks by Kot-in-Action Creative Artel"
+msgstr "由Kot-in-Action Creative Artel开发的用盘旋坦克的自上而下的街机射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:347
+msgid "YS FLIGHT SIMULATION 2000"
+msgstr "《YS飞行模拟2000》"
+
+#: ../DEV_extra_translations/extra_translations.py:348
+msgid "A 3D flight simulator"
+msgstr "一个3D飞行模拟器"
+
+#: ../DEV_extra_translations/extra_translations.py:7
+msgid "Games;Simulation;"
+msgstr "游戏；模拟"
+
+#: ../DEV_extra_translations/extra_translations.py:91
+msgid "PulseAudio"
+msgstr "PulseAudio"
+
+#: ../DEV_extra_translations/extra_translations.py:92
+msgid "Networked sound server"
+msgstr "网络声音服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:64
+msgid "Network;Audio Video;Audio;"
+msgstr "网络；音频视频、音频"
+
+#: ../DEV_extra_translations/extra_translations.py:200
+msgid "FreeCol"
+msgstr "FreeCol"
+
+#: ../DEV_extra_translations/extra_translations.py:201
+msgid "A turn-based strategy game similar to Colonization by Microprose"
+msgstr "一款类似于Microprose开发的《文明》的回合制策略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:482
+msgid "Skype - 23399"
+msgstr "Skype - 23399"
+
+#: ../DEV_extra_translations/extra_translations.py:483
+msgid "VoIP client"
+msgstr "VoIP客户端"
+
+#: ../DEV_extra_translations/extra_translations.py:484
+msgid "Skype - 23398"
+msgstr "Skype - 23398"
+
+#: ../DEV_extra_translations/extra_translations.py:485
+#: ../DEV_extra_translations/extra_translations.py:487
+#: ../DEV_extra_translations/extra_translations.py:489
+#: ../DEV_extra_translations/extra_translations.py:491
+#: ../DEV_extra_translations/extra_translations.py:493
+#: ../DEV_extra_translations/extra_translations.py:495
+#: ../DEV_extra_translations/extra_translations.py:497
+#: ../DEV_extra_translations/extra_translations.py:499
+#: ../DEV_extra_translations/extra_translations.py:501
+msgid "VoIP client, suggested alternate port"
+msgstr "VoIP客户端，建议交替端口"
+
+#: ../DEV_extra_translations/extra_translations.py:486
+msgid "Skype - 23397"
+msgstr "Skype - 23397"
+
+#: ../DEV_extra_translations/extra_translations.py:488
+msgid "Skype - 23396"
+msgstr "Skype - 23396"
+
+#: ../DEV_extra_translations/extra_translations.py:490
+msgid "Skype - 23395"
+msgstr "Skype - 23395"
+
+#: ../DEV_extra_translations/extra_translations.py:492
+msgid "Skype - 23394"
+msgstr "Skype - 23394"
+
+#: ../DEV_extra_translations/extra_translations.py:494
+msgid "Skype - 23393"
+msgstr "Skype - 23393"
+
+#: ../DEV_extra_translations/extra_translations.py:496
+msgid "Skype - 23392"
+msgstr "Skype - 23392"
+
+#: ../DEV_extra_translations/extra_translations.py:498
+msgid "Skype - 23391"
+msgstr "Skype - 23391"
+
+#: ../DEV_extra_translations/extra_translations.py:500
+msgid "Skype - 23390"
+msgstr "Skype - 23390"
+
+#: ../DEV_extra_translations/extra_translations.py:414
+msgid "Delta Force: BHD"
+msgstr "《三角洲特种部队:黑鹰坠落》"
+
+#: ../DEV_extra_translations/extra_translations.py:415
+msgid "Black Hawk Down. A FPS combat game by NovaLogic"
+msgstr "一款由NovaLogic制作的第一人称射击战斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:395
+msgid "Amule"
+msgstr "Amule"
+
+#: ../DEV_extra_translations/extra_translations.py:396
+msgid ""
+"Free peer-to-peer file sharing application that works with the EDonkey "
+"network and the Kad network"
+msgstr "在EDonkey网络和Kad网络下运行的免费点对点文件共享应用程序"
+
+#: ../DEV_extra_translations/extra_translations.py:382
+msgid "Gamer's Internet Tunnel"
+msgstr "Gamer's Internet Tunnel"
+
+#: ../DEV_extra_translations/extra_translations.py:383
+msgid "IPX network emulator from Morpheus Software"
+msgstr "来自Morpheus Software的IPX网络仿真器"
+
+#: ../DEV_extra_translations/extra_translations.py:449
+msgid "Quake 4"
+msgstr "雷神之锤4"
+
+#: ../DEV_extra_translations/extra_translations.py:55
+#: ../DEV_extra_translations/extra_translations.py:210
+#: ../DEV_extra_translations/extra_translations.py:284
+#: ../DEV_extra_translations/extra_translations.py:450
+#: ../DEV_extra_translations/extra_translations.py:455
+#: ../DEV_extra_translations/extra_translations.py:513
+msgid "A FPS by id Software"
+msgstr "一款由id Software制作的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:118
+msgid "SSDP"
+msgstr "SSDP"
+
+#: ../DEV_extra_translations/extra_translations.py:119
+msgid "Simple Service Discovery Protocol"
+msgstr "简单服务发现协议"
+
+#: ../DEV_extra_translations/extra_translations.py:37
+msgid "Network;"
+msgstr "网络；"
+
+#: ../DEV_extra_translations/extra_translations.py:101
+msgid "Quake III - 27960/udp"
+msgstr "《雷神之锤III》-27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:102
+msgid "A FPS by id Software, server on port 27660"
+msgstr "一款由id Software制作的第一人称射击游戏，端口服务器27660"
+
+#: ../DEV_extra_translations/extra_translations.py:103
+msgid "Quake III - 27961/udp"
+msgstr "《雷神之锤III》-27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:104
+msgid "A FPS by id Software, server on port 27961"
+msgstr "一款由id Software制作的第一人称射击游戏，端口服务器27660"
+
+#: ../DEV_extra_translations/extra_translations.py:105
+msgid "Quake III - 27962/udp"
+msgstr "《雷神之锤III》-27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:106
+msgid "A FPS by id Software, server on port 27962"
+msgstr "一款由id Software制作的第一人称射击游戏，端口服务器27962"
+
+#: ../DEV_extra_translations/extra_translations.py:107
+msgid "Quake III - 27963/udp"
+msgstr "《雷神之锤III》-27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:108
+msgid "A FPS by id Software, server on port 27963"
+msgstr "一款由id Software制作的第一人称射击游戏，端口服务器27963"
+
+#: ../DEV_extra_translations/extra_translations.py:125
+msgid "RTMP Real Time Messaging Protocol"
+msgstr "RTMP 实时消息传输协议"
+
+#: ../DEV_extra_translations/extra_translations.py:126
+msgid "Real Time Messaging Protocol (Adobe Flash)"
+msgstr "实时消息传输协议 (Adobe Flash)"
+
+#: ../DEV_extra_translations/extra_translations.py:120
+msgid "Sid Meier's Alpha Centauri"
+msgstr "半人马座阿尔发星"
+
+#: ../DEV_extra_translations/extra_translations.py:121
+msgid "SciFi strategy game by Firaxis"
+msgstr "由Firaxis制作的科幻策略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:48
+msgid "OpenArena"
+msgstr "《开源免费竞技场》"
+
+#: ../DEV_extra_translations/extra_translations.py:49
+msgid "A competitive FPS based on ioquake3/id tech 3 engine"
+msgstr "一款基于《雷神之锤3竞技场》的竞技第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:65
+msgid "Hedgewars"
+msgstr "《刺猬战争》"
+
+#: ../DEV_extra_translations/extra_translations.py:66
+#: ../DEV_extra_translations/extra_translations.py:749
+msgid "An arcade combat game inspired by Worms from Team17 Software"
+msgstr "一款由Team17 Software制作灵感来自《百战天虫》的街机游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:67
+msgid "Games;Arcade;"
+msgstr "游戏；街机"
+
+#: ../DEV_extra_translations/extra_translations.py:476
+msgid "Firefly Media Server"
+msgstr "Firefly媒体服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:477
+msgid "DAAP audio server formerly known as mt-daapd"
+msgstr "前身为mt-daapd的的DAAP音频服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:688
+msgid "gpsd"
+msgstr "gpsd"
+
+#: ../DEV_extra_translations/extra_translations.py:689
+msgid "Interface daemon for GPS receivers"
+msgstr "GPS接收机接口守护进程"
+
+#: ../DEV_extra_translations/extra_translations.py:690
+msgid "Network;Geography;"
+msgstr "网络；地理"
+
+#: ../DEV_extra_translations/extra_translations.py:269
+msgid "Castle-Combat - 50386/tcp"
+msgstr "《城堡大战》- 50386/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:270
+#: ../DEV_extra_translations/extra_translations.py:272
+msgid "A clone of Rampart from Atari Games"
+msgstr "一款由Atari Games制作克隆《壁垒》的游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:271
+msgid "Castle-Combat - 8787/tcp"
+msgstr "《城堡大战》 - 8787/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:670
+msgid "Clonk"
+msgstr "《野人》"
+
+#: ../DEV_extra_translations/extra_translations.py:671
+msgid "An action/RTS/platform game by RedWolf Design; standard ports"
+msgstr "一款由RedWolf Design制作的动作/及时战略/平台游戏；标准端口"
+
+#: ../DEV_extra_translations/extra_translations.py:672
+msgid "Clonk Host"
+msgstr "《野人》主机"
+
+#: ../DEV_extra_translations/extra_translations.py:673
+msgid "An action/RTS/platform game by RedWolf Design; host ports"
+msgstr "一款由RedWolf Design制作的动作/及时战略/平台游戏；主机端口"
+
+#: ../DEV_extra_translations/extra_translations.py:674
+msgid "Clonk LAN"
+msgstr "《野人》局域网"
+
+#: ../DEV_extra_translations/extra_translations.py:675
+msgid ""
+"An action/RTS/platform game by RedWolf Design; LAN game discovery port"
+msgstr "一款由RedWolf Design制作的动作/及时战略/平台游戏；局域网游戏发现端口"
+
+#: ../DEV_extra_translations/extra_translations.py:604
+msgid "NASCAR Racing 2002/03 1 player"
+msgstr "纳斯卡赛车2002/03 1个玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:605
+#: ../DEV_extra_translations/extra_translations.py:607
+#: ../DEV_extra_translations/extra_translations.py:609
+#: ../DEV_extra_translations/extra_translations.py:611
+#: ../DEV_extra_translations/extra_translations.py:613
+#: ../DEV_extra_translations/extra_translations.py:615
+#: ../DEV_extra_translations/extra_translations.py:617
+msgid "Racing simulators from Papyrus Design Group"
+msgstr "Papyrus Design Group制作的赛车仿真器"
+
+#: ../DEV_extra_translations/extra_translations.py:606
+msgid "NASCAR Racing 2002/03 2 players"
+msgstr "纳斯卡赛车2002/03 2个玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:608
+msgid "NASCAR Racing 2002/03 4 players"
+msgstr "纳斯卡赛车2002/03 4个玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:610
+msgid "NASCAR Racing 2002/03  8 players"
+msgstr "纳斯卡赛车2002/03 8个玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:612
+msgid "NASCAR Racing 2002/03 16 players"
+msgstr "纳斯卡赛车2002/03 16个玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:614
+msgid "NASCAR Racing 2002/03 32 players"
+msgstr "纳斯卡赛车2002/03 32个玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:616
+msgid "NASCAR Racing 2002/03 42 players"
+msgstr "纳斯卡赛车2002/03 42个玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:837
+msgid "NFS TLDP NFS"
+msgstr "NFS TLDP NFS"
+
+#: ../DEV_extra_translations/extra_translations.py:838
+msgid ""
+"Network File System protocol with static ports at 32765:32768 (some "
+"conflicts with popular games)"
+msgstr "自带32765:32768静态端口的网络文件系统协议（部分与热门游戏冲突）"
+
+#: ../DEV_extra_translations/extra_translations.py:839
+msgid "NFS Quota & TLDP NFS"
+msgstr "网络文件系统配额和TLDP NFS"
+
+#: ../DEV_extra_translations/extra_translations.py:840
+msgid ""
+"NFS with user/group filesystem usage quota support with static ports at "
+"32765:32769 (some conflicts with popular games)"
+msgstr "自带支持32765:32769静态端口的用户/组文件系统使用配额的网络文件系统（部分与热门游戏冲突）"
+
+#: ../DEV_extra_translations/extra_translations.py:334
+msgid "XMPP"
+msgstr "XMPP"
+
+#: ../DEV_extra_translations/extra_translations.py:335
+msgid "Extensible Messaging and Presence Protocol client connection (Jabber)"
+msgstr "可拓展消息传递和到场协议客户端连接（Jabber）"
+
+#: ../DEV_extra_translations/extra_translations.py:336
+msgid "Network;Telephony;Instant Messaging;"
+msgstr "网络；电话；及时消息"
+
+#: ../DEV_extra_translations/extra_translations.py:337
+msgid "XMPP SSL"
+msgstr "XMPP SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:338
+msgid ""
+"Extensible Messaging and Presence Protocol (Jabber) client connection with "
+"SSL encryption"
+msgstr "带SSL加密的可拓展消息传递和到场协议（Jabber）客户端连接"
+
+#: ../DEV_extra_translations/extra_translations.py:339
+msgid "XMPP Interserver"
+msgstr "XMPP因特网服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:340
+msgid "Extensible Messaging and Presence Protocol server-server connection"
+msgstr "可拓展消息传递和到场协议客户端到客户端的连接"
+
+#: ../DEV_extra_translations/extra_translations.py:341
+msgid "XMPP Serverless"
+msgstr "XMPP无服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:342
+msgid ""
+"Extensible Messaging and Presence Protocol link-local messaging/serverless "
+"messaging"
+msgstr "可拓展消息传递和到场协议链接传送消息/无服务器传送消息"
+
+#: ../DEV_extra_translations/extra_translations.py:180
+msgid "Syslog"
+msgstr "Syslog"
+
+#: ../DEV_extra_translations/extra_translations.py:181
+msgid "System logging"
+msgstr "系统记录"
+
+#: ../DEV_extra_translations/extra_translations.py:182
+msgid "System;"
+msgstr "系统"
+
+#: ../DEV_extra_translations/extra_translations.py:422
+msgid "usbip"
+msgstr "usbip"
+
+#: ../DEV_extra_translations/extra_translations.py:423
+msgid "A Peripheral Bus Extension for Device Sharing over IP Network"
+msgstr "为IP网络上设备共享的一个外围总线扩展"
+
+#: ../DEV_extra_translations/extra_translations.py:76
+msgid "Myth II: Soulblighter"
+msgstr "《神话2:勾魂使者》"
+
+#: ../DEV_extra_translations/extra_translations.py:77
+msgid "A real-time tactics game from Bungie"
+msgstr "一款由Bungie制作的实时战术游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:439
+msgid "SIP"
+msgstr "会话启动协议"
+
+#: ../DEV_extra_translations/extra_translations.py:440
+msgid ""
+"Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
+msgstr "会话启用协议，未加密，使用nf_conntrack_sip module"
+
+#: ../DEV_extra_translations/extra_translations.py:441
+msgid "SIP TLS"
+msgstr "SIP TLS"
+
+#: ../DEV_extra_translations/extra_translations.py:442
+msgid "Session Initiation Protocol with TLS encryption"
+msgstr "带TLS加密的会话启用协议"
+
+#: ../DEV_extra_translations/extra_translations.py:568
+msgid "Evil Islands: CotLS"
+msgstr "《恶魔岛》"
+
+#: ../DEV_extra_translations/extra_translations.py:569
+msgid "A RTS game with RPG and stealth elements from Nival Interactive"
+msgstr "一款由Nival Interactive制作的角色扮演和隐形元素及时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:686
+msgid "PennMUSH"
+msgstr "PennMUSH"
+
+#: ../DEV_extra_translations/extra_translations.py:687
+msgid "A MUSH/MUD server"
+msgstr "一个MUSH/MUD服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:445
+msgid "Pioneers"
+msgstr "《土地开拓者》"
+
+#: ../DEV_extra_translations/extra_translations.py:446
+msgid "A game based on The Settlers of Catan by Klaus Teuber"
+msgstr "一款由Klaus Teuber制作基于《卡坦岛》的游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:23
+msgid "Games;Board;"
+msgstr "游戏；棋盘"
+
+#: ../DEV_extra_translations/extra_translations.py:447
+msgid "Pioneers Metaserver"
+msgstr "《土地开拓者》 Metaserver"
+
+#: ../DEV_extra_translations/extra_translations.py:448
+msgid "Metaserver for Pioneers"
+msgstr "《土地开拓者》专用的Metaserver"
+
+#: ../DEV_extra_translations/extra_translations.py:178
+msgid "Multicast DNS"
+msgstr "组播DNS"
+
+#: ../DEV_extra_translations/extra_translations.py:179
+msgid "Multicast DNS (Avahi, Bonjour)"
+msgstr "组播DNS (Avahi, Bonjour)"
+
+#: ../DEV_extra_translations/extra_translations.py:13
+msgid "Warzone 2100"
+msgstr "《战地2100》"
+
+#: ../DEV_extra_translations/extra_translations.py:14
+msgid "A RTS game by Pumpkin Studios"
+msgstr "一款由Pumpkin Studios制作的及时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:524
+msgid "BZFlag"
+msgstr "BZFlag"
+
+#: ../DEV_extra_translations/extra_translations.py:525
+msgid "A FPS tank battle capture the flag game"
+msgstr "一款FPS坦克战夺旗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:291
+msgid "GGZ Gaming Zone"
+msgstr "GGZ游戏区"
+
+#: ../DEV_extra_translations/extra_translations.py:292
+msgid "Network support for GNOME Games"
+msgstr "GNOME游戏网络支持"
+
+#: ../DEV_extra_translations/extra_translations.py:95
+msgid "XBMC Remote"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:96
+msgid "Remote control for XBMC"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:70
+msgid "Audio Video;TV;"
+msgstr "音频视频；电视机"
+
+#: ../DEV_extra_translations/extra_translations.py:762
+msgid "VNC server display :0"
+msgstr "VNC服务器显示：0"
+
+#: ../DEV_extra_translations/extra_translations.py:763
+msgid "Virtual Network Computing standard server display :0"
+msgstr "虚拟网络计算标准服务器显示：0"
+
+#: ../DEV_extra_translations/extra_translations.py:592
+msgid "Network;Remote Access;"
+msgstr "网络；远程访问"
+
+#: ../DEV_extra_translations/extra_translations.py:224
+#: ../DEV_extra_translations/extra_translations.py:227
+#: ../DEV_extra_translations/extra_translations.py:230
+#: ../DEV_extra_translations/extra_translations.py:233
+#: ../DEV_extra_translations/extra_translations.py:236
+#: ../DEV_extra_translations/extra_translations.py:239
+#: ../DEV_extra_translations/extra_translations.py:242
+#: ../DEV_extra_translations/extra_translations.py:245
+#: ../DEV_extra_translations/extra_translations.py:320
+#: ../DEV_extra_translations/extra_translations.py:333
+#: ../DEV_extra_translations/extra_translations.py:346
+#: ../DEV_extra_translations/extra_translations.py:410
+#: ../DEV_extra_translations/extra_translations.py:766
+msgid "It may be a security risk to use a default allow policy"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:765
+#: ../DEV_extra_translations/extra_translations.py:777
+msgid "VNC displays :0-:1"
+msgstr "VNC显示 :0-:1"
+
+#: ../DEV_extra_translations/extra_translations.py:766
+msgid "Virtual Network Computing standard server displays :0 through :1"
+msgstr "虚拟网络计算标准服务器显示：0〜1"
+
+#: ../DEV_extra_translations/extra_translations.py:768
+#: ../DEV_extra_translations/extra_translations.py:780
+msgid "VNC displays :0-:3"
+msgstr "VNC显示 :0-:3"
+
+#: ../DEV_extra_translations/extra_translations.py:769
+msgid "Virtual Network Computing standard server displays :0 through :3"
+msgstr "虚拟网络计算标准服务器显示：0〜3"
+
+#: ../DEV_extra_translations/extra_translations.py:771
+#: ../DEV_extra_translations/extra_translations.py:783
+msgid "VNC displays :0-:7"
+msgstr "VNC显示 :0-:7"
+
+#: ../DEV_extra_translations/extra_translations.py:772
+msgid "Virtual Network Computing standard server displays :0 through :7"
+msgstr "虚拟网络计算标准服务器显示：0〜7"
+
+#: ../DEV_extra_translations/extra_translations.py:774
+msgid "VNC http server display :0"
+msgstr "VNC http服务器显示：0"
+
+#: ../DEV_extra_translations/extra_translations.py:775
+msgid "Virtual Network Computing http server display :0"
+msgstr "虚拟网络计算http服务器显示：0"
+
+#: ../DEV_extra_translations/extra_translations.py:778
+msgid "Virtual Network Computing http server displays :0 through :1"
+msgstr "虚拟网络计算http服务器显示：0〜1"
+
+#: ../DEV_extra_translations/extra_translations.py:781
+msgid "Virtual Network Computing http server displays :0 through :3"
+msgstr "虚拟网络计算http服务器显示：0〜3"
+
+#: ../DEV_extra_translations/extra_translations.py:784
+msgid "Virtual Network Computing http server displays :0 through :7"
+msgstr "虚拟网络计算http服务器显示：0〜7"
+
+#: ../DEV_extra_translations/extra_translations.py:245
+msgid "F-22 Raptor"
+msgstr "F-22战斗机"
+
+#: ../DEV_extra_translations/extra_translations.py:6
+#: ../DEV_extra_translations/extra_translations.py:246
+msgid "A F-22 Raptor simulation by NovaLogic"
+msgstr "一款由NovaLogic制作的战斗机模拟游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:426
+msgid "Shogo: Mobile Armour Division"
+msgstr "升刚：移动装甲师"
+
+#: ../DEV_extra_translations/extra_translations.py:427
+msgid "A FPS by Monolith Productions"
+msgstr "一款由Monolith Productions制作的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:514
+msgid "Doomsday"
+msgstr "《毁灭日》"
+
+#: ../DEV_extra_translations/extra_translations.py:515
+msgid ""
+"A source port of id Software's Doom engine which supports Doom, Heretic, and "
+"Hexen"
+msgstr "支持Doom、Heretic和Hexen的id Software Doom引擎源端口"
+
+#: ../DEV_extra_translations/extra_translations.py:520
+msgid "Postal"
+msgstr "《喋血街头》"
+
+#: ../DEV_extra_translations/extra_translations.py:521
+msgid "Violent combat game from Running With Scissors"
+msgstr "一款夹缝求生的暴力打斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:542
+msgid "BitTorrent Minimum"
+msgstr "最小比特流"
+
+#: ../DEV_extra_translations/extra_translations.py:543
+#: ../DEV_extra_translations/extra_translations.py:546
+#: ../DEV_extra_translations/extra_translations.py:549
+msgid "BitTorrent peer-peer file sharing"
+msgstr "比特流点对点文件分享"
+
+#: ../DEV_extra_translations/extra_translations.py:545
+msgid "BitTorrent"
+msgstr "比特流"
+
+#: ../DEV_extra_translations/extra_translations.py:548
+msgid "BitTorrent Full"
+msgstr "最大比特流"
+
+#: ../DEV_extra_translations/extra_translations.py:667
+msgid "qBittorent"
+msgstr "qBittorent"
+
+#: ../DEV_extra_translations/extra_translations.py:668
+msgid "Cross-platform BitTorrent client GUI written with Qt4"
+msgstr "使用Qt4编写的跨平台比特流客户端GUI"
+
+#: ../DEV_extra_translations/extra_translations.py:510
+msgid "HPLIP"
+msgstr "HPLIP"
+
+#: ../DEV_extra_translations/extra_translations.py:511
+msgid "HP Linux Imaging and Printing"
+msgstr "惠普linux打印机"
+
+#: ../DEV_extra_translations/extra_translations.py:430
+msgid "Network;Printing;"
+msgstr "网络；打印"
+
+#: ../DEV_extra_translations/extra_translations.py:129
+msgid "OpenTTD server"
+msgstr "OpenTTD服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:130
+msgid "An enhanced clone of Chris Sawyer's Transport Tycoon Deluxe"
+msgstr "一款Chris Sawyer的《运输大亨》克隆版游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:193
+msgid "Yet Another Netplay Guider"
+msgstr "Yet Another Netplay Guider"
+
+#: ../DEV_extra_translations/extra_translations.py:194
+msgid "YANG - Yet Another Netplay Guider, default game connection"
+msgstr "YANG - Yet Another Netplay Guider，默认游戏连接"
+
+#: ../DEV_extra_translations/extra_translations.py:195
+msgid "Games;"
+msgstr "游戏；"
+
+#: ../DEV_extra_translations/extra_translations.py:196
+msgid "Yet Another Netplay Guider Hosting"
+msgstr "Yet Another Netplay Guider Hosting"
+
+#: ../DEV_extra_translations/extra_translations.py:197
+msgid "YANG - Yet Another Netplay Guider, room hosting"
+msgstr "YANG - Yet Another Netplay Guider, room hosting"
+
+#: ../DEV_extra_translations/extra_translations.py:198
+msgid "DXX-Rebirth on YANG"
+msgstr "DXX-Rebirth on YANG"
+
+#: ../DEV_extra_translations/extra_translations.py:199
+msgid "DXX-Rebirth, a source port of Descent, connected through YANG"
+msgstr "DXX-Rebirth，Descent的源端口，通过YANG连接"
+
+#: ../DEV_extra_translations/extra_translations.py:560
+msgid "netPanzer"
+msgstr "《netPanzer》"
+
+#: ../DEV_extra_translations/extra_translations.py:561
+msgid "An online multiplayer tactical warfare game"
+msgstr "一款多人在线的及时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:597
+#: ../DEV_extra_translations/extra_translations.py:729
+msgid "Tremulous"
+msgstr "《颤抖-射击对抗》"
+
+#: ../DEV_extra_translations/extra_translations.py:730
+msgid "Team-based SciFi/alien FPS from Dark Legion Development"
+msgstr "一款由黑暗军团开发的团队协作科幻/外星人第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:657
+msgid "Vibe Streamer"
+msgstr "Vibe Streamer"
+
+#: ../DEV_extra_translations/extra_translations.py:658
+msgid "A free MP3 streaming server"
+msgstr "一款免费的MP3流媒体服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:247
+#: ../DEV_extra_translations/extra_translations.py:248
+msgid "GameSpy"
+msgstr "GameSpy"
+
+#: ../DEV_extra_translations/extra_translations.py:249
+msgid "GameSpy Arcade"
+msgstr "GameSpy Arcade"
+
+#: ../DEV_extra_translations/extra_translations.py:250
+msgid "GameSpy Arcade gaming network"
+msgstr "GameSpy Arcade游戏网络"
+
+#: ../DEV_extra_translations/extra_translations.py:21
+msgid "monopd"
+msgstr "monopd"
+
+#: ../DEV_extra_translations/extra_translations.py:22
+msgid "A game server for Monopoly-like board games"
+msgstr "一个为像Monopoly般的棋牌游戏而设的游戏服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:241
+msgid "The Battle for Wesnoth"
+msgstr "韦诺之战"
+
+#: ../DEV_extra_translations/extra_translations.py:242
+msgid "Turn-based tactical strategy game"
+msgstr "回合制战术策略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:292
+msgid "NRPE Nagios Plugin"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:90
+msgid "Remote Plugin Executor"
+msgstr "及被监控端"
+
+#: ../DEV_extra_translations/extra_translations.py:18
+msgid "System;Monitor;"
+msgstr "系统；监视器"
+
+#: ../DEV_extra_translations/extra_translations.py:354
+msgid "Sacred - port 2005"
+msgstr "《圣域》-端口2005"
+
+#: ../DEV_extra_translations/extra_translations.py:355
+#: ../DEV_extra_translations/extra_translations.py:357
+#: ../DEV_extra_translations/extra_translations.py:359
+#: ../DEV_extra_translations/extra_translations.py:361
+#: ../DEV_extra_translations/extra_translations.py:363
+#: ../DEV_extra_translations/extra_translations.py:365
+msgid "Server port for the fantasy RPG by Ascaron Entertainment"
+msgstr "一款由Ascaron Entertainment制作的奇幻角色扮演游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:356
+msgid "Sacred - ports 2005:2006"
+msgstr "《圣域》-端口2005：2006"
+
+#: ../DEV_extra_translations/extra_translations.py:358
+msgid "Sacred - ports 2005:2007"
+msgstr "《圣域》-端口2005:2007"
+
+#: ../DEV_extra_translations/extra_translations.py:360
+msgid "Sacred - ports 2005:2008"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:362
+msgid "Sacred - ports 2005:2009"
+msgstr "《圣域》-端口2005:2009"
+
+#: ../DEV_extra_translations/extra_translations.py:364
+msgid "Sacred - ports 2005:2010"
+msgstr "《圣域》-端口2005:2010"
+
+#: ../DEV_extra_translations/extra_translations.py:570
+msgid "FreeOrion"
+msgstr "《自由的猎户座》"
+
+#: ../DEV_extra_translations/extra_translations.py:571
+msgid ""
+"A turn-based 4X strategy game inspired by Master of Orion from MicroProse"
+msgstr "一款由MicroProse制作灵感来源于《猎户座之王》的回合制4X战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:229
+msgid "Wakfu"
+msgstr "《沃土》"
+
+#: ../DEV_extra_translations/extra_translations.py:230
+msgid "An online tactical turn-based MMORPG"
+msgstr "一款策略回合制大型多人在线角色扮演游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:255
+msgid "DNS"
+msgstr "DNS"
+
+#: ../DEV_extra_translations/extra_translations.py:256
+msgid "Domain Name System"
+msgstr "域名系统"
+
+#: ../DEV_extra_translations/extra_translations.py:480
+msgid "FooBillard"
+msgstr "台球"
+
+#: ../DEV_extra_translations/extra_translations.py:481
+msgid "Cue sports simulation with Carambol, Snooker, and Pool"
+msgstr "自带Carambol、Snooker和Pool的台球模拟"
+
+#: ../DEV_extra_translations/extra_translations.py:143
+msgid "Games;Sports;"
+msgstr "游戏；运动"
+
+#: ../DEV_extra_translations/extra_translations.py:318
+msgid "Drakan: Order of the Flame"
+msgstr "《龙女:火焰之令》"
+
+#: ../DEV_extra_translations/extra_translations.py:319
+msgid "A dragon-riding action-adventure from Surreal Software"
+msgstr "一款由Surreal Software制作的骑龙动作冒险游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:726
+msgid "VNC"
+msgstr "VNC"
+
+#: ../DEV_extra_translations/extra_translations.py:727
+msgid "Virtual Network Computing"
+msgstr "虚拟网络计算"
+
+#: ../DEV_extra_translations/extra_translations.py:720
+msgid "Aleph One"
+msgstr "Aleph One"
+
+#: ../DEV_extra_translations/extra_translations.py:721
+msgid "An enhanced port of Marathon 2: Durandal from Bungie Software"
+msgstr "一款由Bungie Software制作从《马拉松 2:杜兰德尔》移植的游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:251
+msgid "Cube 2: Sauerbraten"
+msgstr "Cube 2: Sauerbraten"
+
+#: ../DEV_extra_translations/extra_translations.py:252
+msgid "A FPS game based on the Cube engine"
+msgstr "一款基于Cube引擎的FPS游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:512
+msgid "Doom II"
+msgstr "《毁灭战士2》"
+
+#: ../DEV_extra_translations/extra_translations.py:586
+msgid "Windows Messenger"
+msgstr "Windows Messenger"
+
+#: ../DEV_extra_translations/extra_translations.py:587
+msgid ""
+"Windows Messenger/Windows Live Messenger application sharing and whiteboard "
+"(requires SIP)"
+msgstr "Windows Messenger/Windows Live Messenger应用程序共享和电子白板"
+
+#: ../DEV_extra_translations/extra_translations.py:588
+msgid "Windows Messenger File"
+msgstr "Windows Messenger文件"
+
+#: ../DEV_extra_translations/extra_translations.py:589
+msgid "Windows Messenger/MSN Messenger file transfer"
+msgstr "Windows Messenger/MSN Messenger文件传输"
+
+#: ../DEV_extra_translations/extra_translations.py:590
+msgid "Windows Messenger Assistance"
+msgstr "Windows Messenger辅助"
+
+#: ../DEV_extra_translations/extra_translations.py:591
+msgid "Remote Assistance/Remote Desktop Protocol/Terminal Services (RDP)"
+msgstr "远程辅助/远程桌面协议/终端服务（RDP）"
+
+#: ../DEV_extra_translations/extra_translations.py:462
+msgid "Delta Force: LW"
+msgstr "《三角洲特种部队：之大地勇士》"
+
+#: ../DEV_extra_translations/extra_translations.py:463
+msgid "Land Warrior. A FPS combat game by NovaLogic"
+msgstr "一款由NovaLogic制作的第一人称射击战斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:577
+msgid "MegaMek"
+msgstr "MegaMek"
+
+#: ../DEV_extra_translations/extra_translations.py:578
+msgid "A unofficial online BattleTech game"
+msgstr "一款非官方的在线机甲战士游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:579
+msgid "Games;Strategy;Java;"
+msgstr "游戏；战略；Java"
+
+#: ../DEV_extra_translations/extra_translations.py:279
+msgid "Castle Vox"
+msgstr "Castle Vox"
+
+#: ../DEV_extra_translations/extra_translations.py:280
+msgid ""
+"A simultaneous-turns strategy game from Sillysoft influenced by Diplomacy "
+"and Axis & Allies"
+msgstr "一款由Sillysoft制作受《强权外交》和《轴心与同盟》启发的模拟回合制战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:239
+msgid "D2X-XL"
+msgstr "D2X-XL"
+
+#: ../DEV_extra_translations/extra_translations.py:240
+msgid ""
+"A source port of Descent II, the 3D Flying FPS by Outrage Entertainment"
+msgstr "一个Descent II的源端口，Outrage Entertainment开发的3D Flying FPS"
+
+#: ../DEV_extra_translations/extra_translations.py:114
+msgid "SSH"
+msgstr "SSH"
+
+#: ../DEV_extra_translations/extra_translations.py:115
+msgid "Secure Shell"
+msgstr "完全外壳"
+
+#: ../DEV_extra_translations/extra_translations.py:116
+msgid "Network;Services;"
+msgstr "网络、服务"
+
+#: ../DEV_extra_translations/extra_translations.py:289
+msgid "Lux"
+msgstr "《远古帝国》和《美国战史》"
+
+#: ../DEV_extra_translations/extra_translations.py:290
+msgid ""
+"Delux, Ancient Empires and American History: A turn-based strategy game from "
+"Sillysoft influenced by Risk"
+msgstr "一款由Sillysoft制作受Risk启发的回合制战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:56
+msgid "Transmission Daemon"
+msgstr "Transmission Daemon"
+
+#: ../DEV_extra_translations/extra_translations.py:57
+msgid "Remote control for Transmission"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:398
+msgid "Warcraft II Battle.net"
+msgstr "《魔兽争霸2:战网版》"
+
+#: ../DEV_extra_translations/extra_translations.py:399
+msgid "Strategy game by Blizzard Entertainment"
+msgstr "一款由Blizzard Entertainment制作的战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:378
+msgid "Knights and Merchants TSK"
+msgstr "《骑士与商人：破碎王朝》"
+
+#: ../DEV_extra_translations/extra_translations.py:379
+msgid "A RTS by Joymania"
+msgstr "一款由金牌制作小组Joymania制作的及时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:474
+msgid "Armored Fist 3"
+msgstr "钢铁雄狮3"
+
+#: ../DEV_extra_translations/extra_translations.py:475
+msgid "A M1A2 Abrams tank simulation by NovaLogic"
+msgstr "一款由NovaLogic公司开发制作并发行的M1A2 Abrams坦克模拟"
+
+#: ../DEV_extra_translations/extra_translations.py:8
+msgid "Assault Cube"
+msgstr "Assault Cube"
+
+#: ../DEV_extra_translations/extra_translations.py:9
+msgid "A free, multiplayer, first-person shooter game"
+msgstr "一个免费的，多人对战的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:165
+msgid "Widelands"
+msgstr "Widelands"
+
+#: ../DEV_extra_translations/extra_translations.py:166
+msgid "A RTS similar to The Settlers I & II from Blue Byte Software"
+msgstr "一个由Blue Byte Software制作的类似于《工人物语I & II》的实时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:640
+msgid "MythTV"
+msgstr "MythTV"
+
+#: ../DEV_extra_translations/extra_translations.py:641
+msgid "MythTV backend"
+msgstr "MythTV后端"
+
+#: ../DEV_extra_translations/extra_translations.py:506
+msgid "Postal 2"
+msgstr "《传送门2》"
+
+#: ../DEV_extra_translations/extra_translations.py:507
+msgid "A FPS by Running with Scissors (uses the Unreal engine)"
+msgstr "一款由 Running with Scissors制作的第一人称射击游戏（使用虚拟引擎）"
+
+#: ../DEV_extra_translations/extra_translations.py:786
+msgid "LPD"
+msgstr "LPD"
+
+#: ../DEV_extra_translations/extra_translations.py:787
+msgid "LPD server"
+msgstr "LPD服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:794
+msgid "Frozen Bubble"
+msgstr "冰冻泡泡"
+
+#: ../DEV_extra_translations/extra_translations.py:795
+msgid "A clone of Puzzle Bobble/Bust-a-Move"
+msgstr "Puzzle Bobble/Bust-a-Move的克隆"
+
+#: ../DEV_extra_translations/extra_translations.py:829
+msgid "Vendetta Online"
+msgstr "《宿怨online》"
+
+#: ../DEV_extra_translations/extra_translations.py:830
+msgid ""
+"A twitch-based, science fiction massively multiplayer online role-playing "
+"game (MMORPG)"
+msgstr "一款3D太空大战题材的科幻大型多人在线角色扮演类游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:16
+#: ../DEV_extra_translations/extra_translations.py:300
+msgid "hddtemp"
+msgstr "hddtemp"
+
+#: ../DEV_extra_translations/extra_translations.py:301
+msgid "Trivial File Transfer Protocol"
+msgstr "简单文件传输协议"
+
+#: ../DEV_extra_translations/extra_translations.py:137
+msgid "DirectX 7"
+msgstr "DirectX 7"
+
+#: ../DEV_extra_translations/extra_translations.py:138
+msgid "Network games using DirectX 7 API"
+msgstr "使用DirectX 7 API的网络游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:139
+msgid "DirectX 8"
+msgstr "DirectX 8"
+
+#: ../DEV_extra_translations/extra_translations.py:140
+msgid "Network games using DirectX 8 API"
+msgstr "使用DirectX 8 API的网络游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:345
+msgid "Dark Horizons: LI"
+msgstr "《黑暗地平线:机甲入侵》"
+
+#: ../DEV_extra_translations/extra_translations.py:346
+msgid ""
+"Lore Invasion. A mech-style FPS by Max Gaming Technologies using the Torque "
+"Game Engine"
+msgstr "一款由Max Gaming Technologies制作使用游戏引擎的机甲游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:281
+msgid "Teeworlds"
+msgstr "《Tee世界》"
+
+#: ../DEV_extra_translations/extra_translations.py:282
+msgid "An open source sidescrolling multiplayer shooting game"
+msgstr "一款完全开放源代码的横向卷轴多人动作射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:62
+msgid "MPD"
+msgstr "MPD"
+
+#: ../DEV_extra_translations/extra_translations.py:63
+msgid "Music Player Daemon. A server for streaming music"
+msgstr "音乐播放器守护程序。一个流媒体音乐的服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:384
+msgid "OpenRPG"
+msgstr "OpenRPG"
+
+#: ../DEV_extra_translations/extra_translations.py:385
+msgid ""
+"A map/chat/dice-rolling tool to allow players to play tabletop games on-line"
+msgstr "一个让玩家在线玩桌面游戏的地图/聊天/骰子滚动的工具"
+
+#: ../DEV_extra_translations/extra_translations.py:404
+msgid "Subversion Server"
+msgstr "Subversion Server"
+
+#: ../DEV_extra_translations/extra_translations.py:405
+msgid "Subversion server for access to Subversion repositories"
+msgstr "访问Subversion库的Subversion服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:376
+msgid "NSClient++"
+msgstr "NSClient++"
+
+#: ../DEV_extra_translations/extra_translations.py:377
+msgid "Used to monitor Windows machines from a Nagios Server"
+msgstr "用于监测来自一个Nagios服务器的Windows机器"
+
+#: ../DEV_extra_translations/extra_translations.py:111
+msgid "Nicotine"
+msgstr "尼古丁"
+
+#: ../DEV_extra_translations/extra_translations.py:112
+msgid ""
+"Nicotine is a SoulSeek client written in Python, based on the PySoulSeek "
+"project"
+msgstr "尼古丁是一个基于PySoulSeek项目的用Python写的Soulseek客户端"
+
+#: ../DEV_extra_translations/extra_translations.py:185
+msgid "Tribes 2"
+msgstr "部落2"
+
+#: ../DEV_extra_translations/extra_translations.py:186
+msgid "A multiplayer combat online game by Dynamix - main port"
+msgstr "由Dynamix制作的多人在线战斗游戏 - 主要端口"
+
+#: ../DEV_extra_translations/extra_translations.py:187
+msgid "Tribes 2 - 28000:29000/tcp/udp"
+msgstr "部落2 - 28000:29000/tcp/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:188
+msgid "A multiplayer combat online game by Dynamix, all suggested ports open"
+msgstr "由Dynamix制作的多人在线战斗游戏，所有建议的端口开放"
+
+#: ../DEV_extra_translations/extra_translations.py:790
+msgid "Return To Castle Wolfenstein"
+msgstr "重返狼穴"
+
+#: ../DEV_extra_translations/extra_translations.py:791
+msgid ""
+"WWII FPS and sequel from Splash Damage, Gray Matter Interactive, Nerve "
+"Software, and id Software"
+msgstr ""
+"二战FPS，是Splash Damage, Gray Matter Interactive, Nerve Software和id Software的续集"
+
+#: ../DEV_extra_translations/extra_translations.py:408
+msgid "Steam"
+msgstr "Steam"
+
+#: ../DEV_extra_translations/extra_translations.py:409
+msgid "Software distribution service and game server browser from Valve"
+msgstr "来自Valve的软件发布服务和游戏服务器浏览器"
+
+#: ../DEV_extra_translations/extra_translations.py:410
+msgid "For Steam Client see the category: Games / Steam"
+msgstr "对于Steam客户端，看这个类别：游戏/Steam"
+
+#: ../DEV_extra_translations/extra_translations.py:259
+msgid "Descent 3"
+msgstr "《侵袭3》"
+
+#: ../DEV_extra_translations/extra_translations.py:260
+msgid "3D Flying FPS by Outrage Entertainment"
+msgstr "一款由Outrage Entertainment制作的3D梦幻第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:285
+msgid "NFS"
+msgstr "NFS"
+
+#: ../DEV_extra_translations/extra_translations.py:286
+msgid "Network File System"
+msgstr "网络文件系统"
+
+#: ../DEV_extra_translations/extra_translations.py:602
+msgid "Warsow"
+msgstr "Warsow"
+
+#: ../DEV_extra_translations/extra_translations.py:603
+msgid "A competitive FPS based on the Qfusion 3D/id tech 2 engine"
+msgstr "一款基于Qfusion 3D/id tech 2引擎的具有竞争性的FPS"
+
+#: ../DEV_extra_translations/extra_translations.py:594
+msgid "RDP"
+msgstr "远程桌面协议"
+
+#: ../DEV_extra_translations/extra_translations.py:595
+msgid "Remote Desktop Protocols"
+msgstr "远程桌面协议"
+
+#: ../DEV_extra_translations/extra_translations.py:389
+msgid "TeamSpeak 3"
+msgstr "TeamSpeak 3"
+
+#: ../DEV_extra_translations/extra_translations.py:390
+msgid "TeamSpeak 3 voice service"
+msgstr "TeamSpeak 3语音服务"
+
+#: ../DEV_extra_translations/extra_translations.py:391
+msgid "TeamSpeak 3 File"
+msgstr "TeamSpeak 3文件"
+
+#: ../DEV_extra_translations/extra_translations.py:392
+msgid "TeamSpeak 3 file transfer"
+msgstr "TeamSpeak 3文件传输"
+
+#: ../DEV_extra_translations/extra_translations.py:393
+msgid "TeamSpeak 3 Query"
+msgstr "TeamSpeak 3查询"
+
+#: ../DEV_extra_translations/extra_translations.py:394
+msgid "TeamSpeak 3 TCP query"
+msgstr "TeamSpeak 3 TCP查询"
+
+#: ../DEV_extra_translations/extra_translations.py:557
+msgid "Ur-Quan Masters"
+msgstr "《Ur-Quan大师》"
+
+#: ../DEV_extra_translations/extra_translations.py:558
+msgid "An enhanced version of Star Control II from 3DO"
+msgstr "一款由3DO制作的《激战M星云II》改进版游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:559
+msgid "Games;Adventure;"
+msgstr "游戏；冒险"
+
+#: ../DEV_extra_translations/extra_translations.py:306
+msgid "SiN"
+msgstr "《罪恶》"
+
+#: ../DEV_extra_translations/extra_translations.py:307
+msgid "A FPS by Ritual Entertainment"
+msgstr "一款由Ritual Entertainment制作的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:86
+msgid "SAMBA"
+msgstr "SAMBA"
+
+#: ../DEV_extra_translations/extra_translations.py:87
+msgid ""
+"SMB/CIFS protocol for Unix systems, allowing you to serve files and printers "
+"to Windows, NT, OS/2 and DOS clients"
+msgstr "Unix系统的SMB/CIFS协议，让你的文件和打印机服务于Windows，NT，OS/2和DOS客户端"
+
+#: ../DEV_extra_translations/extra_translations.py:88
+msgid "Network;Services;|Network;File Transfer"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:745
+msgid "Vuze Remote"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:746
+msgid "Remote control for Vuze"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:802
+msgid "MiG-29 Fulcrum"
+msgstr "《米格-29 支点》"
+
+#: ../DEV_extra_translations/extra_translations.py:803
+msgid "A Mikoyan-Gurevich MiG-29 Fulcrum simulation by NovaLogic"
+msgstr "一款由NovaLogic制作的《苏联米格》模拟游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:209
+msgid "Quake"
+msgstr "《雷神之锤》"
+
+#: ../DEV_extra_translations/extra_translations.py:211
+msgid "QuakeWorld"
+msgstr "《雷神世界》"
+
+#: ../DEV_extra_translations/extra_translations.py:212
+msgid "An enhanced multiplayer version of Quake by id Software"
+msgstr "一款由id Software制作从《雷神之锤》改进而来的多人游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:207
+msgid "Optimized Link State Routing"
+msgstr "最优链路状态路由"
+
+#: ../DEV_extra_translations/extra_translations.py:208
+msgid "A mesh networking protocol"
+msgstr "一种网络网络协议"
+
+#: ../DEV_extra_translations/extra_translations.py:131
+msgid "Blood II: The Chosen"
+msgstr "《血祭2:恶梦等级》"
+
+#: ../DEV_extra_translations/extra_translations.py:132
+msgid "A FPS from Monolith Productions"
+msgstr "一款由Monolith Productions制作的单人射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:696
+msgid "People Nearby"
+msgstr "People Nearby"
+
+#: ../DEV_extra_translations/extra_translations.py:697
+msgid "People Nearby (Bonjour/Salut) functionality in Empathy"
+msgstr "Empathy中的People Nearby (Bonjour/Salut)功能"
+
+#: ../DEV_extra_translations/extra_translations.py:698
+msgid "Bonjour"
+msgstr "Bonjour"
+
+#: ../DEV_extra_translations/extra_translations.py:699
+msgid "Bonjour protocol"
+msgstr "Bonjour protocol"
+
+#: ../DEV_extra_translations/extra_translations.py:700
+msgid "MSN Chat"
+msgstr "MSN聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:701
+msgid "MSN chat protocol (with file transfer and voice)"
+msgstr "MSN聊天协议（带文件传输和语音）"
+
+#: ../DEV_extra_translations/extra_translations.py:702
+msgid "MSN Chat (SSL)"
+msgstr "MSN聊天（ＳＳＬ）"
+
+#: ../DEV_extra_translations/extra_translations.py:703
+msgid "MSN chat protocol SSL"
+msgstr "MSN聊天协议SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:704
+msgid "AIM Talk"
+msgstr "AIM Talk"
+
+#: ../DEV_extra_translations/extra_translations.py:705
+msgid "AIM talk protocol"
+msgstr "AIM Talk协议"
+
+#: ../DEV_extra_translations/extra_translations.py:706
+msgid "Yahoo Chat"
+msgstr "雅虎聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:707
+msgid "Yahoo chat protocol"
+msgstr "雅虎聊天协议"
+
+#: ../DEV_extra_translations/extra_translations.py:827
+msgid "FreeLords"
+msgstr "FreeLords"
+
+#: ../DEV_extra_translations/extra_translations.py:828
+msgid "A clone of Warlords"
+msgstr "一款《战神2》的克隆版游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:99
+msgid "Snowball Surprise (SnowballZ)"
+msgstr "Snowball Surprise (SnowballZ)"
+
+#: ../DEV_extra_translations/extra_translations.py:100
+msgid "A RTS snowball fight"
+msgstr "一款RTS雪仗"
+
+#: ../DEV_extra_translations/extra_translations.py:676
+msgid "Crossfire"
+msgstr "穿越火线"
+
+#: ../DEV_extra_translations/extra_translations.py:677
+msgid ""
+"An open source, cooperative multiplayer graphical RPG and adventure game"
+msgstr "一个开源、合作的多玩家的图形化的RPG和冒险游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:678
+msgid "Crossfire Metaserver"
+msgstr "穿越火线元数据服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:679
+msgid "Metaserver for Crossfire RPG"
+msgstr "穿越火线RPG元数据服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:380
+msgid "Mumble"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:381
+msgid "A voice chat application for groups"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:716
+msgid "0verkill"
+msgstr "verkill"
+
+#: ../DEV_extra_translations/extra_translations.py:717
+msgid "An ASCII-art 2D deathmatch game"
+msgstr "一款ASCII-艺术2D死斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:314
+msgid "Liquid War"
+msgstr "Liquid War"
+
+#: ../DEV_extra_translations/extra_translations.py:315
+msgid "An original shortest path algorithm and core concept"
+msgstr "一个独创的最短路径算法和核心理念"
+
+#: ../DEV_extra_translations/extra_translations.py:263
+msgid "Thousand Parsec"
+msgstr "Thousand Parsec"
+
+#: ../DEV_extra_translations/extra_translations.py:264
+#: ../DEV_extra_translations/extra_translations.py:266
+#: ../DEV_extra_translations/extra_translations.py:268
+msgid ""
+"A common framework for building turn based space empire building games"
+msgstr "一个空间回合制策略游戏框架"
+
+#: ../DEV_extra_translations/extra_translations.py:265
+msgid "Thousand Parsec SSL"
+msgstr "Thousand Parsec SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:267
+msgid "Thousand Parsec Admin"
+msgstr "Thousand Parsec Admin"
+
+#: ../DEV_extra_translations/extra_translations.py:599
+msgid "Transmission"
+msgstr "传输"
+
+#: ../DEV_extra_translations/extra_translations.py:600
+msgid ""
+"BitTorrent client which features a simple interface on top of a cross-"
+"platform backend"
+msgstr "带跨平台后端之上简单界面的比特流客户端"
+
+#: ../DEV_extra_translations/extra_translations.py:416
+msgid "Daimonin"
+msgstr "《戴蒙尼》"
+
+#: ../DEV_extra_translations/extra_translations.py:417
+msgid "An open-source MMORPG"
+msgstr "一款完全开放源代码的大型多人在线角色扮演游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:293
+msgid "GNUMP3d"
+msgstr "GNUMP3d"
+
+#: ../DEV_extra_translations/extra_translations.py:294
+msgid "An audio streaming server"
+msgstr "一个音频流媒体服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:400
+msgid "World of Warcraft"
+msgstr "《魔兽世界》"
+
+#: ../DEV_extra_translations/extra_translations.py:401
+msgid "A MMORPG game by Blizzard Entertainment"
+msgstr "一款由Blizzard Entertainment制作的大型多人在线角色扮演游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:478
+msgid "Majesty: The Fantasy Kingdom Sim"
+msgstr "《王权:幻想王国》"
+
+#: ../DEV_extra_translations/extra_translations.py:479
+msgid "A RTS by Cyberlore Studios, ported to Linux by Linux Game Publishing"
+msgstr "一款由Cyberlore Studios制作的Linux原生及时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:750
+msgid "Vuze"
+msgstr "Vuze"
+
+#: ../DEV_extra_translations/extra_translations.py:751
+msgid ""
+"BitTorrent client used to transfer files via the BitTorrent protocol. Vuze "
+"uses the Azureus Engine"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:752
+msgid ""
+"You need to add the main random port too that you selected the first time"
+msgstr "您也需要添加你第一次选择的主要随机端口"
+
+#: ../DEV_extra_translations/extra_translations.py:466
+msgid "Asterisk"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:467
+msgid ""
+"An open source telephony switching and private branch exchange service"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:468
+msgid "Review that ports are the same in /etc/asterisk/rtp.conf"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:349
+msgid "KTorrent"
+msgstr "KTorrent"
+
+#: ../DEV_extra_translations/extra_translations.py:350
+msgid "Feature rich BitTorrent client by KDE"
+msgstr "KDE下功能丰富的BitTorrent客户端"
+
+#: ../DEV_extra_translations/extra_translations.py:183
+msgid "DHCP"
+msgstr "DHCP"
+
+#: ../DEV_extra_translations/extra_translations.py:184
+msgid "Dynamic Host Configuration Protocol"
+msgstr "动态主机配置协议"
+
+#: ../DEV_extra_translations/extra_translations.py:443
+msgid "Scorched 3D server"
+msgstr "《焦土战争3D》"
+
+#: ../DEV_extra_translations/extra_translations.py:444
+msgid "A modernization of the classic DOS game Scorched Earth"
+msgstr "一款现代化的经典DOS焦土战争游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:584
+msgid "Prey"
+msgstr "掠食"
+
+#: ../DEV_extra_translations/extra_translations.py:585
+msgid "A SciFi FPS action adventure by 3D Realms"
+msgstr "一个通过3D领域的科幻第一人称射击游戏动作冒险"
+
+#: ../DEV_extra_translations/extra_translations.py:435
+msgid "Nexuiz"
+msgstr "《死亡竞速》"
+
+#: ../DEV_extra_translations/extra_translations.py:436
+msgid "A FPS based on Darkplaces/Quake engine by id Software"
+msgstr "一款由id Software制作基于《仿雷神之锤》/《雷神之锤》引擎的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:159
+msgid "Battlefield 1942"
+msgstr "《战地1942》"
+
+#: ../DEV_extra_translations/extra_translations.py:160
+msgid "A WWII FPS from Digital Illusions CE"
+msgstr "一款由Digital Illusions CE制作的二战第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:161
+msgid "Battlefield 1942 Console"
+msgstr "《战地1942》控制台"
+
+#: ../DEV_extra_translations/extra_translations.py:162
+msgid "The RemoteConsole administration tool for Battlefield 1942"
+msgstr "《战地1942》专用的远程控制台管理工具"
+
+#: ../DEV_extra_translations/extra_translations.py:735
+msgid "XPilot"
+msgstr "XPilot"
+
+#: ../DEV_extra_translations/extra_translations.py:736
+#: ../DEV_extra_translations/extra_translations.py:738
+#: ../DEV_extra_translations/extra_translations.py:740
+#: ../DEV_extra_translations/extra_translations.py:742
+#: ../DEV_extra_translations/extra_translations.py:744
+msgid "A 2D space combat game"
+msgstr "一款二维空间作战游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:737
+msgid "XPilot 2-players"
+msgstr "XPilot 2-玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:739
+msgid "XPilot 4-players"
+msgstr "XPilot 4-玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:741
+msgid "XPilot 8-players"
+msgstr "XPilot 8-玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:743
+msgid "XPilot 16-players"
+msgstr "XPilot 16-玩家"
+
+#: ../DEV_extra_translations/extra_translations.py:17
+msgid "Data storage device temperature data server"
+msgstr "数据存储设备的温度数据服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:825
+msgid "Serious Sam"
+msgstr "《英雄萨姆》"
+
+#: ../DEV_extra_translations/extra_translations.py:797
+#: ../DEV_extra_translations/extra_translations.py:826
+msgid "FPS by Croteam"
+msgstr "一款由Croteam制作的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:431
+msgid "Enemy Territory: Quake Wars"
+msgstr "《深入敌后:雷神战争》"
+
+#: ../DEV_extra_translations/extra_translations.py:432
+msgid "A FPS by Splash Damage"
+msgstr "一款由Splash Damage制作的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:84
+msgid "NAT"
+msgstr "网络地址转换"
+
+#: ../DEV_extra_translations/extra_translations.py:85
+msgid "Port Mapping Protocol"
+msgstr "端口映射协议"
+
+#: ../DEV_extra_translations/extra_translations.py:30
+#: ../DEV_extra_translations/extra_translations.py:788
+msgid "FTP"
+msgstr "第一人称射击"
+
+#: ../DEV_extra_translations/extra_translations.py:31
+#: ../DEV_extra_translations/extra_translations.py:789
+msgid "File Transfer Protocol"
+msgstr "文件传输协议"
+
+#: ../DEV_extra_translations/extra_translations.py:225
+msgid "ManiaDrive game server"
+msgstr "ManiaDrive游戏服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:226
+msgid "A clone of TrackMania from Nadeo"
+msgstr "一款Nadeo的《赛道狂飙》的克隆版游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:227
+msgid "ManiaDrive HTTP server "
+msgstr "ManiaDrive HTTP服务器 "
+
+#: ../DEV_extra_translations/extra_translations.py:228
+msgid "ManiaDrive/Raydium game monitor HTTP server"
+msgstr "ManiaDrive/Raydium游戏监控HTTP服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:24
+msgid "UPnP"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:25
+msgid ""
+"Universal Plug and Play. It is a framework which can be used to make "
+"networked applications"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:26
+msgid "System;General;"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:217
+msgid "SEDS Serious Sam"
+msgstr "《英雄萨姆》"
+
+#: ../DEV_extra_translations/extra_translations.py:218
+msgid "Dedicated server for the FPS by Croteam"
+msgstr "Croteam制作的第一人称射击游戏的专用服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:219
+msgid "SEDS Remote Admin"
+msgstr "SEDS远程控制"
+
+#: ../DEV_extra_translations/extra_translations.py:220
+msgid ""
+"Default remote administration Telnet port for Serious Engine dedicated server"
+msgstr "Serious引擎专用服务器的默认远程控制Telnet端口"
+
+#: ../DEV_extra_translations/extra_translations.py:221
+msgid "SEDS - port 25601"
+msgstr "SEDS - 端口25601"
+
+#: ../DEV_extra_translations/extra_translations.py:222
+msgid "Dedicated server for the FPS by Croteam, alternate game port 25601"
+msgstr "Croteam制作的第一人称射击游戏的专用服务器，交替游戏端口25601"
+
+#: ../DEV_extra_translations/extra_translations.py:223
+msgid "SEDS Admin - port 25600"
+msgstr "SEDS控制- 端口 25600"
+
+#: ../DEV_extra_translations/extra_translations.py:224
+msgid ""
+"Alternate 25600 remote administration Telnet port for Serious Engine "
+"dedicated server"
+msgstr "Serious引擎专用服务器的交替25600远程控制Telnet端口"
+
+#: ../DEV_extra_translations/extra_translations.py:714
+msgid "Games for Windows - Live"
+msgstr "Games for Windows - Live"
+
+#: ../DEV_extra_translations/extra_translations.py:715
+msgid "Network games using Games for Windows - Live API"
+msgstr "使用Games for Windows - Live API的网络游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:508
+msgid "Spring game engine"
+msgstr "Spring游戏引擎"
+
+#: ../DEV_extra_translations/extra_translations.py:509
+msgid ""
+"An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
+msgstr "一款由Cavedog Entertainment制作从及时战略游戏《横扫千军》克隆改编而来的游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:598
+msgid ""
+"A free and open source team-based first-person shooter with real-time "
+"strategy elements"
+msgstr "一款带实时战略元素的免费开源团队第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:831
+msgid "LBreakout2 - 8001/udp"
+msgstr "LBreakout2 - 8001/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:832
+#: ../DEV_extra_translations/extra_translations.py:834
+msgid "A Breakout clone"
+msgstr "《突破重围》"
+
+#: ../DEV_extra_translations/extra_translations.py:833
+msgid "LBreakout2 - 2002/udp"
+msgstr "LBreakout2 - 2002/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:454
+msgid "Doom3"
+msgstr "《毁灭战士3》"
+
+#: ../DEV_extra_translations/extra_translations.py:204
+msgid "Ryzom"
+msgstr "《瑞泽姆传奇》"
+
+#: ../DEV_extra_translations/extra_translations.py:205
+msgid ""
+"It's also known as The Saga of Ryzom, is a massively multiplayer online role-"
+"playing game (MMORPG)"
+msgstr "一款大型的多人在线角色扮演游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:420
+msgid "F-16 Multirole Fighter"
+msgstr "F16战斗机"
+
+#: ../DEV_extra_translations/extra_translations.py:421
+msgid "A F-16 simulation by NovaLogic"
+msgstr "一款由NovaLogic制作的F-16模拟"
+
+#: ../DEV_extra_translations/extra_translations.py:451
+msgid "MySQL"
+msgstr "MySQL"
+
+#: ../DEV_extra_translations/extra_translations.py:452
+msgid "MySQL Database"
+msgstr "MySQL Database"
+
+#: ../DEV_extra_translations/extra_translations.py:453
+msgid "Office;Database;"
+msgstr "办公室;数据库;"
+
+#: ../DEV_extra_translations/extra_translations.py:562
+msgid "Neverwinter Nights server"
+msgstr "《无冬之夜》服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:563
+msgid "Default port for Neverwinter Nights, a RPG from Bioware"
+msgstr "《无冬之夜》默认端口，一款由Bioware制作的角色扮演游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:5
+msgid "F-22 Lightning 3"
+msgstr "《F-22 雷霆战机3》"
+
+#: ../DEV_extra_translations/extra_translations.py:213
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: ../DEV_extra_translations/extra_translations.py:214
+msgid ""
+"File hosting service, that offers cloud storage, file synchronization and "
+"client software"
+msgstr "网络硬盘，可提供云存储"
+
+#: ../DEV_extra_translations/extra_translations.py:83
+msgid "Network;Cloud;"
+msgstr "网络；云端"
+
+#: ../DEV_extra_translations/extra_translations.py:320
+msgid "HTTP"
+msgstr "HTTP"
+
+#: ../DEV_extra_translations/extra_translations.py:321
+msgid "WWW standard protocol on port 80/tcp (IANA/Debian www, http)"
+msgstr "端口80/tcp上的WWW标准协议 (IANA/Debian www, http)"
+
+#: ../DEV_extra_translations/extra_translations.py:322
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: ../DEV_extra_translations/extra_translations.py:323
+msgid "WWW standard protocol with SSL/TLS on port 443/tcp (IANA https)"
+msgstr "在端口443/tcp上的用SSL/TLS的WWW标准协议 (IANA https)"
+
+#: ../DEV_extra_translations/extra_translations.py:324
+msgid "HTTP - 8008/tcp"
+msgstr "HTTP - 8008/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:325
+msgid "WWW standard protocol on port 8008/tcp (IANA http-alt)"
+msgstr "在端口8008/tcp上的WWW标准协议 (IANA http-alt)"
+
+#: ../DEV_extra_translations/extra_translations.py:326
+#: ../DEV_extra_translations/extra_translations.py:327
+msgid "Web Server (HTTP,HTTPS)"
+msgstr "Web服务器 (HTTP,HTTPS)"
+
+#: ../DEV_extra_translations/extra_translations.py:328
+#: ../DEV_extra_translations/extra_translations.py:329
+msgid "Web Server (8080)"
+msgstr "Web服务器 (8080)"
+
+#: ../DEV_extra_translations/extra_translations.py:330
+msgid "HTTP - 8090/tcp"
+msgstr "HTTP - 8090/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:331
+msgid ""
+"WWW standard protocol on port 8090/tcp (IANA unassigned, commonly "
+"http_alt_alt)"
+msgstr "端口8090/tcp上的WWW标准协议（IANA未分配，通常http_alt_alt）"
+
+#: ../DEV_extra_translations/extra_translations.py:718
+msgid "USB Redirector"
+msgstr "USB Redirector"
+
+#: ../DEV_extra_translations/extra_translations.py:719
+msgid "USB device sharing system from INCENTIVES Pro"
+msgstr "来自INCENTIVES Pro的USB设备共享系统"
+
+#: ../DEV_extra_translations/extra_translations.py:97
+msgid "Globulation 2"
+msgstr "Globulation 2"
+
+#: ../DEV_extra_translations/extra_translations.py:98
+msgid "A RTS"
+msgstr "一款及时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:469
+msgid "Webmin"
+msgstr "Webmin"
+
+#: ../DEV_extra_translations/extra_translations.py:470
+#: ../DEV_extra_translations/extra_translations.py:473
+msgid "Web-page based system management utility"
+msgstr "基于网页的系统管理工具"
+
+#: ../DEV_extra_translations/extra_translations.py:471
+msgid "Network;Shell;"
+msgstr "网络；接口"
+
+#: ../DEV_extra_translations/extra_translations.py:472
+msgid "Webmin fast RPC"
+msgstr "Webmin fast RPC"
+
+#: ../DEV_extra_translations/extra_translations.py:536
+msgid "Counter-Strike 2D"
+msgstr "反恐精英2D"
+
+#: ../DEV_extra_translations/extra_translations.py:537
+msgid ""
+"A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software"
+msgstr "一个Unreal Software制作的Valve Software的《反恐精英》的自上而下的2D克隆版本"
+
+#: ../DEV_extra_translations/extra_translations.py:682
+msgid "GameRanger"
+msgstr "GameRanger"
+
+#: ../DEV_extra_translations/extra_translations.py:683
+msgid "A game server browser from GameRanger Technologies"
+msgstr "一款由GameRanger Technologies开发的游戏服务器浏览器"
+
+#: ../DEV_extra_translations/extra_translations.py:287
+msgid "0 A.D."
+msgstr "0 A.D."
+
+#: ../DEV_extra_translations/extra_translations.py:288
+msgid "A free/open-source RTS game of ancient warfare from Wildfire Games"
+msgstr "一个来自野火游戏的自由/开源的古代战争的RTS游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:809
+msgid "CUPS"
+msgstr "CUPS"
+
+#: ../DEV_extra_translations/extra_translations.py:810
+msgid "Modular printing system for Unix-like computer operating systems"
+msgstr "为类Unix计算机操作系统而设的模块化印刷系统"
+
+#: ../DEV_extra_translations/extra_translations.py:813
+msgid "NFS (Chris Lowth)"
+msgstr "网络文件系统 (Chris Lowth)"
+
+#: ../DEV_extra_translations/extra_translations.py:814
+msgid ""
+"Network File System protocol with static ports at 4000:4002 (some conflicts "
+"with popular games; statd broadcast on random port)"
+msgstr "自带4000:4002静态端口的网络文件系统协议（部分与热门游戏冲突；任意端口上运行的进程）"
+
+#: ../DEV_extra_translations/extra_translations.py:815
+msgid "NFS Quota (Chris Lowth)"
+msgstr "网络文件系统配额 (Chris Lowth)"
+
+#: ../DEV_extra_translations/extra_translations.py:816
+msgid ""
+"NFS with user/group filesystem usage quota support with static ports at "
+"4000:4003 (some conflicts with popular games; statd broadcast on random port)"
+msgstr "自带支持4000:4003静态端口的用户/组文件系统使用配额的网络文件系统（部分与热门游戏冲突；任意端口上运行的进程）"
+
+#: ../DEV_extra_translations/extra_translations.py:366
+msgid "Hexen II - 26900/udp"
+msgstr "《毁灭巫师II》- 26900/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:367
+msgid "A fantasy FPS by Raven Software, server on port 27660"
+msgstr "一款由Raven Software制作的奇幻第一人称射击游戏，服务器端口27660"
+
+#: ../DEV_extra_translations/extra_translations.py:368
+msgid "Hexen II - 26901/udp"
+msgstr "《毁灭巫师II》- 26901/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:369
+msgid "A fantasy FPS by Raven Software, server on port 26901"
+msgstr "一款由Raven Software制作的奇幻第一人称射击游戏，服务器端口26901"
+
+#: ../DEV_extra_translations/extra_translations.py:370
+msgid "Hexen II - 26902/udp"
+msgstr "《毁灭巫师II》- 26902/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:371
+msgid "A fantasy FPS by Raven Software, server on port 26902"
+msgstr "一款由Raven Software制作的奇幻第一人称射击游戏，服务器端口26902"
+
+#: ../DEV_extra_translations/extra_translations.py:372
+msgid "Hexen II - 26903/udp"
+msgstr "《毁灭巫师II》- 26903/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:373
+msgid "A fantasy FPS by Raven Software, server on port 26903"
+msgstr "一款由Raven Software制作的奇幻第一人称射击游戏，服务器端口26903"
+
+#: ../DEV_extra_translations/extra_translations.py:374
+msgid "HexenWorld - 26950/udp"
+msgstr "HexenWorld - 26950/udpp"
+
+#: ../DEV_extra_translations/extra_translations.py:375
+msgid "HexenWorld server by Raven Software"
+msgstr "Raven Software开发的HexenWorld服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:572
+msgid "Telnet"
+msgstr "Telnet"
+
+#: ../DEV_extra_translations/extra_translations.py:573
+msgid "Text-based remote access (like SSH but without the security)"
+msgstr "基于文本的远程访问（类似于SSH但不能保证安全性）"
+
+#: ../DEV_extra_translations/extra_translations.py:574
+msgid ""
+"Telnet is like SSH but without security. It'd be better to use the 'Telnet "
+"SSL'"
+msgstr "Telnet类似于SSH但不能保证安全性。最好使用Telnet SSH。"
+
+#: ../DEV_extra_translations/extra_translations.py:575
+msgid "Telnet TLS/SSL"
+msgstr "Telnet TLS/SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:576
+msgid "Text-based remote access (like SSH but without the security) SSL"
+msgstr "基于文本的远程访问（类似于SSH但不能保证安全性）SSL"
+
+#: ../DEV_extra_translations/extra_translations.py:464
+msgid "Dropbox LanSync"
+msgstr "Dropbox LanSync"
+
+#: ../DEV_extra_translations/extra_translations.py:465
+msgid "A web-based file hosting service"
+msgstr "一种网络硬盘"
+
+#: ../DEV_extra_translations/extra_translations.py:710
+msgid "Tor Normal"
+msgstr "Tor Normal"
+
+#: ../DEV_extra_translations/extra_translations.py:711
+msgid "Tor anonymity network"
+msgstr "Tor代理服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:304
+msgid "Comanche 4"
+msgstr "《卡曼奇4》"
+
+#: ../DEV_extra_translations/extra_translations.py:305
+msgid "A Comanche RAH-66 helicopter simulation by NovaLogic"
+msgstr "一款由NovaLogic制作的卡曼奇RAH-66直升机模拟游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:141
+msgid "Full Metal Soccer server"
+msgstr "全金属足球服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:142
+#: ../DEV_extra_translations/extra_translations.py:145
+#: ../DEV_extra_translations/extra_translations.py:147
+msgid "A soccer game played with tanks by QuantiCode"
+msgstr "通过QuantiCode用坦克玩的足球比赛"
+
+#: ../DEV_extra_translations/extra_translations.py:144
+msgid "Full Metal Soccer ranking server"
+msgstr "全金属足球排名服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:146
+msgid "Full Metal Soccer master server"
+msgstr "全金属足球主服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:191
+msgid "DAAP"
+msgstr "DAAP"
+
+#: ../DEV_extra_translations/extra_translations.py:192
+msgid "Digital Audio Access Protocol"
+msgstr "数字音频访问协议"
+
+#: ../DEV_extra_translations/extra_translations.py:538
+msgid "Socks Proxy"
+msgstr "Socks Proxy"
+
+#: ../DEV_extra_translations/extra_translations.py:539
+msgid "SOCKS protocol for proxy server support"
+msgstr "对代理服务器支持的SOCKS协议"
+
+#: ../DEV_extra_translations/extra_translations.py:540
+msgid "Transparent Proxy"
+msgstr "Transparent Proxy"
+
+#: ../DEV_extra_translations/extra_translations.py:541
+msgid "Transparent proxy"
+msgstr "Transparent代理"
+
+#: ../DEV_extra_translations/extra_translations.py:402
+msgid "UFO: Alien Invasion"
+msgstr "《不明飞行物:异形入侵》"
+
+#: ../DEV_extra_translations/extra_translations.py:403
+msgid "An open-source 3D RTS inspired by X-COM"
+msgstr "一款由X-COM授权的开源3D及时战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:253
+msgid "Armagetron Advanced"
+msgstr "Armagetron Advanced"
+
+#: ../DEV_extra_translations/extra_translations.py:254
+msgid "A 3D clone of the Light Cycle game in Tron"
+msgstr "一款Tron中的光周期3D克隆游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:257
+msgid "Alien Arena"
+msgstr "《外星人竞技场》"
+
+#: ../DEV_extra_translations/extra_translations.py:258
+msgid "A SciFi competitive FPS based on the CRX/id Tech 2 engine"
+msgstr "一款基于 CRX/id Tech 2 引擎的科幻竞争类第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:71
+msgid "Tachyon: The Fringe"
+msgstr "《超光速粒子:边缘》"
+
+#: ../DEV_extra_translations/extra_translations.py:72
+msgid "A 3D space combat game by NovaLogic"
+msgstr "一款由NovaLogic制作的3D空战游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:428
+msgid "IPP"
+msgstr "IPP"
+
+#: ../DEV_extra_translations/extra_translations.py:429
+msgid "Internet Printing Protocol"
+msgstr "互联网打印协议"
+
+#: ../DEV_extra_translations/extra_translations.py:580
+msgid "Delta Force: Xtreme"
+msgstr "三角洲特种部队:Xtreme"
+
+#: ../DEV_extra_translations/extra_translations.py:12
+#: ../DEV_extra_translations/extra_translations.py:503
+#: ../DEV_extra_translations/extra_translations.py:581
+#: ../DEV_extra_translations/extra_translations.py:681
+msgid "A FPS combat game by NovaLogic"
+msgstr "一款由NovaLogic制作的第一人称战斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:722
+msgid "WINE: Warcraft III"
+msgstr "WINE:《魔兽争霸III》"
+
+#: ../DEV_extra_translations/extra_translations.py:724
+msgid "WINE: Warcraft III all ports"
+msgstr "WINE:《魔兽争霸III》所有端口"
+
+#: ../DEV_extra_translations/extra_translations.py:725
+msgid "Warcraft III with 6112-6119 TCP ports open"
+msgstr "开启6112-6119 TCP端口的《魔兽争霸III》"
+
+#: ../DEV_extra_translations/extra_translations.py:522
+msgid "Heroes of Might and Magic III"
+msgstr "英雄无敌3"
+
+#: ../DEV_extra_translations/extra_translations.py:523
+msgid "A fantasy strategy game by 3DO"
+msgstr "一个由3DO制作的奇幻的战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:133
+msgid "STUN"
+msgstr "STUN"
+
+#: ../DEV_extra_translations/extra_translations.py:134
+msgid "Session Traversal Utilities for NAT"
+msgstr "NAT会话传输应用程序"
+
+#: ../DEV_extra_translations/extra_translations.py:135
+msgid "STUN TLS"
+msgstr "STUN TLS"
+
+#: ../DEV_extra_translations/extra_translations.py:136
+msgid "Session Traversal Utilities for NAT with TLS encryption"
+msgstr "带TLS加密的NAT会话传输应用程序"
+
+#: ../DEV_extra_translations/extra_translations.py:684
+msgid "Diablo"
+msgstr "暗黑破坏神"
+
+#: ../DEV_extra_translations/extra_translations.py:433
+msgid "Delta Force: TFD"
+msgstr "《三角洲特种部队:刺刀特遣队》"
+
+#: ../DEV_extra_translations/extra_translations.py:434
+msgid "Task Force Dagger. A FPS combat game by NovaLogic"
+msgstr "一款由NovaLogic制作的第一人称射击战斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:680
+msgid "Delta Force 2"
+msgstr "《三角洲特种部队2》"
+
+#: ../DEV_extra_translations/extra_translations.py:712
+msgid "DEFCON"
+msgstr "《核战危机》"
+
+#: ../DEV_extra_translations/extra_translations.py:713
+msgid "A thermo-nuclear war strategy game from Introversion Software"
+msgstr "一款由Introversion Software制作的热核战争策略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:78
+msgid "NTP"
+msgstr "NTP"
+
+#: ../DEV_extra_translations/extra_translations.py:79
+msgid "Network Time Protocol"
+msgstr "网络时间协议"
+
+#: ../DEV_extra_translations/extra_translations.py:80
+msgid "Network;Time;"
+msgstr "网络；时间；"
+
+#: ../DEV_extra_translations/extra_translations.py:411
+msgid "AMANDA"
+msgstr "AMANDA"
+
+#: ../DEV_extra_translations/extra_translations.py:412
+msgid "Backup server from Zmanda; standard port with nf_conntrack_amanda"
+msgstr "Zmanda备份服务器；nf_conntrack_amanda标准端口"
+
+#: ../DEV_extra_translations/extra_translations.py:413
+msgid "Network;Archiving;"
+msgstr "网络；归档"
+
+#: ../DEV_extra_translations/extra_translations.py:231
+msgid "World of Padman - 27960/udp"
+msgstr "《扁蝠侠的世界》-27960/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:232
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27960"
+msgstr "一款由Padworld Entertainment制作基于《雷神之锤III》开发的第一人称射击游戏，端口服务器27960"
+
+#: ../DEV_extra_translations/extra_translations.py:233
+msgid "World of Padman - 27961/udp"
+msgstr "《扁蝠侠的世界》-27961/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:234
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27961"
+msgstr "一款由Padworld Entertainment制作基于《雷神之锤III》开发的第一人称射击游戏，端口服务器27961"
+
+#: ../DEV_extra_translations/extra_translations.py:235
+msgid "World of Padman - 27962/udp"
+msgstr "《扁蝠侠的世界》-27962/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:236
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27962"
+msgstr "一款由Padworld Entertainment制作基于《雷神之锤III》开发的第一人称射击游戏，端口服务器27962"
+
+#: ../DEV_extra_translations/extra_translations.py:237
+msgid "World of Padman - 27963/udp"
+msgstr "《扁蝠侠的世界》-27963/udp"
+
+#: ../DEV_extra_translations/extra_translations.py:238
+msgid ""
+"A FPS by Padworld Entertainment based on Quake III, server on port 27963"
+msgstr "一款由Padworld Entertainment制作基于《雷神之锤III》开发的第一人称射击游戏，端口服务器27963"
+
+#: ../DEV_extra_translations/extra_translations.py:28
+#: ../DEV_extra_translations/extra_translations.py:456
+#: ../DEV_extra_translations/extra_translations.py:457
+msgid "H.323 Call Signaling"
+msgstr "H.323呼叫信号"
+
+#: ../DEV_extra_translations/extra_translations.py:29
+msgid "Network;Telephony;Video Conference;"
+msgstr "网络；技术；视频会议"
+
+#: ../DEV_extra_translations/extra_translations.py:458
+msgid "H.323 discovery"
+msgstr "H.323 discovery"
+
+#: ../DEV_extra_translations/extra_translations.py:459
+msgid "H.323 multicast gatekeeper discovery (H.225)"
+msgstr "H.323组播网守(H.225)"
+
+#: ../DEV_extra_translations/extra_translations.py:460
+msgid "H.323 RAS"
+msgstr "H.323 RAS"
+
+#: ../DEV_extra_translations/extra_translations.py:461
+msgid "H.323 Gatekeeper Registration, Admission and Status (H.225)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:243
+msgid "Balazar III"
+msgstr "Balazar III"
+
+#: ../DEV_extra_translations/extra_translations.py:244
+msgid "A 2D/3D dungeon adventure game"
+msgstr "一款2D/3D地牢冒险游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:811
+msgid "GNUnet"
+msgstr "GNUnet"
+
+#: ../DEV_extra_translations/extra_translations.py:812
+msgid ""
+"A decentralized peer-to-peer networking framework with file sharing and "
+"messaging"
+msgstr "一种自带文件分享和及时消息功能的分散点对点网格架构"
+
+#: ../DEV_extra_translations/extra_translations.py:19
+msgid "Abuse"
+msgstr "《凌虐》"
+
+#: ../DEV_extra_translations/extra_translations.py:20
+msgid "A dark 2D side-scrolling platform game developed by Crack dot Com"
+msgstr "一款由Crack dot Com开发的黑暗的2D横向卷轴平台游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:352
+msgid "Glest"
+msgstr "《神佑》"
+
+#: ../DEV_extra_translations/extra_translations.py:353
+msgid "A free, open source 3D RTS game server"
+msgstr "一款免费开源的3D实时战略游戏服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:81
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: ../DEV_extra_translations/extra_translations.py:82
+msgid ""
+"Store files online and sync them between computers and mobile devices, as "
+"well as stream audio and music from cloud to mobile devices"
+msgstr "在线存储文件并在计算机和移动设备之间同步它们，以及从云到移动设备上的流音频和音乐"
+
+#: ../DEV_extra_translations/extra_translations.py:11
+msgid "Joint Operations: Typhoon Rising"
+msgstr "《联合行动:飓风来袭》"
+
+#: ../DEV_extra_translations/extra_translations.py:215
+msgid "Legends"
+msgstr "Legends"
+
+#: ../DEV_extra_translations/extra_translations.py:216
+msgid "A FPS based on the Torque Engine"
+msgstr "一款基于Torque引擎的FPS"
+
+#: ../DEV_extra_translations/extra_translations.py:817
+msgid "TeamSpeak 2 voice"
+msgstr "TeamSpeak 2 voice"
+
+#: ../DEV_extra_translations/extra_translations.py:818
+msgid "TeamSpeak 2 voice service"
+msgstr "TeamSpeak 2 voice服务"
+
+#: ../DEV_extra_translations/extra_translations.py:819
+msgid "TeamSpeak 2 web"
+msgstr "TeamSpeak 2 网站"
+
+#: ../DEV_extra_translations/extra_translations.py:820
+msgid "TeamSpeak 2 web interface"
+msgstr "TeamSpeak 2 网站界面"
+
+#: ../DEV_extra_translations/extra_translations.py:821
+#: ../DEV_extra_translations/extra_translations.py:822
+msgid "TeamSpeak 2 TCP query"
+msgstr "TeamSpeak 2 TCP查询"
+
+#: ../DEV_extra_translations/extra_translations.py:273
+msgid "Postfix Mail Server SMTP"
+msgstr "Postfix邮件服务器SMTP"
+
+#: ../DEV_extra_translations/extra_translations.py:274
+#: ../DEV_extra_translations/extra_translations.py:276
+#: ../DEV_extra_translations/extra_translations.py:278
+msgid "Postfix is a high-performance mail transport agent"
+msgstr "Postfix一种高性能的邮件传输代理"
+
+#: ../DEV_extra_translations/extra_translations.py:275
+msgid "Postfix Mail Server SMTPS"
+msgstr "Postfix邮件服务器SMTPS"
+
+#: ../DEV_extra_translations/extra_translations.py:277
+msgid "Postfix Mail Server Submission"
+msgstr "Postfix邮件服务器提交"
+
+#: ../DEV_extra_translations/extra_translations.py:343
+msgid "FreeSpace 2"
+msgstr "《自由空间2》"
+
+#: ../DEV_extra_translations/extra_translations.py:344
+msgid "Space combat simulation by Volition"
+msgstr "一款由Volition制作的空战模拟游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:302
+msgid "Minecraft"
+msgstr "麦块"
+
+#: ../DEV_extra_translations/extra_translations.py:303
+msgid "A 3D sandbox construction game by Markus Persson"
+msgstr "一款由Markus Persson开发的3D沙盒建造游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:437
+msgid "Savage 2: A Tortured Soul"
+msgstr "野人2:邪灵"
+
+#: ../DEV_extra_translations/extra_translations.py:122
+msgid "Murmur"
+msgstr "么么"
+
+#: ../DEV_extra_translations/extra_translations.py:123
+msgid "Murmur voice chat server (counterpart to Mumble client)"
+msgstr "么么语音聊天服务器（跟漫波客服端类似）"
+
+#: ../DEV_extra_translations/extra_translations.py:50
+msgid "Conquest"
+msgstr "征伐"
+
+#: ../DEV_extra_translations/extra_translations.py:51
+#: ../DEV_extra_translations/extra_translations.py:53
+msgid "A space warfare game"
+msgstr "一款太空战游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:52
+msgid "Conquest Metaserver"
+msgstr "Conquest Metaserver"
+
+#: ../DEV_extra_translations/extra_translations.py:731
+msgid "ThinkTanks"
+msgstr "ThinkTanks"
+
+#: ../DEV_extra_translations/extra_translations.py:732
+msgid ""
+"A 3D tank combat game by BraveTree Productions using the Torque Game Engine"
+msgstr "由BraveTree Productions制作的使用Torque游戏引擎的3D坦克作战游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:526
+msgid "Toribash - 20184"
+msgstr "《终极格斗》-20184"
+
+#: ../DEV_extra_translations/extra_translations.py:527
+#: ../DEV_extra_translations/extra_translations.py:529
+#: ../DEV_extra_translations/extra_translations.py:531
+#: ../DEV_extra_translations/extra_translations.py:533
+#: ../DEV_extra_translations/extra_translations.py:535
+msgid ""
+"A fighting game based on the physics sandbox model with customizable moves"
+msgstr "一款基于可自由移动物理沙盒模型的战斗游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:528
+msgid "Toribash - 20185"
+msgstr "《终极格斗》-20185"
+
+#: ../DEV_extra_translations/extra_translations.py:530
+msgid "Toribash - 20186"
+msgstr "《终极格斗》-20186"
+
+#: ../DEV_extra_translations/extra_translations.py:532
+msgid "Toribash - 20187"
+msgstr "《终极格斗》-20187"
+
+#: ../DEV_extra_translations/extra_translations.py:534
+msgid "Toribash Full"
+msgstr "《终极格斗》全部"
+
+#: ../DEV_extra_translations/extra_translations.py:642
+msgid "POP3"
+msgstr "邮局协议第3版"
+
+#: ../DEV_extra_translations/extra_translations.py:643
+msgid "Post Office Protocol"
+msgstr "邮局协议"
+
+#: ../DEV_extra_translations/extra_translations.py:644
+msgid "POP3S"
+msgstr "POP3S"
+
+#: ../DEV_extra_translations/extra_translations.py:645
+#: ../DEV_extra_translations/extra_translations.py:649
+msgid "Secure mail server"
+msgstr "安全邮件服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:646
+msgid "IMAP"
+msgstr "IMAP"
+
+#: ../DEV_extra_translations/extra_translations.py:647
+msgid "Internet Message Access Protocol"
+msgstr "因特网信息访问协议"
+
+#: ../DEV_extra_translations/extra_translations.py:648
+msgid "IMAPS"
+msgstr "IMAPS"
+
+#: ../DEV_extra_translations/extra_translations.py:650
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ../DEV_extra_translations/extra_translations.py:651
+msgid "Simple Mail Transfer Protocol"
+msgstr "简单邮件传输协议"
+
+#: ../DEV_extra_translations/extra_translations.py:582
+msgid "Blobby Volley 2"
+msgstr "波比排球2"
+
+#: ../DEV_extra_translations/extra_translations.py:583
+msgid "A volleyball game"
+msgstr "一款足球游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:127
+msgid "Nagios"
+msgstr "Nagios"
+
+#: ../DEV_extra_translations/extra_translations.py:128
+msgid ""
+"Computer system monitor, network monitoring and infrastructure monitoring "
+"software application"
+msgstr "电脑系统监视器、网络监视和架构监视软件"
+
+#: ../DEV_extra_translations/extra_translations.py:796
+msgid "Serious Sam II"
+msgstr "英雄萨姆2"
+
+#: ../DEV_extra_translations/extra_translations.py:283
+msgid "Quake II"
+msgstr "《雷神之锤II》"
+
+#: ../DEV_extra_translations/extra_translations.py:800
+msgid "Skype Normal"
+msgstr "Skype正常"
+
+#: ../DEV_extra_translations/extra_translations.py:801
+msgid "Proprietary Voice over IP service and software application"
+msgstr "基于IP服务和软件应用的专有语音"
+
+#: ../DEV_extra_translations/extra_translations.py:406
+msgid "Heavy Gear II"
+msgstr "《重装机甲II》"
+
+#: ../DEV_extra_translations/extra_translations.py:407
+msgid ""
+"A mech FPS based on the Dream Pod 9 universe from Activision and Loki "
+"Software"
+msgstr "一款由Activision and Loki Software制作基于Dream Pod 9 universe的机甲第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:54
+msgid "Dopewars"
+msgstr "《傻瓜大战》"
+
+#: ../DEV_extra_translations/extra_translations.py:551
+msgid "Railroad Tycoon II"
+msgstr "《铁路大亨II》"
+
+#: ../DEV_extra_translations/extra_translations.py:552
+msgid "Railroad strategy game by PopTop Software"
+msgstr "一款由PopTop Software制作的铁路战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:73
+msgid "MSN Gaming Zone"
+msgstr "MSN Gaming Zone"
+
+#: ../DEV_extra_translations/extra_translations.py:74
+msgid "Games using MSN Gaming Zone API"
+msgstr "使用MSN Gaming Zone API的游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:504
+msgid "Red Eclipse"
+msgstr "红食"
+
+#: ../DEV_extra_translations/extra_translations.py:505
+msgid "An open source first-person shooter that runs on the Cube Engine 2"
+msgstr "一款在立方引擎2上运行的开源的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:764
+msgid "TeamViewer"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:765
+msgid ""
+"Remote control, desktop sharing, online meetings, web conferencing and file "
+"transfer between computers"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:308
+msgid "rsync daemon"
+msgstr "rsync daemon"
+
+#: ../DEV_extra_translations/extra_translations.py:309
+msgid "File synchronization utility"
+msgstr "文件同步工具"
+
+#: ../DEV_extra_translations/extra_translations.py:109
+msgid "Tether"
+msgstr "Tether"
+
+#: ../DEV_extra_translations/extra_translations.py:110
+msgid ""
+"A clone of strategy game Moonbase Commander by Humongous Entertainment"
+msgstr "一款由Humongous Entertainment制作的克隆战略游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:316
+msgid "The Mana World"
+msgstr "《玛娜世界》"
+
+#: ../DEV_extra_translations/extra_translations.py:317
+msgid "A fantasy MMORPG"
+msgstr "一款幻奇幻大型多人在线角色扮演游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:332
+msgid "UPS Tools daemon"
+msgstr "UPS工具守护进程"
+
+#: ../DEV_extra_translations/extra_translations.py:333
+msgid "Network UPS Tools"
+msgstr "网络UPS工具"
+
+#: ../DEV_extra_translations/extra_translations.py:553
+msgid "Mechwarrior 4"
+msgstr "《机甲战士4》"
+
+#: ../DEV_extra_translations/extra_translations.py:554
+msgid "A FPS based on the Fasa Battletech universe"
+msgstr "一款基于《爆战机甲兵》的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:261
+msgid "Soldier of Fortune"
+msgstr "《命运战士》"
+
+#: ../DEV_extra_translations/extra_translations.py:262
+msgid "Soldier of Fortune - A FPS by Raven Software"
+msgstr "《命运战士》-一款由Raven Software制作的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:748
+msgid "Wormux"
+msgstr "Wormux"
+
+#: ../DEV_extra_translations/extra_translations.py:60
+msgid "London Law"
+msgstr "London Law"
+
+#: ../DEV_extra_translations/extra_translations.py:61
+msgid "An online multiplayer adaptation of the Scotland Yard board game"
+msgstr "一款从苏格兰场棋盘游戏改编而来的在线多人游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:555
+msgid "Yura.net Domination (jRisk)"
+msgstr "《统治》"
+
+#: ../DEV_extra_translations/extra_translations.py:556
+msgid "A clone of Risk"
+msgstr "一款风险克隆游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:27
+msgid "Camfrog"
+msgstr "康福"
+
+#: ../DEV_extra_translations/extra_translations.py:804
+msgid "iMaze"
+msgstr "iMaze"
+
+#: ../DEV_extra_translations/extra_translations.py:805
+msgid "A maze combat game in 3D"
+msgstr "一个迷宫作战3D游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:638
+msgid "Heretic II"
+msgstr "《异教徒2代》"
+
+#: ../DEV_extra_translations/extra_translations.py:639
+msgid "Fantasy combat FPS by Raven Software"
+msgstr "一款由Raven Software制作的奇幻战斗第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:68
+msgid "MiniDLNA"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:69
+msgid ""
+"Serves media files (music, pictures, and video) to clients on a network"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:618
+msgid "All Services"
+msgstr "所有服务"
+
+#: ../DEV_extra_translations/extra_translations.py:619
+msgid "Client, dedicated servers, P2P and voice chat"
+msgstr "客户端，专用服务器，P2P和语音聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:620
+msgid "Games;Steam;"
+msgstr "游戏；steam"
+
+#: ../DEV_extra_translations/extra_translations.py:621
+msgid "Client, Dedicated Servers, P2P and Voice Chat"
+msgstr "客户端，专用服务器，P2P和语音聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:622
+msgid "Client"
+msgstr "客户端"
+
+#: ../DEV_extra_translations/extra_translations.py:623
+msgid ""
+"Game client traffic, typically Matchmaking and HLTV and Steam downloads"
+msgstr "游戏客户端流量、通常配对和HLTV及Steam下载"
+
+#: ../DEV_extra_translations/extra_translations.py:624
+msgid "Dedicated Servers"
+msgstr "专用服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:625
+msgid "SRCDS Rcon port"
+msgstr "SRCDS Rcon端口"
+
+#: ../DEV_extra_translations/extra_translations.py:626
+msgid "P2P and Voice Chat"
+msgstr "P2P和语音聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:627
+msgid "Steamworks P2P Networking and Steam Voice Chat"
+msgstr "Steamworks P2P 网络和Steam语音聊天"
+
+#: ../DEV_extra_translations/extra_translations.py:628
+msgid "Call of Duty"
+msgstr "《使命召唤》"
+
+#: ../DEV_extra_translations/extra_translations.py:629
+msgid "Additional Ports for Call of Duty: Modern Warfare 2 Multiplayer"
+msgstr "《使命召唤》的附加端口；《现代战争2》"
+
+#: ../DEV_extra_translations/extra_translations.py:806
+msgid "Webcam_server"
+msgstr "网络视频服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:807
+msgid "A webcam viewer for web servers with an optional Java-based viewer"
+msgstr "一个自带Java查看器适用于网络服务器的网络视频查看器"
+
+#: ../DEV_extra_translations/extra_translations.py:808
+msgid "Network;Audio Video;Video;"
+msgstr "网络；音频视频；视频"
+
+#: ../DEV_extra_translations/extra_translations.py:295
+msgid "Icecast"
+msgstr "流媒体"
+
+#: ../DEV_extra_translations/extra_translations.py:176
+#: ../DEV_extra_translations/extra_translations.py:296
+msgid "Icecast stream"
+msgstr "流媒体stream"
+
+#: ../DEV_extra_translations/extra_translations.py:297
+msgid "Network;Audio Video;"
+msgstr "网络；音频视频"
+
+#: ../DEV_extra_translations/extra_translations.py:298
+msgid "Icecast - 8000:8001/tcp"
+msgstr "流媒体- 8000:8001/tcp"
+
+#: ../DEV_extra_translations/extra_translations.py:299
+msgid "Icecast with SHOUTcast-compatible stream"
+msgstr "与stream兼容的网上流媒体广播"
+
+#: ../DEV_extra_translations/extra_translations.py:564
+msgid "Unreal Tournament 2004"
+msgstr "虚幻竞技场2004"
+
+#: ../DEV_extra_translations/extra_translations.py:565
+msgid "A FPS by Epic Games"
+msgstr "Epic Games开发的一款FPS"
+
+#: ../DEV_extra_translations/extra_translations.py:566
+msgid "Unreal Tournament 2004 Admin"
+msgstr "虚幻竞技场2004管理"
+
+#: ../DEV_extra_translations/extra_translations.py:567
+msgid "Web-based administration for the FPS by Epic Games"
+msgstr "Epic Games开发的为FPS的基于Web的管理"
+
+#: ../DEV_extra_translations/extra_translations.py:93
+msgid "Kingpin: Life of Crime"
+msgstr "《黑街太保》"
+
+#: ../DEV_extra_translations/extra_translations.py:94
+msgid "A FPS by Xatrix Entertainment"
+msgstr "一款由Xatrix Entertainment制作的第一人称射击游戏"
+
+#: ../DEV_extra_translations/extra_translations.py:502
+msgid "Delta Force"
+msgstr "《三角洲特种部队》"
+
+#: ../DEV_extra_translations/extra_translations.py:821
+msgid "PLEX"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:822
+msgid "Plex Media Server (Main port)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:823
+msgid "PLEX DLNA"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:824
+msgid "Access to the Plex DLNA Server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:825
+msgid "PLEX Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:826
+msgid "Controlling Plex Home Theater via Plex Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:827
+msgid "PLEX Avahi discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:828
+msgid "Older Bonjour/Avahi network discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:829
+msgid "PLEX Roku"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:830
+msgid "Controlling Plex for Roku via Plex Companion"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:831
+msgid "PLEX GDM"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:832
+msgid "GDM network discovery"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:833
+msgid "PLEX DLNA Server (Other port)"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:834
+msgid "Another port for Plex DLNA Server"
+msgstr ""
+
+#: ../DEV_extra_translations/extra_translations.py:148
+msgid "EDuke32"
+msgstr "EDuke32"
+
+#: ../DEV_extra_translations/extra_translations.py:149
+msgid "An enhanced version of Duke Nukem 3D"
+msgstr "Duke Nukem 3D的增强版"
+
+#: ../DEV_extra_translations/extra_translations.py:167
+msgid "VLC HTTP stream"
+msgstr "VLC HTTP stream"
+
+#: ../DEV_extra_translations/extra_translations.py:168
+msgid "VLC media player HTTP stream default port"
+msgstr "VLC媒体播放器HTTP stream默认端口"
+
+#: ../DEV_extra_translations/extra_translations.py:169
+msgid "Audio Video;"
+msgstr "音频视频"
+
+#: ../DEV_extra_translations/extra_translations.py:170
+msgid "VLC MMS HTTP stream"
+msgstr "VLC MMS HTTP stream"
+
+#: ../DEV_extra_translations/extra_translations.py:171
+msgid ""
+"VLC media player Microsoft Media Server stream over HTTP (Windows Media HTTP "
+"Streaming Protocol/MS-WMSP) default port"
+msgstr "接在HTTP默认端口上的VLC媒体播放器微软媒体服务器stream"
+
+#: ../DEV_extra_translations/extra_translations.py:172
+msgid "VLC RTP stream"
+msgstr "VLC RTP stream"
+
+#: ../DEV_extra_translations/extra_translations.py:173
+msgid "VLC media player Real-time Transport Protocol default port"
+msgstr "VLC媒体播放器实时传输协议默认端口"
+
+#: ../DEV_extra_translations/extra_translations.py:174
+msgid "VLC UDP stream"
+msgstr "VLC UDP stream"
+
+#: ../DEV_extra_translations/extra_translations.py:175
+msgid "VLC media player User Datagram Protocol default port"
+msgstr "VLC媒体播放器用户数据报协议默认端口"
+
+#: ../DEV_extra_translations/extra_translations.py:177
+msgid "VLC media player Icecast stream default port"
+msgstr "VLC媒体播放器Icecast stream默认端口"
+
+#: ../DEV_extra_translations/extra_translations.py:35
+msgid "Kerberos v5 KDC"
+msgstr "Kerberos v5 KDC"
+
+#: ../DEV_extra_translations/extra_translations.py:36
+msgid "Kerberos v5 KDC server"
+msgstr "Kerberos v5 KDC服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:38
+msgid "Kerberos v5 admin"
+msgstr "Kerberos v5管理"
+
+#: ../DEV_extra_translations/extra_translations.py:39
+#: ../DEV_extra_translations/extra_translations.py:43
+msgid "Kerberos v5 server"
+msgstr "Kerberos v5服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:40
+#: ../DEV_extra_translations/extra_translations.py:41
+msgid "Kerberos v5 password"
+msgstr "Kerberos v5密码"
+
+#: ../DEV_extra_translations/extra_translations.py:42
+msgid "Kerberos v5 Full"
+msgstr "Kerberos v5完整"
+
+#: ../DEV_extra_translations/extra_translations.py:44
+msgid "LDAP"
+msgstr "LDAP"
+
+#: ../DEV_extra_translations/extra_translations.py:45
+msgid "LDAP server"
+msgstr "LDAP服务器"
+
+#: ../DEV_extra_translations/extra_translations.py:46
+msgid "LDAPS"
+msgstr "LDAPS"
+
+#: ../DEV_extra_translations/extra_translations.py:47
+msgid "LDAP server (LDAPS)"
+msgstr "LDAP服务器（LDAPS）"
+
+#: ../DEV_extra_translations/extra_translations.py:841
+msgid "Authentication is required to run the Firewall Configuration"
+msgstr "运行防火墙配置需要进行认证"
+
+#: ../data/ui/update.ui.h:1
+msgid "Update a Firewall Rule"
+msgstr "更新一个防火墙规则"
+
+#: ../data/ui/update.ui.h:2 ../data/ui/add.ui.h:9
+msgid "Policy:"
+msgstr "政策："
+
+#: ../data/ui/update.ui.h:3 ../data/ui/add.ui.h:10
+msgid "Direction:"
+msgstr "方向："
+
+#: ../data/ui/update.ui.h:4 ../data/ui/add.ui.h:26
+msgid "Log:"
+msgstr "日志："
+
+#: ../data/ui/update.ui.h:5 ../data/ui/add.ui.h:17
+msgid "Protocol:"
+msgstr "协议："
+
+#: ../data/ui/update.ui.h:6 ../data/ui/add.ui.h:2 ../data/ui/gufw.ui.h:26
+msgid "Allow"
+msgstr "允许"
+
+#: ../data/ui/update.ui.h:7 ../data/ui/add.ui.h:3 ../data/ui/gufw.ui.h:27
+msgid "Deny"
+msgstr "否认"
+
+#: ../data/ui/update.ui.h:8 ../data/ui/add.ui.h:4 ../data/ui/gufw.ui.h:28
+msgid "Reject"
+msgstr "拒绝"
+
+#: ../data/ui/update.ui.h:9 ../data/ui/add.ui.h:5
+msgid "Limit"
+msgstr "限制"
+
+#: ../data/ui/update.ui.h:10 ../data/ui/add.ui.h:6
+msgid "In"
+msgstr "进入"
+
+#: ../data/ui/update.ui.h:11 ../data/ui/add.ui.h:7
+msgid "Out"
+msgstr "出来"
+
+#: ../data/ui/update.ui.h:12 ../data/ui/add.ui.h:27
+msgid "Do not Log"
+msgstr "不要记录"
+
+#: ../data/ui/update.ui.h:13 ../data/ui/add.ui.h:28
+#: ../gufw/gufw/view/gufw.py:196
+msgid "Log"
+msgstr "记录"
+
+#: ../data/ui/update.ui.h:14 ../data/ui/add.ui.h:29
+msgid "Log All"
+msgstr "记录所有"
+
+#: ../data/ui/update.ui.h:15 ../data/ui/add.ui.h:8
+msgid "Both"
+msgstr "二者都"
+
+#: ../data/ui/update.ui.h:16 ../data/ui/add.ui.h:18
+msgid "TCP"
+msgstr "TCP"
+
+#: ../data/ui/update.ui.h:17 ../data/ui/add.ui.h:19
+msgid "UDP"
+msgstr "UDP"
+
+#: ../data/ui/update.ui.h:18 ../data/ui/add.ui.h:30
+msgid "From:"
+msgstr "从："
+
+#: ../data/ui/update.ui.h:19 ../data/ui/add.ui.h:31
+msgid "To:"
+msgstr "至："
+
+#: ../data/ui/update.ui.h:20 ../data/ui/add.ui.h:32
+msgid "IP"
+msgstr "IP"
+
+#: ../data/ui/update.ui.h:21 ../data/ui/add.ui.h:33
+msgid "Paste your current local IP"
+msgstr "粘贴你当前的本地IP"
+
+#: ../data/ui/update.ui.h:22 ../data/ui/add.ui.h:34
+msgid "You can write a port as '22' or a port range as '22:24'"
+msgstr "你可以写一个端口为“22”或一个端口范围为'22：24'"
+
+#: ../data/ui/update.ui.h:23 ../data/ui/add.ui.h:35
+#: ../gufw/gufw/view/gufw.py:260
+msgid "Port"
+msgstr "端口"
+
+#: ../data/ui/update.ui.h:24 ../data/ui/add.ui.h:36
+msgid ""
+"You can write a port as '22' or a port range as '22:24'.\n"
+"If you're editing a Preconfigured or Simple rule, Interface field must be "
+"'All Interfaces' and the IPs and From Port fields must be empty."
+msgstr ""
+"你可以写一个端口为“22”或一个端口范围为'22：24'。\n"
+" 如果你正在编辑一个预配置或简单的规则，接口字段必须是“所有的接口”，并且IP地址和从端口字段必须为空。"
+
+#: ../data/ui/update.ui.h:26 ../data/ui/add.ui.h:21
+msgid "Name:"
+msgstr "名称："
+
+#: ../data/ui/update.ui.h:27 ../data/ui/add.ui.h:22
+msgid "Rule Description"
+msgstr "规则说明"
+
+#: ../data/ui/update.ui.h:28 ../data/ui/add.ui.h:39
+msgid "Interface:"
+msgstr "接口："
+
+#: ../data/ui/update.ui.h:29 ../data/ui/add.ui.h:42
+#: ../gufw/gufw/view/update.py:77
+msgid "You need to set an Interface"
+msgstr ""
+
+#. Sort translation, please!
+#: ../data/ui/update.ui.h:31
+msgid "The rule will be moved to the end of the list"
+msgstr "该规则将被移到列表的末尾"
+
+#: ../data/ui/preferences.ui.h:1
+msgid "Firewall Preferences"
+msgstr "防火墙参数设置"
+
+#: ../data/ui/preferences.ui.h:2
+msgid "_Logging:"
+msgstr "_记录中："
+
+#: ../data/ui/preferences.ui.h:3
+msgid "Off"
+msgstr "关闭"
+
+#: ../data/ui/preferences.ui.h:4
+msgid "Low"
+msgstr "低"
+
+#: ../data/ui/preferences.ui.h:5
+msgid "Medium"
+msgstr "中"
+
+#: ../data/ui/preferences.ui.h:6
+msgid "High"
+msgstr "高"
+
+#: ../data/ui/preferences.ui.h:7
+msgid "Full"
+msgstr "满的"
+
+#: ../data/ui/preferences.ui.h:8
+msgid "<b>ufw</b>"
+msgstr "<b>ufw</b>"
+
+#: ../data/ui/preferences.ui.h:9
+msgid "Lo_gging Gufw activity"
+msgstr "Lo_gging Gufw活动"
+
+#: ../data/ui/preferences.ui.h:10
+msgid "Show confirm dialog for deleting rules"
+msgstr "显示删除规则的确认对话框"
+
+#: ../data/ui/preferences.ui.h:11
+msgid "<b>Gufw</b>"
+msgstr "<b>Gufw</b>"
+
+#: ../data/ui/preferences.ui.h:12
+msgid "Refresh Interval:"
+msgstr "刷新间隔："
+
+#: ../data/ui/preferences.ui.h:13
+msgid ""
+"Less seconds uses more CPU\n"
+"This interval will apply the next time you expand the Listening Report"
+msgstr "更少秒用更多的CPU 这个时间间隔将在下一次你展开监听报告时应用"
+
+#: ../data/ui/preferences.ui.h:15
+msgid "<b>Listening Report</b>"
+msgstr "<b>监听报告</b>"
+
+#: ../data/ui/preferences.ui.h:16
+msgid "Add a profile"
+msgstr "添加一个配置文件"
+
+#: ../data/ui/preferences.ui.h:17 ../data/ui/gufw.ui.h:32
+msgid "Add"
+msgstr "添加"
+
+#: ../data/ui/preferences.ui.h:18
+msgid "Remove the selected profile"
+msgstr "移除所选的配置文件"
+
+#: ../data/ui/preferences.ui.h:19 ../data/ui/gufw.ui.h:34
+msgid "Remove"
+msgstr "移除"
+
+#: ../data/ui/preferences.ui.h:20
+msgid "<b>Profiles</b>"
+msgstr "<b>配置文件</b>"
+
+#: ../data/ui/add.ui.h:1
+msgid "Add a Firewall Rule"
+msgstr "添加一个防火墙规则"
+
+#: ../data/ui/add.ui.h:11
+msgid "Category:"
+msgstr "类别："
+
+#: ../data/ui/add.ui.h:12
+msgid "Subcategory:"
+msgstr "子类别："
+
+#: ../data/ui/add.ui.h:13
+msgid "Application:"
+msgstr "应用程序："
+
+#: ../data/ui/add.ui.h:14
+msgid "Application Filter"
+msgstr ""
+
+#: ../data/ui/add.ui.h:15
+msgid "Copy app values and jump to Advanced Tab"
+msgstr "复制应用价值并跳转到高级选项卡"
+
+#: ../data/ui/add.ui.h:16
+msgid "Preconfigured"
+msgstr "预配置的"
+
+#: ../data/ui/add.ui.h:20
+msgid "Port:"
+msgstr "端口："
+
+#: ../data/ui/add.ui.h:23
+msgid ""
+"You can write a port as '22', a port range as '22:24' or a service as 'http'"
+msgstr "你可以写一个端口为“22”，一个端口范围为'22：24'或一个服务为“http”"
+
+#: ../data/ui/add.ui.h:24
+msgid "Port or service"
+msgstr "端口或服务"
+
+#: ../data/ui/add.ui.h:25
+msgid "Simple"
+msgstr "简单"
+
+#: ../data/ui/add.ui.h:38
+msgid "Insert:"
+msgstr "插入："
+
+#: ../data/ui/add.ui.h:40
+msgid "Rule number to insert"
+msgstr "要插入的规则数量"
+
+#: ../data/ui/add.ui.h:41
+msgid "At the end"
+msgstr ""
+
+#: ../data/ui/add.ui.h:43
+msgid "Advanced"
+msgstr "高级"
+
+#: ../data/ui/gufw.ui.h:1
+msgid "Firewall"
+msgstr "防火墙"
+
+#: ../data/ui/gufw.ui.h:2
+msgid "_File"
+msgstr "文件(_F)"
+
+#: ../data/ui/gufw.ui.h:3
+msgid "_Import profile"
+msgstr "_导入配置文件"
+
+#: ../data/ui/gufw.ui.h:4
+msgid "_Export this profile"
+msgstr "_导出这个配置文件"
+
+#: ../data/ui/gufw.ui.h:5
+msgid "Only the rules added from Gufw will be exported (not ufw rules)"
+msgstr "仅从Gufw添加的规则将被导出（不是ufw规则）"
+
+#: ../data/ui/gufw.ui.h:6
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+#: ../data/ui/gufw.ui.h:7
+msgid "_Reset Current Profile"
+msgstr "_重置当前配置文件"
+
+#: ../data/ui/gufw.ui.h:8
+msgid "_Help"
+msgstr "帮助(_H)"
+
+#: ../data/ui/gufw.ui.h:9
+msgid "_Documentation..."
+msgstr "_文档..."
+
+#: ../data/ui/gufw.ui.h:10
+msgid "Go to the official documentation"
+msgstr "去官方文档"
+
+#: ../data/ui/gufw.ui.h:11
+msgid "Get Help _Online..."
+msgstr "获得帮助_在线..."
+
+#: ../data/ui/gufw.ui.h:12
+msgid "Go to the official answers"
+msgstr "去官方答案"
+
+#: ../data/ui/gufw.ui.h:13
+msgid "_Report a Problem..."
+msgstr "_报告一个问题..."
+
+#: ../data/ui/gufw.ui.h:14
+msgid "_Translate this Application..."
+msgstr "_翻译此应用程序..."
+
+#: ../data/ui/gufw.ui.h:15
+msgid "_Follow"
+msgstr "_关注"
+
+#: ../data/ui/gufw.ui.h:16
+msgid "_Google +"
+msgstr "_谷歌 +"
+
+#: ../data/ui/gufw.ui.h:17
+msgid "Google+ Community"
+msgstr "谷歌+社区"
+
+#: ../data/ui/gufw.ui.h:18
+msgid "Google+ _Community"
+msgstr "谷歌+ _社区"
+
+#: ../data/ui/gufw.ui.h:19
+msgid "_Twitter"
+msgstr "_推特"
+
+#: ../data/ui/gufw.ui.h:20
+msgid "Thanks in advance!!"
+msgstr "提前致谢！！"
+
+#: ../data/ui/gufw.ui.h:21
+msgid "_Donate..."
+msgstr "_捐赠..."
+
+#: ../data/ui/gufw.ui.h:22
+msgid "_Profile:"
+msgstr "_配置文件："
+
+#: ../data/ui/gufw.ui.h:23
+msgid "S_tatus:"
+msgstr "状态："
+
+#: ../data/ui/gufw.ui.h:24
+msgid "_Incoming:"
+msgstr "_传入："
+
+#: ../data/ui/gufw.ui.h:25
+msgid "_Outgoing:"
+msgstr "_传出:"
+
+#: ../data/ui/gufw.ui.h:29
+msgid "_Routed:"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:30
+msgid "<b>Firewall</b>"
+msgstr "<b>防火墙</b>"
+
+#: ../data/ui/gufw.ui.h:31
+msgid "Add a rule..."
+msgstr "添加一条规则..."
+
+#: ../data/ui/gufw.ui.h:33
+msgid "Remove the selected rule(s)"
+msgstr "移除选中的规则"
+
+#: ../data/ui/gufw.ui.h:35
+msgid "Edit the selected rule"
+msgstr "编辑选中的规则"
+
+#: ../data/ui/gufw.ui.h:36
+msgid "Pause Listening Report"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:37
+msgid "Pause"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:38
+msgid "See current Listening Report"
+msgstr ""
+
+#: ../data/ui/gufw.ui.h:36
+msgid "Create a rule from the listening report..."
+msgstr "从监听报告创建一个规则..."
+
+#: ../data/ui/gufw.ui.h:37
+msgid "Copy log to clipboard"
+msgstr "复制日志到剪贴板"
+
+#: ../data/ui/gufw.ui.h:38
+msgid "Remove log"
+msgstr "移除日志"
+
+#: ../data/ui/about.ui.h:1
+msgid "About Gufw Firewall"
+msgstr "关于Gufw防火墙"
+
+#: ../data/ui/about.ui.h:2
+msgid ""
+"An uncomplicated way to manage your firewall, powered by ufw.\n"
+"Easy, simple, nice and useful!"
+msgstr ""
+"管理你的防火墙的一个简单的方法，由ufw发动。\n"
+" 方便，简单，美观，实用！"
+
+#: ../data/ui/about.ui.h:4
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Angel https://launchpad.net/~g396654565\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Dick Chen https://launchpad.net/~xaojan\n"
+"  Feng Chao https://launchpad.net/~chaofeng\n"
+"  Jim Chen https://launchpad.net/~knh-jabbany\n"
+"  Luo Lei https://launchpad.net/~luolei\n"
+"  Mo https://launchpad.net/~alim0x\n"
+"  Tao Wei https://launchpad.net/~weitao1979\n"
+"  Tolbkni Kao https://launchpad.net/~tolbkni\n"
+"  Wang Dianjin https://launchpad.net/~tuhaihe\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  c2091986 https://launchpad.net/~zhangyilin101\n"
+"  costales https://launchpad.net/~costales\n"
+"  cthbleachbit https://launchpad.net/~cth451\n"
+"  williamjoy https://launchpad.net/~williamjoy\n"
+"  zhanshime https://launchpad.net/~zhanshime\n"
+"  艾辛克 https://launchpad.net/~anywnztj"
+
+#: ../gufw/gufw/instance.py:64
+msgid "Please, just one Gufw's instance"
+msgstr ""
+
+#: ../gufw/gufw/instance.py:65
+msgid "Gufw is already running. If this is wrong, remove the file: "
+msgstr ""
+
+#: ../gufw/gufw/model/firewall.py:61
+msgid "Deleting previous rules: "
+msgstr "删除以前的规则： "
+
+#: ../gufw/gufw/model/firewall.py:86
+msgid "Appending new rules: "
+msgstr "追加新的规则 "
+
+#: ../gufw/gufw/model/firewall.py:266 ../gufw/gufw/model/firewall.py:286
+#: ../gufw/gufw/model/firewall.py:287 ../gufw/gufw/model/firewall.py:302
+#: ../gufw/gufw/model/firewall.py:303 ../gufw/gufw/model/firewall.py:304
+#: ../gufw/gufw/model/firewall.py:306
+msgid "Home"
+msgstr "主页"
+
+#. Filename without path and extension
+#. First run
+#: ../gufw/gufw/model/firewall.py:284 ../gufw/gufw/model/firewall.py:312
+#: ../gufw/gufw/model/firewall.py:313 ../gufw/gufw/model/firewall.py:314
+#: ../gufw/gufw/model/firewall.py:316
+msgid "Public"
+msgstr "公共的"
+
+#: ../gufw/gufw/model/firewall.py:285 ../gufw/gufw/model/firewall.py:307
+#: ../gufw/gufw/model/firewall.py:308 ../gufw/gufw/model/firewall.py:309
+#: ../gufw/gufw/model/firewall.py:311
+msgid "Office"
+msgstr "办公室"
+
+#: ../gufw/gufw/model/firewall.py:304 ../gufw/gufw/model/firewall.py:309
+#: ../gufw/gufw/model/firewall.py:314
+msgid "Renamed profile: "
+msgstr "重新命名的配置文件： "
+
+#: ../gufw/gufw/view/add.py:99 ../gufw/gufw/view/add.py:349
+#: ../gufw/gufw/view/add.py:460 ../gufw/gufw/view/update.py:75
+#: ../gufw/gufw/view/update.py:101 ../gufw/gufw/view/update.py:186
+#: ../gufw/gufw/view/update.py:215
+msgid "All Interfaces"
+msgstr "所有接口"
+
+#: ../gufw/gufw/view/add.py:100 ../gufw/gufw/view/add.py:359
+#: ../gufw/gufw/view/add.py:464 ../gufw/gufw/view/update.py:102
+#: ../gufw/gufw/view/update.py:196 ../gufw/gufw/view/update.py:219
+msgid "Not Forward"
+msgstr ""
+
+#. Append new apps
+#: ../gufw/gufw/view/add.py:139 ../gufw/gufw/view/add.py:268
+#: ../gufw/gufw/view/add.py:538 ../gufw/gufw/view/add.py:545
+#: ../gufw/gufw/view/add.py:553 ../gufw/gufw/view/add.py:567
+#: ../gufw/gufw/view/add.py:569 ../gufw/gufw/view/add.py:571
+msgid "All"
+msgstr "所有"
+
+#: ../gufw/gufw/view/add.py:153 ../gufw/gufw/view/add.py:366
+msgid "Ports: "
+msgstr "端口： "
+
+#: ../gufw/gufw/view/add.py:195 ../gufw/gufw/view/add.py:204
+#: ../gufw/gufw/view/update.py:134
+msgid "Choose a TCP or UDP Protocol with a range of ports"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:351 ../gufw/gufw/view/update.py:188
+msgid "The IP/Port will be forward to this interface"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:354 ../gufw/gufw/view/update.py:191
+msgid "You need to set an Interface for forwarding to this another interface"
+msgstr ""
+
+#: ../gufw/gufw/view/add.py:376
+msgid "Error: Firewall is disabled"
+msgstr "错误：防火墙被禁用"
+
+#: ../gufw/gufw/view/add.py:376
+msgid "The firewall has to be enabled first"
+msgstr "防火墙必须首先启用"
+
+#: ../gufw/gufw/view/add.py:406 ../gufw/gufw/view/gufw.py:569
+msgid "Error running: "
+msgstr "运行错误： "
+
+#: ../gufw/gufw/view/add.py:410
+msgid "Rule(s) added"
+msgstr "规则添加"
+
+#: ../gufw/gufw/view/add.py:413
+msgid "Warning: Some rules added. Review the log"
+msgstr "警告：有些规则添加。查看日志"
+
+#: ../gufw/gufw/view/add.py:416
+msgid "Error: No rules added. Review the log"
+msgstr "错误：没有规则添加。查看日志"
+
+#: ../gufw/gufw/view/add.py:432
+msgid "Insert Port"
+msgstr "插入端口"
+
+#: ../gufw/gufw/view/add.py:432
+msgid "You need to insert a port in the port field"
+msgstr "你需要在端口段插入一个端口"
+
+#: ../gufw/gufw/view/add.py:436
+msgid "Edward Snowden's Greatest Fear"
+msgstr "爱德华·斯诺登最大的恐惧"
+
+#: ../gufw/gufw/view/add.py:436
+msgid "\"Nothing Will Change\""
+msgstr "\"什么都不会改变\""
+
+#: ../gufw/gufw/view/preferences.py:82 ../gufw/gufw/view/preferences.py:127
+msgid "Profile"
+msgstr "配置文件"
+
+#: ../gufw/gufw/view/preferences.py:91 ../gufw/gufw/view/preferences.py:95
+#: ../gufw/gufw/view/preferences.py:99 ../gufw/gufw/view/preferences.py:103
+msgid "Profile not valid"
+msgstr "配置文件无效"
+
+#: ../gufw/gufw/view/preferences.py:91
+msgid "You can't use this profile name"
+msgstr "你不能使用这个配置文件名称"
+
+#: ../gufw/gufw/view/preferences.py:95
+msgid "Enter at least one character"
+msgstr "至少输入一个字符"
+
+#: ../gufw/gufw/view/preferences.py:99
+msgid "Too long! (max. 15 characters)"
+msgstr "太长了！（最多15个字符）"
+
+#: ../gufw/gufw/view/preferences.py:103
+msgid "Use only letters, numbers, dashes and underscores"
+msgstr "只能使用字母，数字，连字符和下划线"
+
+#: ../gufw/gufw/view/preferences.py:108
+msgid "Profile exist"
+msgstr "配置文件存在"
+
+#: ../gufw/gufw/view/preferences.py:108
+msgid "There is a profile with the same name"
+msgstr "存在一个具有相同名称的配置文件"
+
+#: ../gufw/gufw/view/preferences.py:113
+msgid "Current profile"
+msgstr "当前配置文件"
+
+#: ../gufw/gufw/view/preferences.py:113
+msgid "You can't rename the current profile"
+msgstr "你不能重新命名当前配置文件"
+
+#: ../gufw/gufw/view/preferences.py:120
+msgid "Edited Profile: "
+msgstr "被编辑的配置文件： "
+
+#: ../gufw/gufw/view/preferences.py:138
+msgid "Created Profile: "
+msgstr "被创建的配置文件： "
+
+#: ../gufw/gufw/view/preferences.py:143
+msgid "Select a profile"
+msgstr "选择一个配置文件"
+
+#: ../gufw/gufw/view/preferences.py:143
+msgid "You need to select a profile for deleting"
+msgstr "您需要选择删除一个配置文件"
+
+#: ../gufw/gufw/view/preferences.py:147
+msgid "Profile not erasable"
+msgstr "配置文件不可消除"
+
+#: ../gufw/gufw/view/preferences.py:147
+msgid "You can't remove the current profile"
+msgstr "你不能移除当前配置文件"
+
+#: ../gufw/gufw/view/preferences.py:152
+msgid "Deleted Profile: "
+msgstr "被删除的配置文件： "
+
+#: ../gufw/gufw/view/preferences.py:156
+msgid "ufw Logging: "
+msgstr "ufw记录中： "
+
+#: ../gufw/gufw/view/preferences.py:161
+msgid "Gufw Logging: Enabled"
+msgstr "Gufw记录中: 启用"
+
+#: ../gufw/gufw/view/preferences.py:163
+msgid "Gufw Logging: Disabled"
+msgstr "Gufw记录中: 禁用"
+
+#: ../gufw/gufw/view/preferences.py:169
+msgid "Confirm Delete Dialog: Enabled"
+msgstr "确认删除对话框：启用"
+
+#: ../gufw/gufw/view/preferences.py:172
+msgid "Confirm Delete Dialog: Disabled"
+msgstr "确认删除对话框：禁用"
+
+#: ../gufw/gufw/view/preferences.py:183
+msgid "Refresh Interval: "
+msgstr "刷新间隔： "
+
+#: ../gufw/gufw/view/gufw.py:125 ../gufw/gufw/view/gufw.py:180
+#: ../gufw/gufw/view/gufw.py:302
+msgid "Getting started"
+msgstr "入门"
+
+#: ../gufw/gufw/view/gufw.py:186
+msgid "Rules"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:191
+msgid "Report"
+msgstr ""
+
+#. Rules
+#. Listening Report
+#: ../gufw/gufw/view/gufw.py:233 ../gufw/gufw/view/gufw.py:250
+msgid "Nº"
+msgstr "Nº"
+
+#: ../gufw/gufw/view/gufw.py:238
+msgid "Rule"
+msgstr "规则"
+
+#: ../gufw/gufw/view/gufw.py:243
+msgid "Name"
+msgstr "名称"
+
+#: ../gufw/gufw/view/gufw.py:255
+msgid "Protocol"
+msgstr "协议"
+
+#: ../gufw/gufw/view/gufw.py:265
+msgid "Address"
+msgstr "地址"
+
+#: ../gufw/gufw/view/gufw.py:270
+msgid "Application"
+msgstr "应用程序"
+
+#: ../gufw/gufw/view/gufw.py:303
+msgid ""
+"An uncomplicated way to manage your firewall, powered by ufw. Easy, simple, "
+"nice and useful! :)"
+msgstr "管理你的防火墙的一个简单的方法，由ufw发动。方便，简单，美观，实用！:)"
+
+#: ../gufw/gufw/view/gufw.py:304
+msgid "Basic"
+msgstr "基本的"
+
+#: ../gufw/gufw/view/gufw.py:305
+msgid "FAQ"
+msgstr "常见问题"
+
+#: ../gufw/gufw/view/gufw.py:306
+msgid ""
+"If you are a normal user, you will be safe with this setting (Status=On, "
+"Incoming=Deny, Outgoing=Allow). Remember to append allow rules for your P2P "
+"apps:"
+msgstr "如果你是普通用户，用此设置你会很安全（状态=开启，传入=拒绝，传出=允许）。记得为你的P2P应用程序追加允许规则："
+
+#: ../gufw/gufw/view/gufw.py:307
+msgid "You can rename your profiles with just 2 clicks on them:"
+msgstr "你可以重命名你的配置文件，只需点击它们两下："
+
+#: ../gufw/gufw/view/gufw.py:308
+msgid "The Rule Name will help you to identify your rules in the future:"
+msgstr "规则名称将帮你确定你未来的规则："
+
+#: ../gufw/gufw/view/gufw.py:309
+msgid "How to autostart Gufw with the system?"
+msgstr "如何用系统自动启动Gufw？"
+
+#: ../gufw/gufw/view/gufw.py:310
+msgid ""
+"You do not need it. After you do all of the changes in Gufw, the settings "
+"are still in place until the next changes."
+msgstr "你并不需要它。当你在Gufw中做了所有的变化后，设置仍然在适当的位置，直到下一次改变。"
+
+#: ../gufw/gufw/view/gufw.py:311
+msgid "Why is Gufw disabled by default?"
+msgstr "为什么Gufw默认禁用？"
+
+#: ../gufw/gufw/view/gufw.py:312
+msgid "By default, the firewall does not open ports to the outside world."
+msgstr "默认情况下，防火墙不打开通向外部世界的端口。"
+
+#: ../gufw/gufw/view/gufw.py:313
+msgid "Some rules are added by themselves?"
+msgstr "有些规则是它们自己添加的？"
+
+#: ../gufw/gufw/view/gufw.py:314
+msgid ""
+"Well, the behaviour is such that when you change or import a profile, or "
+"when you edit a rule, Gufw will add that rule again, then ufw re-adds that "
+"rule for IPv4 and IPv6."
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:315
+msgid "What is Allow, Deny, Reject and Limit?"
+msgstr "什么是允许，否认，拒绝和限制？"
+
+#: ../gufw/gufw/view/gufw.py:316
+msgid "Allow: Will allow traffic."
+msgstr "允许：将允许流量。"
+
+#: ../gufw/gufw/view/gufw.py:317
+msgid "Deny: Will deny traffic."
+msgstr "否认：会否认流量。"
+
+#: ../gufw/gufw/view/gufw.py:318
+msgid "Reject: Will deny traffic and will inform that it has been rejected."
+msgstr "拒绝：将否认流量，并通知其已被拒绝。"
+
+#: ../gufw/gufw/view/gufw.py:319
+msgid "Limit: Will deny traffic if an IP tried several connections."
+msgstr "限制：会否认流量，如果一个IP尝试几个连接的话。"
+
+#: ../gufw/gufw/view/gufw.py:320
+msgid "I see some rules in all profiles"
+msgstr "我在所有配置文件里看到一些规则"
+
+#: ../gufw/gufw/view/gufw.py:321
+msgid "All the ufw rules will be appear in all profiles."
+msgstr "所有的ufw规则将在所有配置文件里出现。"
+
+#: ../gufw/gufw/view/gufw.py:322
+msgid "What do I see in the Listening Report?"
+msgstr "我在监听报告里看到了什么？"
+
+#: ../gufw/gufw/view/gufw.py:323
+msgid ""
+"The ports on the live system in the listening state for TCP and the open "
+"state for UDP."
+msgstr "TCP的处于监听状态的和UDP的处于打开状态的实时系统上的端口。"
+
+#: ../gufw/gufw/view/gufw.py:324
+msgid "I want even more!"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:325
+msgid "You'll find more information in the community documentation :)"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:334 ../gufw/gufw/view/gufw.py:338
+#: ../gufw/gufw/view/gufw.py:341
+msgid "Visit this web (please, copy & paste in your browser):"
+msgstr "访问这个网站（请在你的浏览器中复制与粘贴）："
+
+#: ../gufw/gufw/view/gufw.py:349
+msgid "Import Profile"
+msgstr "导入配置文件"
+
+#: ../gufw/gufw/view/gufw.py:355
+msgid "Import cancelled"
+msgstr "导入已取消"
+
+#: ../gufw/gufw/view/gufw.py:359 ../gufw/gufw/view/gufw.py:363
+msgid "Error"
+msgstr "错误"
+
+#: ../gufw/gufw/view/gufw.py:359
+msgid ""
+"Filename has wrong permissions (not 600). Trust only on your exported "
+"profiles"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:363
+msgid ""
+"Filename has not valid characters. Rename the file\n"
+"to only letters, numbers, dashes and underscores"
+msgstr ""
+"文件名有无效字符。重命名文件\n"
+" 只有字母，数字，连字符和下划线"
+
+#: ../gufw/gufw/view/gufw.py:367
+msgid "Operation cancelled"
+msgstr "操作已取消"
+
+#: ../gufw/gufw/view/gufw.py:368
+msgid "Profile already exists"
+msgstr "配置文件已经存在"
+
+#: ../gufw/gufw/view/gufw.py:368
+msgid ""
+"Delete it before from the Preferences Window or rename the file (the profile "
+"will be the filename)"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:372
+msgid "Profile imported: "
+msgstr "配置文件导入： "
+
+#: ../gufw/gufw/view/gufw.py:373
+msgid "Profile imported, now you can choose it in the profiles"
+msgstr "配置文件导入，现在你可以在配置文件中选择它"
+
+#: ../gufw/gufw/view/gufw.py:376
+msgid "Export Profile"
+msgstr "导出配置文件"
+
+#: ../gufw/gufw/view/gufw.py:379
+msgid "Export cancelled"
+msgstr "导出已取消"
+
+#: ../gufw/gufw/view/gufw.py:386
+msgid "Profile exported: "
+msgstr "配置文件导出： "
+
+#: ../gufw/gufw/view/gufw.py:387
+msgid "Profile exported"
+msgstr "配置文件导出"
+
+#: ../gufw/gufw/view/gufw.py:411
+msgid "Reset Firewall"
+msgstr "重置防火墙"
+
+#: ../gufw/gufw/view/gufw.py:411
+msgid ""
+"This will remove all rules in the current\n"
+"profile and disable the firewall"
+msgstr "这将移除当前配置文件中的所有规则并禁用防火墙"
+
+#: ../gufw/gufw/view/gufw.py:411 ../gufw/gufw/view/gufw.py:555
+msgid "Do you want to continue?"
+msgstr "你想继续吗？"
+
+#: ../gufw/gufw/view/gufw.py:416
+msgid "Removed rules and reset firewall!"
+msgstr "移除所有规则并重置防火墙！"
+
+#: ../gufw/gufw/view/gufw.py:421
+msgid "Gufw Log: Removed"
+msgstr "Gufw日志：移除"
+
+#: ../gufw/gufw/view/gufw.py:422
+msgid "Gufw Log removed"
+msgstr "Gufw日志被移除"
+
+#: ../gufw/gufw/view/gufw.py:427
+msgid "Text copied to clipboard"
+msgstr "文本被复制到剪贴板"
+
+#: ../gufw/gufw/view/gufw.py:468
+msgid "Incoming: "
+msgstr "传入： "
+
+#: ../gufw/gufw/view/gufw.py:469
+msgid "Incoming policy changed"
+msgstr "传入政策被改变"
+
+#: ../gufw/gufw/view/gufw.py:471
+msgid "There was an error changing the incoming policy"
+msgstr "改变传入政策上有一个错误"
+
+#: ../gufw/gufw/view/gufw.py:471 ../gufw/gufw/view/gufw.py:479
+#: ../gufw/gufw/view/gufw.py:490
+msgid ""
+"Restart your firewall to refresh to the real status\n"
+"and please report this bug"
+msgstr "重新启动防火墙刷新到真实状态，并请报告这个bug"
+
+#: ../gufw/gufw/view/gufw.py:476
+msgid "Outgoing: "
+msgstr "传出： "
+
+#: ../gufw/gufw/view/gufw.py:477
+msgid "Outgoing policy changed"
+msgstr "传出政策被改变"
+
+#: ../gufw/gufw/view/gufw.py:479
+msgid "There was an error changing the outgoing policy"
+msgstr "改变传出政策上有一个错误"
+
+#: ../gufw/gufw/view/gufw.py:487
+msgid "Routed: "
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:488
+msgid "Routed policy changed"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:490
+msgid "There was an error changing the routed policy"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:511 ../gufw/gufw/view/gufw.py:590
+msgid "Select just one row"
+msgstr "只选择一行"
+
+#: ../gufw/gufw/view/gufw.py:511
+msgid "You can create a rule from just one row selected"
+msgstr "你可以只从被选择的一行里创建一个规则"
+
+#: ../gufw/gufw/view/gufw.py:525
+msgid "Status: Enabled"
+msgstr "状态：已启用"
+
+#: ../gufw/gufw/view/gufw.py:526
+msgid "Firewall enabled"
+msgstr "防火墙启用"
+
+#: ../gufw/gufw/view/gufw.py:528
+msgid "Status: Disabled"
+msgstr "状态：已禁用"
+
+#: ../gufw/gufw/view/gufw.py:529
+msgid "Firewall disabled"
+msgstr "防火墙禁用"
+
+#: ../gufw/gufw/view/gufw.py:540
+msgid "There was an error changing the firewall status"
+msgstr "改变防火墙状态上有一个错误"
+
+#: ../gufw/gufw/view/gufw.py:540
+msgid ""
+"Restart your firewall to refresh to the real status and please report this "
+"bug"
+msgstr "重新启动防火墙刷新到真实状态，并请报告这个bug"
+
+#: ../gufw/gufw/view/gufw.py:555
+msgid "Delete rule"
+msgstr "删除规则"
+
+#: ../gufw/gufw/view/gufw.py:555
+msgid "You will delete all selected rules"
+msgstr "你将删除所有被选择的规则"
+
+#: ../gufw/gufw/view/gufw.py:567
+msgid "Rule(s) deleted"
+msgstr "规则被删除"
+
+#: ../gufw/gufw/view/gufw.py:570
+msgid "Error. Review Gufw Log"
+msgstr "错误。回顾Gufw日志"
+
+#: ../gufw/gufw/view/gufw.py:575
+msgid "No rule selected"
+msgstr "没有规则被选择"
+
+#: ../gufw/gufw/view/gufw.py:575
+msgid "You have to select a rule"
+msgstr "你必须选择一个规则"
+
+#: ../gufw/gufw/view/gufw.py:590
+msgid "You can edit just one rule"
+msgstr "你只能编辑一个规则"
+
+#. ufw rule > inmutable
+#: ../gufw/gufw/view/gufw.py:598
+msgid "Immutable Rule"
+msgstr "不变的规则"
+
+#: ../gufw/gufw/view/gufw.py:598
+msgid "You can't edit a rule added from ufw"
+msgstr "你不能编辑从ufw上添加的规则"
+
+#: ../gufw/gufw/view/gufw.py:618
+msgid "Changing profile: "
+msgstr "更改配置文件： "
+
+#: ../gufw/gufw/view/gufw.py:687
+msgid " ALLOW "
+msgstr " 允许 "
+
+#: ../gufw/gufw/view/gufw.py:688
+msgid " DENY "
+msgstr " 否认 "
+
+#: ../gufw/gufw/view/gufw.py:689
+msgid " REJECT "
+msgstr " 拒绝 "
+
+#: ../gufw/gufw/view/gufw.py:690
+msgid " LIMIT "
+msgstr " 限制 "
+
+#: ../gufw/gufw/view/gufw.py:691
+msgid " OUT "
+msgstr " 出来 "
+
+#: ../gufw/gufw/view/gufw.py:692
+msgid " IN "
+msgstr " 进入 "
+
+#: ../gufw/gufw/view/gufw.py:693
+msgid " FWD "
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:694
+msgid "Anywhere"
+msgstr "任何地方"
+
+#: ../gufw/gufw/view/gufw.py:695
+msgid "(log)"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:696
+msgid "(log-all)"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:697
+msgid " (out)"
+msgstr " (出来)"
+
+#: ../gufw/gufw/view/gufw.py:698
+msgid " on "
+msgstr " 开 "
+
+#: ../gufw/gufw/view/gufw.py:741
+msgid "Gufw profile"
+msgstr "Gufw配置文件"
+
+#: ../gufw/gufw/view/gufw.py:745
+msgid "All files"
+msgstr "所有文件"
+
+#: ../gufw/gufw/view/gufw.py:785
+msgid "Insert IP/Ports"
+msgstr "插入IP/端口"
+
+#: ../gufw/gufw/view/gufw.py:785
+msgid "You need to insert IP/ports in to/from fields"
+msgstr "你需要在至/从域插入IP/端口"
+
+#: ../gufw/gufw/view/gufw.py:794
+msgid "Insert number bigger that number of rules"
+msgstr ""
+
+#: ../gufw/gufw/view/gufw.py:794
+msgid ""
+"By example, if you have 3 rules, you can't insert a rule into position 4"
+msgstr ""
+
+#: ../gufw/gufw/view/update.py:244
+msgid "No changes were made!"
+msgstr ""
+
+#: ../gufw/gufw/view/update.py:251
+msgid "Editing rule (Removing): "
+msgstr "编辑规则（移除）： "
+
+#: ../gufw/gufw/view/update.py:257
+msgid "Editing rule (Adding): "
+msgstr "编辑规则（添加）： "
+
+#: ../gufw/gufw/view/update.py:258
+msgid "Updated rule "
+msgstr "更新的规则 "
+
+#~ msgid "Action"
+#~ msgstr "动作"
+
+#~ msgid "From"
+#~ msgstr "从"
+
+#~ msgid "To"
+#~ msgstr "到"
+
+#~ msgid "Error performing operation"
+#~ msgstr "执行操作出错"
+
+#~ msgid "Rule added"
+#~ msgstr "规则已添加"
+
+#~ msgid "<b>Rules</b>"
+#~ msgstr "<b>规则</b>"
+
+#~ msgid "Reject all INCOMING traffic"
+#~ msgstr "拒绝所有进入的流量"
+
+#~ msgid "Allow all INCOMING traffic"
+#~ msgstr "允许所有进入的流量"
+
+#~ msgid "Show extended actions"
+#~ msgstr "显示扩展行为"
+
+#~ msgid "Allow all OUTGOING traffic"
+#~ msgstr "允许所有外发流量"
+
+#~ msgid "Reject all OUTGOING traffic"
+#~ msgstr "拒绝所有外发流量"
+
+#~ msgid "Enabled firewall"
+#~ msgstr "启用防火墙"
+
+#~ msgid "Disabled firewall"
+#~ msgstr "关闭防火墙"
+
+#~ msgid "Error: Range ports only with tcp or udp protocol"
+#~ msgstr "错误：端口范围只能为 TCP 或 UDP 协议"
+
+#~ msgid "Outgoing:"
+#~ msgstr "传出："
+
+#~ msgid "Incoming:"
+#~ msgstr "传入："
+
+#~ msgid "Error: Fields filled out incorrectly"
+#~ msgstr "出错：字段填写不正确"
+
+#~ msgid "Clean values in boxes"
+#~ msgstr "重置文本框"
+
+#~ msgid "Firewall: Log"
+#~ msgstr "防火墙：记录日志"
+
+#~ msgid "Firewall: Preferences"
+#~ msgstr "防火墙：首选项"
+
+#~ msgid "Listening Report"
+#~ msgstr "监听报告"
+
+#~ msgid "<b>Gufw Options</b>"
+#~ msgstr "<b>Gufw 选项</b>"
+
+#~ msgid "Graphical user interface for ufw"
+#~ msgstr "ufw 的图形界面"
+
+#~ msgid "LIMIT"
+#~ msgstr "限制"
+
+#~ msgid "ALLOW"
+#~ msgstr "允许"
+
+#~ msgid "Rule(s) removed"
+#~ msgstr "规则已移除"
+
+#~ msgid "Removing rules..."
+#~ msgstr "正在移除规则..."
+
+#~ msgid "This will remove all rules and disable the firewall!"
+#~ msgstr "将会移除所有规则并禁用防火墙！"
+
+#~ msgid "Reloaded ufw rules"
+#~ msgstr "重新加载 ufw 规则"
+
+#~ msgid "Firewall: Add Rule"
+#~ msgstr "防火墙：新增规则"
+
+#~ msgid "Use PortA:PortB for a port range."
+#~ msgstr "使用 端口A:端口B 表示一个端口范围。"
+
+#~ msgid "_Log..."
+#~ msgstr "日志(_L)..."
+
+#~ msgid "Remove all Gufw logs"
+#~ msgstr "移除所有 Gufw 日志"
+
+#~ msgid "Re_move Rule"
+#~ msgstr "移除规则(_M)"
+
+#~ msgid "_Add Rule..."
+#~ msgstr "添加规则(_A)..."
+
+#~ msgid "Re_set Firewall..."
+#~ msgstr "重置防火墙(_S)..."
+
+#~ msgid "Translate this Application..."
+#~ msgstr "翻译此程序..."
+
+#~ msgid "Documentation..."
+#~ msgstr "文档..."
+
+#~ msgid "Get Help Online..."
+#~ msgstr "获取在线帮助..."
+
+#~ msgid "Report a Problem..."
+#~ msgstr "报告问题..."
+
+#~ msgid "Unlock the firewall"
+#~ msgstr "解锁防火墙"
+
+#~ msgid "<b>ufw Options</b>"
+#~ msgstr "<b>ufw 选项</b>"
+
+#~ msgid "Status"
+#~ msgstr "状态"
+
+#~ msgid "Show notifications"
+#~ msgstr "显示通知"
+
+#~ msgid "ALLOW IN"
+#~ msgstr "允许入站"
+
+#~ msgid "Wrong identification"
+#~ msgstr "错误标识"
+
+#~ msgid "Show as server script"
+#~ msgstr "显示为服务器脚本"
+
+#~ msgid "Show in a simpler format that can be used for scripting"
+#~ msgstr "以更简单的可以用于脚本的格式显示"
+
+#~ msgid "DENY IN"
+#~ msgstr "禁止连入"
+
+#~ msgid "DENY"
+#~ msgstr "禁止"
+
+#~ msgid "DENY OUT"
+#~ msgstr "禁止连出"
+
+#~ msgid "Select rule(s)"
+#~ msgstr "选择防火墙规则"
+
+#~ msgid "Deny all INCOMING traffic"
+#~ msgstr "禁止所有进入的流量"
+
+#~ msgid "Error: Insert a port number"
+#~ msgstr "错误：请加入一个端口"
+
+#~ msgid "Deny all OUTGOING traffic"
+#~ msgstr "禁止所有外出流量"
+
+#~ msgid "REJECT IN"
+#~ msgstr "拒绝连入"
+
+#~ msgid "LIMIT IN"
+#~ msgstr "限制连入"
+
+#~ msgid "ALLOW OUT"
+#~ msgstr "允许连出"
+
+#~ msgid "REJECT"
+#~ msgstr "拒绝"
+
+#~ msgid "LIMIT OUT"
+#~ msgstr "限制连出"
+
+#~ msgid "REJECT OUT"
+#~ msgstr "拒绝连出"
+
+#~ msgid "Logging:"
+#~ msgstr "记录:"
+
+#~ msgid "Logging"
+#~ msgstr "日志记录"
+
+#~ msgid ""
+#~ "Ports in the listening state for TCP and open state for UDP.\n"
+#~ "If enabled, will result in higher CPU usage."
+#~ msgstr ""
+#~ "为 TCP 以及 开放状态的 UDP 开启端口监听。\n"
+#~ "如果启用，将导致更高的CPU使用率。"
+
+#~ msgid "Show notifications for new connections in Listening Report"
+#~ msgstr "在监听报告中显示新的连接通知"
+
+#~ msgid "Nagios Plugin"
+#~ msgstr "Nagios Plugin"
+
+#~ msgid "It may be a security risk to use a default allow policy for RDP"
+#~ msgstr "使用默认的远程桌面协议存在安全风险"
+
+#~ msgid "It may be a security risk to use a default allow policy for SSH"
+#~ msgstr "使用默认的SSH存在安全风险"

@@ -1,0 +1,7 @@
+[Gamers Internet Tunnel]
+title=Gamer's Internet Tunnel
+description=IPX network emulator from Morpheus Software
+ports=213/udp
+categories=Network;Games;
+reference=[[http://forums.morpheussoftware.net/viewtopic.php?t=596&highlight=213|GIT forum:Problem With GIT and Theme Hospital]] 
+

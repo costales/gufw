@@ -1,0 +1,7 @@
+[F-22 Raptor]
+title=F-22 Raptor
+description=A F-22 Raptor simulation by NovaLogic
+ports=3874:3875/udp
+categories=Games;Simulation;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

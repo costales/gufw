@@ -1,0 +1,6 @@
+[Samba]
+title=SAMBA
+description=SMB/CIFS protocol for Unix systems, allowing you to serve files and printers to Windows, NT, OS/2 and DOS clients
+ports=137,138/udp|139,445/tcp
+categories=Network;Services;|Network;File Transfer
+reference=[http://www.samba.org/samba/docs/server_security.html]

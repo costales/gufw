@@ -1,0 +1,7 @@
+[F-16 Multirole Fighter]
+title=F-16 Multirole Fighter
+description=A F-16 simulation by NovaLogic
+ports=3862:3863/udp
+categories=Games;Simulation;
+reference=[http://www.novalogic.com/router.asp NovaLogic: Firewalls and Routers]
+

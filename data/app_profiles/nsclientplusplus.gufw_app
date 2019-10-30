@@ -1,0 +1,5 @@
+[nsclient++]
+title=NSClient++
+description=Used to monitor Windows machines from a Nagios Server
+ports=12489
+categories=System;Monitor;

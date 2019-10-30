@@ -1,0 +1,14 @@
+[SIP]
+title=SIP
+description=Session Initiation Protocol, unencrypted, using nf_conntrack_sip module
+ports=5060/tcp
+categories=Network;Telephony;
+modules=nf_conntrack_sip;nf_nat_sip;
+reference=[http://en.wikipedia.org/wiki/Session_Initiation_Protocol Wikipedia: Session Initiation Protocol]
+
+[SIP TLS]
+title=SIP TLS
+description=Session Initiation Protocol with TLS encryption
+ports=5061/tcp
+categories=Network;Telephony;
+reference=[http://en.wikipedia.org/wiki/Session_Initiation_Protocol Wikipedia: Session Initiation Protocol]

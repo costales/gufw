@@ -1,0 +1,6 @@
+[Wakfu]
+title=Wakfu
+description=An online tactical turn-based MMORPG
+ports=443|5556
+categories=Games;Role;
+reference=[https://support.ankama.com/en/faq/1331-problem-while-connecting-internet]

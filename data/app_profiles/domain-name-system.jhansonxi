@@ -1,0 +1,7 @@
+[DNS]
+title=DNS
+description=Domain Name System
+ports=53
+categories=Network;
+reference=[http://en.wikipedia.org/wiki/Domain_Name_System Wikipedia: Domain Name System]
+

@@ -1,0 +1,6 @@
+[dropbox]
+title=Dropbox
+description=File hosting service, that offers cloud storage, file synchronization and client software
+ports=http|https|17500
+categories=Network;Cloud;
+reference=https://www.dropbox.com/help/23/en - Dropbox

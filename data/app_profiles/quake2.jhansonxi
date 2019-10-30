@@ -1,0 +1,6 @@
+[Quake II]
+title=Quake II
+description=A FPS by id Software
+ports=27910
+categories=Games;Action;
+reference=[http://www.sp1r1t.org/networks/quake2/q2_linux_server_howto.php sp1r1t.org: Quake II dedicated server on linux HOWTO]

@@ -1,0 +1,7 @@
+[OpenRPG]
+title=OpenRPG
+description=A map/chat/dice-rolling tool to allow players to play tabletop games on-line
+ports=6774/tcp
+categories=Network;Games;
+reference=[http://openrpg.wrathof.com/faq1/OpenRPG-FAQ#head-18ac041bc174e3c04ff369f505140adb6a914b12 OpenRPG FAQ: Server Issues]
+

@@ -1,0 +1,33 @@
+[pop3]
+title=POP3
+description=Post Office Protocol
+ports=110/tcp
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/Pop3 - Wikipedia]
+
+[POP3S]
+title=POP3S
+description=Secure mail server
+categories=Network;Services;
+ports=995/tcp
+
+[imap]
+title=IMAP
+description=Internet Message Access Protocol
+ports=143/tcp
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/Imap - Wikipedia]
+
+[IMAPS]
+title=IMAPS
+description=Secure mail server
+categories=Network;Services;
+ports=993/tcp
+
+[smtp]
+title=SMTP
+description=Simple Mail Transfer Protocol
+ports=25/tcp
+categories=Network;Services;
+reference=[http://en.wikipedia.org/wiki/Smtp - Wikipedia]
+

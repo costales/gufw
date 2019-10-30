@@ -1,0 +1,6 @@
+[YSFLIGHT2000]
+title=YS FLIGHT SIMULATION 2000
+description=A 3D flight simulator
+ports=7915/tcp
+categories=Games;Simulation;
+reference=[http://homepage3.nifty.com/ysflight/ysflight/manual/english.html YS FLIGHT SIMULATION SYSTEM 2000 pilot's manual]

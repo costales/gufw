@@ -1,0 +1,6 @@
+[Dofus]
+title=Dofus
+description=A massively multiplayer online role-playing game
+ports=5555/tcp|443/tcp
+categories=Games;Role;
+reference=[http://forum.dofus.com/en/4-problems-solutions/52173-dofus-ports]

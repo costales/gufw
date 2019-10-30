@@ -1,0 +1,11 @@
+[Socks]
+title=Socks Proxy
+description=SOCKS protocol for proxy server support
+ports=1080/tcp
+categories=Network;Services;
+
+[Transparent Proxy]
+title=Transparent Proxy
+description=Transparent proxy
+ports=8081/tcp
+categories=Network;Services;

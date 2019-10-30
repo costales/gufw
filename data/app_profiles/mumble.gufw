@@ -1,0 +1,6 @@
+[mumble]
+title=Mumble
+description=A voice chat application for groups
+ports=64738/tcp
+categories=Network;Telephony;
+reference=[https://wiki.mumble.info/wiki/FAQ/English#What_is_the_default_server_port_for_Murmur.3F]

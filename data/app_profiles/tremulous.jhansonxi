@@ -1,0 +1,7 @@
+[Tremulous]
+title=Tremulous
+description=Team-based SciFi/alien FPS from Dark Legion Development
+ports=30720/udp
+categories=Games;Action;
+reference=[http://tremulous.net/forum/index.php?topic=8444.0 Tremulous forums: What are the ports which i have to forward to run my server?]
+

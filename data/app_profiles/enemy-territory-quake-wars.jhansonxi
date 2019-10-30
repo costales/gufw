@@ -1,0 +1,7 @@
+[ET Quake Wars]
+title=Enemy Territory: Quake Wars
+description=A FPS by Splash Damage
+ports=3074,27733/udp
+categories=Games;Action;
+reference=[http://www.thesilentservice.net/ETQWDocs/mp/server.html Silent Service Gaming Clan: ETQW Player's Guide - Multiplayer]
+
