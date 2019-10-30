@@ -444,29 +444,11 @@ class Gufw:
     def on_menu_doc_activate(self, widget, data=None):
         self._show_web('http://help.ubuntu.com/community/Gufw')
     
-    def on_menu_answers_activate(self, widget, data=None):
-        self._show_web('http://answers.launchpad.net/gui-ufw')
-    
     def on_menu_bugs_activate(self, widget, data=None):
-        self._show_web('http://bugs.launchpad.net/gui-ufw')
-    
-    def on_menu_translations_activate(self, widget, data=None):
-        self._show_web('https://translations.launchpad.net/gui-ufw')
+        self._show_web('https://github.com/costales/gufw/issues')
     
     def on_menu_donate_activate(self, widget, data=None):
         self._show_web('http://gufw.org/donate')
-    
-    def on_menu_gplus_activate(self, widget, data=None):
-        self._show_web('http://plus.google.com/b/104342291112771981280/')
-    
-    def on_menu_gplus_community_activate(self, widget, data=None):
-        self._show_web('http://plus.google.com/communities/104067858618275933076')
-    
-    def on_menu_twitter_activate(self, widget, data=None):
-        self._show_web('http://twitter.com/gufw')
-    
-    def on_menu_identica_activate(self, widget, data=None):
-        self._show_web('http://identi.ca/gufw')
     
     def on_menu_preferences_activate(self, widget, data=None):
         preferenceswin = Preferences(self)

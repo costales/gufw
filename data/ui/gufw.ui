@@ -190,25 +190,6 @@
                           </object>
                         </child>
                         <child>
-                          <object class="GtkSeparatorMenuItem" id="menu_separator1">
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                          </object>
-                        </child>
-                        <child>
-                          <object class="GtkImageMenuItem" id="menu_answers">
-                            <property name="label" translatable="yes">Get Help _Online...</property>
-                            <property name="use_action_appearance">False</property>
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                            <property name="tooltip_text" translatable="yes">Go to the official answers</property>
-                            <property name="use_underline">True</property>
-                            <property name="image">image3</property>
-                            <property name="use_stock">False</property>
-                            <signal name="activate" handler="on_menu_answers_activate" swapped="no"/>
-                          </object>
-                        </child>
-                        <child>
                           <object class="GtkImageMenuItem" id="menu_bugs">
                             <property name="label" translatable="yes">_Report a Problem...</property>
                             <property name="use_action_appearance">False</property>
@@ -218,74 +199,6 @@
                             <property name="image">image4</property>
                             <property name="use_stock">False</property>
                             <signal name="activate" handler="on_menu_bugs_activate" swapped="no"/>
-                          </object>
-                        </child>
-                        <child>
-                          <object class="GtkImageMenuItem" id="menu_translations">
-                            <property name="label" translatable="yes">_Translate this Application...</property>
-                            <property name="use_action_appearance">False</property>
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                            <property name="use_underline">True</property>
-                            <property name="image">image5</property>
-                            <property name="use_stock">False</property>
-                            <signal name="activate" handler="on_menu_translations_activate" swapped="no"/>
-                          </object>
-                        </child>
-                        <child>
-                          <object class="GtkSeparatorMenuItem" id="menu_separator2">
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                          </object>
-                        </child>
-                        <child>
-                          <object class="GtkMenuItem" id="menu_follow">
-                            <property name="use_action_appearance">False</property>
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                            <property name="label" translatable="yes">_Follow</property>
-                            <property name="use_underline">True</property>
-                            <child type="submenu">
-                              <object class="GtkMenu" id="menu4">
-                                <property name="visible">True</property>
-                                <property name="can_focus">False</property>
-                                <child>
-                                  <object class="GtkMenuItem" id="menu_gplus">
-                                    <property name="use_action_appearance">False</property>
-                                    <property name="visible">True</property>
-                                    <property name="can_focus">False</property>
-                                    <property name="has_tooltip">True</property>
-                                    <property name="tooltip_markup" translatable="yes">Go to the official documentation</property>
-                                    <property name="label" translatable="yes">_Google +</property>
-                                    <property name="use_underline">True</property>
-                                    <signal name="activate" handler="on_menu_gplus_activate" swapped="no"/>
-                                  </object>
-                                </child>
-                                <child>
-                                  <object class="GtkMenuItem" id="menu_gplus_community">
-                                    <property name="use_action_appearance">False</property>
-                                    <property name="visible">True</property>
-                                    <property name="can_focus">False</property>
-                                    <property name="has_tooltip">True</property>
-                                    <property name="tooltip_markup" translatable="yes">Go to the official answers</property>
-                                    <property name="tooltip_text" translatable="yes">Google+ Community</property>
-                                    <property name="label" translatable="yes">Google+ _Community</property>
-                                    <property name="use_underline">True</property>
-                                    <signal name="activate" handler="on_menu_gplus_community_activate" swapped="no"/>
-                                  </object>
-                                </child>
-                                <child>
-                                  <object class="GtkMenuItem" id="menu_twitter">
-                                    <property name="use_action_appearance">False</property>
-                                    <property name="visible">True</property>
-                                    <property name="can_focus">False</property>
-                                    <property name="label" translatable="yes">_Twitter</property>
-                                    <property name="use_underline">True</property>
-                                    <signal name="activate" handler="on_menu_twitter_activate" swapped="no"/>
-                                  </object>
-                                </child>
-                              </object>
-                            </child>
                           </object>
                         </child>
                         <child>
