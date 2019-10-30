@@ -153,11 +153,11 @@ class Gufw:
         
         # Listening report
         self.listening_model = Gtk.ListStore(str, # 0  protocol
-                                              str, # 1 port
-                                              str, # 2 address
-                                              str, # 3 app
-                                              str, # 4 color
-                                              int) # 5 number
+                                             int, # 1 port
+                                             str, # 2 address
+                                             str, # 3 app
+                                             str, # 4 color
+                                             int) # 5 number
         self.tv_report = self.report
         self.tv_report.set_model(self.listening_model)
         self.tv_report.get_selection().set_mode(Gtk.SelectionMode.SINGLE)
@@ -495,7 +495,7 @@ class Gufw:
         if len(rows) == 1:
             iter_row = self.listening_model.get_iter(rows[0],)
             protocol = self.listening_model.get_value(iter_row, 0)
-            port     = self.listening_model.get_value(iter_row, 1)
+            port     = str(self.listening_model.get_value(iter_row, 1))
             address  = self.listening_model.get_value(iter_row, 2)
             app      = self.listening_model.get_value(iter_row, 3)
             if address == '*':

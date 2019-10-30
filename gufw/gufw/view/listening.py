@@ -68,7 +68,7 @@ class ListeningReport():
         if len(rows) == 1:
             iter_row = self.gufw.listening_model.get_iter(rows[0],)
             protocol = self.gufw.listening_model.get_value(iter_row, 0)
-            port     = self.gufw.listening_model.get_value(iter_row, 1)
+            port     = str(self.gufw.listening_model.get_value(iter_row, 1))
             address  = self.gufw.listening_model.get_value(iter_row, 2)
             app      = self.gufw.listening_model.get_value(iter_row, 3)
         
@@ -79,11 +79,11 @@ class ListeningReport():
             line_split = line.split('%')
             row += 1
             iter_row = self.gufw.listening_model.insert(row)
-            self.gufw.listening_model.set_value(iter_row, 0, line_split[0].strip()) # protocol
-            self.gufw.listening_model.set_value(iter_row, 1, line_split[1].strip()) # port
-            self.gufw.listening_model.set_value(iter_row, 2, line_split[2].strip()) # address
-            self.gufw.listening_model.set_value(iter_row, 3, line_split[3].strip()) # app
-            self.gufw.listening_model.set_value(iter_row, 5, row)                    # number
+            self.gufw.listening_model.set_value(iter_row, 0, line_split[0].strip())      # protocol
+            self.gufw.listening_model.set_value(iter_row, 1, int(line_split[1].strip())) # port
+            self.gufw.listening_model.set_value(iter_row, 2, line_split[2].strip())      # address
+            self.gufw.listening_model.set_value(iter_row, 3, line_split[3].strip())      # app
+            self.gufw.listening_model.set_value(iter_row, 5, row)                        # number
             
             if self.gufw.frontend.get_status():
                 if line_split[4] == 'allow':
@@ -103,7 +103,7 @@ class ListeningReport():
                 try:
                     iter_row = self.gufw.listening_model.get_iter(i,)
                     if (protocol == self.gufw.listening_model.get_value(iter_row, 0) and
-                        port     == self.gufw.listening_model.get_value(iter_row, 1) and
+                        port     == str(self.gufw.listening_model.get_value(iter_row, 1)) and
                         address  == self.gufw.listening_model.get_value(iter_row, 2) and
                         app      == self.gufw.listening_model.get_value(iter_row, 3)):
                         select_this_row = i
