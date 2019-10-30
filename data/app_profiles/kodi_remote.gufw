@@ -1,0 +1,5 @@
+[KODI_Remote]
+title=KODI Remote
+description=Remote control for KODI
+ports=8080|9777/udp
+categories=Audio Video;TV;
