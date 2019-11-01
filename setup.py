@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Gufw 20.04.0 - http://gufw.org
-# Copyright (C) 2008-2019 Marcos Alvarez Costales https://launchpad.net/~costales
+# Copyright (C) 2008-2019 Marcos Alvarez Costales https://github.com/costales
 #
 # Gufw is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -29,8 +29,8 @@ setup(
     name         = "gufw",
     version      = "19.10.0",
     description  = "An easy, intuitive, way to manage your Linux firewall. It supports common tasks such as allowing or blocking pre-configured, common p2p, or individual ports port(s), and many others!",
-    author       = "Marcos Alvarez Costales https://launchpad.net/~costales",
-    author_email = "https://launchpad.net/~costales",
+    author       = "Marcos Alvarez Costales https://github.com/costales",
+    author_email = "https://github.com/costales",
     url          = "http://gufw.org",
     license      = "GPL3",
     data_files   = data

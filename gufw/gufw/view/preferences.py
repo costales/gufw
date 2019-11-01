@@ -1,5 +1,5 @@
 # Gufw 20.04.0 - http://gufw.org
-# Copyright (C) 2008-2019 Marcos Alvarez Costales https://launchpad.net/~costales
+# Copyright (C) 2008-2019 Marcos Alvarez Costales https://github.com/costales
 #
 # Gufw is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
