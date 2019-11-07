@@ -13,9 +13,9 @@
     <property name="icon">/usr/share/icons/hicolor/48x48/apps/gufw.png</property>
     <property name="type_hint">dialog</property>
     <property name="program_name">Gufw Firewall</property>
-    <property name="version">19.10.0</property>
+    <property name="version">20.04.0</property>
     <property name="copyright">© 2008-2019 The Gufw Project
-http://gufw.org</property>
+https://costales.github.io/projects/gufw/</property>
     <property name="comments" translatable="yes">An uncomplicated way to manage your firewall, powered by ufw.
 Easy, simple, nice and useful!</property>
     <property name="license">                    GNU GENERAL PUBLIC LICENSE
@@ -640,7 +640,7 @@ copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS</property>
     <property name="authors">Developer:
-Marcos Alvarez Costales https://github.com/costales
+Marcos Alvarez Costales https://costales.github.io
 
 Contributors:
 Emilio López https://launchpad.net/~turl

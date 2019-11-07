@@ -23,8 +23,8 @@ Configuration in your application menu.
 
 FOR OTHER DISTROS
 ------------------
-* Get code from https://github.com/costales/gufw
-    git clone https://github.com/costales/gufw.git
+* Get code from https://costales.github.io/gufw
+    git clone https://costales.github.io/gufw.git
     
 * Install:
     cd gufw
@@ -39,4 +39,4 @@ FOR OTHER DISTROS
   
 Are you a Gufw distro maintainer?
 =================================
-New releases will be published here: https://github.com/costales/gufw/releases
+New releases will be published here: https://costales.github.io/gufw/releases

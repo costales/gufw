@@ -1,5 +1,5 @@
-# Gufw 20.04.0 - http://gufw.org
-# Copyright (C) 2008-2019 Marcos Alvarez Costales https://github.com/costales
+# Gufw 20.04.0 - https://costales.github.io/projects/gufw/
+# Copyright (C) 2008-2019 Marcos Alvarez Costales https://costales.github.io
 #
 # Gufw is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -436,7 +436,7 @@ class Gufw:
         self.set_statusbar_msg(_("Text copied to clipboard"))
     
     def on_donate_btn_clicked(self, widget, data=None):
-        self._show_web('http://gufw.org/donate')
+        self._show_web('https://costales.github.io/projects/gufw/')
     
     def on_menu_about_activate(self, widget, data=None):
         aboutwin = About(self)
@@ -445,10 +445,10 @@ class Gufw:
         self._show_web('http://help.ubuntu.com/community/Gufw')
     
     def on_menu_bugs_activate(self, widget, data=None):
-        self._show_web('https://github.com/costales/gufw/issues')
+        self._show_web('https://costales.github.io/gufw/issues')
     
     def on_menu_donate_activate(self, widget, data=None):
-        self._show_web('http://gufw.org/donate')
+        self._show_web('https://costales.github.io/projects/gufw/')
     
     def on_menu_preferences_activate(self, widget, data=None):
         preferenceswin = Preferences(self)
