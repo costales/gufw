@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-07 19:11+0100\n"
+"POT-Creation-Date: 2019-11-07 19:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3297,15 +3297,15 @@ msgstr ""
 msgid "Protocol:"
 msgstr ""
 
-#: ../data/ui/update.ui.h:6 ../data/ui/add.ui.h:2 ../data/ui/gufw.ui.h:19
+#: ../data/ui/update.ui.h:6 ../data/ui/add.ui.h:2 ../data/ui/gufw.ui.h:14
 msgid "Allow"
 msgstr ""
 
-#: ../data/ui/update.ui.h:7 ../data/ui/add.ui.h:3 ../data/ui/gufw.ui.h:20
+#: ../data/ui/update.ui.h:7 ../data/ui/add.ui.h:3 ../data/ui/gufw.ui.h:15
 msgid "Deny"
 msgstr ""
 
-#: ../data/ui/update.ui.h:8 ../data/ui/add.ui.h:4 ../data/ui/gufw.ui.h:21
+#: ../data/ui/update.ui.h:8 ../data/ui/add.ui.h:4 ../data/ui/gufw.ui.h:16
 msgid "Reject"
 msgstr ""
 
@@ -3464,7 +3464,7 @@ msgstr ""
 msgid "Add a profile"
 msgstr ""
 
-#: ../data/ui/preferences.ui.h:17 ../data/ui/gufw.ui.h:24
+#: ../data/ui/preferences.ui.h:17 ../data/ui/gufw.ui.h:19
 msgid "Add"
 msgstr ""
 
@@ -3472,7 +3472,7 @@ msgstr ""
 msgid "Remove the selected profile"
 msgstr ""
 
-#: ../data/ui/preferences.ui.h:19 ../data/ui/gufw.ui.h:26
+#: ../data/ui/preferences.ui.h:19 ../data/ui/gufw.ui.h:21
 msgid "Remove"
 msgstr ""
 
@@ -3574,82 +3574,62 @@ msgid "_Help"
 msgstr ""
 
 #: ../data/ui/gufw.ui.h:9
-msgid "_Documentation..."
-msgstr ""
-
-#: ../data/ui/gufw.ui.h:10
-msgid "Go to the official documentation"
-msgstr ""
-
-#: ../data/ui/gufw.ui.h:11
-msgid "_Report a Problem..."
-msgstr ""
-
-#: ../data/ui/gufw.ui.h:12
-msgid "Thanks in advance!!"
-msgstr ""
-
-#: ../data/ui/gufw.ui.h:13
-msgid "_Donate..."
-msgstr ""
-
-#: ../data/ui/gufw.ui.h:14
 msgid "_Profile:"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:15
+#: ../data/ui/gufw.ui.h:10
 msgid "S_tatus:"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:16
+#: ../data/ui/gufw.ui.h:11
 msgid "_Incoming:"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:17
+#: ../data/ui/gufw.ui.h:12
 msgid "_Outgoing:"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:18
+#: ../data/ui/gufw.ui.h:13
 msgid "_Routed:"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:22
+#: ../data/ui/gufw.ui.h:17
 msgid "<b>Firewall</b>"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:23
+#: ../data/ui/gufw.ui.h:18
 msgid "Add a rule..."
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:25
+#: ../data/ui/gufw.ui.h:20
 msgid "Remove the selected rule(s)"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:27
+#: ../data/ui/gufw.ui.h:22
 msgid "Edit the selected rule"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:28
+#: ../data/ui/gufw.ui.h:23
 msgid "Pause Listening Report"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:29
+#: ../data/ui/gufw.ui.h:24
 msgid "Pause"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:30
+#: ../data/ui/gufw.ui.h:25
 msgid "See current Listening Report"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:31
+#: ../data/ui/gufw.ui.h:26
 msgid "Create a rule from the listening report..."
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:32
+#: ../data/ui/gufw.ui.h:27
 msgid "Copy log to clipboard"
 msgstr ""
 
-#: ../data/ui/gufw.ui.h:33
+#: ../data/ui/gufw.ui.h:28
 msgid "Remove log"
 msgstr ""
 
@@ -3658,12 +3638,10 @@ msgid "About Gufw Firewall"
 msgstr ""
 
 #: ../data/ui/about.ui.h:2
-msgid ""
-"An uncomplicated way to manage your firewall, powered by ufw.\n"
-"Easy, simple, nice and useful!"
+msgid "An easy, simple, nice and useful firewall!"
 msgstr ""
 
-#: ../data/ui/about.ui.h:4
+#: ../data/ui/about.ui.h:3
 msgid "translator-credits"
 msgstr ""
 
@@ -3777,7 +3755,7 @@ msgid "The firewall has to be enabled first"
 msgstr ""
 
 #. Translators: Error running an ufw command
-#: ../gufw/gufw/view/add.py:412 ../gufw/gufw/view/gufw.py:575
+#: ../gufw/gufw/view/add.py:412 ../gufw/gufw/view/gufw.py:563
 msgid "Error running: "
 msgstr ""
 
@@ -4127,7 +4105,7 @@ msgid ""
 "profile and disable the firewall"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:420 ../gufw/gufw/view/gufw.py:560
+#: ../gufw/gufw/view/gufw.py:420 ../gufw/gufw/view/gufw.py:548
 msgid "Do you want to continue?"
 msgstr ""
 
@@ -4148,208 +4126,208 @@ msgid "Text copied to clipboard"
 msgstr ""
 
 #. Translators: Policy
-#: ../gufw/gufw/view/gufw.py:460
+#: ../gufw/gufw/view/gufw.py:448
 msgid "Incoming: "
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:461
+#: ../gufw/gufw/view/gufw.py:449
 msgid "Incoming policy changed"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:463
+#: ../gufw/gufw/view/gufw.py:451
 msgid "There was an error changing the incoming policy"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:463 ../gufw/gufw/view/gufw.py:471
-#: ../gufw/gufw/view/gufw.py:483
+#: ../gufw/gufw/view/gufw.py:451 ../gufw/gufw/view/gufw.py:459
+#: ../gufw/gufw/view/gufw.py:471
 msgid ""
 "Restart your firewall to refresh to the real status\n"
 "and please report this bug"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:468
+#: ../gufw/gufw/view/gufw.py:456
 msgid "Outgoing: "
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:469
+#: ../gufw/gufw/view/gufw.py:457
 msgid "Outgoing policy changed"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:471
+#: ../gufw/gufw/view/gufw.py:459
 msgid "There was an error changing the outgoing policy"
 msgstr ""
 
 #. Translators: Routed firewall changed
-#: ../gufw/gufw/view/gufw.py:480
+#: ../gufw/gufw/view/gufw.py:468
 msgid "Routed: "
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:481
+#: ../gufw/gufw/view/gufw.py:469
 msgid "Routed policy changed"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:483
+#: ../gufw/gufw/view/gufw.py:471
 msgid "There was an error changing the routed policy"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:504 ../gufw/gufw/view/gufw.py:596
+#: ../gufw/gufw/view/gufw.py:492 ../gufw/gufw/view/gufw.py:584
 msgid "Select just one row"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:504
+#: ../gufw/gufw/view/gufw.py:492
 msgid "You can create a rule from just one row selected"
 msgstr ""
 
 #. Translators: About firewall
-#: ../gufw/gufw/view/gufw.py:529
+#: ../gufw/gufw/view/gufw.py:517
 msgid "Status: Enabled"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:530
+#: ../gufw/gufw/view/gufw.py:518
 msgid "Firewall enabled"
 msgstr ""
 
 #. Translators: About firewall
-#: ../gufw/gufw/view/gufw.py:533
+#: ../gufw/gufw/view/gufw.py:521
 msgid "Status: Disabled"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:534
+#: ../gufw/gufw/view/gufw.py:522
 msgid "Firewall disabled"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:545
+#: ../gufw/gufw/view/gufw.py:533
 msgid "There was an error changing the firewall status"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:545
+#: ../gufw/gufw/view/gufw.py:533
 msgid ""
 "Restart your firewall to refresh to the real status and please report this "
 "bug"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:560
+#: ../gufw/gufw/view/gufw.py:548
 msgid "Delete rule"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:560
+#: ../gufw/gufw/view/gufw.py:548
 msgid "You will delete all selected rules"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:572
+#: ../gufw/gufw/view/gufw.py:560
 msgid "Rule(s) deleted"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:576
+#: ../gufw/gufw/view/gufw.py:564
 msgid "Error. Review Gufw Log"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:581
+#: ../gufw/gufw/view/gufw.py:569
 msgid "No rule selected"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:581
+#: ../gufw/gufw/view/gufw.py:569
 msgid "You have to select a rule"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:596
+#: ../gufw/gufw/view/gufw.py:584
 msgid "You can edit just one rule"
 msgstr ""
 
 #. ufw rule > inmutable
-#: ../gufw/gufw/view/gufw.py:604
+#: ../gufw/gufw/view/gufw.py:592
 msgid "Immutable Rule"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:604
+#: ../gufw/gufw/view/gufw.py:592
 msgid "You can't edit a rule added from ufw"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:624
+#: ../gufw/gufw/view/gufw.py:612
 msgid "Changing profile: "
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:694
+#: ../gufw/gufw/view/gufw.py:682
 msgid " ALLOW "
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:696
+#: ../gufw/gufw/view/gufw.py:684
 msgid " DENY "
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:698
+#: ../gufw/gufw/view/gufw.py:686
 msgid " REJECT "
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:700
+#: ../gufw/gufw/view/gufw.py:688
 msgid " LIMIT "
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:702
+#: ../gufw/gufw/view/gufw.py:690
 msgid " OUT "
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:704
+#: ../gufw/gufw/view/gufw.py:692
 msgid " IN "
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:706
+#: ../gufw/gufw/view/gufw.py:694
 msgid " FWD "
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:708
+#: ../gufw/gufw/view/gufw.py:696
 msgid "Anywhere"
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:710
+#: ../gufw/gufw/view/gufw.py:698
 msgid "(log)"
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:712
+#: ../gufw/gufw/view/gufw.py:700
 msgid "(log-all)"
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:714
+#: ../gufw/gufw/view/gufw.py:702
 msgid " (out)"
 msgstr ""
 
 #. Translators: ufw string
-#: ../gufw/gufw/view/gufw.py:716
+#: ../gufw/gufw/view/gufw.py:704
 msgid " on "
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:759
+#: ../gufw/gufw/view/gufw.py:747
 msgid "Gufw profile"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:763
+#: ../gufw/gufw/view/gufw.py:751
 msgid "All files"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:803
+#: ../gufw/gufw/view/gufw.py:791
 msgid "Insert IP/Ports"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:803
+#: ../gufw/gufw/view/gufw.py:791
 msgid "You need to insert IP/ports in to/from fields"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:812
+#: ../gufw/gufw/view/gufw.py:800
 msgid "Insert number bigger that number of rules"
 msgstr ""
 
-#: ../gufw/gufw/view/gufw.py:812
+#: ../gufw/gufw/view/gufw.py:800
 msgid ""
 "By example, if you have 3 rules, you can't insert a rule into position 4"
 msgstr ""

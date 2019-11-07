@@ -435,20 +435,8 @@ class Gufw:
         self.clipboard.set_text(self.frontend.get_log(), -1)
         self.set_statusbar_msg(_("Text copied to clipboard"))
     
-    def on_donate_btn_clicked(self, widget, data=None):
-        self._show_web('https://costales.github.io/projects/gufw/')
-    
     def on_menu_about_activate(self, widget, data=None):
         aboutwin = About(self)
-    
-    def on_menu_doc_activate(self, widget, data=None):
-        self._show_web('http://help.ubuntu.com/community/Gufw')
-    
-    def on_menu_bugs_activate(self, widget, data=None):
-        self._show_web('https://costales.github.io/gufw/issues')
-    
-    def on_menu_donate_activate(self, widget, data=None):
-        self._show_web('https://costales.github.io/projects/gufw/')
     
     def on_menu_preferences_activate(self, widget, data=None):
         preferenceswin = Preferences(self)

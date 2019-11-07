@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated with glade 3.16.1 -->
+<!-- Generated with glade 3.22.1 -->
 <interface>
   <requires lib="gtk+" version="3.10"/>
   <object class="GtkAboutDialog" id="about">
@@ -14,10 +14,11 @@
     <property name="type_hint">dialog</property>
     <property name="program_name">Gufw Firewall</property>
     <property name="version">20.04.0</property>
-    <property name="copyright">© 2008-2019 The Gufw Project
+    <property name="copyright">
+© 2008-2019 The Gufw Project
+
 https://costales.github.io/projects/gufw/</property>
-    <property name="comments" translatable="yes">An uncomplicated way to manage your firewall, powered by ufw.
-Easy, simple, nice and useful!</property>
+    <property name="comments" translatable="yes">An easy, simple, nice and useful firewall!</property>
     <property name="license">                    GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -676,8 +677,11 @@ More info: commons.wikimedia.org/wiki/File:Gnome-system-software-update.svg
 See for more information about the licenses: 
 creativecommons.org/licenses/by/3.0/
 gnu.org/licenses/old-licenses/gpl-2.0.html</property>
-    <property name="logo">/usr/share/gufw/media/shields/reject_reject_disabled.png</property>
+    <property name="logo">../media/shields/reject_reject_disabled.png</property>
     <property name="wrap_license">True</property>
+    <child>
+      <placeholder/>
+    </child>
     <child internal-child="vbox">
       <object class="GtkBox" id="aboutdialog-vbox1">
         <property name="can_focus">False</property>

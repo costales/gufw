@@ -177,54 +177,6 @@
                         <property name="visible">True</property>
                         <property name="can_focus">False</property>
                         <child>
-                          <object class="GtkImageMenuItem" id="menu_doc">
-                            <property name="label" translatable="yes">_Documentation...</property>
-                            <property name="use_action_appearance">False</property>
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                            <property name="tooltip_text" translatable="yes">Go to the official documentation</property>
-                            <property name="use_underline">True</property>
-                            <property name="image">image2</property>
-                            <property name="use_stock">False</property>
-                            <signal name="activate" handler="on_menu_doc_activate" swapped="no"/>
-                          </object>
-                        </child>
-                        <child>
-                          <object class="GtkImageMenuItem" id="menu_bugs">
-                            <property name="label" translatable="yes">_Report a Problem...</property>
-                            <property name="use_action_appearance">False</property>
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                            <property name="use_underline">True</property>
-                            <property name="image">image4</property>
-                            <property name="use_stock">False</property>
-                            <signal name="activate" handler="on_menu_bugs_activate" swapped="no"/>
-                          </object>
-                        </child>
-                        <child>
-                          <object class="GtkSeparatorMenuItem" id="menu_separator4">
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                          </object>
-                        </child>
-                        <child>
-                          <object class="GtkMenuItem" id="menu_donate">
-                            <property name="use_action_appearance">False</property>
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                            <property name="tooltip_text" translatable="yes">Thanks in advance!!</property>
-                            <property name="label" translatable="yes">_Donate...</property>
-                            <property name="use_underline">True</property>
-                            <signal name="activate" handler="on_menu_donate_activate" swapped="no"/>
-                          </object>
-                        </child>
-                        <child>
-                          <object class="GtkSeparatorMenuItem" id="menu_separator3">
-                            <property name="visible">True</property>
-                            <property name="can_focus">False</property>
-                          </object>
-                        </child>
-                        <child>
                           <object class="GtkImageMenuItem" id="menu_about">
                             <property name="label">gtk-about</property>
                             <property name="use_action_appearance">False</property>
