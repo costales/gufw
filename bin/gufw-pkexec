@@ -4,7 +4,6 @@ LOCATIONS=( "${LOCATIONS[@]}" "/usr/share/gufw/gufw/gufw.py" )                  
 
 for ((i = 0; i < ${#LOCATIONS[@]}; i++))
 do
-    echo "${LOCATIONS[${i}]}"
     if [[ -e "${LOCATIONS[${i}]}" ]]; then
         python3 ${LOCATIONS[${i}]} $1
     fi
