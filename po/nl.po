@@ -1,26 +1,26 @@
 # Dutch translation for gui-ufw
 # Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the gui-ufw package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# Pjotr <pjotrvertaalt@gmail.com>, 2016.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2019-05-08 21:10+0200\n"
-"PO-Revision-Date: 2017-01-20 18:46+0000\n"
-"Last-Translator: Pjotr12345 <Unknown>\n"
-"Language-Team: Dutch <nl@li.org>\n"
+"PO-Revision-Date: 2020-05-10 21:09+0200\n"
+"Last-Translator: Pjotr <pjotrvertaalt@gmail.com>\n"
+"Language-Team: Dutch\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-10-30 21:36+0000\n"
-"X-Generator: Launchpad (build 469f241f4e73cc0bdffa4e30654052a2af068e06)\n"
+"Language: nl\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
 msgid "Error: %s is writable"
-msgstr ""
+msgstr "Fout: %s is beschrijfbaar"
 
 #: gufw/gufw/instance.py:49
 #, python-format
@@ -28,22 +28,24 @@ msgid ""
 "Your %s directory is writable.\n"
 "Fix it running from Terminal:"
 msgstr ""
+"Uw %s map is beschrijfbaar.\n"
+"Repareer het door in de terminal te draaien:"
 
 #: gufw/gufw/instance.py:81
 msgid "Please, just one Gufw's instance"
-msgstr ""
+msgstr "A.u.b. slechts één instantie van Gufw"
 
 #: gufw/gufw/instance.py:82
 msgid "Gufw is already running. If this is wrong, remove the file: "
-msgstr ""
+msgstr "Gufw draait reeds. Indien dit verkeerd is, verwijder het bestand: "
 
 #: gufw/gufw/model/firewall.py:61
 msgid "Deleting previous rules: "
-msgstr ""
+msgstr "Vorige regels verwijderen: "
 
 #: gufw/gufw/model/firewall.py:86
 msgid "Appending new rules: "
-msgstr ""
+msgstr "Nieuwe regels toevoegen: "
 
 #: gufw/gufw/model/firewall.py:266 gufw/gufw/model/firewall.py:286
 #: gufw/gufw/model/firewall.py:287 gufw/gufw/model/firewall.py:302
@@ -67,52 +69,50 @@ msgstr "Kantoor"
 #: gufw/gufw/model/firewall.py:304 gufw/gufw/model/firewall.py:309
 #: gufw/gufw/model/firewall.py:314
 msgid "Renamed profile: "
-msgstr ""
+msgstr "Profiel hernoemd: "
 
-#: gufw/gufw/view/add.py:100 gufw/gufw/view/add.py:354
-#: gufw/gufw/view/add.py:467 gufw/gufw/view/update.py:76
-#: gufw/gufw/view/update.py:104 gufw/gufw/view/update.py:190
-#: gufw/gufw/view/update.py:221
+#: gufw/gufw/view/add.py:100 gufw/gufw/view/add.py:354 gufw/gufw/view/add.py:467
+#: gufw/gufw/view/update.py:76 gufw/gufw/view/update.py:104
+#: gufw/gufw/view/update.py:190 gufw/gufw/view/update.py:221
 msgid "All Interfaces"
-msgstr ""
+msgstr "Alle netwerkapparaten"
 
-#: gufw/gufw/view/add.py:102 gufw/gufw/view/add.py:365
-#: gufw/gufw/view/add.py:472 gufw/gufw/view/update.py:105
-#: gufw/gufw/view/update.py:201 gufw/gufw/view/update.py:226
+#: gufw/gufw/view/add.py:102 gufw/gufw/view/add.py:365 gufw/gufw/view/add.py:472
+#: gufw/gufw/view/update.py:105 gufw/gufw/view/update.py:201
+#: gufw/gufw/view/update.py:226
 msgid "Not Forward"
-msgstr ""
+msgstr "Niet doorsturen"
 
-#: gufw/gufw/view/add.py:142 gufw/gufw/view/add.py:272
-#: gufw/gufw/view/add.py:547 gufw/gufw/view/add.py:555
-#: gufw/gufw/view/add.py:564 gufw/gufw/view/add.py:580
+#: gufw/gufw/view/add.py:142 gufw/gufw/view/add.py:272 gufw/gufw/view/add.py:547
+#: gufw/gufw/view/add.py:555 gufw/gufw/view/add.py:564 gufw/gufw/view/add.py:580
 #: gufw/gufw/view/add.py:583 gufw/gufw/view/add.py:586
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #: gufw/gufw/view/add.py:156 gufw/gufw/view/add.py:372
 msgid "Ports: "
-msgstr ""
+msgstr "Poorten: "
 
 #: gufw/gufw/view/add.py:198 gufw/gufw/view/add.py:207
 #: gufw/gufw/view/update.py:137
 msgid "Choose a TCP or UDP Protocol with a range of ports"
-msgstr ""
+msgstr "Kies een TCP- of UDP-protocol met een reikwijdte aan poorten"
 
 #: gufw/gufw/view/add.py:356 gufw/gufw/view/update.py:192
 msgid "The IP/Port will be forward to this interface"
-msgstr ""
+msgstr "De IP/Poort zal worden doorgestuurd naar dit netwerkapparaat"
 
 #: gufw/gufw/view/add.py:359 gufw/gufw/view/update.py:195
 msgid "You need to set an Interface for forwarding to this another interface"
-msgstr ""
+msgstr "U dient een netwerkapparaat in te stellen"
 
 #: gufw/gufw/view/add.py:382
 msgid "Error: Firewall is disabled"
-msgstr ""
+msgstr "Fout: firewall is uitgeschakeld"
 
 #: gufw/gufw/view/add.py:382
 msgid "The firewall has to be enabled first"
-msgstr ""
+msgstr "De firewall moet eerst zijn ingeschakeld"
 
 #: gufw/gufw/view/add.py:412 gufw/gufw/view/gufw.py:594
 msgid "Error running: "
@@ -120,31 +120,31 @@ msgstr "Foutmelding tijdens uitvoeren van: "
 
 #: gufw/gufw/view/add.py:416
 msgid "Rule(s) added"
-msgstr ""
+msgstr "Regel(s) toegevoegd"
 
 #: gufw/gufw/view/add.py:419
 msgid "Warning: Some rules added. Review the log"
-msgstr ""
+msgstr "Waarschuwing: enkele regels toegevoegd. Kijk het logboek na"
 
 #: gufw/gufw/view/add.py:422
 msgid "Error: No rules added. Review the log"
-msgstr ""
+msgstr "Waarschuwing: geen regels toegevoegd. Kijk het logboek na"
 
 #: gufw/gufw/view/add.py:438
 msgid "Insert Port"
-msgstr ""
+msgstr "Poort invoegen"
 
 #: gufw/gufw/view/add.py:438
 msgid "You need to insert a port in the port field"
-msgstr ""
+msgstr "U dient een poort in te voegen in het poortveld"
 
 #: gufw/gufw/view/add.py:442
 msgid "Edward Snowden's Greatest Fear"
-msgstr ""
+msgstr "Edward Snowden's Grootste Angst"
 
 #: gufw/gufw/view/add.py:442
 msgid "\"Nothing Will Change\""
-msgstr ""
+msgstr "'Er zal niets veranderen'"
 
 #: gufw/gufw/view/gufw.py:125 gufw/gufw/view/gufw.py:183
 #: gufw/gufw/view/gufw.py:312
@@ -153,11 +153,11 @@ msgstr "Aan de slag"
 
 #: gufw/gufw/view/gufw.py:189
 msgid "Rules"
-msgstr ""
+msgstr "Regels"
 
 #: gufw/gufw/view/gufw.py:194
 msgid "Report"
-msgstr ""
+msgstr "Rapport"
 
 #: gufw/gufw/view/gufw.py:200 data/ui/add.ui:754 data/ui/update.ui:188
 msgid "Log"
@@ -165,7 +165,7 @@ msgstr "Logboek"
 
 #: gufw/gufw/view/gufw.py:238 gufw/gufw/view/gufw.py:258
 msgid "Nº"
-msgstr ""
+msgstr "Nº"
 
 #: gufw/gufw/view/gufw.py:244
 msgid "Rule"
@@ -215,19 +215,17 @@ msgid ""
 "apps:"
 msgstr ""
 "Als u een normale gebruiker bent, zal u veilig zijn met deze instellingen "
-"(Status=Aan, Inkomend=Geweigerd, Uitgaand=Toegestaan). Vergeet niet om "
-"toestaan-regels toe te voegen voor uw P2P-toepassingen:"
+"(Status=Aan, Inkomend=Geweigerd, Uitgaand=Toegestaan). Vergeet niet om toestaan-"
+"regels toe te voegen voor uw P2P-toepassingen:"
 
 #: gufw/gufw/view/gufw.py:317
 msgid "You can rename your profiles with just 2 clicks on them:"
 msgstr ""
-"U kunt uw profiel een andere naam geven door er slechts twee keer op te "
-"klikken:"
+"U kunt uw profiel een andere naam geven door er slechts twee keer op te klikken:"
 
 #: gufw/gufw/view/gufw.py:318
 msgid "The Rule Name will help you to identify your rules in the future:"
-msgstr ""
-"De regelnaam zal u helpen om uw regels in de toekomst te identificeren:"
+msgstr "De regelnaam zal u helpen om uw regels in de toekomst te identificeren:"
 
 #: gufw/gufw/view/gufw.py:319
 msgid "How to autostart Gufw with the system?"
@@ -235,12 +233,12 @@ msgstr "Hoe Gufw automatisch op te starten met het systeem?"
 
 #: gufw/gufw/view/gufw.py:320
 msgid ""
-"You do not need it. After you do all of the changes in Gufw, the settings "
-"are still in place until the next changes."
+"You do not need it. After you do all of the changes in Gufw, the settings are "
+"still in place until the next changes."
 msgstr ""
-"U heeft het niet nodig. Nadat u alle veranderingen in Gufw heeft "
-"doorgevoerd, zullen de instellingen nog steeds op hun plaats zijn tot de "
-"volgende wijzigingen."
+"U heeft het niet nodig. Nadat u alle veranderingen in Gufw heeft doorgevoerd, "
+"zullen de instellingen nog steeds op hun plaats zijn tot de volgende "
+"wijzigingen."
 
 #: gufw/gufw/view/gufw.py:321
 msgid "Why is Gufw disabled by default?"
@@ -256,10 +254,12 @@ msgstr "Sommige regels worden toegevoegd door zichzelf?"
 
 #: gufw/gufw/view/gufw.py:324
 msgid ""
-"Well, the behaviour is such that when you change or import a profile, or "
-"when you edit a rule, Gufw will add that rule again, then ufw re-adds that "
-"rule for IPv4 and IPv6."
+"Well, the behaviour is such that when you change or import a profile, or when "
+"you edit a rule, Gufw will add that rule again, then ufw re-adds that rule for "
+"IPv4 and IPv6."
 msgstr ""
+"Wanneer u een profiel verwijdert of invoert, of wanneer u een regel bewerkt, "
+"zal Gufw die regel opnieuw toevoegen voor IPv4 en IPv6."
 
 #: gufw/gufw/view/gufw.py:325
 msgid "What is Allow, Deny, Reject and Limit?"
@@ -271,7 +271,7 @@ msgstr "Toestaan: zal verkeer toestaan."
 
 #: gufw/gufw/view/gufw.py:327
 msgid "Deny: Will deny traffic."
-msgstr "Weigeren: zal verkeer weigeren"
+msgstr "Weigeren: zal verkeer weigeren."
 
 #: gufw/gufw/view/gufw.py:328
 msgid "Reject: Will deny traffic and will inform that it has been rejected."
@@ -293,13 +293,15 @@ msgstr "Alle ufw-regels zullen verschijnen in alle profielen."
 
 #: gufw/gufw/view/gufw.py:332
 msgid "What do I see in the Listening Report?"
-msgstr ""
+msgstr "Wat zie ik in het Luisterraport?"
 
 #: gufw/gufw/view/gufw.py:333
 msgid ""
-"The ports on the live system in the listening state for TCP and the open "
-"state for UDP."
+"The ports on the live system in the listening state for TCP and the open state "
+"for UDP."
 msgstr ""
+"De poorten op het actieve systeem in de luisterende staat voor TCP en de open "
+"staat voor UDP."
 
 #: gufw/gufw/view/gufw.py:334
 msgid "I want even more!"
@@ -313,8 +315,7 @@ msgstr "U vindt meer informatie in de gemeenschapsdocumentatie."
 #: gufw/gufw/view/gufw.py:351
 msgid "Visit this web (please, copy & paste in your browser):"
 msgstr ""
-"Bezoek deze website (gelieve het adres te kopiëren en te plakken in uw "
-"browser):"
+"Bezoek deze website (gelieve het adres te kopiëren en te plakken in uw browser):"
 
 #: gufw/gufw/view/gufw.py:359
 msgid "Import Profile"
@@ -330,8 +331,7 @@ msgstr "Fout"
 
 #: gufw/gufw/view/gufw.py:369
 msgid ""
-"Filename has wrong permissions (not 600). Trust only on your exported "
-"profiles"
+"Filename has wrong permissions (not 600). Trust only on your exported profiles"
 msgstr ""
 "Bestandnaam heeft verkeerde rechten (niet 600). Vertrouw alleen op uw "
 "geëxporteerde profielen"
@@ -340,7 +340,9 @@ msgstr ""
 msgid ""
 "Filename has not valid characters. Rename the file\n"
 "to only letters, numbers, dashes and underscores"
-msgstr "Bestandsnaam heeft geen geldige karakters. Hernoem het bestand"
+msgstr ""
+"Bestandsnaam bevat ongeldige tekens. Hernoem het\n"
+"bestand met enkel letters, cijfers en streepjes"
 
 #: gufw/gufw/view/gufw.py:377
 msgid "Operation cancelled"
@@ -446,20 +448,19 @@ msgstr "Beleid voor Uitgaand is gewijzigd"
 
 #: gufw/gufw/view/gufw.py:490
 msgid "There was an error changing the outgoing policy"
-msgstr ""
-"Er is een fout opgetreden bij het veranderen van het beleid voor Uitgaand"
+msgstr "Er is een fout opgetreden bij het veranderen van het beleid voor Uitgaand"
 
 #: gufw/gufw/view/gufw.py:499
 msgid "Routed: "
-msgstr ""
+msgstr "Doorgestuurd: "
 
 #: gufw/gufw/view/gufw.py:500
 msgid "Routed policy changed"
-msgstr ""
+msgstr "Doorstuurbeleid gewijzigd"
 
 #: gufw/gufw/view/gufw.py:502
 msgid "There was an error changing the routed policy"
-msgstr ""
+msgstr "Er is een fout opgetreden bij het wijzigen van het doorstuurbeleid"
 
 #: gufw/gufw/view/gufw.py:523 gufw/gufw/view/gufw.py:615
 msgid "Select just one row"
@@ -467,7 +468,7 @@ msgstr "Selecteer één rij"
 
 #: gufw/gufw/view/gufw.py:523
 msgid "You can create a rule from just one row selected"
-msgstr ""
+msgstr "U kunt een regel maken vanuit slechts één gekozen rij"
 
 #: gufw/gufw/view/gufw.py:548
 msgid "Status: Enabled"
@@ -492,8 +493,7 @@ msgstr ""
 
 #: gufw/gufw/view/gufw.py:564
 msgid ""
-"Restart your firewall to refresh to the real status and please report this "
-"bug"
+"Restart your firewall to refresh to the real status and please report this bug"
 msgstr ""
 "Herstart uw firewall om te verversen naar de werkelijke status en meld deze "
 "fout a.u.b."
@@ -504,7 +504,7 @@ msgstr "Regel verwijderen"
 
 #: gufw/gufw/view/gufw.py:579
 msgid "You will delete all selected rules"
-msgstr "Alle geselecteerde regels worden verwijderd"
+msgstr "U zult alle gekozen regels verwijderen"
 
 #: gufw/gufw/view/gufw.py:591
 msgid "Rule(s) deleted"
@@ -524,11 +524,11 @@ msgstr "U dient een regel te selecteren"
 
 #: gufw/gufw/view/gufw.py:615
 msgid "You can edit just one rule"
-msgstr ""
+msgstr "U kunt slechts één regel bewerken"
 
 #: gufw/gufw/view/gufw.py:623
 msgid "Immutable Rule"
-msgstr ""
+msgstr "Onveranderlijke regel"
 
 #: gufw/gufw/view/gufw.py:623
 msgid "You can't edit a rule added from ufw"
@@ -607,108 +607,106 @@ msgid "Insert number bigger that number of rules"
 msgstr "Voeg nummer in dat groter is dan aantal regels"
 
 #: gufw/gufw/view/gufw.py:831
-msgid ""
-"By example, if you have 3 rules, you can't insert a rule into position 4"
+msgid "By example, if you have 3 rules, you can't insert a rule into position 4"
 msgstr ""
-"Bijvoorbeeld, indien u drie regels hebt, kunt u geen regel invoegen in "
-"positie 4"
+"Bijvoorbeeld, indien u drie regels hebt, kunt u geen regel invoegen in positie 4"
 
 #: gufw/gufw/view/preferences.py:82 gufw/gufw/view/preferences.py:127
 msgid "Profile"
-msgstr ""
+msgstr "Profiel"
 
 #: gufw/gufw/view/preferences.py:91 gufw/gufw/view/preferences.py:95
 #: gufw/gufw/view/preferences.py:99 gufw/gufw/view/preferences.py:103
 msgid "Profile not valid"
-msgstr ""
+msgstr "Profiel niet geldig"
 
 #: gufw/gufw/view/preferences.py:91
 msgid "You can't use this profile name"
-msgstr ""
+msgstr "U kunt deze profielnaam niet gebruiken"
 
 #: gufw/gufw/view/preferences.py:95
 msgid "Enter at least one character"
-msgstr ""
+msgstr "Voer tenminste één teken in"
 
 #: gufw/gufw/view/preferences.py:99
 msgid "Too long! (max. 15 characters)"
-msgstr ""
+msgstr "Te lang: maximaal 15 tekens."
 
 #: gufw/gufw/view/preferences.py:103
 msgid "Use only letters, numbers, dashes and underscores"
-msgstr ""
+msgstr "Gebruik alleen letters, cijfers en streepjes"
 
 #: gufw/gufw/view/preferences.py:108
 msgid "Profile exist"
-msgstr ""
+msgstr "Profiel bestaat al"
 
 #: gufw/gufw/view/preferences.py:108
 msgid "There is a profile with the same name"
-msgstr ""
+msgstr "Er is al een profiel met die naam"
 
 #: gufw/gufw/view/preferences.py:113
 msgid "Current profile"
-msgstr ""
+msgstr "Huidig profiel"
 
 #: gufw/gufw/view/preferences.py:113
 msgid "You can't rename the current profile"
-msgstr ""
+msgstr "U kunt het huidige profiel niet hernoemen"
 
 #: gufw/gufw/view/preferences.py:120
 msgid "Edited Profile: "
-msgstr ""
+msgstr "Profiel bewerkt: "
 
 #: gufw/gufw/view/preferences.py:138
 msgid "Created Profile: "
-msgstr ""
+msgstr "Profiel gemaakt: "
 
 #: gufw/gufw/view/preferences.py:143
 msgid "Select a profile"
-msgstr ""
+msgstr "Kies een profiel"
 
 #: gufw/gufw/view/preferences.py:143
 msgid "You need to select a profile for deleting"
-msgstr ""
+msgstr "U dient een profiel te kiezen om te verwijderen"
 
 #: gufw/gufw/view/preferences.py:147
 msgid "Profile not erasable"
-msgstr ""
+msgstr "Profiel niet verwijderbaar"
 
 #: gufw/gufw/view/preferences.py:147
 msgid "You can't remove the current profile"
-msgstr ""
+msgstr "U kunt het huidige profiel niet verwijderen"
 
 #: gufw/gufw/view/preferences.py:152
 msgid "Deleted Profile: "
-msgstr ""
+msgstr "Verwijderd profiel: "
 
 #: gufw/gufw/view/preferences.py:156
 msgid "ufw Logging: "
-msgstr ""
+msgstr "ufw-logboeken: "
 
 #: gufw/gufw/view/preferences.py:161
 msgid "Gufw Logging: Enabled"
-msgstr ""
+msgstr "Gufw-logboeken: ingeschakeld"
 
 #: gufw/gufw/view/preferences.py:163
 msgid "Gufw Logging: Disabled"
-msgstr ""
+msgstr "Gufw-logboeken: uitgeschakeld"
 
 #: gufw/gufw/view/preferences.py:169
 msgid "Confirm Delete Dialog: Enabled"
-msgstr ""
+msgstr "Bevestigingsdialoog voor verwijderen: ingeschakeld"
 
 #: gufw/gufw/view/preferences.py:172
 msgid "Confirm Delete Dialog: Disabled"
-msgstr ""
+msgstr "Bevestigingsdialoog voor verwijderen: uitgeschakeld"
 
 #: gufw/gufw/view/preferences.py:184
 msgid "Refresh Interval: "
-msgstr ""
+msgstr "Tussenpoze voor verversen: "
 
 #: gufw/gufw/view/update.py:79 data/ui/add.ui:1074 data/ui/update.ui:480
 msgid "You need to set an Interface"
-msgstr ""
+msgstr "U dient een netwerkapparaat in te stellen"
 
 #: gufw/gufw/view/update.py:251
 msgid "No changes were made!"
@@ -728,13 +726,15 @@ msgstr "Bijgewerkte regel "
 
 #: data/ui/about.ui:8
 msgid "About Gufw Firewall"
-msgstr ""
+msgstr "Over Gufw Firewall"
 
 #: data/ui/about.ui:19
 msgid ""
 "An uncomplicated way to manage your firewall, powered by ufw.\n"
 "Easy, simple, nice and useful!"
 msgstr ""
+"Een makkelijke manier om uw ufw-firewall te bedienen.\n"
+"Makkelijk, eenvoudig, mooi en nuttig."
 
 #: data/ui/about.ui:669
 msgid "translator-credits"
@@ -779,18 +779,15 @@ msgstr "Weigeren"
 msgid "Reject"
 msgstr "Verwerpen"
 
-#: data/ui/add.ui:94 data/ui/add.ui:464 data/ui/add.ui:719
-#: data/ui/update.ui:154
+#: data/ui/add.ui:94 data/ui/add.ui:464 data/ui/add.ui:719 data/ui/update.ui:154
 msgid "Limit"
 msgstr "Beperken"
 
-#: data/ui/add.ui:109 data/ui/add.ui:480 data/ui/add.ui:735
-#: data/ui/update.ui:170
+#: data/ui/add.ui:109 data/ui/add.ui:480 data/ui/add.ui:735 data/ui/update.ui:170
 msgid "In"
 msgstr "In"
 
-#: data/ui/add.ui:110 data/ui/add.ui:481 data/ui/add.ui:736
-#: data/ui/update.ui:171
+#: data/ui/add.ui:110 data/ui/add.ui:481 data/ui/add.ui:736 data/ui/update.ui:171
 msgid "Out"
 msgstr "Uit"
 
@@ -799,13 +796,11 @@ msgstr "Uit"
 msgid "Both"
 msgstr "Beide"
 
-#: data/ui/add.ui:154 data/ui/add.ui:412 data/ui/add.ui:651
-#: data/ui/update.ui:86
+#: data/ui/add.ui:154 data/ui/add.ui:412 data/ui/add.ui:651 data/ui/update.ui:86
 msgid "Policy:"
 msgstr "Beleid:"
 
-#: data/ui/add.ui:170 data/ui/add.ui:428 data/ui/add.ui:667
-#: data/ui/update.ui:102
+#: data/ui/add.ui:170 data/ui/add.ui:428 data/ui/add.ui:667 data/ui/update.ui:102
 msgid "Direction:"
 msgstr "Richting:"
 
@@ -823,7 +818,7 @@ msgstr "Toepassing:"
 
 #: data/ui/add.ui:239
 msgid "Application Filter"
-msgstr ""
+msgstr "Toepassingsfilter"
 
 #: data/ui/add.ui:270 data/ui/add.ui:271 data/ui/add.ui:589 data/ui/add.ui:590
 msgid "Copy app values and jump to Advanced Tab"
@@ -851,22 +846,22 @@ msgstr "Poort:"
 
 #: data/ui/add.ui:532 data/ui/add.ui:964 data/ui/update.ui:403
 msgid "Name:"
-msgstr "Naam"
+msgstr "Naam:"
 
 #: data/ui/add.ui:550 data/ui/add.ui:1028 data/ui/update.ui:420
 msgid "Rule Description"
-msgstr ""
+msgstr "Beschrijving van regel"
 
 #: data/ui/add.ui:568
 msgid ""
 "You can write a port as '22', a port range as '22:24' or a service as 'http'"
 msgstr ""
-"U kunt een poort schrijven als '22', een poortbereik als '22:24' of een "
-"dienst als 'http'"
+"U kunt een poort schrijven als '22', een poortbereik als '22:24' of een dienst "
+"als 'http'"
 
 #: data/ui/add.ui:572
 msgid "Port or service"
-msgstr ""
+msgstr "Poort of dienst"
 
 #: data/ui/add.ui:625
 msgid "Simple"
@@ -895,7 +890,7 @@ msgstr "Naar:"
 #: data/ui/add.ui:827 data/ui/add.ui:898 data/ui/update.ui:261
 #: data/ui/update.ui:335
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: data/ui/add.ui:843 data/ui/add.ui:914 data/ui/update.ui:277
 #: data/ui/update.ui:278 data/ui/update.ui:351 data/ui/update.ui:352
@@ -909,21 +904,21 @@ msgstr "U kunt een poort schrijven als '22' of een poortbereik als '22:24'"
 #: data/ui/add.ui:936 data/ui/update.ui:375
 msgid ""
 "You can write a port as '22' or a port range as '22:24'.\n"
-"If you're editing a Preconfigured or Simple rule, Interface field must be "
-"'All Interfaces' and the IPs and From Port fields must be empty."
+"If you're editing a Preconfigured or Simple rule, Interface field must be 'All "
+"Interfaces' and the IPs and From Port fields must be empty."
 msgstr ""
 "U kunt een poort schrijven als '22' of een poortbereik als '22:24'\n"
 "Indien u een Vooringestelde of Eenvoudige regel bewerkt, dan moet het "
-"apparaatveld 'Alle apparaten' zijn en de velden IP's en Van Poort moeten "
-"leeg zijn."
+"apparaatveld 'Alle apparaten' zijn en de velden IP's en Van Poort moeten leeg "
+"zijn."
 
 #: data/ui/add.ui:980
 msgid "Insert:"
-msgstr ""
+msgstr "Invoegen:"
 
 #: data/ui/add.ui:994 data/ui/update.ui:435
 msgid "Interface:"
-msgstr "Apparaat:"
+msgstr "Netwerkapparaat:"
 
 #: data/ui/add.ui:1007 data/ui/add.ui:1008
 msgid "Rule number to insert"
@@ -931,7 +926,7 @@ msgstr "Regelnummer om in te voegen"
 
 #: data/ui/add.ui:1011
 msgid "At the end"
-msgstr ""
+msgstr "Op het einde"
 
 #: data/ui/add.ui:1101
 msgid "Advanced"
@@ -947,15 +942,15 @@ msgstr "_Bestand"
 
 #: data/ui/gufw.ui:80
 msgid "_Import profile"
-msgstr ""
+msgstr "Profiel _importeren"
 
 #: data/ui/gufw.ui:92
 msgid "_Export this profile"
-msgstr ""
+msgstr "Dit profiel _exporteren"
 
 #: data/ui/gufw.ui:96
 msgid "Only the rules added from Gufw will be exported (not ufw rules)"
-msgstr ""
+msgstr "Alleen de Gufw-regels zullen worden geëxporteerd (niet die van ufw)"
 
 #: data/ui/gufw.ui:129
 msgid "_Edit"
@@ -963,7 +958,7 @@ msgstr "_Bewerken"
 
 #: data/ui/gufw.ui:137
 msgid "_Reset Current Profile"
-msgstr ""
+msgstr "Huidig profiel terugzetten op standaard"
 
 #: data/ui/gufw.ui:173
 msgid "_Help"
@@ -971,31 +966,31 @@ msgstr "_Hulp"
 
 #: data/ui/gufw.ui:181
 msgid "_Documentation..."
-msgstr ""
+msgstr "_Documentatie..."
 
 #: data/ui/gufw.ui:185 data/ui/gufw.ui:258
 msgid "Go to the official documentation"
-msgstr ""
+msgstr "Ga naar de officiële documentatie"
 
 #: data/ui/gufw.ui:200
 msgid "Get Help _Online..."
-msgstr ""
+msgstr "Verkrijg hulp op het internet..."
 
 #: data/ui/gufw.ui:204 data/ui/gufw.ui:270
 msgid "Go to the official answers"
-msgstr ""
+msgstr "Ga naar de officiële antwoorden"
 
 #: data/ui/gufw.ui:213
 msgid "_Report a Problem..."
-msgstr ""
+msgstr "Meld een probleem..."
 
 #: data/ui/gufw.ui:225
 msgid "_Translate this Application..."
-msgstr ""
+msgstr "Vertaal deze toepassing..."
 
 #: data/ui/gufw.ui:246
 msgid "_Follow"
-msgstr ""
+msgstr "_Volgen"
 
 #: data/ui/gufw.ui:259
 msgid "_Google +"
@@ -1015,31 +1010,31 @@ msgstr ""
 
 #: data/ui/gufw.ui:302
 msgid "Thanks in advance!!"
-msgstr ""
+msgstr "Bij voorbaat dank!"
 
 #: data/ui/gufw.ui:303
 msgid "_Donate..."
-msgstr ""
+msgstr "_Doneren..."
 
 #: data/ui/gufw.ui:372
 msgid "_Profile:"
-msgstr ""
+msgstr "_Profiel:"
 
 #: data/ui/gufw.ui:386
 msgid "S_tatus:"
-msgstr ""
+msgstr "S_tatus:"
 
 #: data/ui/gufw.ui:400
 msgid "_Incoming:"
-msgstr ""
+msgstr "_Binnenkomend:"
 
 #: data/ui/gufw.ui:414
 msgid "_Outgoing:"
-msgstr ""
+msgstr "_Uitgaand:"
 
 #: data/ui/gufw.ui:526
 msgid "_Routed:"
-msgstr ""
+msgstr "_Doorgestuurd:"
 
 #: data/ui/gufw.ui:596
 msgid "<b>Firewall</b>"
@@ -1056,7 +1051,7 @@ msgstr "Toevoegen"
 
 #: data/ui/gufw.ui:698 data/ui/gufw.ui:699
 msgid "Remove the selected rule(s)"
-msgstr "Geselecteerde regel(s) verwijderen"
+msgstr "Gekozen regel(s) verwijderen"
 
 #: data/ui/gufw.ui:700 data/ui/gufw.ui:718 data/ui/gufw.ui:911
 #: data/ui/preferences.ui:384
@@ -1065,31 +1060,31 @@ msgstr "Verwijderen"
 
 #: data/ui/gufw.ui:716 data/ui/gufw.ui:717
 msgid "Edit the selected rule"
-msgstr ""
+msgstr "Bewerk de gekozen regel"
 
 #: data/ui/gufw.ui:789
 msgid "Pause Listening Report"
-msgstr ""
+msgstr "Luisterrapport pauzeren"
 
 #: data/ui/gufw.ui:790 data/ui/gufw.ui:805
 msgid "Pause"
-msgstr ""
+msgstr "Pauzeren"
 
 #: data/ui/gufw.ui:804
 msgid "See current Listening Report"
-msgstr ""
+msgstr "Bekijk huidig Luisterrapport"
 
 #: data/ui/gufw.ui:821
 msgid "Create a rule from the listening report..."
-msgstr ""
+msgstr "Maak een regel vanuit het luisterrapport..."
 
 #: data/ui/gufw.ui:891 data/ui/gufw.ui:892
 msgid "Copy log to clipboard"
-msgstr ""
+msgstr "Kopieer logboek naar klembord"
 
 #: data/ui/gufw.ui:909 data/ui/gufw.ui:910
 msgid "Remove log"
-msgstr ""
+msgstr "Verwijder logboek"
 
 #: data/ui/preferences.ui:16
 msgid "Firewall Preferences"
@@ -1121,7 +1116,7 @@ msgstr "Volledig"
 
 #: data/ui/preferences.ui:124
 msgid "<b>ufw</b>"
-msgstr ""
+msgstr "<b>ufw</b>"
 
 #: data/ui/preferences.ui:155
 msgid "Lo_gging Gufw activity"
@@ -1129,21 +1124,23 @@ msgstr "Gufw-activiteit vastleggen in logboek"
 
 #: data/ui/preferences.ui:175
 msgid "Show confirm dialog for deleting rules"
-msgstr ""
+msgstr "Toon bevestigingsdialoog voor verwijderen van regels"
 
 #: data/ui/preferences.ui:202
 msgid "<b>Gufw</b>"
-msgstr ""
+msgstr "<b>Gufw</b>"
 
 #: data/ui/preferences.ui:242
 msgid "Refresh Interval:"
-msgstr ""
+msgstr "Tussenpoze voor verversen:"
 
 #: data/ui/preferences.ui:257
 msgid ""
 "Less seconds uses more CPU\n"
 "This interval will apply the next time you expand the Listening Report"
 msgstr ""
+"Minder seconden is harder werken voor het systeem\n"
+"Deze tussenpoze zal gelden wanneer u het Luisterrapport weer uitklapt"
 
 #: data/ui/preferences.ui:297
 msgid "<b>Listening Report</b>"
@@ -1155,11 +1152,11 @@ msgstr "Voeg een profiel toe"
 
 #: data/ui/preferences.ui:382 data/ui/preferences.ui:383
 msgid "Remove the selected profile"
-msgstr "Het geselecteerde profiel verwijderen"
+msgstr "Verwijder het gekozen profiel"
 
 #: data/ui/preferences.ui:411
 msgid "<b>Profiles</b>"
-msgstr ""
+msgstr "<b>Profielen</b>"
 
 #: data/ui/update.ui:8
 msgid "Update a Firewall Rule"
@@ -1208,8 +1205,8 @@ msgid ""
 "A decentralized peer-to-peer networking framework with file sharing and "
 "messaging"
 msgstr ""
-"Een gedecentralizeerd peer-to-peer netwerkkader (framework) met "
-"mogelijkheden voor bestandsdeling en sturen van berichten"
+"Een gedecentralizeerd peer-to-peer netwerkkader (framework) met mogelijkheden "
+"voor bestandsdeling en sturen van berichten"
 
 #: DEV_extra_translations/extra_translations.py:15
 msgid "Network;File Transfer;"
@@ -1221,8 +1218,7 @@ msgstr "netPanzer"
 
 #: DEV_extra_translations/extra_translations.py:17
 msgid "An online multiplayer tactical warfare game"
-msgstr ""
-"Een spel over tactische oorlogsvoering tussen meerdere online spelers"
+msgstr "Een spel over tactische oorlogsvoering tussen meerdere online spelers"
 
 #: DEV_extra_translations/extra_translations.py:18
 msgid "Postal"
@@ -1263,8 +1259,7 @@ msgid "Counter-Strike 2D"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:28
-msgid ""
-"A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software"
+msgid "A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:29
@@ -1353,8 +1348,7 @@ msgid "SIP"
 msgstr "SIP"
 
 #: DEV_extra_translations/extra_translations.py:57
-msgid ""
-"Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
+msgid "Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
 msgstr ""
 "Sessie-initialiseringsprotocol (SIP), niet versleuteld, met behulp van de "
 "nf_conntrack_sip module"
@@ -1372,8 +1366,7 @@ msgid "MiniDLNA"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:61
-msgid ""
-"Serves media files (music, pictures, and video) to clients on a network"
+msgid "Serves media files (music, pictures, and video) to clients on a network"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:62
@@ -1393,8 +1386,7 @@ msgid "Crossfire"
 msgstr "Crossfire"
 
 #: DEV_extra_translations/extra_translations.py:66
-msgid ""
-"An open source, cooperative multiplayer graphical RPG and adventure game"
+msgid "An open source, cooperative multiplayer graphical RPG and adventure game"
 msgstr ""
 "Een open-bron, samenwerkingsgericht meerspelersspel inzake grafische RPG en "
 "avontuur"
@@ -1460,8 +1452,7 @@ msgid "FreeOrion"
 msgstr "FreeOrion"
 
 #: DEV_extra_translations/extra_translations.py:82
-msgid ""
-"A turn-based 4X strategy game inspired by Master of Orion from MicroProse"
+msgid "A turn-based 4X strategy game inspired by Master of Orion from MicroProse"
 msgstr "Een 4X-strategiespel geïnspireerd door Orion van MicroProse"
 
 #: DEV_extra_translations/extra_translations.py:83
@@ -1702,8 +1693,7 @@ msgid "Steel Storm"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:138
-msgid ""
-"A top-down arcade shooter with hovertanks by Kot-in-Action Creative Artel"
+msgid "A top-down arcade shooter with hovertanks by Kot-in-Action Creative Artel"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:139
@@ -1716,7 +1706,7 @@ msgstr "Interface daemon voor GPS receivers"
 
 #: DEV_extra_translations/extra_translations.py:141
 msgid "Network;Geography;"
-msgstr "Netwerk;Geografie"
+msgstr "Netwerk;Geografie;"
 
 #: DEV_extra_translations/extra_translations.py:142
 msgid "Socks Proxy"
@@ -1885,7 +1875,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:186
 msgid "Communicate across all your devices"
-msgstr ""
+msgstr "Communiceer via al uw netwerkapparaten"
 
 #: DEV_extra_translations/extra_translations.py:187
 msgid "OpenArena"
@@ -1929,11 +1919,9 @@ msgid "Freeciv"
 msgstr "Freeciv"
 
 #: DEV_extra_translations/extra_translations.py:197
-msgid ""
-"A turn-based strategy game similar to Civilization I & II by Microprose"
+msgid "A turn-based strategy game similar to Civilization I & II by Microprose"
 msgstr ""
-"Een beurt-gebaseerd strategiespel lijkend op Civilization I & II door "
-"Microprose"
+"Een beurt-gebaseerd strategiespel lijkend op Civilization I & II door Microprose"
 
 #: DEV_extra_translations/extra_translations.py:198
 msgid "The Battle for Wesnoth"
@@ -1972,8 +1960,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:206
 msgid ""
-"Telnet is like SSH but without security. It'd be better to use the 'Telnet "
-"SSL'"
+"Telnet is like SSH but without security. It'd be better to use the 'Telnet SSL'"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:207
@@ -2133,8 +2120,8 @@ msgstr "Ubuntu One"
 
 #: DEV_extra_translations/extra_translations.py:242
 msgid ""
-"Store files online and sync them between computers and mobile devices, as "
-"well as stream audio and music from cloud to mobile devices"
+"Store files online and sync them between computers and mobile devices, as well "
+"as stream audio and music from cloud to mobile devices"
 msgstr ""
 "Sla bestanden op het internet op en synchroniseer ze tussen computers en "
 "mobiele apparaten, en speel muziek en geluid af vanuit de wolkdienst naar "
@@ -2264,7 +2251,7 @@ msgstr "Een netwerkprotocol voor raster"
 
 #: DEV_extra_translations/extra_translations.py:273
 msgid "All Services"
-msgstr ""
+msgstr "Alle diensten"
 
 #: DEV_extra_translations/extra_translations.py:274
 msgid "Client, dedicated servers, P2P and voice chat"
@@ -2283,8 +2270,7 @@ msgid "Client"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:278
-msgid ""
-"Game client traffic, typically Matchmaking and HLTV and Steam downloads"
+msgid "Game client traffic, typically Matchmaking and HLTV and Steam downloads"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:279
@@ -2386,8 +2372,7 @@ msgstr "XMPP"
 
 #: DEV_extra_translations/extra_translations.py:303
 msgid "Extensible Messaging and Presence Protocol client connection (Jabber)"
-msgstr ""
-"Extensible Messaging and Presence Protocol client connection (Jabber)"
+msgstr "Extensible Messaging and Presence Protocol client connection (Jabber)"
 
 #: DEV_extra_translations/extra_translations.py:304
 msgid "Network;Telephony;Instant Messaging;"
@@ -2399,11 +2384,11 @@ msgstr "XMPP SSL"
 
 #: DEV_extra_translations/extra_translations.py:306
 msgid ""
-"Extensible Messaging and Presence Protocol (Jabber) client connection with "
-"SSL encryption"
+"Extensible Messaging and Presence Protocol (Jabber) client connection with SSL "
+"encryption"
 msgstr ""
-"Extensible Messaging and Presence Protocol (Jabber) client connection met "
-"SSL-versleuteling"
+"Extensible Messaging and Presence Protocol (Jabber) client connection met SSL-"
+"versleuteling"
 
 #: DEV_extra_translations/extra_translations.py:307
 msgid "XMPP Interserver"
@@ -2461,8 +2446,8 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:324
 msgid ""
-"Network File System protocol with static ports at relatively unused "
-"4194:4197 (4195 broadcast out)"
+"Network File System protocol with static ports at relatively unused 4194:4197 "
+"(4195 broadcast out)"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:325
@@ -2571,13 +2556,13 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:353
 msgid ""
-"Universal Plug and Play. It is a framework which can be used to make "
-"networked applications"
+"Universal Plug and Play. It is a framework which can be used to make networked "
+"applications"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:354
 msgid "System;General;"
-msgstr ""
+msgstr "Systeem;Algemeen;"
 
 #: DEV_extra_translations/extra_translations.py:355
 msgid "Joint Operations: Typhoon Rising"
@@ -2668,8 +2653,7 @@ msgstr "Postfix Mail Server SMTP"
 #: DEV_extra_translations/extra_translations.py:380
 #: DEV_extra_translations/extra_translations.py:382
 msgid "Postfix is a high-performance mail transport agent"
-msgstr ""
-"Postfix is een goed presterend programma voor het transport van e-mails"
+msgstr "Postfix is een goed presterend programma voor het transport van e-mails"
 
 #: DEV_extra_translations/extra_translations.py:379
 msgid "Postfix Mail Server SMTPS"
@@ -2734,7 +2718,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:397
 msgid "System logging"
-msgstr ""
+msgstr "Logboek van het systeem"
 
 #: DEV_extra_translations/extra_translations.py:398
 msgid "System;"
@@ -2838,8 +2822,7 @@ msgstr "Teeworlds"
 
 #: DEV_extra_translations/extra_translations.py:422
 msgid "An open source sidescrolling multiplayer shooting game"
-msgstr ""
-"Een opensource, horizontaal scrollend schietspel voor meerdere spelers"
+msgstr "Een opensource, horizontaal scrollend schietspel voor meerdere spelers"
 
 #: DEV_extra_translations/extra_translations.py:423
 msgid "Thousand Parsec"
@@ -2848,8 +2831,7 @@ msgstr ""
 #: DEV_extra_translations/extra_translations.py:424
 #: DEV_extra_translations/extra_translations.py:426
 #: DEV_extra_translations/extra_translations.py:428
-msgid ""
-"A common framework for building turn based space empire building games"
+msgid "A common framework for building turn based space empire building games"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:425
@@ -2889,8 +2871,7 @@ msgid "D2X-XL"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:436
-msgid ""
-"A source port of Descent II, the 3D Flying FPS by Outrage Entertainment"
+msgid "A source port of Descent II, the 3D Flying FPS by Outrage Entertainment"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:437
@@ -2992,8 +2973,8 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:461
 msgid ""
-"Network File System protocol with static ports at 32765:32768 (some "
-"conflicts with popular games)"
+"Network File System protocol with static ports at 32765:32768 (some conflicts "
+"with popular games)"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:462
@@ -3011,8 +2992,7 @@ msgid "Asterisk"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:465
-msgid ""
-"An open source telephony switching and private branch exchange service"
+msgid "An open source telephony switching and private branch exchange service"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:466
@@ -3113,8 +3093,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:494
 msgid ""
-"A mech FPS based on the Dream Pod 9 universe from Activision and Loki "
-"Software"
+"A mech FPS based on the Dream Pod 9 universe from Activision and Loki Software"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:495
@@ -3138,10 +3117,8 @@ msgid "Spring game engine"
 msgstr "Spring game engine"
 
 #: DEV_extra_translations/extra_translations.py:500
-msgid ""
-"An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
-msgstr ""
-"An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
+msgid "An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
+msgstr "An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
 
 #: DEV_extra_translations/extra_translations.py:501
 msgid "0verkill"
@@ -3169,8 +3146,7 @@ msgstr "Nicotine"
 
 #: DEV_extra_translations/extra_translations.py:508
 msgid ""
-"Nicotine is a SoulSeek client written in Python, based on the PySoulSeek "
-"project"
+"Nicotine is a SoulSeek client written in Python, based on the PySoulSeek project"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:510
@@ -3218,8 +3194,7 @@ msgid "Tether"
 msgstr "Tether"
 
 #: DEV_extra_translations/extra_translations.py:521
-msgid ""
-"A clone of strategy game Moonbase Commander by Humongous Entertainment"
+msgid "A clone of strategy game Moonbase Commander by Humongous Entertainment"
 msgstr ""
 "Een kloon van het strategische spel Moonbase Commander door Humongous "
 "Entertainment"
@@ -3294,13 +3269,13 @@ msgstr "SAMBA"
 
 #: DEV_extra_translations/extra_translations.py:541
 msgid ""
-"SMB/CIFS protocol for Unix systems, allowing you to serve files and printers "
-"to Windows, NT, OS/2 and DOS clients"
+"SMB/CIFS protocol for Unix systems, allowing you to serve files and printers to "
+"Windows, NT, OS/2 and DOS clients"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:542
 msgid "Network;Services;|Network;File Transfer"
-msgstr ""
+msgstr "Netwerk;Diensten;|Netwerk;Bestandsoverdracht;"
 
 #: DEV_extra_translations/extra_translations.py:543
 msgid "F-22 Raptor"
@@ -3446,8 +3421,8 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:578
 msgid ""
-"Alternate 25600 remote administration Telnet port for Serious Engine "
-"dedicated server"
+"Alternate 25600 remote administration Telnet port for Serious Engine dedicated "
+"server"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:579
@@ -3467,8 +3442,7 @@ msgstr ""
 #: DEV_extra_translations/extra_translations.py:586
 #: DEV_extra_translations/extra_translations.py:588
 #: DEV_extra_translations/extra_translations.py:590
-msgid ""
-"A fighting game based on the physics sandbox model with customizable moves"
+msgid "A fighting game based on the physics sandbox model with customizable moves"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:583
@@ -3489,7 +3463,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:591
 msgid "NTP"
-msgstr ""
+msgstr "NTP"
 
 #: DEV_extra_translations/extra_translations.py:592
 msgid "Network Time Protocol"
@@ -3497,7 +3471,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:593
 msgid "Network;Time;"
-msgstr ""
+msgstr "Netwerk;Tijd;"
 
 #: DEV_extra_translations/extra_translations.py:594
 msgid "Nexuiz"
@@ -3513,8 +3487,7 @@ msgstr "FreeCol"
 
 #: DEV_extra_translations/extra_translations.py:597
 msgid "A turn-based strategy game similar to Colonization by Microprose"
-msgstr ""
-"Een beurtgebaseerd strategiespel lijkend op Colonization door Microprose"
+msgstr "Een beurtgebaseerd strategiespel lijkend op Colonization door Microprose"
 
 #: DEV_extra_translations/extra_translations.py:598
 msgid "BZFlag"
@@ -3530,14 +3503,15 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:601
 msgid ""
-"BitTorrent client used to transfer files via the BitTorrent protocol. Vuze "
-"uses the Azureus Engine"
+"BitTorrent client used to transfer files via the BitTorrent protocol. Vuze uses "
+"the Azureus Engine"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:602
-msgid ""
-"You need to add the main random port too that you selected the first time"
+msgid "You need to add the main random port too that you selected the first time"
 msgstr ""
+"U dient tevens de voornaamste willekeurige poort toe te voegen die u de eerste "
+"keer hebt gekozen"
 
 #: DEV_extra_translations/extra_translations.py:603
 msgid "NFS (Chris Lowth)"
@@ -3549,8 +3523,8 @@ msgid ""
 "with popular games; statd broadcast on random port)"
 msgstr ""
 "Netwerk Bestandsprotocol (NFS) met statische poorten op 4000:4002 (soms in "
-"conflict met populaire spelletjes; statd broadcast op een willekeurige "
-"'random' poort)"
+"conflict met populaire spelletjes; statd broadcast op een willekeurige 'random' "
+"poort)"
 
 #: DEV_extra_translations/extra_translations.py:605
 msgid "NFS Quota (Chris Lowth)"
@@ -3562,8 +3536,8 @@ msgid ""
 "4000:4003 (some conflicts with popular games; statd broadcast on random port)"
 msgstr ""
 "Netwerk Bestandsprotocol (NFS) met user/group bestandssysteem quota-"
-"ondersteuning en statische poorten op 4000:4003 (soms in conflict met "
-"populaire spelletjes; statd broadcast op een willekeurige 'random' poort)"
+"ondersteuning en statische poorten op 4000:4003 (soms in conflict met populaire "
+"spelletjes; statd broadcast op een willekeurige 'random' poort)"
 
 #: DEV_extra_translations/extra_translations.py:607
 msgid "DEFCON"
@@ -3732,8 +3706,8 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:649
 msgid ""
-"A Doom source port that accurately reproduces the experience of Doom as it "
-"was played in the 1990s"
+"A Doom source port that accurately reproduces the experience of Doom as it was "
+"played in the 1990s"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:650
@@ -3778,8 +3752,8 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:663
 msgid ""
-"A twitch-based, science fiction massively multiplayer online role-playing "
-"game (MMORPG)"
+"A twitch-based, science fiction massively multiplayer online role-playing game "
+"(MMORPG)"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:664
@@ -3837,8 +3811,8 @@ msgstr "Transmission"
 
 #: DEV_extra_translations/extra_translations.py:678
 msgid ""
-"BitTorrent client which features a simple interface on top of a cross-"
-"platform backend"
+"BitTorrent client which features a simple interface on top of a cross-platform "
+"backend"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:680
@@ -3882,44 +3856,40 @@ msgid "World of Padman - 27960/udp"
 msgstr "World of Padman - 27960/udp"
 
 #: DEV_extra_translations/extra_translations.py:691
-msgid ""
-"A FPS by Padworld Entertainment based on Quake III, server on port 27960"
+msgid "A FPS by Padworld Entertainment based on Quake III, server on port 27960"
 msgstr ""
-"Een eenpersoons-schietspel door Padworld Entertainment gebaseerd op Quake "
-"III, server op poort 27960"
+"Een eenpersoons-schietspel door Padworld Entertainment gebaseerd op Quake III, "
+"server op poort 27960"
 
 #: DEV_extra_translations/extra_translations.py:692
 msgid "World of Padman - 27961/udp"
 msgstr "World of Padman - 27961/udp"
 
 #: DEV_extra_translations/extra_translations.py:693
-msgid ""
-"A FPS by Padworld Entertainment based on Quake III, server on port 27961"
+msgid "A FPS by Padworld Entertainment based on Quake III, server on port 27961"
 msgstr ""
-"Een eenpersoons-schietspel door Padworld Entertainmentgebaseerd op Quake "
-"III, server op poort 27961"
+"Een eenpersoons-schietspel door Padworld Entertainmentgebaseerd op Quake III, "
+"server op poort 27961"
 
 #: DEV_extra_translations/extra_translations.py:694
 msgid "World of Padman - 27962/udp"
 msgstr "World of Padman - 27962/udp"
 
 #: DEV_extra_translations/extra_translations.py:695
-msgid ""
-"A FPS by Padworld Entertainment based on Quake III, server on port 27962"
+msgid "A FPS by Padworld Entertainment based on Quake III, server on port 27962"
 msgstr ""
-"Een eenpersoons-schietspel door Padworld Entertainment gebaseerd op Quake "
-"III, server op poort 27962"
+"Een eenpersoons-schietspel door Padworld Entertainment gebaseerd op Quake III, "
+"server op poort 27962"
 
 #: DEV_extra_translations/extra_translations.py:696
 msgid "World of Padman - 27963/udp"
 msgstr "World of Padman - 27963/udp"
 
 #: DEV_extra_translations/extra_translations.py:697
-msgid ""
-"A FPS by Padworld Entertainment based on Quake III, server on port 27963"
+msgid "A FPS by Padworld Entertainment based on Quake III, server on port 27963"
 msgstr ""
-"Een eenpersoons-schietspel door Padworld Entertainment gebaseerd op Quake "
-"III, server op poort 27963"
+"Een eenpersoons-schietspel door Padworld Entertainment gebaseerd op Quake III, "
+"server op poort 27963"
 
 #: DEV_extra_translations/extra_translations.py:698
 msgid "SSDP"
@@ -3959,8 +3929,7 @@ msgid "Clonk LAN"
 msgstr "Clonk LAN"
 
 #: DEV_extra_translations/extra_translations.py:707
-msgid ""
-"An action/RTS/platform game by RedWolf Design; LAN game discovery port"
+msgid "An action/RTS/platform game by RedWolf Design; LAN game discovery port"
 msgstr ""
 "Een actie/RTS/platform spel door RedWolf Design; LAN spel ontdekkingspoort"
 
@@ -3998,13 +3967,12 @@ msgid "Bitwig"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:717
-msgid ""
-"Multi-platform music-creation system for production, performance and DJing"
+msgid "Multi-platform music-creation system for production, performance and DJing"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:718
 msgid "Audio Video;Music;"
-msgstr ""
+msgstr "Geluid;Video;Muziek;"
 
 #: DEV_extra_translations/extra_translations.py:719
 msgid "Deluge Torrent"
@@ -4012,8 +3980,7 @@ msgstr "Deluge Torrent"
 
 #: DEV_extra_translations/extra_translations.py:720
 msgid "Cross-platform BitTorrent client written with Python and GTK+"
-msgstr ""
-"Platformoverstijgend BitTorrent-programma geschreven met Python en GTK+"
+msgstr "Platformoverstijgend BitTorrent-programma geschreven met Python en GTK+"
 
 #: DEV_extra_translations/extra_translations.py:722
 msgid "Amule"
@@ -4021,8 +3988,8 @@ msgstr "Amule"
 
 #: DEV_extra_translations/extra_translations.py:723
 msgid ""
-"Free peer-to-peer file sharing application that works with the EDonkey "
-"network and the Kad network"
+"Free peer-to-peer file sharing application that works with the EDonkey network "
+"and the Kad network"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:725
@@ -4064,8 +4031,8 @@ msgstr "Castle Vox"
 
 #: DEV_extra_translations/extra_translations.py:738
 msgid ""
-"A simultaneous-turns strategy game from Sillysoft influenced by Diplomacy "
-"and Axis & Allies"
+"A simultaneous-turns strategy game from Sillysoft influenced by Diplomacy and "
+"Axis & Allies"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:739
@@ -4242,8 +4209,8 @@ msgstr "Warsow"
 #: DEV_extra_translations/extra_translations.py:788
 msgid "A competitive FPS based on the Qfusion 3D/id tech 2 engine"
 msgstr ""
-"Een uitdagend eenpersoons-schietspel gebaseerd op de motor van  Qfusion "
-"3D/id tech 2"
+"Een uitdagend eenpersoons-schietspel gebaseerd op de motor van  Qfusion 3D/id "
+"tech 2"
 
 #: DEV_extra_translations/extra_translations.py:789
 msgid "Bos Wars"
@@ -4363,8 +4330,7 @@ msgstr "HTTP - 8090/tcp"
 
 #: DEV_extra_translations/extra_translations.py:822
 msgid ""
-"WWW standard protocol on port 8090/tcp (IANA unassigned, commonly "
-"http_alt_alt)"
+"WWW standard protocol on port 8090/tcp (IANA unassigned, commonly http_alt_alt)"
 msgstr ""
 "WWW-standaardprotocol op poort 8090/tcp (IANA unassigned, gewoonlijk "
 "http_alt_alt)"
@@ -4470,8 +4436,7 @@ msgstr "Webcam_server"
 
 #: DEV_extra_translations/extra_translations.py:859
 msgid "A webcam viewer for web servers with an optional Java-based viewer"
-msgstr ""
-"Een webcamkijker voor webservers met een optionele Java-gebaseerde kijker"
+msgstr "Een webcamkijker voor webservers met een optionele Java-gebaseerde kijker"
 
 #: DEV_extra_translations/extra_translations.py:860
 msgid "Network;Audio Video;Video;"
@@ -4479,8 +4444,8 @@ msgstr "Netwerk;Geluid Film;Film;"
 
 #: DEV_extra_translations/extra_translations.py:862
 msgid ""
-"A free and open source team-based first-person shooter with real-time "
-"strategy elements"
+"A free and open source team-based first-person shooter with real-time strategy "
+"elements"
 msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:863
@@ -4493,7 +4458,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:865
 msgid "Authentication is required to run the Firewall Configuration"
-msgstr ""
+msgstr "Authenticatie is vereist voor het draaien van de Firewall-instellingen"
 
 #: DEV_extra_translations/extra_translations.py:866
 msgid "Firewall Configuration"
