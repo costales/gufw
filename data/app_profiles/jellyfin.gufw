@@ -1,0 +1,6 @@
+[jellyfin]
+title=Jellyfin
+description=Media System
+ports=8096/tcp|8920/tcp|1900/udp|7359/udp
+categories=Audio Video;TV;
+reference=[https://jellyfin.org/docs/general/networking/index.html]
