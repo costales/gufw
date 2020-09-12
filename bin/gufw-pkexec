@@ -1,12 +1,2 @@
 #!/bin/bash
-LOCATIONS=`ls -ld /usr/lib/python*/site-packages/gufw/gufw.py 2>/dev/null | awk '{print $9}'` # from source
-LOCATIONS=( "${LOCATIONS[@]}" "/usr/share/gufw/gufw/gufw.py" )                                # deb package
-
-for ((i = 0; i < ${#LOCATIONS[@]}; i++))
-do
-    if [[ -e "${LOCATIONS[${i}]}" ]]; then
-        python3 ${LOCATIONS[${i}]} $1
-    fi
-done
-
-
+python3 /usr/share/gufw/gufw/gufw.py $1

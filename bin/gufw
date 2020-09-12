@@ -1,6 +1,3 @@
 #!/bin/bash
-if [ $(loginctl show-session $(loginctl|grep $(whoami) |awk '{print $1}') -p Type) = "Type=wayland" ]; then
-    xhost +si:localuser:root
-fi
 c_user=$(whoami)
 pkexec gufw-pkexec $c_user
