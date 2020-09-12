@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-10-30 21:36+0000\n"
-"X-Generator: Launchpad (build 469f241f4e73cc0bdffa4e30654052a2af068e06)\n"
+"X-Launchpad-Export-Date: 2020-09-12 07:41+0000\n"
+"X-Generator: Launchpad (build 83bdf6c8a3a5f87722c8927e54838522f3e57504)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
@@ -29,185 +29,191 @@ msgid ""
 "Fix it running from Terminal:"
 msgstr ""
 
-#: gufw/gufw/instance.py:81
+#: ../gufw/gufw/instance.py:64
 msgid "Please, just one Gufw's instance"
 msgstr "단 하나의 Gufw의 인스턴스를, 사용하십시오"
 
-#: gufw/gufw/instance.py:82
+#: ../gufw/gufw/instance.py:65
 msgid "Gufw is already running. If this is wrong, remove the file: "
 msgstr "Gufw가 이미 실행 중입니다. 만약 이것이 올바르지 않다면, 파일을 제거하십시오: "
 
-#: gufw/gufw/model/firewall.py:61
+#: ../gufw/gufw/model/firewall.py:61
 msgid "Deleting previous rules: "
 msgstr "이전 규칙을 삭제하는 중입니다: "
 
-#: gufw/gufw/model/firewall.py:86
+#: ../gufw/gufw/model/firewall.py:86
 msgid "Appending new rules: "
 msgstr "새로운 규칙을 추가하는 중입니다: "
 
-#: gufw/gufw/model/firewall.py:266 gufw/gufw/model/firewall.py:286
-#: gufw/gufw/model/firewall.py:287 gufw/gufw/model/firewall.py:302
-#: gufw/gufw/model/firewall.py:303 gufw/gufw/model/firewall.py:304
-#: gufw/gufw/model/firewall.py:306
+#: ../gufw/gufw/model/firewall.py:266 ../gufw/gufw/model/firewall.py:286
+#: ../gufw/gufw/model/firewall.py:287 ../gufw/gufw/model/firewall.py:302
+#: ../gufw/gufw/model/firewall.py:303 ../gufw/gufw/model/firewall.py:304
+#: ../gufw/gufw/model/firewall.py:306
 msgid "Home"
 msgstr "홈"
 
-#: gufw/gufw/model/firewall.py:284 gufw/gufw/model/firewall.py:312
-#: gufw/gufw/model/firewall.py:313 gufw/gufw/model/firewall.py:314
-#: gufw/gufw/model/firewall.py:316
+#. Filename without path and extension
+#. First run
+#: ../gufw/gufw/model/firewall.py:284 ../gufw/gufw/model/firewall.py:312
+#: ../gufw/gufw/model/firewall.py:313 ../gufw/gufw/model/firewall.py:314
+#: ../gufw/gufw/model/firewall.py:316
 msgid "Public"
 msgstr "공용"
 
-#: gufw/gufw/model/firewall.py:285 gufw/gufw/model/firewall.py:307
-#: gufw/gufw/model/firewall.py:308 gufw/gufw/model/firewall.py:309
-#: gufw/gufw/model/firewall.py:311
+#: ../gufw/gufw/model/firewall.py:285 ../gufw/gufw/model/firewall.py:307
+#: ../gufw/gufw/model/firewall.py:308 ../gufw/gufw/model/firewall.py:309
+#: ../gufw/gufw/model/firewall.py:311
 msgid "Office"
 msgstr "사무실"
 
-#: gufw/gufw/model/firewall.py:304 gufw/gufw/model/firewall.py:309
-#: gufw/gufw/model/firewall.py:314
+#: ../gufw/gufw/model/firewall.py:304 ../gufw/gufw/model/firewall.py:309
+#: ../gufw/gufw/model/firewall.py:314
 msgid "Renamed profile: "
 msgstr "이름을 바꾼 프로필: "
 
-#: gufw/gufw/view/add.py:100 gufw/gufw/view/add.py:354
-#: gufw/gufw/view/add.py:467 gufw/gufw/view/update.py:76
-#: gufw/gufw/view/update.py:104 gufw/gufw/view/update.py:190
-#: gufw/gufw/view/update.py:221
+#: ../gufw/gufw/view/add.py:99 ../gufw/gufw/view/add.py:349
+#: ../gufw/gufw/view/add.py:460 ../gufw/gufw/view/update.py:75
+#: ../gufw/gufw/view/update.py:101 ../gufw/gufw/view/update.py:186
+#: ../gufw/gufw/view/update.py:215
 msgid "All Interfaces"
 msgstr "모든 인터페이스"
 
-#: gufw/gufw/view/add.py:102 gufw/gufw/view/add.py:365
-#: gufw/gufw/view/add.py:472 gufw/gufw/view/update.py:105
-#: gufw/gufw/view/update.py:201 gufw/gufw/view/update.py:226
+#: ../gufw/gufw/view/add.py:100 ../gufw/gufw/view/add.py:359
+#: ../gufw/gufw/view/add.py:464 ../gufw/gufw/view/update.py:102
+#: ../gufw/gufw/view/update.py:196 ../gufw/gufw/view/update.py:219
 msgid "Not Forward"
 msgstr "넘겨지지 않았습니다"
 
-#: gufw/gufw/view/add.py:142 gufw/gufw/view/add.py:272
-#: gufw/gufw/view/add.py:547 gufw/gufw/view/add.py:555
-#: gufw/gufw/view/add.py:564 gufw/gufw/view/add.py:580
-#: gufw/gufw/view/add.py:583 gufw/gufw/view/add.py:586
+#. Append new apps
+#: ../gufw/gufw/view/add.py:139 ../gufw/gufw/view/add.py:268
+#: ../gufw/gufw/view/add.py:538 ../gufw/gufw/view/add.py:545
+#: ../gufw/gufw/view/add.py:553 ../gufw/gufw/view/add.py:567
+#: ../gufw/gufw/view/add.py:569 ../gufw/gufw/view/add.py:571
 msgid "All"
 msgstr "모든"
 
-#: gufw/gufw/view/add.py:156 gufw/gufw/view/add.py:372
+#: ../gufw/gufw/view/add.py:153 ../gufw/gufw/view/add.py:366
 msgid "Ports: "
 msgstr "포트: "
 
-#: gufw/gufw/view/add.py:198 gufw/gufw/view/add.py:207
-#: gufw/gufw/view/update.py:137
+#: ../gufw/gufw/view/add.py:195 ../gufw/gufw/view/add.py:204
+#: ../gufw/gufw/view/update.py:134
 msgid "Choose a TCP or UDP Protocol with a range of ports"
 msgstr "포트 범위에 있는 TCP나 UDP 프로토콜을 선택하십시오"
 
-#: gufw/gufw/view/add.py:356 gufw/gufw/view/update.py:192
+#: ../gufw/gufw/view/add.py:351 ../gufw/gufw/view/update.py:188
 msgid "The IP/Port will be forward to this interface"
 msgstr "IP/포트는 이 인터페이스로 넘겨질 것입니다"
 
-#: gufw/gufw/view/add.py:359 gufw/gufw/view/update.py:195
+#: ../gufw/gufw/view/add.py:354 ../gufw/gufw/view/update.py:191
 msgid "You need to set an Interface for forwarding to this another interface"
 msgstr "당신이 다른 인터페이스로 넘기시려면 인터페이스를 설정하셔야 합니다"
 
-#: gufw/gufw/view/add.py:382
+#: ../gufw/gufw/view/add.py:376
 msgid "Error: Firewall is disabled"
 msgstr "오류: 방화벽이 사용 중지되었습니다"
 
-#: gufw/gufw/view/add.py:382
+#: ../gufw/gufw/view/add.py:376
 msgid "The firewall has to be enabled first"
 msgstr "맨 처음에 방화벽을 사용하셔야 합니다"
 
-#: gufw/gufw/view/add.py:412 gufw/gufw/view/gufw.py:594
+#: ../gufw/gufw/view/add.py:406 ../gufw/gufw/view/gufw.py:569
 msgid "Error running: "
 msgstr "오류가 실행 중입니다: "
 
-#: gufw/gufw/view/add.py:416
+#: ../gufw/gufw/view/add.py:410
 msgid "Rule(s) added"
 msgstr "규칙이 추가되었습니다"
 
-#: gufw/gufw/view/add.py:419
+#: ../gufw/gufw/view/add.py:413
 msgid "Warning: Some rules added. Review the log"
 msgstr "경고: 몇몇 규칙이 추가되었습니다. 로그를 검토해주십시오"
 
-#: gufw/gufw/view/add.py:422
+#: ../gufw/gufw/view/add.py:416
 msgid "Error: No rules added. Review the log"
 msgstr "오류: 규칙이 추가되지 않았습니다. 로그를 검토해주십시오"
 
-#: gufw/gufw/view/add.py:438
+#: ../gufw/gufw/view/add.py:432
 msgid "Insert Port"
 msgstr "포트를 집어넣으십시오"
 
-#: gufw/gufw/view/add.py:438
+#: ../gufw/gufw/view/add.py:432
 msgid "You need to insert a port in the port field"
 msgstr "당신은 포트 필드에 포트를 집어넣으셔야 합니다"
 
-#: gufw/gufw/view/add.py:442
+#: ../gufw/gufw/view/add.py:436
 msgid "Edward Snowden's Greatest Fear"
 msgstr "에드워드 스노든의 가장 큰 공포"
 
-#: gufw/gufw/view/add.py:442
+#: ../gufw/gufw/view/add.py:436
 msgid "\"Nothing Will Change\""
 msgstr "\"아무것도 바뀌지 않을 것입니다\""
 
-#: gufw/gufw/view/gufw.py:125 gufw/gufw/view/gufw.py:183
-#: gufw/gufw/view/gufw.py:312
+#: ../gufw/gufw/view/gufw.py:125 ../gufw/gufw/view/gufw.py:180
+#: ../gufw/gufw/view/gufw.py:302
 msgid "Getting started"
 msgstr "시작하기"
 
-#: gufw/gufw/view/gufw.py:189
+#: ../gufw/gufw/view/gufw.py:186
 msgid "Rules"
 msgstr "규칙"
 
-#: gufw/gufw/view/gufw.py:194
+#: ../gufw/gufw/view/gufw.py:191
 msgid "Report"
 msgstr "리포트"
 
-#: gufw/gufw/view/gufw.py:200 data/ui/add.ui:754 data/ui/update.ui:188
+#: ../data/ui/update.ui.h:13 ../data/ui/add.ui.h:28
+#: ../gufw/gufw/view/gufw.py:196
 msgid "Log"
 msgstr "로그"
 
-#: gufw/gufw/view/gufw.py:238 gufw/gufw/view/gufw.py:258
+#. Rules
+#. Listening Report
+#: ../gufw/gufw/view/gufw.py:233 ../gufw/gufw/view/gufw.py:250
 msgid "Nº"
 msgstr "번호"
 
-#: gufw/gufw/view/gufw.py:244
+#: ../gufw/gufw/view/gufw.py:238
 msgid "Rule"
 msgstr "규칙"
 
-#: gufw/gufw/view/gufw.py:250
+#: ../gufw/gufw/view/gufw.py:243
 msgid "Name"
 msgstr "이름"
 
-#: gufw/gufw/view/gufw.py:263
+#: ../gufw/gufw/view/gufw.py:255
 msgid "Protocol"
 msgstr "프로토콜"
 
-#: gufw/gufw/view/gufw.py:268 data/ui/add.ui:869 data/ui/add.ui:941
-#: data/ui/update.ui:306 data/ui/update.ui:380
+#: ../data/ui/update.ui.h:23 ../data/ui/add.ui.h:35
+#: ../gufw/gufw/view/gufw.py:260
 msgid "Port"
 msgstr "포트"
 
-#: gufw/gufw/view/gufw.py:273
+#: ../gufw/gufw/view/gufw.py:265
 msgid "Address"
 msgstr "주소"
 
-#: gufw/gufw/view/gufw.py:278
+#: ../gufw/gufw/view/gufw.py:270
 msgid "Application"
 msgstr "프로그램"
 
-#: gufw/gufw/view/gufw.py:313
+#: ../gufw/gufw/view/gufw.py:303
 msgid ""
 "An uncomplicated way to manage your firewall, powered by ufw. Easy, simple, "
 "nice and useful! :)"
 msgstr ""
 "ufw를 사용하고, 당신의 방화벽을 복잡하지 않은 방법으로 관리해주는 프로그램입니다. 쉽고, 간편하고, 멋질 뿐만 아니라 유용합니다! :)"
 
-#: gufw/gufw/view/gufw.py:314
+#: ../gufw/gufw/view/gufw.py:304
 msgid "Basic"
 msgstr "기본 정보"
 
-#: gufw/gufw/view/gufw.py:315
+#: ../gufw/gufw/view/gufw.py:305
 msgid "FAQ"
 msgstr "FAQ"
 
-#: gufw/gufw/view/gufw.py:316
+#: ../gufw/gufw/view/gufw.py:306
 msgid ""
 "If you are a normal user, you will be safe with this setting (Status=On, "
 "Incoming=Deny, Outgoing=Allow). Remember to append allow rules for your P2P "
@@ -216,19 +222,19 @@ msgstr ""
 "만약 당신이 보통 사용자라면, 당신은 이 설정을 사용하셔서 안전하게 할 수 있습니다(상태:켜기, 내부로 들어옴=거부, 외부로 "
 "나감=허용). 당신의 P2P 프로그램을 허용하는 규칙을 추가하시는 걸 기억하십시오:"
 
-#: gufw/gufw/view/gufw.py:317
+#: ../gufw/gufw/view/gufw.py:307
 msgid "You can rename your profiles with just 2 clicks on them:"
 msgstr "당신은 당신의 프로필을 단 두 번만 눌러서 이름을 바꾸실 수 있습니다:"
 
-#: gufw/gufw/view/gufw.py:318
+#: ../gufw/gufw/view/gufw.py:308
 msgid "The Rule Name will help you to identify your rules in the future:"
 msgstr "규칙 이름은 당신이 나중에 당신의 규칙을 찾는 걸 도와줄 것입니다:"
 
-#: gufw/gufw/view/gufw.py:319
+#: ../gufw/gufw/view/gufw.py:309
 msgid "How to autostart Gufw with the system?"
 msgstr "어떻게 시스템을 Gufw과 같이 자동으로 실행합니까?"
 
-#: gufw/gufw/view/gufw.py:320
+#: ../gufw/gufw/view/gufw.py:310
 msgid ""
 "You do not need it. After you do all of the changes in Gufw, the settings "
 "are still in place until the next changes."
@@ -236,19 +242,19 @@ msgstr ""
 "당신은 이렇게 할 필요가 없습니다. 당신이 Gufw에 모든 변경 사항을 적용하신 뒤에, 설정은 다음 변경 사항으로 적용될 때까지 그대로 "
 "있습니다."
 
-#: gufw/gufw/view/gufw.py:321
+#: ../gufw/gufw/view/gufw.py:311
 msgid "Why is Gufw disabled by default?"
 msgstr "Gufw는 왜 기본으로 사용하지 않음으로 설정되었습니까?"
 
-#: gufw/gufw/view/gufw.py:322
+#: ../gufw/gufw/view/gufw.py:312
 msgid "By default, the firewall does not open ports to the outside world."
 msgstr "기본으로, 방화벽은 포트를 외부 세계로 열지 않기 때문입니다."
 
-#: gufw/gufw/view/gufw.py:323
+#: ../gufw/gufw/view/gufw.py:313
 msgid "Some rules are added by themselves?"
 msgstr "몇몇 규칙이 스스로 추가되었습니다?"
 
-#: gufw/gufw/view/gufw.py:324
+#: ../gufw/gufw/view/gufw.py:314
 msgid ""
 "Well, the behaviour is such that when you change or import a profile, or "
 "when you edit a rule, Gufw will add that rule again, then ufw re-adds that "
@@ -257,76 +263,76 @@ msgstr ""
 "말하자면, 당신이 프로필을 바꾸거나 가져오거나, 규칙을 편집할 때와 같은 행위는, Gufw가 이 규칙을 다시 추가하게 할 것이고, "
 "그다음에 ufw가 IPv4 및 IPv6용 규칙을 다시-추가하게 할 것입니다."
 
-#: gufw/gufw/view/gufw.py:325
+#: ../gufw/gufw/view/gufw.py:315
 msgid "What is Allow, Deny, Reject and Limit?"
 msgstr "허용, 거부, 거절 그리고 제한은 무엇입니까?"
 
-#: gufw/gufw/view/gufw.py:326
+#: ../gufw/gufw/view/gufw.py:316
 msgid "Allow: Will allow traffic."
 msgstr "허용: 전송량을 허용할 것입니다."
 
-#: gufw/gufw/view/gufw.py:327
+#: ../gufw/gufw/view/gufw.py:317
 msgid "Deny: Will deny traffic."
 msgstr "거부: 전송량을 거부할 것입니다."
 
-#: gufw/gufw/view/gufw.py:328
+#: ../gufw/gufw/view/gufw.py:318
 msgid "Reject: Will deny traffic and will inform that it has been rejected."
 msgstr "거절: 전송량을 거부하고 이것이 거절됐음을 알려줄 것입니다."
 
-#: gufw/gufw/view/gufw.py:329
+#: ../gufw/gufw/view/gufw.py:319
 msgid "Limit: Will deny traffic if an IP tried several connections."
 msgstr "제한: 만약 IP가 여러 번의 연결 시도를 했다면 전송량을 거부할 것입니다."
 
-#: gufw/gufw/view/gufw.py:330
+#: ../gufw/gufw/view/gufw.py:320
 msgid "I see some rules in all profiles"
 msgstr "모든 프로필에서 몇몇 규칙을 봤습니다"
 
-#: gufw/gufw/view/gufw.py:331
+#: ../gufw/gufw/view/gufw.py:321
 msgid "All the ufw rules will be appear in all profiles."
 msgstr "모든 ufw 규칙은 모든 프로필에 나타날 것입니다."
 
-#: gufw/gufw/view/gufw.py:332
+#: ../gufw/gufw/view/gufw.py:322
 msgid "What do I see in the Listening Report?"
 msgstr "열린 포트 보고서에서 무엇을 보게 됩니까?"
 
-#: gufw/gufw/view/gufw.py:333
+#: ../gufw/gufw/view/gufw.py:323
 msgid ""
 "The ports on the live system in the listening state for TCP and the open "
 "state for UDP."
 msgstr "라이브 시스템에 있는 이 포트는 열린 상태에서는 TCP로 표기되며 오픈 상태에서는 UDP로 표기됩니다."
 
-#: gufw/gufw/view/gufw.py:334
+#: ../gufw/gufw/view/gufw.py:324
 msgid "I want even more!"
 msgstr "더 많은 정보를 원합니다!"
 
-#: gufw/gufw/view/gufw.py:335
+#: ../gufw/gufw/view/gufw.py:325
 msgid "You'll find more information in the community documentation :)"
 msgstr "당신은 커뮤니티 문서에서 더 많은 정보를 찾게 될 것입니다 :)"
 
-#: gufw/gufw/view/gufw.py:344 gufw/gufw/view/gufw.py:348
-#: gufw/gufw/view/gufw.py:351
+#: ../gufw/gufw/view/gufw.py:334 ../gufw/gufw/view/gufw.py:338
+#: ../gufw/gufw/view/gufw.py:341
 msgid "Visit this web (please, copy & paste in your browser):"
 msgstr "이 웹 페이지를 방문하십시오(당신의 브라우저에, 복사 & 붙이기를 하십시오):"
 
-#: gufw/gufw/view/gufw.py:359
+#: ../gufw/gufw/view/gufw.py:349
 msgid "Import Profile"
 msgstr "프로필을 가져옵니다"
 
-#: gufw/gufw/view/gufw.py:365
+#: ../gufw/gufw/view/gufw.py:355
 msgid "Import cancelled"
 msgstr "가져오는 걸 취소했습니다"
 
-#: gufw/gufw/view/gufw.py:369 gufw/gufw/view/gufw.py:373
+#: ../gufw/gufw/view/gufw.py:359 ../gufw/gufw/view/gufw.py:363
 msgid "Error"
 msgstr "오류"
 
-#: gufw/gufw/view/gufw.py:369
+#: ../gufw/gufw/view/gufw.py:359
 msgid ""
 "Filename has wrong permissions (not 600). Trust only on your exported "
 "profiles"
 msgstr "파일 이름이 잘못된 권한을 가지고 있습니다(600이 아님). 당신의 내보낸 프로필만을 신뢰합니다"
 
-#: gufw/gufw/view/gufw.py:373
+#: ../gufw/gufw/view/gufw.py:363
 msgid ""
 "Filename has not valid characters. Rename the file\n"
 "to only letters, numbers, dashes and underscores"
@@ -334,49 +340,49 @@ msgstr ""
 "파일 이름이 유효하지 않은 문자입니다. 파일 이름을 문자, 숫자,\n"
 "대시 기호와 밑줄 문자만 사용하셔서 바꾸십시오"
 
-#: gufw/gufw/view/gufw.py:377
+#: ../gufw/gufw/view/gufw.py:367
 msgid "Operation cancelled"
 msgstr "작업이 취소되었습니다"
 
-#: gufw/gufw/view/gufw.py:378
+#: ../gufw/gufw/view/gufw.py:368
 msgid "Profile already exists"
 msgstr "이미 프로필이 존재합니다"
 
-#: gufw/gufw/view/gufw.py:378
+#: ../gufw/gufw/view/gufw.py:368
 msgid ""
 "Delete it before from the Preferences Window or rename the file (the profile "
 "will be the filename)"
 msgstr "설정 창 이전의 이것을 제거하시거나 파일의 이름을 바꾸십시오(프로필은 파일 이름으로 될 것입니다)"
 
-#: gufw/gufw/view/gufw.py:382
+#: ../gufw/gufw/view/gufw.py:372
 msgid "Profile imported: "
 msgstr "프로필을 가져왔습니다: "
 
-#: gufw/gufw/view/gufw.py:383
+#: ../gufw/gufw/view/gufw.py:373
 msgid "Profile imported, now you can choose it in the profiles"
 msgstr "프로필을 가져왔습니다, 지금 당신은 프로필에서 이를 선택할 수 있습니다"
 
-#: gufw/gufw/view/gufw.py:386
+#: ../gufw/gufw/view/gufw.py:376
 msgid "Export Profile"
 msgstr "프로필을 내보냅니다"
 
-#: gufw/gufw/view/gufw.py:389
+#: ../gufw/gufw/view/gufw.py:379
 msgid "Export cancelled"
 msgstr "내보내는 걸 취소했습니다"
 
-#: gufw/gufw/view/gufw.py:396
+#: ../gufw/gufw/view/gufw.py:386
 msgid "Profile exported: "
 msgstr "프로필을 내보냈습니다: "
 
-#: gufw/gufw/view/gufw.py:397
+#: ../gufw/gufw/view/gufw.py:387
 msgid "Profile exported"
 msgstr "프로필을 내보냈습니다"
 
-#: gufw/gufw/view/gufw.py:421
+#: ../gufw/gufw/view/gufw.py:411
 msgid "Reset Firewall"
 msgstr "방화벽을 초기화합니다"
 
-#: gufw/gufw/view/gufw.py:421
+#: ../gufw/gufw/view/gufw.py:411
 msgid ""
 "This will remove all rules in the current\n"
 "profile and disable the firewall"
@@ -384,40 +390,40 @@ msgstr ""
 "이것은 현재 프로필에 있는 모든 규칙을 제거할 것이며\n"
 "방화벽을 사용하지 않습니다"
 
-#: gufw/gufw/view/gufw.py:421 gufw/gufw/view/gufw.py:579
+#: ../gufw/gufw/view/gufw.py:411 ../gufw/gufw/view/gufw.py:555
 msgid "Do you want to continue?"
 msgstr "계속하시겠습니까?"
 
-#: gufw/gufw/view/gufw.py:426
+#: ../gufw/gufw/view/gufw.py:416
 msgid "Removed rules and reset firewall!"
 msgstr "규칙들을 제거하고 방화벽을 초기화했습니다!"
 
-#: gufw/gufw/view/gufw.py:431
+#: ../gufw/gufw/view/gufw.py:421
 msgid "Gufw Log: Removed"
 msgstr "Gufw 로그: 제거되었습니다"
 
-#: gufw/gufw/view/gufw.py:432
+#: ../gufw/gufw/view/gufw.py:422
 msgid "Gufw Log removed"
 msgstr "Gufw 로그가 제거되었습니다"
 
-#: gufw/gufw/view/gufw.py:437
+#: ../gufw/gufw/view/gufw.py:427
 msgid "Text copied to clipboard"
 msgstr "문자가 클립보드에 복사되었습니다"
 
-#: gufw/gufw/view/gufw.py:479
+#: ../gufw/gufw/view/gufw.py:468
 msgid "Incoming: "
 msgstr "내부로 들어옴: "
 
-#: gufw/gufw/view/gufw.py:480
+#: ../gufw/gufw/view/gufw.py:469
 msgid "Incoming policy changed"
 msgstr "내부로 들어오는 정책이 바뀌었습니다"
 
-#: gufw/gufw/view/gufw.py:482
+#: ../gufw/gufw/view/gufw.py:471
 msgid "There was an error changing the incoming policy"
 msgstr "내부로 들어오는 정책을 바꾸는 도중에 오류가 발생했습니다"
 
-#: gufw/gufw/view/gufw.py:482 gufw/gufw/view/gufw.py:490
-#: gufw/gufw/view/gufw.py:502
+#: ../gufw/gufw/view/gufw.py:471 ../gufw/gufw/view/gufw.py:479
+#: ../gufw/gufw/view/gufw.py:490
 msgid ""
 "Restart your firewall to refresh to the real status\n"
 "and please report this bug"
@@ -425,295 +431,297 @@ msgstr ""
 "당신의 방화벽을 다시 시작하셔서 현재 상태를 새로 고침을 하시고\n"
 "이 버그를 보고하십시오"
 
-#: gufw/gufw/view/gufw.py:487
+#: ../gufw/gufw/view/gufw.py:476
 msgid "Outgoing: "
 msgstr "외부로 나감: "
 
-#: gufw/gufw/view/gufw.py:488
+#: ../gufw/gufw/view/gufw.py:477
 msgid "Outgoing policy changed"
 msgstr "외부로 나가는 정책이 바뀌었습니다"
 
-#: gufw/gufw/view/gufw.py:490
+#: ../gufw/gufw/view/gufw.py:479
 msgid "There was an error changing the outgoing policy"
 msgstr "외부로 나가는 정책을 바꾸는 도중에 오류가 발생했습니다"
 
-#: gufw/gufw/view/gufw.py:499
+#: ../gufw/gufw/view/gufw.py:487
 msgid "Routed: "
 msgstr "라우팅 된: "
 
-#: gufw/gufw/view/gufw.py:500
+#: ../gufw/gufw/view/gufw.py:488
 msgid "Routed policy changed"
 msgstr "라우팅 된 정책이 바뀌었습니다"
 
-#: gufw/gufw/view/gufw.py:502
+#: ../gufw/gufw/view/gufw.py:490
 msgid "There was an error changing the routed policy"
 msgstr "라우팅 된 정책을 바꾸는 도중에 오류가 발생했습니다"
 
-#: gufw/gufw/view/gufw.py:523 gufw/gufw/view/gufw.py:615
+#: ../gufw/gufw/view/gufw.py:511 ../gufw/gufw/view/gufw.py:590
 msgid "Select just one row"
 msgstr "단 한 행만 선택하십시오"
 
-#: gufw/gufw/view/gufw.py:523
+#: ../gufw/gufw/view/gufw.py:511
 msgid "You can create a rule from just one row selected"
 msgstr "당신은 선택한 단 한 행에서만 규칙을 만들 수 있습니다"
 
-#: gufw/gufw/view/gufw.py:548
+#: ../gufw/gufw/view/gufw.py:525
 msgid "Status: Enabled"
 msgstr "상태: 사용합니다"
 
-#: gufw/gufw/view/gufw.py:549
+#: ../gufw/gufw/view/gufw.py:526
 msgid "Firewall enabled"
 msgstr "방화벽을 사용합니다"
 
-#: gufw/gufw/view/gufw.py:552
+#: ../gufw/gufw/view/gufw.py:528
 msgid "Status: Disabled"
 msgstr "상태: 사용하지 않습니다"
 
-#: gufw/gufw/view/gufw.py:553
+#: ../gufw/gufw/view/gufw.py:529
 msgid "Firewall disabled"
 msgstr "방화벽을 사용하지 않습니다"
 
-#: gufw/gufw/view/gufw.py:564
+#: ../gufw/gufw/view/gufw.py:540
 msgid "There was an error changing the firewall status"
 msgstr "방화벽 상태를 바꾸는 도중에 오류가 발생했습니다"
 
-#: gufw/gufw/view/gufw.py:564
+#: ../gufw/gufw/view/gufw.py:540
 msgid ""
 "Restart your firewall to refresh to the real status and please report this "
 "bug"
 msgstr "당신의 방화벽을 다시 시작하셔서 현재 상태를 새로 고침을 하시고 이 버그를 보고하십시오"
 
-#: gufw/gufw/view/gufw.py:579
+#: ../gufw/gufw/view/gufw.py:555
 msgid "Delete rule"
 msgstr "규칙을 삭제합니다"
 
-#: gufw/gufw/view/gufw.py:579
+#: ../gufw/gufw/view/gufw.py:555
 msgid "You will delete all selected rules"
 msgstr "당신은 모든 선택한 규칙을 삭제할 것입니다"
 
-#: gufw/gufw/view/gufw.py:591
+#: ../gufw/gufw/view/gufw.py:567
 msgid "Rule(s) deleted"
 msgstr "규칙(들)이 삭제되었습니다"
 
-#: gufw/gufw/view/gufw.py:595
+#: ../gufw/gufw/view/gufw.py:570
 msgid "Error. Review Gufw Log"
 msgstr "오류. Gufw 로그를 검토해주십시오"
 
-#: gufw/gufw/view/gufw.py:600
+#: ../gufw/gufw/view/gufw.py:575
 msgid "No rule selected"
 msgstr "규칙이 추가되지 않았습니다"
 
-#: gufw/gufw/view/gufw.py:600
+#: ../gufw/gufw/view/gufw.py:575
 msgid "You have to select a rule"
 msgstr "당신은 규칙을 선택하셔야 합니다"
 
-#: gufw/gufw/view/gufw.py:615
+#: ../gufw/gufw/view/gufw.py:590
 msgid "You can edit just one rule"
 msgstr "당신은 단 하나의 규칙만 편집할 수 있습니다"
 
-#: gufw/gufw/view/gufw.py:623
+#. ufw rule > inmutable
+#: ../gufw/gufw/view/gufw.py:598
 msgid "Immutable Rule"
 msgstr "바꿀 수 없는 규칙입니다"
 
-#: gufw/gufw/view/gufw.py:623
+#: ../gufw/gufw/view/gufw.py:598
 msgid "You can't edit a rule added from ufw"
 msgstr "당신은 ufw에서 추가된 규칙을 편집할 수 없습니다"
 
-#: gufw/gufw/view/gufw.py:643
+#: ../gufw/gufw/view/gufw.py:618
 msgid "Changing profile: "
 msgstr "프로필을 바꾸는 중입니다: "
 
-#: gufw/gufw/view/gufw.py:713
+#: ../gufw/gufw/view/gufw.py:687
 msgid " ALLOW "
 msgstr " 허용 "
 
-#: gufw/gufw/view/gufw.py:715
+#: ../gufw/gufw/view/gufw.py:688
 msgid " DENY "
 msgstr " 거부 "
 
-#: gufw/gufw/view/gufw.py:717
+#: ../gufw/gufw/view/gufw.py:689
 msgid " REJECT "
 msgstr " 거절 "
 
-#: gufw/gufw/view/gufw.py:719
+#: ../gufw/gufw/view/gufw.py:690
 msgid " LIMIT "
 msgstr " 제한 "
 
-#: gufw/gufw/view/gufw.py:721
+#: ../gufw/gufw/view/gufw.py:691
 msgid " OUT "
 msgstr " 나감 "
 
-#: gufw/gufw/view/gufw.py:723
+#: ../gufw/gufw/view/gufw.py:692
 msgid " IN "
 msgstr " 들어옴 "
 
-#: gufw/gufw/view/gufw.py:725
+#: ../gufw/gufw/view/gufw.py:693
 msgid " FWD "
 msgstr " FWD "
 
-#: gufw/gufw/view/gufw.py:727
+#: ../gufw/gufw/view/gufw.py:694
 msgid "Anywhere"
 msgstr "어느 곳"
 
-#: gufw/gufw/view/gufw.py:729
+#: ../gufw/gufw/view/gufw.py:695
 msgid "(log)"
 msgstr "(log)"
 
-#: gufw/gufw/view/gufw.py:731
+#: ../gufw/gufw/view/gufw.py:696
 msgid "(log-all)"
 msgstr "(모두-로그를 합니다)"
 
-#: gufw/gufw/view/gufw.py:733
+#: ../gufw/gufw/view/gufw.py:697
 msgid " (out)"
 msgstr " (나감)"
 
-#: gufw/gufw/view/gufw.py:735
+#: ../gufw/gufw/view/gufw.py:698
 msgid " on "
 msgstr " 에 "
 
-#: gufw/gufw/view/gufw.py:778
+#: ../gufw/gufw/view/gufw.py:741
 msgid "Gufw profile"
 msgstr "Gufw 프로필"
 
-#: gufw/gufw/view/gufw.py:782
+#: ../gufw/gufw/view/gufw.py:745
 msgid "All files"
 msgstr "모든 파일"
 
-#: gufw/gufw/view/gufw.py:822
+#: ../gufw/gufw/view/gufw.py:785
 msgid "Insert IP/Ports"
 msgstr "IP/포트를 집어넣으십시오"
 
-#: gufw/gufw/view/gufw.py:822
+#: ../gufw/gufw/view/gufw.py:785
 msgid "You need to insert IP/ports in to/from fields"
 msgstr "당신은 필드에 있는 /에 IP/포트를 집어넣으셔야 합니다"
 
-#: gufw/gufw/view/gufw.py:831
+#: ../gufw/gufw/view/gufw.py:794
 msgid "Insert number bigger that number of rules"
 msgstr "규칙의 수보다 더 큰 숫자를 집어넣으십시오"
 
-#: gufw/gufw/view/gufw.py:831
+#: ../gufw/gufw/view/gufw.py:794
 msgid ""
 "By example, if you have 3 rules, you can't insert a rule into position 4"
 msgstr "예시로, 만약 당신이 3개의 규칙을 가지고 있으시다면, 당신은 위치 4에 규칙을 집어넣으실 수 없습니다"
 
-#: gufw/gufw/view/preferences.py:82 gufw/gufw/view/preferences.py:127
+#: ../gufw/gufw/view/preferences.py:82 ../gufw/gufw/view/preferences.py:127
 msgid "Profile"
 msgstr "프로필"
 
-#: gufw/gufw/view/preferences.py:91 gufw/gufw/view/preferences.py:95
-#: gufw/gufw/view/preferences.py:99 gufw/gufw/view/preferences.py:103
+#: ../gufw/gufw/view/preferences.py:91 ../gufw/gufw/view/preferences.py:95
+#: ../gufw/gufw/view/preferences.py:99 ../gufw/gufw/view/preferences.py:103
 msgid "Profile not valid"
 msgstr "유효하지 않은 프로필입니다"
 
-#: gufw/gufw/view/preferences.py:91
+#: ../gufw/gufw/view/preferences.py:91
 msgid "You can't use this profile name"
 msgstr "당신은 이 프로필 이름을 사용할 수 없습니다"
 
-#: gufw/gufw/view/preferences.py:95
+#: ../gufw/gufw/view/preferences.py:95
 msgid "Enter at least one character"
 msgstr "최소 한 문자를 입력하십시오"
 
-#: gufw/gufw/view/preferences.py:99
+#: ../gufw/gufw/view/preferences.py:99
 msgid "Too long! (max. 15 characters)"
 msgstr "매우 깁니다! (최대한도는. 15자입니다)"
 
-#: gufw/gufw/view/preferences.py:103
+#: ../gufw/gufw/view/preferences.py:103
 msgid "Use only letters, numbers, dashes and underscores"
 msgstr "문자, 숫자, 대시 기호와 밑줄 문자만 사용하십시오"
 
-#: gufw/gufw/view/preferences.py:108
+#: ../gufw/gufw/view/preferences.py:108
 msgid "Profile exist"
 msgstr "이미 존재하는 프로필입니다"
 
-#: gufw/gufw/view/preferences.py:108
+#: ../gufw/gufw/view/preferences.py:108
 msgid "There is a profile with the same name"
 msgstr "같은 이름을 가진 프로필이 있습니다"
 
-#: gufw/gufw/view/preferences.py:113
+#: ../gufw/gufw/view/preferences.py:113
 msgid "Current profile"
 msgstr "현재 프로필"
 
-#: gufw/gufw/view/preferences.py:113
+#: ../gufw/gufw/view/preferences.py:113
 msgid "You can't rename the current profile"
 msgstr "당신은 현재 프로필의 이름을 바꾸실 수 없습니다"
 
-#: gufw/gufw/view/preferences.py:120
+#: ../gufw/gufw/view/preferences.py:120
 msgid "Edited Profile: "
 msgstr "편집된 프로필: "
 
-#: gufw/gufw/view/preferences.py:138
+#: ../gufw/gufw/view/preferences.py:138
 msgid "Created Profile: "
 msgstr "만든 프로필: "
 
-#: gufw/gufw/view/preferences.py:143
+#: ../gufw/gufw/view/preferences.py:143
 msgid "Select a profile"
 msgstr "프로필을 선택하십시오"
 
-#: gufw/gufw/view/preferences.py:143
+#: ../gufw/gufw/view/preferences.py:143
 msgid "You need to select a profile for deleting"
 msgstr "당신은 삭제할 프로필을 선택하셔야 합니다"
 
-#: gufw/gufw/view/preferences.py:147
+#: ../gufw/gufw/view/preferences.py:147
 msgid "Profile not erasable"
 msgstr "지울 수 없는 프로필입니다"
 
-#: gufw/gufw/view/preferences.py:147
+#: ../gufw/gufw/view/preferences.py:147
 msgid "You can't remove the current profile"
 msgstr "당신은 현재 프로필을 제거할 수 없습니다"
 
-#: gufw/gufw/view/preferences.py:152
+#: ../gufw/gufw/view/preferences.py:152
 msgid "Deleted Profile: "
 msgstr "삭제된 프로필: "
 
-#: gufw/gufw/view/preferences.py:156
+#: ../gufw/gufw/view/preferences.py:156
 msgid "ufw Logging: "
 msgstr "ufw 로깅 "
 
-#: gufw/gufw/view/preferences.py:161
+#: ../gufw/gufw/view/preferences.py:161
 msgid "Gufw Logging: Enabled"
 msgstr "Gufw 로깅: 사용합니다"
 
-#: gufw/gufw/view/preferences.py:163
+#: ../gufw/gufw/view/preferences.py:163
 msgid "Gufw Logging: Disabled"
 msgstr "Gufw 로깅: 사용하지 않습니다"
 
-#: gufw/gufw/view/preferences.py:169
+#: ../gufw/gufw/view/preferences.py:169
 msgid "Confirm Delete Dialog: Enabled"
 msgstr "삭제 확인 대화 상자: 사용합니다"
 
-#: gufw/gufw/view/preferences.py:172
+#: ../gufw/gufw/view/preferences.py:172
 msgid "Confirm Delete Dialog: Disabled"
 msgstr "삭제 확인 대화 상자: 사용하지 않습니다"
 
-#: gufw/gufw/view/preferences.py:184
+#: ../gufw/gufw/view/preferences.py:183
 msgid "Refresh Interval: "
 msgstr "새로 고침 간격: "
 
-#: gufw/gufw/view/update.py:79 data/ui/add.ui:1074 data/ui/update.ui:480
+#: ../data/ui/update.ui.h:29 ../data/ui/add.ui.h:42
+#: ../gufw/gufw/view/update.py:77
 msgid "You need to set an Interface"
 msgstr "당신은 인터페이스를 설정하셔야 합니다"
 
-#: gufw/gufw/view/update.py:251
+#: ../gufw/gufw/view/update.py:244
 msgid "No changes were made!"
 msgstr "변경 사항이 적용되지 않았습니다!"
 
-#: gufw/gufw/view/update.py:258
+#: ../gufw/gufw/view/update.py:251
 msgid "Editing rule (Removing): "
 msgstr "규칙을 편집하는 중입니다(제거하는 중입니다): "
 
-#: gufw/gufw/view/update.py:264
+#: ../gufw/gufw/view/update.py:257
 msgid "Editing rule (Adding): "
 msgstr "규칙을 편집하는 중입니다(추가하는 중입니다): "
 
-#: gufw/gufw/view/update.py:265
+#: ../gufw/gufw/view/update.py:258
 msgid "Updated rule "
 msgstr "규칙을 업데이트했습니다 "
 
-#: data/ui/about.ui:8
+#: ../data/ui/about.ui.h:1
 msgid "About Gufw Firewall"
 msgstr "Gufw 방화벽 설명"
 
-#: data/ui/about.ui:19
+#: ../data/ui/about.ui.h:2
 msgid ""
 "An uncomplicated way to manage your firewall, powered by ufw.\n"
 "Easy, simple, nice and useful!"
@@ -721,7 +729,7 @@ msgstr ""
 "ufw를 사용하고, 당신의 방화벽을 복잡하지 않은 방법으로 관리해주는 프로그램입니다.\n"
 "쉽고, 간편하고, 멋질 뿐만 아니라 유용합니다!"
 
-#: data/ui/about.ui:669
+#: ../data/ui/about.ui.h:4
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
@@ -731,151 +739,140 @@ msgstr ""
 "  costales https://launchpad.net/~costales\n"
 "  강창건(Chang-geon Kang) https://launchpad.net/~kangha02"
 
-#: data/ui/add.ui:13
+#: ../data/ui/add.ui.h:1
 msgid "Add a Firewall Rule"
 msgstr "방화벽 규칙을 추가합니다"
 
-#: data/ui/add.ui:91 data/ui/add.ui:461 data/ui/add.ui:716 data/ui/gufw.ui:471
-#: data/ui/gufw.ui:501 data/ui/gufw.ui:545 data/ui/update.ui:151
+#: ../data/ui/update.ui.h:6 ../data/ui/add.ui.h:2 ../data/ui/gufw.ui.h:26
 msgid "Allow"
 msgstr "허용"
 
-#: data/ui/add.ui:92 data/ui/add.ui:462 data/ui/add.ui:717 data/ui/gufw.ui:472
-#: data/ui/gufw.ui:502 data/ui/gufw.ui:546 data/ui/update.ui:152
+#: ../data/ui/update.ui.h:7 ../data/ui/add.ui.h:3 ../data/ui/gufw.ui.h:27
 msgid "Deny"
 msgstr "거부"
 
-#: data/ui/add.ui:93 data/ui/add.ui:463 data/ui/add.ui:718 data/ui/gufw.ui:473
-#: data/ui/gufw.ui:503 data/ui/gufw.ui:547 data/ui/update.ui:153
+#: ../data/ui/update.ui.h:8 ../data/ui/add.ui.h:4 ../data/ui/gufw.ui.h:28
 msgid "Reject"
 msgstr "거절"
 
-#: data/ui/add.ui:94 data/ui/add.ui:464 data/ui/add.ui:719
-#: data/ui/update.ui:154
+#: ../data/ui/update.ui.h:9 ../data/ui/add.ui.h:5
 msgid "Limit"
 msgstr "제한"
 
-#: data/ui/add.ui:109 data/ui/add.ui:480 data/ui/add.ui:735
-#: data/ui/update.ui:170
+#: ../data/ui/update.ui.h:10 ../data/ui/add.ui.h:6
 msgid "In"
 msgstr "내부"
 
-#: data/ui/add.ui:110 data/ui/add.ui:481 data/ui/add.ui:736
-#: data/ui/update.ui:171
+#: ../data/ui/update.ui.h:11 ../data/ui/add.ui.h:7
 msgid "Out"
 msgstr "외부"
 
-#: data/ui/add.ui:111 data/ui/add.ui:482 data/ui/add.ui:498 data/ui/add.ui:737
-#: data/ui/add.ui:771 data/ui/update.ui:205
+#: ../data/ui/update.ui.h:15 ../data/ui/add.ui.h:8
 msgid "Both"
 msgstr "두 개를 동시에 사용합니다"
 
-#: data/ui/add.ui:154 data/ui/add.ui:412 data/ui/add.ui:651
-#: data/ui/update.ui:86
+#: ../data/ui/update.ui.h:2 ../data/ui/add.ui.h:9
 msgid "Policy:"
 msgstr "정책:"
 
-#: data/ui/add.ui:170 data/ui/add.ui:428 data/ui/add.ui:667
-#: data/ui/update.ui:102
+#: ../data/ui/update.ui.h:3 ../data/ui/add.ui.h:10
 msgid "Direction:"
 msgstr "방향:"
 
-#: data/ui/add.ui:186
+#: ../data/ui/add.ui.h:11
 msgid "Category:"
 msgstr "카테고리:"
 
-#: data/ui/add.ui:201
+#: ../data/ui/add.ui.h:12
 msgid "Subcategory:"
 msgstr "하위 카테고리:"
 
-#: data/ui/add.ui:217
+#: ../data/ui/add.ui.h:13
 msgid "Application:"
 msgstr "프로그램:"
 
-#: data/ui/add.ui:239
+#: ../data/ui/add.ui.h:14
 msgid "Application Filter"
 msgstr "프로그램 필터"
 
-#: data/ui/add.ui:270 data/ui/add.ui:271 data/ui/add.ui:589 data/ui/add.ui:590
+#: ../data/ui/add.ui.h:15
 msgid "Copy app values and jump to Advanced Tab"
 msgstr "프로그램값을 복사하고 고급 탭으로 뛰어넘습니다"
 
-#: data/ui/add.ui:388
+#: ../data/ui/add.ui.h:16
 msgid "Preconfigured"
 msgstr "편리하게"
 
-#: data/ui/add.ui:444 data/ui/add.ui:699 data/ui/update.ui:134
+#: ../data/ui/update.ui.h:5 ../data/ui/add.ui.h:17
 msgid "Protocol:"
 msgstr "프로토콜:"
 
-#: data/ui/add.ui:499 data/ui/add.ui:772 data/ui/update.ui:206
+#: ../data/ui/update.ui.h:16 ../data/ui/add.ui.h:18
 msgid "TCP"
 msgstr "TCP"
 
-#: data/ui/add.ui:500 data/ui/add.ui:773 data/ui/update.ui:207
+#: ../data/ui/update.ui.h:17 ../data/ui/add.ui.h:19
 msgid "UDP"
 msgstr "UDP"
 
-#: data/ui/add.ui:516
+#: ../data/ui/add.ui.h:20
 msgid "Port:"
 msgstr "포트:"
 
-#: data/ui/add.ui:532 data/ui/add.ui:964 data/ui/update.ui:403
+#: ../data/ui/update.ui.h:26 ../data/ui/add.ui.h:21
 msgid "Name:"
 msgstr "이름:"
 
-#: data/ui/add.ui:550 data/ui/add.ui:1028 data/ui/update.ui:420
+#: ../data/ui/update.ui.h:27 ../data/ui/add.ui.h:22
 msgid "Rule Description"
 msgstr "규칙 설명"
 
-#: data/ui/add.ui:568
+#: ../data/ui/add.ui.h:23
 msgid ""
 "You can write a port as '22', a port range as '22:24' or a service as 'http'"
 msgstr "당신은 포트를 '22'로 쓰시거나, 포트 범위를 '22:24' 혹은 서비스를 'http'로 쓰실 수 있습니다"
 
-#: data/ui/add.ui:572
+#: ../data/ui/add.ui.h:24
 msgid "Port or service"
 msgstr "포트나 서비스"
 
-#: data/ui/add.ui:625
+#: ../data/ui/add.ui.h:25
 msgid "Simple"
 msgstr "간단하게"
 
-#: data/ui/add.ui:683 data/ui/update.ui:118
+#: ../data/ui/update.ui.h:4 ../data/ui/add.ui.h:26
 msgid "Log:"
 msgstr "로그:"
 
-#: data/ui/add.ui:753 data/ui/update.ui:187
+#: ../data/ui/update.ui.h:12 ../data/ui/add.ui.h:27
 msgid "Do not Log"
 msgstr "로그를 하지 않습니다"
 
-#: data/ui/add.ui:755 data/ui/update.ui:189
+#: ../data/ui/update.ui.h:14 ../data/ui/add.ui.h:29
 msgid "Log All"
 msgstr "모두 로그를 합니다"
 
-#: data/ui/add.ui:789 data/ui/update.ui:223
+#: ../data/ui/update.ui.h:18 ../data/ui/add.ui.h:30
 msgid "From:"
 msgstr "출발:"
 
-#: data/ui/add.ui:805 data/ui/update.ui:239
+#: ../data/ui/update.ui.h:19 ../data/ui/add.ui.h:31
 msgid "To:"
 msgstr "목적:"
 
-#: data/ui/add.ui:827 data/ui/add.ui:898 data/ui/update.ui:261
-#: data/ui/update.ui:335
+#: ../data/ui/update.ui.h:20 ../data/ui/add.ui.h:32
 msgid "IP"
 msgstr "IP"
 
-#: data/ui/add.ui:843 data/ui/add.ui:914 data/ui/update.ui:277
-#: data/ui/update.ui:278 data/ui/update.ui:351 data/ui/update.ui:352
+#: ../data/ui/update.ui.h:21 ../data/ui/add.ui.h:33
 msgid "Paste your current local IP"
 msgstr "현재 당신의 로컬 IP를 붙어놓으십시오"
 
-#: data/ui/add.ui:865 data/ui/update.ui:301 data/ui/update.ui:302
+#: ../data/ui/update.ui.h:22 ../data/ui/add.ui.h:34
 msgid "You can write a port as '22' or a port range as '22:24'"
 msgstr "당신은 포트를 '22'로 쓰시거나 포트 범위를 '22:24'로 쓰실 수 있습니다"
 
-#: data/ui/add.ui:936 data/ui/update.ui:375
+#: ../data/ui/update.ui.h:24 ../data/ui/add.ui.h:36
 msgid ""
 "You can write a port as '22' or a port range as '22:24'.\n"
 "If you're editing a Preconfigured or Simple rule, Interface field must be "
@@ -885,153 +882,151 @@ msgstr ""
 "만약 당신이 편리한 혹은 간단한 규칙을 편집하시는 중이라면, 인터페이스 필드는 '모든 인터페이스'이어야 하며 IP와 포트에서 필드는 "
 "반드시 공란이어야 합니다."
 
-#: data/ui/add.ui:980
+#: ../data/ui/add.ui.h:38
 msgid "Insert:"
 msgstr "집어넣기:"
 
-#: data/ui/add.ui:994 data/ui/update.ui:435
+#: ../data/ui/update.ui.h:28 ../data/ui/add.ui.h:39
 msgid "Interface:"
 msgstr "인터페이스:"
 
-#: data/ui/add.ui:1007 data/ui/add.ui:1008
+#: ../data/ui/add.ui.h:40
 msgid "Rule number to insert"
 msgstr "집어넣을 규칙 번호"
 
-#: data/ui/add.ui:1011
+#: ../data/ui/add.ui.h:41
 msgid "At the end"
 msgstr "마지막 부분에"
 
-#: data/ui/add.ui:1101
+#: ../data/ui/add.ui.h:43
 msgid "Advanced"
 msgstr "자세하게"
 
-#: data/ui/gufw.ui:51
+#: ../data/ui/gufw.ui.h:1
 msgid "Firewall"
 msgstr "방화벽"
 
-#: data/ui/gufw.ui:72
+#: ../data/ui/gufw.ui.h:2
 msgid "_File"
 msgstr "파일(_F)"
 
-#: data/ui/gufw.ui:80
+#: ../data/ui/gufw.ui.h:3
 msgid "_Import profile"
 msgstr "프로필을 가져옵니다(_I)"
 
-#: data/ui/gufw.ui:92
+#: ../data/ui/gufw.ui.h:4
 msgid "_Export this profile"
 msgstr "이 프로필을 내보냅니다(_E)"
 
-#: data/ui/gufw.ui:96
+#: ../data/ui/gufw.ui.h:5
 msgid "Only the rules added from Gufw will be exported (not ufw rules)"
 msgstr "Gufw에 추가한 규칙만이 내보내질 것입니다(ufw 규칙이 아닙니다)"
 
-#: data/ui/gufw.ui:129
+#: ../data/ui/gufw.ui.h:6
 msgid "_Edit"
 msgstr "편집하기(_E)"
 
-#: data/ui/gufw.ui:137
+#: ../data/ui/gufw.ui.h:7
 msgid "_Reset Current Profile"
 msgstr "현재 프로필을 초기화합니다(_R)"
 
-#: data/ui/gufw.ui:173
+#: ../data/ui/gufw.ui.h:8
 msgid "_Help"
 msgstr "도움말(_H)"
 
-#: data/ui/gufw.ui:181
+#: ../data/ui/gufw.ui.h:9
 msgid "_Documentation..."
 msgstr "문서(_D)..."
 
-#: data/ui/gufw.ui:185 data/ui/gufw.ui:258
+#: ../data/ui/gufw.ui.h:10
 msgid "Go to the official documentation"
 msgstr "공식 문서로 들어갑니다"
 
-#: data/ui/gufw.ui:200
+#: ../data/ui/gufw.ui.h:11
 msgid "Get Help _Online..."
 msgstr "온라인으로 도움을 받습니다(_O)..."
 
-#: data/ui/gufw.ui:204 data/ui/gufw.ui:270
+#: ../data/ui/gufw.ui.h:12
 msgid "Go to the official answers"
 msgstr "공식 답변으로 들어갑니다"
 
-#: data/ui/gufw.ui:213
+#: ../data/ui/gufw.ui.h:13
 msgid "_Report a Problem..."
 msgstr "문제를 보고합니다(_R)..."
 
-#: data/ui/gufw.ui:225
+#: ../data/ui/gufw.ui.h:14
 msgid "_Translate this Application..."
 msgstr "이 프로그램을 번역합니다(_T)..."
 
-#: data/ui/gufw.ui:246
+#: ../data/ui/gufw.ui.h:15
 msgid "_Follow"
 msgstr "폴로 하기(_F)"
 
-#: data/ui/gufw.ui:259
+#: ../data/ui/gufw.ui.h:16
 msgid "_Google +"
 msgstr "구글 +(_G)"
 
-#: data/ui/gufw.ui:271
+#: ../data/ui/gufw.ui.h:17
 msgid "Google+ Community"
 msgstr "구글 + 커뮤니티"
 
-#: data/ui/gufw.ui:272
+#: ../data/ui/gufw.ui.h:18
 msgid "Google+ _Community"
 msgstr "구글 + 커뮤니티(_C)"
 
-#: data/ui/gufw.ui:282
+#: ../data/ui/gufw.ui.h:19
 msgid "_Twitter"
 msgstr "트위터(_T)"
 
-#: data/ui/gufw.ui:302
+#: ../data/ui/gufw.ui.h:20
 msgid "Thanks in advance!!"
 msgstr "감사드립니다!!"
 
-#: data/ui/gufw.ui:303
+#: ../data/ui/gufw.ui.h:21
 msgid "_Donate..."
 msgstr "기부하기(_D)..."
 
-#: data/ui/gufw.ui:372
+#: ../data/ui/gufw.ui.h:22
 msgid "_Profile:"
 msgstr "프로필(_P):"
 
-#: data/ui/gufw.ui:386
+#: ../data/ui/gufw.ui.h:23
 msgid "S_tatus:"
 msgstr "상태(_S):"
 
-#: data/ui/gufw.ui:400
+#: ../data/ui/gufw.ui.h:24
 msgid "_Incoming:"
 msgstr "내부로 들어옴(_I):"
 
-#: data/ui/gufw.ui:414
+#: ../data/ui/gufw.ui.h:25
 msgid "_Outgoing:"
 msgstr "외부로 나감(_O):"
 
-#: data/ui/gufw.ui:526
+#: ../data/ui/gufw.ui.h:29
 msgid "_Routed:"
 msgstr "라우팅 된(_R):"
 
-#: data/ui/gufw.ui:596
+#: ../data/ui/gufw.ui.h:30
 msgid "<b>Firewall</b>"
 msgstr "<b>방화벽</b>"
 
-#: data/ui/gufw.ui:680 data/ui/gufw.ui:681
+#: ../data/ui/gufw.ui.h:31
 msgid "Add a rule..."
 msgstr "규칙을 추가합니다..."
 
-#: data/ui/gufw.ui:682 data/ui/gufw.ui:822 data/ui/gufw.ui:893
-#: data/ui/preferences.ui:366
+#: ../data/ui/preferences.ui.h:17 ../data/ui/gufw.ui.h:32
 msgid "Add"
 msgstr "추가하기"
 
-#: data/ui/gufw.ui:698 data/ui/gufw.ui:699
+#: ../data/ui/gufw.ui.h:33
 msgid "Remove the selected rule(s)"
 msgstr "선택한 규칙(들)을 제거합니다"
 
-#: data/ui/gufw.ui:700 data/ui/gufw.ui:718 data/ui/gufw.ui:911
-#: data/ui/preferences.ui:384
+#: ../data/ui/preferences.ui.h:19 ../data/ui/gufw.ui.h:34
 msgid "Remove"
 msgstr "제거하기"
 
-#: data/ui/gufw.ui:716 data/ui/gufw.ui:717
+#: ../data/ui/gufw.ui.h:35
 msgid "Edit the selected rule"
 msgstr "선택한 규칙을 편집합니다"
 
@@ -1047,67 +1042,67 @@ msgstr ""
 msgid "See current Listening Report"
 msgstr ""
 
-#: data/ui/gufw.ui:821
+#: ../data/ui/gufw.ui.h:36
 msgid "Create a rule from the listening report..."
 msgstr "열린 포트 보고서에서 규칙을 만듭니다..."
 
-#: data/ui/gufw.ui:891 data/ui/gufw.ui:892
+#: ../data/ui/gufw.ui.h:37
 msgid "Copy log to clipboard"
 msgstr "로그를 클립보드에 복사합니다"
 
-#: data/ui/gufw.ui:909 data/ui/gufw.ui:910
+#: ../data/ui/gufw.ui.h:38
 msgid "Remove log"
 msgstr "로그를 제거합니다"
 
-#: data/ui/preferences.ui:16
+#: ../data/ui/preferences.ui.h:1
 msgid "Firewall Preferences"
 msgstr "방화벽 설정"
 
-#: data/ui/preferences.ui:83
+#: ../data/ui/preferences.ui.h:2
 msgid "_Logging:"
 msgstr "로깅(_L):"
 
-#: data/ui/preferences.ui:100
+#: ../data/ui/preferences.ui.h:3
 msgid "Off"
 msgstr "끄기"
 
-#: data/ui/preferences.ui:101
+#: ../data/ui/preferences.ui.h:4
 msgid "Low"
 msgstr "낮음"
 
-#: data/ui/preferences.ui:102
+#: ../data/ui/preferences.ui.h:5
 msgid "Medium"
 msgstr "중간"
 
-#: data/ui/preferences.ui:103
+#: ../data/ui/preferences.ui.h:6
 msgid "High"
 msgstr "높음"
 
-#: data/ui/preferences.ui:104
+#: ../data/ui/preferences.ui.h:7
 msgid "Full"
 msgstr "자세함"
 
-#: data/ui/preferences.ui:124
+#: ../data/ui/preferences.ui.h:8
 msgid "<b>ufw</b>"
 msgstr "<b>ufw</b>"
 
-#: data/ui/preferences.ui:155
+#: ../data/ui/preferences.ui.h:9
 msgid "Lo_gging Gufw activity"
 msgstr "Gufw 활동 로깅(_g)"
 
-#: data/ui/preferences.ui:175
+#: ../data/ui/preferences.ui.h:10
 msgid "Show confirm dialog for deleting rules"
 msgstr "규칙을 삭제하는데 확인 대화 상자를 봅니다"
 
-#: data/ui/preferences.ui:202
+#: ../data/ui/preferences.ui.h:11
 msgid "<b>Gufw</b>"
 msgstr "<b>Gufw</b>"
 
-#: data/ui/preferences.ui:242
+#: ../data/ui/preferences.ui.h:12
 msgid "Refresh Interval:"
 msgstr "새로고침 간격:"
 
-#: data/ui/preferences.ui:257
+#: ../data/ui/preferences.ui.h:13
 msgid ""
 "Less seconds uses more CPU\n"
 "This interval will apply the next time you expand the Listening Report"
@@ -1115,595 +1110,595 @@ msgstr ""
 "몇 초보다 낮음은 CPU를 더 많이 사용합니다\n"
 "이 간격은 다음번에 당신이 열린 포트 보고서를 확장할 때 적용될 것입니다"
 
-#: data/ui/preferences.ui:297
+#: ../data/ui/preferences.ui.h:15
 msgid "<b>Listening Report</b>"
 msgstr "<b>열린 포트 보고</b>"
 
-#: data/ui/preferences.ui:364 data/ui/preferences.ui:365
+#: ../data/ui/preferences.ui.h:16
 msgid "Add a profile"
 msgstr "프로필을 추가합니다"
 
-#: data/ui/preferences.ui:382 data/ui/preferences.ui:383
+#: ../data/ui/preferences.ui.h:18
 msgid "Remove the selected profile"
 msgstr "선택한 프로필을 삭제합니다"
 
-#: data/ui/preferences.ui:411
+#: ../data/ui/preferences.ui.h:20
 msgid "<b>Profiles</b>"
 msgstr "<b>프로필</b>"
 
-#: data/ui/update.ui:8
+#: ../data/ui/update.ui.h:1
 msgid "Update a Firewall Rule"
 msgstr "방화벽 규칙을 업데이트합니다"
 
 #. Sort translation, please!
-#: data/ui/update.ui:531
+#: ../data/ui/update.ui.h:31
 msgid "The rule will be moved to the end of the list"
 msgstr "이 규칙은 목록의 끝 부분으로 이동될 것입니다"
 
-#: DEV_extra_translations/extra_translations.py:5
+#: ../DEV_extra_translations/extra_translations.py:261
 msgid "Soldier of Fortune"
 msgstr "솔저 오브 포츈"
 
-#: DEV_extra_translations/extra_translations.py:6
+#: ../DEV_extra_translations/extra_translations.py:262
 msgid "Soldier of Fortune - A FPS by Raven Software"
 msgstr "솔저 오브 포츈 - 레이븐 소프트웨어가 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:7
+#: ../DEV_extra_translations/extra_translations.py:10
 msgid "Games;Action;"
 msgstr "게임;액션;"
 
-#: DEV_extra_translations/extra_translations.py:8
+#: ../DEV_extra_translations/extra_translations.py:269
 msgid "Castle-Combat - 50386/tcp"
 msgstr "캐슬-컴뱃 - 50386/tcp"
 
-#: DEV_extra_translations/extra_translations.py:9
-#: DEV_extra_translations/extra_translations.py:12
+#: ../DEV_extra_translations/extra_translations.py:270
+#: ../DEV_extra_translations/extra_translations.py:272
 msgid "A clone of Rampart from Atari Games"
 msgstr "아타리 게임스가 개발한 램파트의 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:10
+#: ../DEV_extra_translations/extra_translations.py:67
 msgid "Games;Arcade;"
 msgstr "게임;아케이드;"
 
-#: DEV_extra_translations/extra_translations.py:11
+#: ../DEV_extra_translations/extra_translations.py:271
 msgid "Castle-Combat - 8787/tcp"
 msgstr "캐슬-컴뱃 - 8787/tcp"
 
-#: DEV_extra_translations/extra_translations.py:13
+#: ../DEV_extra_translations/extra_translations.py:811
 msgid "GNUnet"
 msgstr "GNU넷"
 
-#: DEV_extra_translations/extra_translations.py:14
+#: ../DEV_extra_translations/extra_translations.py:812
 msgid ""
 "A decentralized peer-to-peer networking framework with file sharing and "
 "messaging"
 msgstr "파일 공유 및 메시지 전달이 있는 분산된 피어-투-피어 네트워킹 프레임워크입니다"
 
-#: DEV_extra_translations/extra_translations.py:15
+#: ../DEV_extra_translations/extra_translations.py:32
 msgid "Network;File Transfer;"
 msgstr "네트워크;파일;전송;"
 
-#: DEV_extra_translations/extra_translations.py:16
+#: ../DEV_extra_translations/extra_translations.py:560
 msgid "netPanzer"
 msgstr "넷판처"
 
-#: DEV_extra_translations/extra_translations.py:17
+#: ../DEV_extra_translations/extra_translations.py:561
 msgid "An online multiplayer tactical warfare game"
 msgstr "온라인 멀티플레이어 전술 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:18
+#: ../DEV_extra_translations/extra_translations.py:520
 msgid "Postal"
 msgstr "포스탈"
 
-#: DEV_extra_translations/extra_translations.py:19
+#: ../DEV_extra_translations/extra_translations.py:521
 msgid "Violent combat game from Running With Scissors"
 msgstr "러닝 위드 시저스가 개발한 폭력적인 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:20
+#: ../DEV_extra_translations/extra_translations.py:150
 msgid "Diablo II"
 msgstr "디아블로 II"
 
-#: DEV_extra_translations/extra_translations.py:21
-#: DEV_extra_translations/extra_translations.py:446
+#: ../DEV_extra_translations/extra_translations.py:151
+#: ../DEV_extra_translations/extra_translations.py:685
 msgid "Fantasy combat game by Blizzard Entertainment"
 msgstr "블리자드 엔터테인먼트가 개발한 판타지 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:22
+#: ../DEV_extra_translations/extra_translations.py:469
 msgid "Webmin"
 msgstr "웹민"
 
-#: DEV_extra_translations/extra_translations.py:23
-#: DEV_extra_translations/extra_translations.py:26
+#: ../DEV_extra_translations/extra_translations.py:470
+#: ../DEV_extra_translations/extra_translations.py:473
 msgid "Web-page based system management utility"
 msgstr "웹-페이지를 기반으로 한 시스템 관리 유틸리티입니다"
 
-#: DEV_extra_translations/extra_translations.py:24
+#: ../DEV_extra_translations/extra_translations.py:471
 msgid "Network;Shell;"
 msgstr "네트워크;셸;"
 
-#: DEV_extra_translations/extra_translations.py:25
+#: ../DEV_extra_translations/extra_translations.py:472
 msgid "Webmin fast RPC"
 msgstr "웹민 빠른 RPC입니다"
 
-#: DEV_extra_translations/extra_translations.py:27
+#: ../DEV_extra_translations/extra_translations.py:536
 msgid "Counter-Strike 2D"
 msgstr "카운터-스트라이크 2D"
 
-#: DEV_extra_translations/extra_translations.py:28
+#: ../DEV_extra_translations/extra_translations.py:537
 msgid ""
 "A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software"
 msgstr "언리얼 소프트웨어가 개발한 밸브 소프트웨어의 카운터-스트라이크의 탑-다운 2D 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:29
+#: ../DEV_extra_translations/extra_translations.py:817
 msgid "TeamSpeak 2 voice"
 msgstr "팀스피크 2 음성"
 
-#: DEV_extra_translations/extra_translations.py:30
+#: ../DEV_extra_translations/extra_translations.py:818
 msgid "TeamSpeak 2 voice service"
 msgstr "팀스피크 2 음성 서비스"
 
-#: DEV_extra_translations/extra_translations.py:31
+#: ../DEV_extra_translations/extra_translations.py:124
 msgid "Network;Telephony;"
 msgstr "네트워크;텔레포니;"
 
-#: DEV_extra_translations/extra_translations.py:32
+#: ../DEV_extra_translations/extra_translations.py:819
 msgid "TeamSpeak 2 web"
 msgstr "팀스피크 2 웹"
 
-#: DEV_extra_translations/extra_translations.py:33
+#: ../DEV_extra_translations/extra_translations.py:820
 msgid "TeamSpeak 2 web interface"
 msgstr "팀스피크 2 웹 인터페이스"
 
-#: DEV_extra_translations/extra_translations.py:34
-#: DEV_extra_translations/extra_translations.py:35
+#: ../DEV_extra_translations/extra_translations.py:821
+#: ../DEV_extra_translations/extra_translations.py:822
 msgid "TeamSpeak 2 TCP query"
 msgstr "팀스피크 2 TCP 쿼리"
 
-#: DEV_extra_translations/extra_translations.py:36
+#: ../DEV_extra_translations/extra_translations.py:482
 msgid "Skype - 23399"
 msgstr "스카이프 - 23399"
 
-#: DEV_extra_translations/extra_translations.py:37
+#: ../DEV_extra_translations/extra_translations.py:483
 msgid "VoIP client"
 msgstr "VoIP 클라이언트"
 
-#: DEV_extra_translations/extra_translations.py:38
+#: ../DEV_extra_translations/extra_translations.py:484
 msgid "Skype - 23398"
 msgstr "스카이프 - 23398"
 
-#: DEV_extra_translations/extra_translations.py:39
-#: DEV_extra_translations/extra_translations.py:41
-#: DEV_extra_translations/extra_translations.py:43
-#: DEV_extra_translations/extra_translations.py:45
-#: DEV_extra_translations/extra_translations.py:47
-#: DEV_extra_translations/extra_translations.py:49
-#: DEV_extra_translations/extra_translations.py:51
-#: DEV_extra_translations/extra_translations.py:53
-#: DEV_extra_translations/extra_translations.py:55
+#: ../DEV_extra_translations/extra_translations.py:485
+#: ../DEV_extra_translations/extra_translations.py:487
+#: ../DEV_extra_translations/extra_translations.py:489
+#: ../DEV_extra_translations/extra_translations.py:491
+#: ../DEV_extra_translations/extra_translations.py:493
+#: ../DEV_extra_translations/extra_translations.py:495
+#: ../DEV_extra_translations/extra_translations.py:497
+#: ../DEV_extra_translations/extra_translations.py:499
+#: ../DEV_extra_translations/extra_translations.py:501
 msgid "VoIP client, suggested alternate port"
 msgstr "VoIP 클라이언트입니다, 제안된 다른 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:40
+#: ../DEV_extra_translations/extra_translations.py:486
 msgid "Skype - 23397"
 msgstr "스카이프 - 23397"
 
-#: DEV_extra_translations/extra_translations.py:42
+#: ../DEV_extra_translations/extra_translations.py:488
 msgid "Skype - 23396"
 msgstr "스카이프 - 23396"
 
-#: DEV_extra_translations/extra_translations.py:44
+#: ../DEV_extra_translations/extra_translations.py:490
 msgid "Skype - 23395"
 msgstr "스카이프 - 23395"
 
-#: DEV_extra_translations/extra_translations.py:46
+#: ../DEV_extra_translations/extra_translations.py:492
 msgid "Skype - 23394"
 msgstr "스카이프 - 23394"
 
-#: DEV_extra_translations/extra_translations.py:48
+#: ../DEV_extra_translations/extra_translations.py:494
 msgid "Skype - 23393"
 msgstr "스카이프 - 23393"
 
-#: DEV_extra_translations/extra_translations.py:50
+#: ../DEV_extra_translations/extra_translations.py:496
 msgid "Skype - 23392"
 msgstr "스카이프 - 23392"
 
-#: DEV_extra_translations/extra_translations.py:52
+#: ../DEV_extra_translations/extra_translations.py:498
 msgid "Skype - 23391"
 msgstr "스카이프 - 23391"
 
-#: DEV_extra_translations/extra_translations.py:54
+#: ../DEV_extra_translations/extra_translations.py:500
 msgid "Skype - 23390"
 msgstr "스카이프 - 23390"
 
-#: DEV_extra_translations/extra_translations.py:56
+#: ../DEV_extra_translations/extra_translations.py:439
 msgid "SIP"
 msgstr "SIP"
 
-#: DEV_extra_translations/extra_translations.py:57
+#: ../DEV_extra_translations/extra_translations.py:440
 msgid ""
 "Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
 msgstr "암호화가 되지 않은, 세션 개시 프로토콜은, nf_conntrack_sip 모듈을 사용합니다"
 
-#: DEV_extra_translations/extra_translations.py:58
+#: ../DEV_extra_translations/extra_translations.py:441
 msgid "SIP TLS"
 msgstr "SIP TLS"
 
-#: DEV_extra_translations/extra_translations.py:59
+#: ../DEV_extra_translations/extra_translations.py:442
 msgid "Session Initiation Protocol with TLS encryption"
 msgstr "TLS 암호화를 사용하는 세션 개시 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:60
+#: ../DEV_extra_translations/extra_translations.py:68
 msgid "MiniDLNA"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:61
+#: ../DEV_extra_translations/extra_translations.py:69
 msgid ""
 "Serves media files (music, pictures, and video) to clients on a network"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:62
+#: ../DEV_extra_translations/extra_translations.py:70
 msgid "Audio Video;TV;"
 msgstr "오디오 비디오;TV;"
 
-#: DEV_extra_translations/extra_translations.py:63
+#: ../DEV_extra_translations/extra_translations.py:804
 msgid "iMaze"
 msgstr "아이메이즈"
 
-#: DEV_extra_translations/extra_translations.py:64
+#: ../DEV_extra_translations/extra_translations.py:805
 msgid "A maze combat game in 3D"
 msgstr "3D 미로 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:65
+#: ../DEV_extra_translations/extra_translations.py:676
 msgid "Crossfire"
 msgstr "크로스파이어"
 
-#: DEV_extra_translations/extra_translations.py:66
+#: ../DEV_extra_translations/extra_translations.py:677
 msgid ""
 "An open source, cooperative multiplayer graphical RPG and adventure game"
 msgstr "오픈 소스, 협동 멀티플레이어 그래픽 RPG이자 어드벤처 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:67
+#: ../DEV_extra_translations/extra_translations.py:206
 msgid "Games;Role;"
 msgstr "게임;롤;"
 
-#: DEV_extra_translations/extra_translations.py:68
+#: ../DEV_extra_translations/extra_translations.py:678
 msgid "Crossfire Metaserver"
 msgstr "크로스파이어 메타서버"
 
-#: DEV_extra_translations/extra_translations.py:69
+#: ../DEV_extra_translations/extra_translations.py:679
 msgid "Metaserver for Crossfire RPG"
 msgstr "크로스파이어 RPG용 메타서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:70
+#: ../DEV_extra_translations/extra_translations.py:400
 msgid "World of Warcraft"
 msgstr "월드 오브 워크래프트"
 
-#: DEV_extra_translations/extra_translations.py:71
+#: ../DEV_extra_translations/extra_translations.py:401
 msgid "A MMORPG game by Blizzard Entertainment"
 msgstr "블리자드 엔터테인먼트가 개발한 MMORPG 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:72
+#: ../DEV_extra_translations/extra_translations.py:259
 msgid "Descent 3"
 msgstr "디센트 3"
 
-#: DEV_extra_translations/extra_translations.py:73
+#: ../DEV_extra_translations/extra_translations.py:260
 msgid "3D Flying FPS by Outrage Entertainment"
 msgstr "아웃레이지 엔터테인먼트가 개발한 3D 비행 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:74
+#: ../DEV_extra_translations/extra_translations.py:165
 msgid "Widelands"
 msgstr "와이드랜즈"
 
-#: DEV_extra_translations/extra_translations.py:75
+#: ../DEV_extra_translations/extra_translations.py:166
 msgid "A RTS similar to The Settlers I & II from Blue Byte Software"
 msgstr "블루 바이트 소프트웨어가 개발한 더 세틀러즈 I & II와 유사한 RTS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:76
+#: ../DEV_extra_translations/extra_translations.py:15
 msgid "Games;Strategy;"
 msgstr "게임;전략;"
 
-#: DEV_extra_translations/extra_translations.py:77
+#: ../DEV_extra_translations/extra_translations.py:640
 msgid "MythTV"
 msgstr "미스TV"
 
-#: DEV_extra_translations/extra_translations.py:78
+#: ../DEV_extra_translations/extra_translations.py:641
 msgid "MythTV backend"
 msgstr "미스TV 백엔드"
 
-#: DEV_extra_translations/extra_translations.py:79
+#: ../DEV_extra_translations/extra_translations.py:553
 msgid "Mechwarrior 4"
 msgstr "멕워리어 4"
 
-#: DEV_extra_translations/extra_translations.py:80
+#: ../DEV_extra_translations/extra_translations.py:554
 msgid "A FPS based on the Fasa Battletech universe"
 msgstr "파사 배틀테크 세계관을 기초로 한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:81
+#: ../DEV_extra_translations/extra_translations.py:570
 msgid "FreeOrion"
 msgstr "프리오리온"
 
-#: DEV_extra_translations/extra_translations.py:82
+#: ../DEV_extra_translations/extra_translations.py:571
 msgid ""
 "A turn-based 4X strategy game inspired by Master of Orion from MicroProse"
 msgstr "마이크로프로즈의 마스터 오브 오리온에 영감을 받은 4X 턴-제 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:83
+#: ../DEV_extra_translations/extra_translations.py:93
 msgid "Kingpin: Life of Crime"
 msgstr "킹핀: 라이프 오브 크라임"
 
-#: DEV_extra_translations/extra_translations.py:84
+#: ../DEV_extra_translations/extra_translations.py:94
 msgid "A FPS by Xatrix Entertainment"
 msgstr "자트릭스 엔터테인먼트가 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:85
+#: ../DEV_extra_translations/extra_translations.py:308
 msgid "rsync daemon"
 msgstr "알싱크 데몬"
 
-#: DEV_extra_translations/extra_translations.py:86
+#: ../DEV_extra_translations/extra_translations.py:309
 msgid "File synchronization utility"
 msgstr "파일 동기화 유틸리티입니다"
 
-#: DEV_extra_translations/extra_translations.py:87
+#: ../DEV_extra_translations/extra_translations.py:73
 msgid "MSN Gaming Zone"
 msgstr "MSN 게이밍 존"
 
-#: DEV_extra_translations/extra_translations.py:88
+#: ../DEV_extra_translations/extra_translations.py:74
 msgid "Games using MSN Gaming Zone API"
 msgstr "MSN 게이밍 존 API를 사용하는 게임"
 
-#: DEV_extra_translations/extra_translations.py:89
+#: ../DEV_extra_translations/extra_translations.py:75
 msgid "Network;Games;"
 msgstr "네트워크;게임;"
 
-#: DEV_extra_translations/extra_translations.py:90
+#: ../DEV_extra_translations/extra_translations.py:506
 msgid "Postal 2"
 msgstr "포스탈 2"
 
-#: DEV_extra_translations/extra_translations.py:91
+#: ../DEV_extra_translations/extra_translations.py:507
 msgid "A FPS by Running with Scissors (uses the Unreal engine)"
 msgstr "러닝 위드 시저스가 개발한 FPS 게임입니다(언리언 엔진을 사용합니다)"
 
-#: DEV_extra_translations/extra_translations.py:92
+#: ../DEV_extra_translations/extra_translations.py:97
 msgid "Globulation 2"
 msgstr "글로부레이션 2"
 
-#: DEV_extra_translations/extra_translations.py:93
+#: ../DEV_extra_translations/extra_translations.py:98
 msgid "A RTS"
 msgstr "RTS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:94
+#: ../DEV_extra_translations/extra_translations.py:295
 msgid "Icecast"
 msgstr "아이스캐스트"
 
-#: DEV_extra_translations/extra_translations.py:95
-#: DEV_extra_translations/extra_translations.py:456
+#: ../DEV_extra_translations/extra_translations.py:176
+#: ../DEV_extra_translations/extra_translations.py:296
 msgid "Icecast stream"
 msgstr "아이스캐스트 스트림"
 
-#: DEV_extra_translations/extra_translations.py:96
+#: ../DEV_extra_translations/extra_translations.py:297
 msgid "Network;Audio Video;"
 msgstr "네트워크;오디오;비디오;"
 
-#: DEV_extra_translations/extra_translations.py:97
+#: ../DEV_extra_translations/extra_translations.py:298
 msgid "Icecast - 8000:8001/tcp"
 msgstr "아이스캐스트 - 8000:8001 /tcp"
 
-#: DEV_extra_translations/extra_translations.py:98
+#: ../DEV_extra_translations/extra_translations.py:299
 msgid "Icecast with SHOUTcast-compatible stream"
 msgstr "샤우트캐스트-호환 스트림이 있는 아이스캐스트입니다"
 
-#: DEV_extra_translations/extra_translations.py:99
+#: ../DEV_extra_translations/extra_translations.py:823
 msgid "DXX-Rebirth"
 msgstr "DXX-리버스"
 
-#: DEV_extra_translations/extra_translations.py:100
+#: ../DEV_extra_translations/extra_translations.py:824
 msgid "A source port of Descent, the 3D Flying FPS by Outrage Entertainment"
 msgstr "아웃레이지 엔터테인먼트가 개발한 3D 비행 FPS 게임인, 디센트의 소스 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:101
+#: ../DEV_extra_translations/extra_translations.py:710
 msgid "Tor Normal"
 msgstr "보통 토르"
 
-#: DEV_extra_translations/extra_translations.py:102
+#: ../DEV_extra_translations/extra_translations.py:711
 msgid "Tor anonymity network"
 msgstr "토르 익명 네트워크입니다"
 
-#: DEV_extra_translations/extra_translations.py:103
+#: ../DEV_extra_translations/extra_translations.py:120
 msgid "Sid Meier's Alpha Centauri"
 msgstr "시드마이어의 알파 센타우리"
 
-#: DEV_extra_translations/extra_translations.py:104
+#: ../DEV_extra_translations/extra_translations.py:121
 msgid "SciFi strategy game by Firaxis"
 msgstr "파이락시스가 개발한 공상과학 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:105
+#: ../DEV_extra_translations/extra_translations.py:33
 msgid "WINE: Starcraft"
 msgstr "와인: 스타크래프트"
 
-#: DEV_extra_translations/extra_translations.py:106
-#: DEV_extra_translations/extra_translations.py:345
+#: ../DEV_extra_translations/extra_translations.py:34
+#: ../DEV_extra_translations/extra_translations.py:723
 msgid "A strategy game by Blizzard Entertainment"
 msgstr "블리자드 엔터테인먼트가 개발한 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:107
+#: ../DEV_extra_translations/extra_translations.py:659
 msgid "Frostwire"
 msgstr "프로스트와이어"
 
-#: DEV_extra_translations/extra_translations.py:108
+#: ../DEV_extra_translations/extra_translations.py:660
 msgid "Frostwire peer-peer file sharing on default port"
 msgstr "프로스트와이어 기본 포트에 있는 피어-투-피어 파일 공유 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:109
+#: ../DEV_extra_translations/extra_translations.py:661
 msgid "Network;File Transfer;P2P;"
 msgstr "네트워크;파일 전송;P2P;"
 
-#: DEV_extra_translations/extra_translations.py:110
-#: DEV_extra_translations/extra_translations.py:159
-#: DEV_extra_translations/extra_translations.py:316
-#: DEV_extra_translations/extra_translations.py:319
-#: DEV_extra_translations/extra_translations.py:322
-#: DEV_extra_translations/extra_translations.py:331
-#: DEV_extra_translations/extra_translations.py:509
-#: DEV_extra_translations/extra_translations.py:530
-#: DEV_extra_translations/extra_translations.py:679
-#: DEV_extra_translations/extra_translations.py:721
-#: DEV_extra_translations/extra_translations.py:724
-#: DEV_extra_translations/extra_translations.py:780
+#: ../DEV_extra_translations/extra_translations.py:59
+#: ../DEV_extra_translations/extra_translations.py:113
+#: ../DEV_extra_translations/extra_translations.py:351
+#: ../DEV_extra_translations/extra_translations.py:388
+#: ../DEV_extra_translations/extra_translations.py:397
+#: ../DEV_extra_translations/extra_translations.py:544
+#: ../DEV_extra_translations/extra_translations.py:547
+#: ../DEV_extra_translations/extra_translations.py:550
+#: ../DEV_extra_translations/extra_translations.py:601
+#: ../DEV_extra_translations/extra_translations.py:662
+#: ../DEV_extra_translations/extra_translations.py:669
+#: ../DEV_extra_translations/extra_translations.py:747
 msgid "Remember to open the ports on the router"
 msgstr "라우터에 있는 포트를 여시는 걸 기억하십시오"
 
-#: DEV_extra_translations/extra_translations.py:111
+#: ../DEV_extra_translations/extra_translations.py:185
 msgid "Tribes 2"
 msgstr "트라이브스 2"
 
-#: DEV_extra_translations/extra_translations.py:112
+#: ../DEV_extra_translations/extra_translations.py:186
 msgid "A multiplayer combat online game by Dynamix - main port"
 msgstr "다이내믹스가 개발한 멀티플레이어 전투 온라인 게임입니다 - 주 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:113
+#: ../DEV_extra_translations/extra_translations.py:187
 msgid "Tribes 2 - 28000:29000/tcp/udp"
 msgstr "트라이브스 2 - 28000:29000/tcp/udp"
 
-#: DEV_extra_translations/extra_translations.py:114
+#: ../DEV_extra_translations/extra_translations.py:188
 msgid "A multiplayer combat online game by Dynamix, all suggested ports open"
 msgstr "모든 제안된 포트가 열린, 다이내믹스가 개발한 멀티플레이어 전투 온라인 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:115
+#: ../DEV_extra_translations/extra_translations.py:343
 msgid "FreeSpace 2"
 msgstr "프리스페이스 2"
 
-#: DEV_extra_translations/extra_translations.py:116
+#: ../DEV_extra_translations/extra_translations.py:344
 msgid "Space combat simulation by Volition"
 msgstr "볼리션이 개발한 우주 전투 시뮬레이션 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:117
+#: ../DEV_extra_translations/extra_translations.py:366
 msgid "Hexen II - 26900/udp"
 msgstr "헥센 II - 26900/udp"
 
-#: DEV_extra_translations/extra_translations.py:118
+#: ../DEV_extra_translations/extra_translations.py:367
 msgid "A fantasy FPS by Raven Software, server on port 27660"
 msgstr "레이븐 소프트웨어가 개발한 판타지 FPS 게임입니다, 포트 27660에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:119
+#: ../DEV_extra_translations/extra_translations.py:368
 msgid "Hexen II - 26901/udp"
 msgstr "헥센 II - 26901/udp"
 
-#: DEV_extra_translations/extra_translations.py:120
+#: ../DEV_extra_translations/extra_translations.py:369
 msgid "A fantasy FPS by Raven Software, server on port 26901"
 msgstr "레이븐 소프트웨어가 개발한 판타지 FPS 게임입니다, 포트 26901에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:121
+#: ../DEV_extra_translations/extra_translations.py:370
 msgid "Hexen II - 26902/udp"
 msgstr "헥센 II - 26902/udp"
 
-#: DEV_extra_translations/extra_translations.py:122
+#: ../DEV_extra_translations/extra_translations.py:371
 msgid "A fantasy FPS by Raven Software, server on port 26902"
 msgstr "레이븐 소프트웨어가 개발한 판타지 FPS 게임입니다, 포트 26902에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:123
+#: ../DEV_extra_translations/extra_translations.py:372
 msgid "Hexen II - 26903/udp"
 msgstr "헥센 II - 26903/udp"
 
-#: DEV_extra_translations/extra_translations.py:124
+#: ../DEV_extra_translations/extra_translations.py:373
 msgid "A fantasy FPS by Raven Software, server on port 26903"
 msgstr "레이븐 소프트웨어가 개발한 판타지 FPS 게임입니다, 포트 26903에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:125
+#: ../DEV_extra_translations/extra_translations.py:374
 msgid "HexenWorld - 26950/udp"
 msgstr "헥센월드 - 26950/udp"
 
-#: DEV_extra_translations/extra_translations.py:126
+#: ../DEV_extra_translations/extra_translations.py:375
 msgid "HexenWorld server by Raven Software"
 msgstr "레이븐 소프트웨어가 개발한 헥센월드 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:127
+#: ../DEV_extra_translations/extra_translations.py:229
 msgid "Wakfu"
 msgstr "왁푸"
 
-#: DEV_extra_translations/extra_translations.py:128
+#: ../DEV_extra_translations/extra_translations.py:230
 msgid "An online tactical turn-based MMORPG"
 msgstr "턴-제 온라인 전술 MMORPG 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:129
+#: ../DEV_extra_translations/extra_translations.py:27
 msgid "Camfrog"
 msgstr "캠프로그"
 
-#: DEV_extra_translations/extra_translations.py:130
-#: DEV_extra_translations/extra_translations.py:803
-#: DEV_extra_translations/extra_translations.py:804
+#: ../DEV_extra_translations/extra_translations.py:28
+#: ../DEV_extra_translations/extra_translations.py:456
+#: ../DEV_extra_translations/extra_translations.py:457
 msgid "H.323 Call Signaling"
 msgstr "H.323 호출 신호"
 
-#: DEV_extra_translations/extra_translations.py:131
+#: ../DEV_extra_translations/extra_translations.py:29
 msgid "Network;Telephony;Video Conference;"
 msgstr "네트워크;텔레포니;화상 회의;"
 
-#: DEV_extra_translations/extra_translations.py:132
+#: ../DEV_extra_translations/extra_translations.py:443
 msgid "Scorched 3D server"
 msgstr "스코치드 3D 서버"
 
-#: DEV_extra_translations/extra_translations.py:133
+#: ../DEV_extra_translations/extra_translations.py:444
 msgid "A modernization of the classic DOS game Scorched Earth"
 msgstr "고전 도스 게임인 스코치드 어스의 현대화 버전 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:134
+#: ../DEV_extra_translations/extra_translations.py:557
 msgid "Ur-Quan Masters"
 msgstr "유알-퀀 마스터스"
 
-#: DEV_extra_translations/extra_translations.py:135
+#: ../DEV_extra_translations/extra_translations.py:558
 msgid "An enhanced version of Star Control II from 3DO"
 msgstr "3DO용으로 나온 스타 컨트롤 II의 향상된 버전입니다"
 
-#: DEV_extra_translations/extra_translations.py:136
+#: ../DEV_extra_translations/extra_translations.py:559
 msgid "Games;Adventure;"
 msgstr "게임;어드벤처;"
 
-#: DEV_extra_translations/extra_translations.py:137
+#: ../DEV_extra_translations/extra_translations.py:708
 msgid "Steel Storm"
 msgstr "스틸 스톰"
 
-#: DEV_extra_translations/extra_translations.py:138
+#: ../DEV_extra_translations/extra_translations.py:709
 msgid ""
 "A top-down arcade shooter with hovertanks by Kot-in-Action Creative Artel"
 msgstr "컷-인-액션 크리에이티브 아르텔이 개발한 호버 전차로 진행하는 탑-다운 아케이드 슈터 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:139
+#: ../DEV_extra_translations/extra_translations.py:688
 msgid "gpsd"
 msgstr "gpsd"
 
-#: DEV_extra_translations/extra_translations.py:140
+#: ../DEV_extra_translations/extra_translations.py:689
 msgid "Interface daemon for GPS receivers"
 msgstr "GPS 수신기용 인터페이스 데몬"
 
-#: DEV_extra_translations/extra_translations.py:141
+#: ../DEV_extra_translations/extra_translations.py:690
 msgid "Network;Geography;"
 msgstr "네트워크;지리;"
 
-#: DEV_extra_translations/extra_translations.py:142
+#: ../DEV_extra_translations/extra_translations.py:538
 msgid "Socks Proxy"
 msgstr "Socks 프락시"
 
-#: DEV_extra_translations/extra_translations.py:143
+#: ../DEV_extra_translations/extra_translations.py:539
 msgid "SOCKS protocol for proxy server support"
 msgstr "프락시 서버 지원용 SOCKS 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:144
+#: ../DEV_extra_translations/extra_translations.py:116
 msgid "Network;Services;"
 msgstr "네트워크;서비스;"
 
-#: DEV_extra_translations/extra_translations.py:145
+#: ../DEV_extra_translations/extra_translations.py:540
 msgid "Transparent Proxy"
 msgstr "투명 프락시"
 
-#: DEV_extra_translations/extra_translations.py:146
+#: ../DEV_extra_translations/extra_translations.py:541
 msgid "Transparent proxy"
 msgstr "투명 프락시"
 
-#: DEV_extra_translations/extra_translations.py:147
+#: ../DEV_extra_translations/extra_translations.py:114
 msgid "SSH"
 msgstr "SSH"
 
-#: DEV_extra_translations/extra_translations.py:148
+#: ../DEV_extra_translations/extra_translations.py:115
 msgid "Secure Shell"
 msgstr "보안 셸"
 
@@ -1723,120 +1718,120 @@ msgstr "보안 셸"
 msgid "It may be a security risk to use a default allow policy"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:150
+#: ../DEV_extra_translations/extra_translations.py:726
 msgid "VNC"
 msgstr "VNC"
 
-#: DEV_extra_translations/extra_translations.py:151
+#: ../DEV_extra_translations/extra_translations.py:727
 msgid "Virtual Network Computing"
 msgstr "가상 네트워크 컴퓨팅"
 
-#: DEV_extra_translations/extra_translations.py:152
+#: ../DEV_extra_translations/extra_translations.py:592
 msgid "Network;Remote Access;"
 msgstr "네트워크;원격 접속;"
 
-#: DEV_extra_translations/extra_translations.py:154
+#: ../DEV_extra_translations/extra_translations.py:551
 msgid "Railroad Tycoon II"
 msgstr "레일로드 타이쿤 II"
 
-#: DEV_extra_translations/extra_translations.py:155
+#: ../DEV_extra_translations/extra_translations.py:552
 msgid "Railroad strategy game by PopTop Software"
 msgstr "팝탑 소프트웨어가 개발한 전략 철로 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:156
+#: ../DEV_extra_translations/extra_translations.py:745
 msgid "Vuze Remote"
 msgstr "뷰즈 리모트"
 
-#: DEV_extra_translations/extra_translations.py:157
+#: ../DEV_extra_translations/extra_translations.py:746
 msgid "Remote control for Vuze"
 msgstr "뷰즈용 원격 제어 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:158
+#: ../DEV_extra_translations/extra_translations.py:58
 msgid "Network;P2P;"
 msgstr "네트워크;P2P;"
 
-#: DEV_extra_translations/extra_translations.py:160
+#: ../DEV_extra_translations/extra_translations.py:428
 msgid "IPP"
 msgstr "IPP"
 
-#: DEV_extra_translations/extra_translations.py:161
+#: ../DEV_extra_translations/extra_translations.py:429
 msgid "Internet Printing Protocol"
 msgstr "인터넷 인쇄 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:162
+#: ../DEV_extra_translations/extra_translations.py:430
 msgid "Network;Printing;"
 msgstr "네트워크;인쇄;"
 
-#: DEV_extra_translations/extra_translations.py:163
+#: ../DEV_extra_translations/extra_translations.py:827
 msgid "FreeLords"
 msgstr "프리로드"
 
-#: DEV_extra_translations/extra_translations.py:164
+#: ../DEV_extra_translations/extra_translations.py:828
 msgid "A clone of Warlords"
 msgstr "워로드의 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:165
+#: ../DEV_extra_translations/extra_translations.py:213
 msgid "Dropbox"
 msgstr "드롭박스"
 
-#: DEV_extra_translations/extra_translations.py:166
+#: ../DEV_extra_translations/extra_translations.py:214
 msgid ""
 "File hosting service, that offers cloud storage, file synchronization and "
 "client software"
 msgstr "클라우드 저장소, 파일 동기화 및 클라이언트 소프트웨어를 제공해주는, 파일 호스팅 서비스입니다"
 
-#: DEV_extra_translations/extra_translations.py:167
+#: ../DEV_extra_translations/extra_translations.py:83
 msgid "Network;Cloud;"
 msgstr "네트워크;클라우드;"
 
-#: DEV_extra_translations/extra_translations.py:168
+#: ../DEV_extra_translations/extra_translations.py:796
 msgid "Serious Sam II"
 msgstr "시리어스 샘 II"
 
-#: DEV_extra_translations/extra_translations.py:169
-#: DEV_extra_translations/extra_translations.py:481
+#: ../DEV_extra_translations/extra_translations.py:797
+#: ../DEV_extra_translations/extra_translations.py:826
 msgid "FPS by Croteam"
 msgstr "크로팀이 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:170
+#: ../DEV_extra_translations/extra_translations.py:604
 msgid "NASCAR Racing 2002/03 1 player"
 msgstr "나스카 자동차 경주 2002/03 1 플레이어"
 
-#: DEV_extra_translations/extra_translations.py:171
-#: DEV_extra_translations/extra_translations.py:174
-#: DEV_extra_translations/extra_translations.py:176
-#: DEV_extra_translations/extra_translations.py:178
-#: DEV_extra_translations/extra_translations.py:180
-#: DEV_extra_translations/extra_translations.py:182
-#: DEV_extra_translations/extra_translations.py:184
+#: ../DEV_extra_translations/extra_translations.py:605
+#: ../DEV_extra_translations/extra_translations.py:607
+#: ../DEV_extra_translations/extra_translations.py:609
+#: ../DEV_extra_translations/extra_translations.py:611
+#: ../DEV_extra_translations/extra_translations.py:613
+#: ../DEV_extra_translations/extra_translations.py:615
+#: ../DEV_extra_translations/extra_translations.py:617
 msgid "Racing simulators from Papyrus Design Group"
 msgstr "파피루스 디자인 그룹이 개발한 자동차 경주 시뮬레이터 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:172
+#: ../DEV_extra_translations/extra_translations.py:7
 msgid "Games;Simulation;"
 msgstr "게임;시뮬레이션;"
 
-#: DEV_extra_translations/extra_translations.py:173
+#: ../DEV_extra_translations/extra_translations.py:606
 msgid "NASCAR Racing 2002/03 2 players"
 msgstr "나스카 자동차 경주 2002/03 2 플레이어"
 
-#: DEV_extra_translations/extra_translations.py:175
+#: ../DEV_extra_translations/extra_translations.py:608
 msgid "NASCAR Racing 2002/03 4 players"
 msgstr "나스카 자동차 경주 2002/03 4 플레이어"
 
-#: DEV_extra_translations/extra_translations.py:177
+#: ../DEV_extra_translations/extra_translations.py:610
 msgid "NASCAR Racing 2002/03  8 players"
 msgstr "나스카 자동차 경주 2002/03 8 플레이어"
 
-#: DEV_extra_translations/extra_translations.py:179
+#: ../DEV_extra_translations/extra_translations.py:612
 msgid "NASCAR Racing 2002/03 16 players"
 msgstr "나스카 자동차 경주 2002/03 16 플레이어"
 
-#: DEV_extra_translations/extra_translations.py:181
+#: ../DEV_extra_translations/extra_translations.py:614
 msgid "NASCAR Racing 2002/03 32 players"
 msgstr "나스카 자동차 경주 2002/03 32 플레이어"
 
-#: DEV_extra_translations/extra_translations.py:183
+#: ../DEV_extra_translations/extra_translations.py:616
 msgid "NASCAR Racing 2002/03 42 players"
 msgstr "나스카 자동차 경주 2002/03 42 플레이어"
 
@@ -1848,239 +1843,239 @@ msgstr ""
 msgid "Communicate across all your devices"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:187
+#: ../DEV_extra_translations/extra_translations.py:48
 msgid "OpenArena"
 msgstr "오픈아레나"
 
-#: DEV_extra_translations/extra_translations.py:188
+#: ../DEV_extra_translations/extra_translations.py:49
 msgid "A competitive FPS based on ioquake3/id tech 3 engine"
 msgstr "ioquake3/id tech 3 엔진을 기반으로 한 경쟁 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:189
+#: ../DEV_extra_translations/extra_translations.py:437
 msgid "Savage 2: A Tortured Soul"
 msgstr "세비지 2: 어 토쳐드 소울"
 
-#: DEV_extra_translations/extra_translations.py:190
-#: DEV_extra_translations/extra_translations.py:472
+#: ../DEV_extra_translations/extra_translations.py:438
+#: ../DEV_extra_translations/extra_translations.py:799
 msgid "A RTS/FPS from S2 Games"
 msgstr "S2 게임즈가 개발한 RTS/FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:191
+#: ../DEV_extra_translations/extra_translations.py:137
 msgid "DirectX 7"
 msgstr "다이렉트X 7"
 
-#: DEV_extra_translations/extra_translations.py:192
+#: ../DEV_extra_translations/extra_translations.py:138
 msgid "Network games using DirectX 7 API"
 msgstr "다이렉트X 7 API를 사용하는 네트워크 게임"
 
-#: DEV_extra_translations/extra_translations.py:193
+#: ../DEV_extra_translations/extra_translations.py:37
 msgid "Network;"
 msgstr "네트워크;"
 
-#: DEV_extra_translations/extra_translations.py:194
+#: ../DEV_extra_translations/extra_translations.py:139
 msgid "DirectX 8"
 msgstr "다이렉트X 8"
 
-#: DEV_extra_translations/extra_translations.py:195
+#: ../DEV_extra_translations/extra_translations.py:140
 msgid "Network games using DirectX 8 API"
 msgstr "다이렉트X 8 API를 사용하는 네트워크 게임"
 
-#: DEV_extra_translations/extra_translations.py:196
+#: ../DEV_extra_translations/extra_translations.py:189
 msgid "Freeciv"
 msgstr "프리civ"
 
-#: DEV_extra_translations/extra_translations.py:197
+#: ../DEV_extra_translations/extra_translations.py:190
 msgid ""
 "A turn-based strategy game similar to Civilization I & II by Microprose"
 msgstr "마이크로프로즈가 개발한 문명 I & II와 유사한 턴-제 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:198
+#: ../DEV_extra_translations/extra_translations.py:241
 msgid "The Battle for Wesnoth"
 msgstr "웨스노스 전쟁"
 
-#: DEV_extra_translations/extra_translations.py:199
+#: ../DEV_extra_translations/extra_translations.py:242
 msgid "Turn-based tactical strategy game"
 msgstr "턴-제 전술 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:200
-#: DEV_extra_translations/extra_translations.py:861
+#: ../DEV_extra_translations/extra_translations.py:597
+#: ../DEV_extra_translations/extra_translations.py:729
 msgid "Tremulous"
 msgstr "트레몰로즈"
 
-#: DEV_extra_translations/extra_translations.py:201
+#: ../DEV_extra_translations/extra_translations.py:730
 msgid "Team-based SciFi/alien FPS from Dark Legion Development"
 msgstr "다크 리전 디벨로프맨트가 개발한 팀제 공상과학/외계 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:202
+#: ../DEV_extra_translations/extra_translations.py:733
 msgid "Dofus"
 msgstr "도푸스"
 
-#: DEV_extra_translations/extra_translations.py:203
+#: ../DEV_extra_translations/extra_translations.py:734
 msgid "A massively multiplayer online role-playing game"
 msgstr "대규모 멀티플레이어 온라인 롤-플레잉 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:204
+#: ../DEV_extra_translations/extra_translations.py:572
 msgid "Telnet"
 msgstr "텔넷"
 
-#: DEV_extra_translations/extra_translations.py:205
+#: ../DEV_extra_translations/extra_translations.py:573
 msgid "Text-based remote access (like SSH but without the security)"
 msgstr "문자-기반 원격 접속 프로그램입니다(SSH와 같지만, 보안성이 없습니다)"
 
-#: DEV_extra_translations/extra_translations.py:206
+#: ../DEV_extra_translations/extra_translations.py:574
 msgid ""
 "Telnet is like SSH but without security. It'd be better to use the 'Telnet "
 "SSL'"
 msgstr "텔넷은 SSH와 같지만, 보안성이 없습니다. '텔넷 SSL'을 사용하는 것이 좋습니다"
 
-#: DEV_extra_translations/extra_translations.py:207
+#: ../DEV_extra_translations/extra_translations.py:575
 msgid "Telnet TLS/SSL"
 msgstr "텔넷 TLS/SSL"
 
-#: DEV_extra_translations/extra_translations.py:208
+#: ../DEV_extra_translations/extra_translations.py:576
 msgid "Text-based remote access (like SSH but without the security) SSL"
 msgstr "문자-기반 원격 접속 SSL 프로그램입니다(SSH와 같지만, 보안성이 없습니다)"
 
-#: DEV_extra_translations/extra_translations.py:209
+#: ../DEV_extra_translations/extra_translations.py:148
 msgid "EDuke32"
 msgstr "E듀크32"
 
-#: DEV_extra_translations/extra_translations.py:210
+#: ../DEV_extra_translations/extra_translations.py:149
 msgid "An enhanced version of Duke Nukem 3D"
 msgstr "듀크 뉴켐 3D의 향상된 버전입니다"
 
-#: DEV_extra_translations/extra_translations.py:211
+#: ../DEV_extra_translations/extra_translations.py:502
 msgid "Delta Force"
 msgstr "델타 포스"
 
-#: DEV_extra_translations/extra_translations.py:212
-#: DEV_extra_translations/extra_translations.py:356
-#: DEV_extra_translations/extra_translations.py:767
-#: DEV_extra_translations/extra_translations.py:800
+#: ../DEV_extra_translations/extra_translations.py:12
+#: ../DEV_extra_translations/extra_translations.py:503
+#: ../DEV_extra_translations/extra_translations.py:581
+#: ../DEV_extra_translations/extra_translations.py:681
 msgid "A FPS combat game by NovaLogic"
 msgstr "노바로직이 개발한 FPS 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:213
+#: ../DEV_extra_translations/extra_translations.py:285
 msgid "NFS"
 msgstr "NFS"
 
-#: DEV_extra_translations/extra_translations.py:214
+#: ../DEV_extra_translations/extra_translations.py:286
 msgid "Network File System"
 msgstr "네트워크 파일 시스템"
 
-#: DEV_extra_translations/extra_translations.py:215
+#: ../DEV_extra_translations/extra_translations.py:378
 msgid "Knights and Merchants TSK"
 msgstr "기사와 상인 TSK"
 
-#: DEV_extra_translations/extra_translations.py:216
+#: ../DEV_extra_translations/extra_translations.py:379
 msgid "A RTS by Joymania"
 msgstr "조이마니아가 개발한 RTS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:217
+#: ../DEV_extra_translations/extra_translations.py:514
 msgid "Doomsday"
 msgstr "둠스데이"
 
-#: DEV_extra_translations/extra_translations.py:218
+#: ../DEV_extra_translations/extra_translations.py:515
 msgid ""
 "A source port of id Software's Doom engine which supports Doom, Heretic, and "
 "Hexen"
 msgstr "둠, 헤러틱, 그리고 헥센을 지원하는 이드 소프트웨어가 개발한 둠 엔진의 소스 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:219
+#: ../DEV_extra_translations/extra_translations.py:416
 msgid "Daimonin"
 msgstr "다이모닌"
 
-#: DEV_extra_translations/extra_translations.py:220
+#: ../DEV_extra_translations/extra_translations.py:417
 msgid "An open-source MMORPG"
 msgstr "오픈-소스 MMORPG 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:221
+#: ../DEV_extra_translations/extra_translations.py:35
 msgid "Kerberos v5 KDC"
 msgstr "케르베로스 v5 KDC"
 
-#: DEV_extra_translations/extra_translations.py:222
+#: ../DEV_extra_translations/extra_translations.py:36
 msgid "Kerberos v5 KDC server"
 msgstr "케르베로스 v5 KDC 서버"
 
-#: DEV_extra_translations/extra_translations.py:223
+#: ../DEV_extra_translations/extra_translations.py:38
 msgid "Kerberos v5 admin"
 msgstr "케르베로스 v5 KDC 관리자"
 
-#: DEV_extra_translations/extra_translations.py:224
-#: DEV_extra_translations/extra_translations.py:228
+#: ../DEV_extra_translations/extra_translations.py:39
+#: ../DEV_extra_translations/extra_translations.py:43
 msgid "Kerberos v5 server"
 msgstr "케르베로스 v5 서버"
 
-#: DEV_extra_translations/extra_translations.py:225
-#: DEV_extra_translations/extra_translations.py:226
+#: ../DEV_extra_translations/extra_translations.py:40
+#: ../DEV_extra_translations/extra_translations.py:41
 msgid "Kerberos v5 password"
 msgstr "케르베로스 v5 암호"
 
-#: DEV_extra_translations/extra_translations.py:227
+#: ../DEV_extra_translations/extra_translations.py:42
 msgid "Kerberos v5 Full"
 msgstr "케르베로스 v5 전체 버전"
 
-#: DEV_extra_translations/extra_translations.py:229
+#: ../DEV_extra_translations/extra_translations.py:44
 msgid "LDAP"
 msgstr "LDAP"
 
-#: DEV_extra_translations/extra_translations.py:230
+#: ../DEV_extra_translations/extra_translations.py:45
 msgid "LDAP server"
 msgstr "LDAP 서버"
 
-#: DEV_extra_translations/extra_translations.py:231
+#: ../DEV_extra_translations/extra_translations.py:46
 msgid "LDAPS"
 msgstr "LDAPS"
 
-#: DEV_extra_translations/extra_translations.py:232
+#: ../DEV_extra_translations/extra_translations.py:47
 msgid "LDAP server (LDAPS)"
 msgstr "LDAP 서버(LDAPS)"
 
-#: DEV_extra_translations/extra_translations.py:233
+#: ../DEV_extra_translations/extra_translations.py:630
 msgid "Urban Terror - 27960/udp"
 msgstr "어반 테러 - 27960/udp"
 
-#: DEV_extra_translations/extra_translations.py:234
+#: ../DEV_extra_translations/extra_translations.py:631
 msgid ""
 "A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
 "port 27660"
 msgstr "프로즌 샌드가, 이드 소프트의 퀘이크 III을 기반으로 한 사실적인 FPS 게임입니다, 포트 27660에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:235
+#: ../DEV_extra_translations/extra_translations.py:632
 msgid "Urban Terror - 27961/udp"
 msgstr "어반 테러 - 27961/udp"
 
-#: DEV_extra_translations/extra_translations.py:236
+#: ../DEV_extra_translations/extra_translations.py:633
 msgid ""
 "A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
 "port 27961"
 msgstr "프로즌 샌드가, 이드 소프트의 퀘이크 III을 기반으로 한 사실적인 FPS 게임입니다, 포트 27961에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:237
+#: ../DEV_extra_translations/extra_translations.py:634
 msgid "Urban Terror - 27962/udp"
 msgstr "어반 테러 - 27962/udp"
 
-#: DEV_extra_translations/extra_translations.py:238
+#: ../DEV_extra_translations/extra_translations.py:635
 msgid ""
 "A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
 "port 27962"
 msgstr "프로즌 샌드가, 이드 소프트의 퀘이크 III을 기반으로 한 사실적인 FPS 게임입니다, 포트 27962에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:239
+#: ../DEV_extra_translations/extra_translations.py:636
 msgid "Urban Terror - 27963/udp"
 msgstr "어반 테러 - 27963/udp"
 
-#: DEV_extra_translations/extra_translations.py:240
+#: ../DEV_extra_translations/extra_translations.py:637
 msgid ""
 "A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
 "port 27963"
 msgstr "프로즌 샌드가, 이드 소프트의 퀘이크 III을 기반으로 한 사실적인 FPS 게임입니다, 포트 27963에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:241
+#: ../DEV_extra_translations/extra_translations.py:81
 msgid "Ubuntu One"
 msgstr "우분투 원"
 
-#: DEV_extra_translations/extra_translations.py:242
+#: ../DEV_extra_translations/extra_translations.py:82
 msgid ""
 "Store files online and sync them between computers and mobile devices, as "
 "well as stream audio and music from cloud to mobile devices"
@@ -2088,332 +2083,332 @@ msgstr ""
 "파일을 온라인에 저장해주고 이를 컴퓨터들 및 휴대 장치들 사이에서 동기화를 해주며, 클라우드에 있는 오디오 및 음악 역시 휴대 장치들에 "
 "스트림을 해줍니다"
 
-#: DEV_extra_translations/extra_translations.py:243
+#: ../DEV_extra_translations/extra_translations.py:178
 msgid "Multicast DNS"
 msgstr "멀티캐스트 DNS"
 
-#: DEV_extra_translations/extra_translations.py:244
+#: ../DEV_extra_translations/extra_translations.py:179
 msgid "Multicast DNS (Avahi, Bonjour)"
 msgstr "멀티캐스트 DNS(아바히, 봉주르)"
 
-#: DEV_extra_translations/extra_translations.py:245
+#: ../DEV_extra_translations/extra_translations.py:204
 msgid "Ryzom"
 msgstr "리좀"
 
-#: DEV_extra_translations/extra_translations.py:246
+#: ../DEV_extra_translations/extra_translations.py:205
 msgid ""
 "It's also known as The Saga of Ryzom, is a massively multiplayer online role-"
 "playing game (MMORPG)"
 msgstr "이것은 더 사가 오브 리좀으로 알려졌으며, 대규모 멀티플레이어 온라인 롤-플레잉 게임입니다(MMORPG)"
 
-#: DEV_extra_translations/extra_translations.py:247
+#: ../DEV_extra_translations/extra_translations.py:718
 msgid "USB Redirector"
 msgstr "USB 리다이렉터"
 
-#: DEV_extra_translations/extra_translations.py:248
+#: ../DEV_extra_translations/extra_translations.py:719
 msgid "USB device sharing system from INCENTIVES Pro"
 msgstr "인센티브즈 프로가 개발한 USB 장치 공유 시스템입니다"
 
-#: DEV_extra_translations/extra_translations.py:249
+#: ../DEV_extra_translations/extra_translations.py:478
 msgid "Majesty: The Fantasy Kingdom Sim"
 msgstr "마제스티: 더 판타지 킹덤 심"
 
-#: DEV_extra_translations/extra_translations.py:250
+#: ../DEV_extra_translations/extra_translations.py:479
 msgid "A RTS by Cyberlore Studios, ported to Linux by Linux Game Publishing"
 msgstr "사이버로어 스튜디오가 개발한 RTS 게임이며, 리눅스 게임 퍼블리싱에 의해 리눅스로 이식되었습니다"
 
-#: DEV_extra_translations/extra_translations.py:251
+#: ../DEV_extra_translations/extra_translations.py:347
 msgid "YS FLIGHT SIMULATION 2000"
 msgstr "YS 항공 시뮬레이션 2000"
 
-#: DEV_extra_translations/extra_translations.py:252
+#: ../DEV_extra_translations/extra_translations.py:348
 msgid "A 3D flight simulator"
 msgstr "3D 항공 시뮬레이터입니다"
 
-#: DEV_extra_translations/extra_translations.py:253
+#: ../DEV_extra_translations/extra_translations.py:127
 msgid "Nagios"
 msgstr "나기오스"
 
-#: DEV_extra_translations/extra_translations.py:254
+#: ../DEV_extra_translations/extra_translations.py:128
 msgid ""
 "Computer system monitor, network monitoring and infrastructure monitoring "
 "software application"
 msgstr "컴퓨터 시스템 모니터링, 네트워크 모니터링 및 기반 관리 소프트웨어 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:255
+#: ../DEV_extra_translations/extra_translations.py:18
 msgid "System;Monitor;"
 msgstr "시스템;관리;"
 
-#: DEV_extra_translations/extra_translations.py:256
+#: ../DEV_extra_translations/extra_translations.py:382
 msgid "Gamer's Internet Tunnel"
 msgstr "게이머즈 인터넷 터널"
 
-#: DEV_extra_translations/extra_translations.py:257
+#: ../DEV_extra_translations/extra_translations.py:383
 msgid "IPX network emulator from Morpheus Software"
 msgstr "모피어스 소프트웨어가 개발한 IPX 네트워크 에뮬레이터입니다"
 
-#: DEV_extra_translations/extra_translations.py:258
+#: ../DEV_extra_translations/extra_translations.py:431
 msgid "Enemy Territory: Quake Wars"
 msgstr "에너미 테러토리: 퀘이크 워즈"
 
-#: DEV_extra_translations/extra_translations.py:259
+#: ../DEV_extra_translations/extra_translations.py:432
 msgid "A FPS by Splash Damage"
 msgstr "스플래시 데미지가 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:260
+#: ../DEV_extra_translations/extra_translations.py:586
 msgid "Windows Messenger"
 msgstr "윈도즈 메신저"
 
-#: DEV_extra_translations/extra_translations.py:261
+#: ../DEV_extra_translations/extra_translations.py:587
 msgid ""
 "Windows Messenger/Windows Live Messenger application sharing and whiteboard "
 "(requires SIP)"
 msgstr "윈도즈 메신저/윈도즈 라이브 메신저 프로그램 및 화이트보드(SIP를 요구합니다)"
 
-#: DEV_extra_translations/extra_translations.py:262
+#: ../DEV_extra_translations/extra_translations.py:588
 msgid "Windows Messenger File"
 msgstr "윈도즈 메신저 파일"
 
-#: DEV_extra_translations/extra_translations.py:263
+#: ../DEV_extra_translations/extra_translations.py:589
 msgid "Windows Messenger/MSN Messenger file transfer"
 msgstr "윈도즈 메신저/MSN 메신저 파일 전송"
 
-#: DEV_extra_translations/extra_translations.py:264
+#: ../DEV_extra_translations/extra_translations.py:590
 msgid "Windows Messenger Assistance"
 msgstr "윈도즈 메신저 지원"
 
-#: DEV_extra_translations/extra_translations.py:265
+#: ../DEV_extra_translations/extra_translations.py:591
 msgid "Remote Assistance/Remote Desktop Protocol/Terminal Services (RDP)"
 msgstr "원격 지원/원격 데스크톱 프로토콜/터미널 서비스(RDP)"
 
-#: DEV_extra_translations/extra_translations.py:267
+#: ../DEV_extra_translations/extra_translations.py:800
 msgid "Skype Normal"
 msgstr "스카이프 기본 버전"
 
-#: DEV_extra_translations/extra_translations.py:268
+#: ../DEV_extra_translations/extra_translations.py:801
 msgid "Proprietary Voice over IP service and software application"
 msgstr "독점 음성 인터넷 프로토콜 서비스 및 소프트웨어 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:269
+#: ../DEV_extra_translations/extra_translations.py:562
 msgid "Neverwinter Nights server"
 msgstr "네버윈터 나이츠 서버"
 
-#: DEV_extra_translations/extra_translations.py:270
+#: ../DEV_extra_translations/extra_translations.py:563
 msgid "Default port for Neverwinter Nights, a RPG from Bioware"
 msgstr "바이오웨어가 개발한 RPG 게임인, 네버윈터 나이츠용 기본 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:271
+#: ../DEV_extra_translations/extra_translations.py:207
 msgid "Optimized Link State Routing"
 msgstr "최적화된 링크 상태 라우팅"
 
-#: DEV_extra_translations/extra_translations.py:272
+#: ../DEV_extra_translations/extra_translations.py:208
 msgid "A mesh networking protocol"
 msgstr "메시 네트워킹 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:273
+#: ../DEV_extra_translations/extra_translations.py:618
 msgid "All Services"
 msgstr "모든 서비스"
 
-#: DEV_extra_translations/extra_translations.py:274
+#: ../DEV_extra_translations/extra_translations.py:619
 msgid "Client, dedicated servers, P2P and voice chat"
 msgstr "클라이언트, 데디케이티드 서버, P2P 및 음성 채팅입니다"
 
-#: DEV_extra_translations/extra_translations.py:275
+#: ../DEV_extra_translations/extra_translations.py:620
 msgid "Games;Steam;"
 msgstr "게임;스팀;"
 
-#: DEV_extra_translations/extra_translations.py:276
+#: ../DEV_extra_translations/extra_translations.py:621
 msgid "Client, Dedicated Servers, P2P and Voice Chat"
 msgstr "클라이언트, 데디케이티드 서버, P2P 및 음성 채팅입니다"
 
-#: DEV_extra_translations/extra_translations.py:277
+#: ../DEV_extra_translations/extra_translations.py:622
 msgid "Client"
 msgstr "클라이언트"
 
-#: DEV_extra_translations/extra_translations.py:278
+#: ../DEV_extra_translations/extra_translations.py:623
 msgid ""
 "Game client traffic, typically Matchmaking and HLTV and Steam downloads"
 msgstr "주로 매치메이킹 및 HLTV 그리고 스팀 내려받기와 같은, 게임 클라이언트 전송량입니다"
 
-#: DEV_extra_translations/extra_translations.py:279
+#: ../DEV_extra_translations/extra_translations.py:624
 msgid "Dedicated Servers"
 msgstr "데디케이티드 서버"
 
-#: DEV_extra_translations/extra_translations.py:280
+#: ../DEV_extra_translations/extra_translations.py:625
 msgid "SRCDS Rcon port"
 msgstr "SRCDS Rcon 포트"
 
-#: DEV_extra_translations/extra_translations.py:281
+#: ../DEV_extra_translations/extra_translations.py:626
 msgid "P2P and Voice Chat"
 msgstr "P2P 및 음성 채팅"
 
-#: DEV_extra_translations/extra_translations.py:282
+#: ../DEV_extra_translations/extra_translations.py:627
 msgid "Steamworks P2P Networking and Steam Voice Chat"
 msgstr "스팀웍스 P2P 네트워킹 및 음성 채팅 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:283
+#: ../DEV_extra_translations/extra_translations.py:628
 msgid "Call of Duty"
 msgstr "콜 오브 듀티"
 
-#: DEV_extra_translations/extra_translations.py:284
+#: ../DEV_extra_translations/extra_translations.py:629
 msgid "Additional Ports for Call of Duty: Modern Warfare 2 Multiplayer"
 msgstr "콜 오브 듀티: 모던 워페어 2 멀티플레이어용 추가 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:285
+#: ../DEV_extra_translations/extra_translations.py:314
 msgid "Liquid War"
 msgstr "리퀴드 워"
 
-#: DEV_extra_translations/extra_translations.py:286
+#: ../DEV_extra_translations/extra_translations.py:315
 msgid "An original shortest path algorithm and core concept"
 msgstr "가장 짧은 원본 단축 알고리즘이자 중심 개념입니다"
 
-#: DEV_extra_translations/extra_translations.py:287
-#: DEV_extra_translations/extra_translations.py:476
+#: ../DEV_extra_translations/extra_translations.py:16
+#: ../DEV_extra_translations/extra_translations.py:300
 msgid "hddtemp"
 msgstr "hddtemp"
 
-#: DEV_extra_translations/extra_translations.py:288
+#: ../DEV_extra_translations/extra_translations.py:301
 msgid "Trivial File Transfer Protocol"
 msgstr "단순 파일 전송 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:289
+#: ../DEV_extra_translations/extra_translations.py:193
 msgid "Yet Another Netplay Guider"
 msgstr "또 다른 넷플레이 안내자"
 
-#: DEV_extra_translations/extra_translations.py:290
+#: ../DEV_extra_translations/extra_translations.py:194
 msgid "YANG - Yet Another Netplay Guider, default game connection"
 msgstr "YANG - 또 다른 넷플레이 안내자이며, 기본 게임 연결 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:291
+#: ../DEV_extra_translations/extra_translations.py:195
 msgid "Games;"
 msgstr "게임;"
 
-#: DEV_extra_translations/extra_translations.py:292
+#: ../DEV_extra_translations/extra_translations.py:196
 msgid "Yet Another Netplay Guider Hosting"
 msgstr "또 다른 넷플레이 안내자 호스팅"
 
-#: DEV_extra_translations/extra_translations.py:293
+#: ../DEV_extra_translations/extra_translations.py:197
 msgid "YANG - Yet Another Netplay Guider, room hosting"
 msgstr "YANG - 또 다른 넷플레이 안내자이며, 방 호스팅 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:294
+#: ../DEV_extra_translations/extra_translations.py:198
 msgid "DXX-Rebirth on YANG"
 msgstr "YANG으로 DXX-리버스를 합니다"
 
-#: DEV_extra_translations/extra_translations.py:295
+#: ../DEV_extra_translations/extra_translations.py:199
 msgid "DXX-Rebirth, a source port of Descent, connected through YANG"
 msgstr "DXX-리버스는, 디센트의 소스 포트이며, YANG으로 연결되었습니다"
 
-#: DEV_extra_translations/extra_translations.py:296
+#: ../DEV_extra_translations/extra_translations.py:376
 msgid "NSClient++"
 msgstr "NS클라이언트++"
 
-#: DEV_extra_translations/extra_translations.py:297
+#: ../DEV_extra_translations/extra_translations.py:377
 msgid "Used to monitor Windows machines from a Nagios Server"
 msgstr "나기오스 서버에서 윈도즈 기기를 관리하는 데 사용됩니다"
 
-#: DEV_extra_translations/extra_translations.py:298
+#: ../DEV_extra_translations/extra_translations.py:398
 msgid "Warcraft II Battle.net"
 msgstr "워크래프트 II 배틀.넷"
 
-#: DEV_extra_translations/extra_translations.py:299
+#: ../DEV_extra_translations/extra_translations.py:399
 msgid "Strategy game by Blizzard Entertainment"
 msgstr "블리자드 엔터테인먼트가 개발한 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:300
+#: ../DEV_extra_translations/extra_translations.py:131
 msgid "Blood II: The Chosen"
 msgstr "블러드 II: 더 초슨"
 
-#: DEV_extra_translations/extra_translations.py:301
+#: ../DEV_extra_translations/extra_translations.py:132
 msgid "A FPS from Monolith Productions"
 msgstr "모노리스 프로덕션이 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:302
+#: ../DEV_extra_translations/extra_translations.py:334
 msgid "XMPP"
 msgstr "XMPP"
 
-#: DEV_extra_translations/extra_translations.py:303
+#: ../DEV_extra_translations/extra_translations.py:335
 msgid "Extensible Messaging and Presence Protocol client connection (Jabber)"
 msgstr "확장 가능한 메시지 처리 및 존재 프로토콜 클라이언트 연결(잽버)"
 
-#: DEV_extra_translations/extra_translations.py:304
+#: ../DEV_extra_translations/extra_translations.py:336
 msgid "Network;Telephony;Instant Messaging;"
 msgstr "네트워크;텔레포니;인스턴트 메시징;"
 
-#: DEV_extra_translations/extra_translations.py:305
+#: ../DEV_extra_translations/extra_translations.py:337
 msgid "XMPP SSL"
 msgstr "XMPP SSL"
 
-#: DEV_extra_translations/extra_translations.py:306
+#: ../DEV_extra_translations/extra_translations.py:338
 msgid ""
 "Extensible Messaging and Presence Protocol (Jabber) client connection with "
 "SSL encryption"
 msgstr "SSL 암호화를 사용하는 확장 가능한 메시지 처리 및 존재 프로토콜(잽버) 클라이언트 연결"
 
-#: DEV_extra_translations/extra_translations.py:307
+#: ../DEV_extra_translations/extra_translations.py:339
 msgid "XMPP Interserver"
 msgstr "XMPP 인터서버"
 
-#: DEV_extra_translations/extra_translations.py:308
+#: ../DEV_extra_translations/extra_translations.py:340
 msgid "Extensible Messaging and Presence Protocol server-server connection"
 msgstr "확장 가능한 메시지 처리 및 존재 프로토콜 서버-서버 연결"
 
-#: DEV_extra_translations/extra_translations.py:309
+#: ../DEV_extra_translations/extra_translations.py:341
 msgid "XMPP Serverless"
 msgstr "XMPP 무서버"
 
-#: DEV_extra_translations/extra_translations.py:310
+#: ../DEV_extra_translations/extra_translations.py:342
 msgid ""
 "Extensible Messaging and Presence Protocol link-local messaging/serverless "
 "messaging"
 msgstr "확장 가능한 메시지 처리 및 존재 프로토콜 링크-로컬 메시지 처리/무서버 메시지 처리"
 
-#: DEV_extra_translations/extra_translations.py:311
+#: ../DEV_extra_translations/extra_translations.py:480
 msgid "FooBillard"
 msgstr "푸빌라드"
 
-#: DEV_extra_translations/extra_translations.py:312
+#: ../DEV_extra_translations/extra_translations.py:481
 msgid "Cue sports simulation with Carambol, Snooker, and Pool"
 msgstr "카람볼, 스누커, 그리고 풀이 있는 큐 스포츠 시뮬레이션 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:313
+#: ../DEV_extra_translations/extra_translations.py:143
 msgid "Games;Sports;"
 msgstr "게임;스포츠;"
 
-#: DEV_extra_translations/extra_translations.py:314
+#: ../DEV_extra_translations/extra_translations.py:542
 msgid "BitTorrent Minimum"
 msgstr "비트토렌트 기본 버전"
 
-#: DEV_extra_translations/extra_translations.py:315
-#: DEV_extra_translations/extra_translations.py:318
-#: DEV_extra_translations/extra_translations.py:321
+#: ../DEV_extra_translations/extra_translations.py:543
+#: ../DEV_extra_translations/extra_translations.py:546
+#: ../DEV_extra_translations/extra_translations.py:549
 msgid "BitTorrent peer-peer file sharing"
 msgstr "비트토렌트 피어-투-피어 파일 공유 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:317
+#: ../DEV_extra_translations/extra_translations.py:545
 msgid "BitTorrent"
 msgstr "비트토렌트"
 
-#: DEV_extra_translations/extra_translations.py:320
+#: ../DEV_extra_translations/extra_translations.py:548
 msgid "BitTorrent Full"
 msgstr "비트토렌트 전체 버전"
 
-#: DEV_extra_translations/extra_translations.py:323
+#: ../DEV_extra_translations/extra_translations.py:516
 msgid "NFS (jhansonxi)"
 msgstr "NFS(jhansonxi)"
 
-#: DEV_extra_translations/extra_translations.py:324
+#: ../DEV_extra_translations/extra_translations.py:517
 msgid ""
 "Network File System protocol with static ports at relatively unused "
 "4194:4197 (4195 broadcast out)"
 msgstr ""
 "비교적으로 사용되지 않는 4194:4197에 위치한 정적 포트를 사용하는 네트워크 파일 시스템 프로토콜(4195 브로드캐스트 아웃)"
 
-#: DEV_extra_translations/extra_translations.py:325
+#: ../DEV_extra_translations/extra_translations.py:518
 msgid "NFS Quota (jhansonxi)"
 msgstr "NFS 할당(jhansonxi)"
 
-#: DEV_extra_translations/extra_translations.py:326
+#: ../DEV_extra_translations/extra_translations.py:519
 msgid ""
 "Network File System protocol with filesystem usage quota support with static "
 "ports at relatively unused 4194:4198 (4195 broadcast out)"
@@ -2421,49 +2416,49 @@ msgstr ""
 "비교적으로 사용되지 않는 4194:4198에 위치한 정적 포트를 사용하는 사용자/그룹 파일 시스템 사용 할당 지원이 있는 네트워크 파일 "
 "시스템 프로토콜(4195 브로드캐스트 아웃)"
 
-#: DEV_extra_translations/extra_translations.py:327
+#: ../DEV_extra_translations/extra_translations.py:686
 msgid "PennMUSH"
 msgstr "펜MUSH"
 
-#: DEV_extra_translations/extra_translations.py:328
+#: ../DEV_extra_translations/extra_translations.py:687
 msgid "A MUSH/MUD server"
 msgstr "MUSH/MUD 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:329
+#: ../DEV_extra_translations/extra_translations.py:56
 msgid "Transmission Daemon"
 msgstr "트랜스미션 데몬"
 
-#: DEV_extra_translations/extra_translations.py:330
+#: ../DEV_extra_translations/extra_translations.py:57
 msgid "Remote control for Transmission"
 msgstr "트랜스미션용 원격 제어 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:332
+#: ../DEV_extra_translations/extra_translations.py:65
 msgid "Hedgewars"
 msgstr "헤지워즈"
 
-#: DEV_extra_translations/extra_translations.py:333
-#: DEV_extra_translations/extra_translations.py:363
+#: ../DEV_extra_translations/extra_translations.py:66
+#: ../DEV_extra_translations/extra_translations.py:749
 msgid "An arcade combat game inspired by Worms from Team17 Software"
 msgstr "팀17 소프트웨어의 웜즈에 영감을 받은 아케이드 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:334
+#: ../DEV_extra_translations/extra_translations.py:474
 msgid "Armored Fist 3"
 msgstr "아머드 피스트 3"
 
-#: DEV_extra_translations/extra_translations.py:335
+#: ../DEV_extra_translations/extra_translations.py:475
 msgid "A M1A2 Abrams tank simulation by NovaLogic"
 msgstr "노바로직이 개발한 M1A2 에이브람스 전차 시뮬레이션 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:336
+#: ../DEV_extra_translations/extra_translations.py:50
 msgid "Conquest"
 msgstr "컨퀘스트"
 
-#: DEV_extra_translations/extra_translations.py:337
-#: DEV_extra_translations/extra_translations.py:339
+#: ../DEV_extra_translations/extra_translations.py:51
+#: ../DEV_extra_translations/extra_translations.py:53
 msgid "A space warfare game"
 msgstr "우주 전쟁 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:338
+#: ../DEV_extra_translations/extra_translations.py:52
 msgid "Conquest Metaserver"
 msgstr "컨퀘스트 메타서버"
 
@@ -2471,61 +2466,61 @@ msgstr "컨퀘스트 메타서버"
 msgid "NRPE Nagios Plugin"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:341
+#: ../DEV_extra_translations/extra_translations.py:90
 msgid "Remote Plugin Executor"
 msgstr "원격 플러그인 실행자입니다"
 
-#: DEV_extra_translations/extra_translations.py:342
+#: ../DEV_extra_translations/extra_translations.py:402
 msgid "UFO: Alien Invasion"
 msgstr "UFO: 에일리언 인베이젼"
 
-#: DEV_extra_translations/extra_translations.py:343
+#: ../DEV_extra_translations/extra_translations.py:403
 msgid "An open-source 3D RTS inspired by X-COM"
 msgstr "X-COM으로부터 영감을 받아 개발한 3D 오픈-소스 RTS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:344
+#: ../DEV_extra_translations/extra_translations.py:722
 msgid "WINE: Warcraft III"
 msgstr "와인: 워크래프트 III"
 
-#: DEV_extra_translations/extra_translations.py:346
+#: ../DEV_extra_translations/extra_translations.py:724
 msgid "WINE: Warcraft III all ports"
 msgstr "와인: 모든 워크래프트 III 이식 포트"
 
-#: DEV_extra_translations/extra_translations.py:347
+#: ../DEV_extra_translations/extra_translations.py:725
 msgid "Warcraft III with 6112-6119 TCP ports open"
 msgstr "6112-6119 TCP가 열려있는 워크래프트 III"
 
-#: DEV_extra_translations/extra_translations.py:348
+#: ../DEV_extra_translations/extra_translations.py:564
 msgid "Unreal Tournament 2004"
 msgstr "언리얼 토너먼트 2004"
 
-#: DEV_extra_translations/extra_translations.py:349
+#: ../DEV_extra_translations/extra_translations.py:565
 msgid "A FPS by Epic Games"
 msgstr "에픽 게임스가 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:350
+#: ../DEV_extra_translations/extra_translations.py:566
 msgid "Unreal Tournament 2004 Admin"
 msgstr "언리얼 토너먼트 2004 관리자"
 
-#: DEV_extra_translations/extra_translations.py:351
+#: ../DEV_extra_translations/extra_translations.py:567
 msgid "Web-based administration for the FPS by Epic Games"
 msgstr "에픽 게임스가 개발한 FPS 게임용 웹-기반 관리 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:352
+#: ../DEV_extra_translations/extra_translations.py:24
 msgid "UPnP"
 msgstr "UPnP"
 
-#: DEV_extra_translations/extra_translations.py:353
+#: ../DEV_extra_translations/extra_translations.py:25
 msgid ""
 "Universal Plug and Play. It is a framework which can be used to make "
 "networked applications"
 msgstr "유니버설 플러그 앤드 플레이입니다. 이것은 네트워크 된 프로그램을 만드는 데 사용되는 프레임워크입니다"
 
-#: DEV_extra_translations/extra_translations.py:354
+#: ../DEV_extra_translations/extra_translations.py:26
 msgid "System;General;"
 msgstr "시스템;일반;"
 
-#: DEV_extra_translations/extra_translations.py:355
+#: ../DEV_extra_translations/extra_translations.py:11
 msgid "Joint Operations: Typhoon Rising"
 msgstr "조인트 오퍼레이션스: 타이푼 라이징"
 
@@ -2539,408 +2534,408 @@ msgid ""
 "transfer between computers"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:360
-#: DEV_extra_translations/extra_translations.py:770
+#: ../DEV_extra_translations/extra_translations.py:30
+#: ../DEV_extra_translations/extra_translations.py:788
 msgid "FTP"
 msgstr "FTP"
 
-#: DEV_extra_translations/extra_translations.py:361
-#: DEV_extra_translations/extra_translations.py:771
+#: ../DEV_extra_translations/extra_translations.py:31
+#: ../DEV_extra_translations/extra_translations.py:789
 msgid "File Transfer Protocol"
 msgstr "파일 전송 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:362
+#: ../DEV_extra_translations/extra_translations.py:748
 msgid "Wormux"
 msgstr "워묵스"
 
-#: DEV_extra_translations/extra_translations.py:364
+#: ../DEV_extra_translations/extra_translations.py:19
 msgid "Abuse"
 msgstr "여뷰즈"
 
-#: DEV_extra_translations/extra_translations.py:365
+#: ../DEV_extra_translations/extra_translations.py:20
 msgid "A dark 2D side-scrolling platform game developed by Crack dot Com"
 msgstr "크랙 닷컴이 개발한 어두운 2D 사이드-스크롤링 플랫폼 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:366
+#: ../DEV_extra_translations/extra_translations.py:293
 msgid "GNUMP3d"
 msgstr "GNUMP3d"
 
-#: DEV_extra_translations/extra_translations.py:367
+#: ../DEV_extra_translations/extra_translations.py:294
 msgid "An audio streaming server"
 msgstr "오디오 스트리밍 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:368
+#: ../DEV_extra_translations/extra_translations.py:64
 msgid "Network;Audio Video;Audio;"
 msgstr "네트워크;오디오 비디오;오디오;"
 
-#: DEV_extra_translations/extra_translations.py:369
+#: ../DEV_extra_translations/extra_translations.py:809
 msgid "CUPS"
 msgstr "CUPS"
 
-#: DEV_extra_translations/extra_translations.py:370
+#: ../DEV_extra_translations/extra_translations.py:810
 msgid "Modular printing system for Unix-like computer operating systems"
 msgstr "유닉스-계열 컴퓨터 운영체제용 모듈식 인쇄 시스템입니다"
 
-#: DEV_extra_translations/extra_translations.py:371
+#: ../DEV_extra_translations/extra_translations.py:71
 msgid "Tachyon: The Fringe"
 msgstr "타키온: 더 프린지"
 
-#: DEV_extra_translations/extra_translations.py:372
+#: ../DEV_extra_translations/extra_translations.py:72
 msgid "A 3D space combat game by NovaLogic"
 msgstr "노바로직이 개발한 3D 우주 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:373
+#: ../DEV_extra_translations/extra_translations.py:122
 msgid "Murmur"
 msgstr "머머"
 
-#: DEV_extra_translations/extra_translations.py:374
+#: ../DEV_extra_translations/extra_translations.py:123
 msgid "Murmur voice chat server (counterpart to Mumble client)"
 msgstr "머머 보이스 챗 서버입니다(멈플 클라이언트에 대응하는 프로그램입니다)"
 
-#: DEV_extra_translations/extra_translations.py:375
+#: ../DEV_extra_translations/extra_translations.py:243
 msgid "Balazar III"
 msgstr "발라자 III"
 
-#: DEV_extra_translations/extra_translations.py:376
+#: ../DEV_extra_translations/extra_translations.py:244
 msgid "A 2D/3D dungeon adventure game"
 msgstr "2D/3D 던전 어드벤처 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:377
+#: ../DEV_extra_translations/extra_translations.py:273
 msgid "Postfix Mail Server SMTP"
 msgstr "포스트픽스 메일 서버 SMTP"
 
-#: DEV_extra_translations/extra_translations.py:378
-#: DEV_extra_translations/extra_translations.py:380
-#: DEV_extra_translations/extra_translations.py:382
+#: ../DEV_extra_translations/extra_translations.py:274
+#: ../DEV_extra_translations/extra_translations.py:276
+#: ../DEV_extra_translations/extra_translations.py:278
 msgid "Postfix is a high-performance mail transport agent"
 msgstr "포스트픽스는 고-성능 메일 전송 에이전트입니다"
 
-#: DEV_extra_translations/extra_translations.py:379
+#: ../DEV_extra_translations/extra_translations.py:275
 msgid "Postfix Mail Server SMTPS"
 msgstr "포스트픽스 메일 서버 SMTPS"
 
-#: DEV_extra_translations/extra_translations.py:381
+#: ../DEV_extra_translations/extra_translations.py:277
 msgid "Postfix Mail Server Submission"
 msgstr "포스트픽스 메일 서버 서브미션"
 
-#: DEV_extra_translations/extra_translations.py:383
+#: ../DEV_extra_translations/extra_translations.py:302
 msgid "Minecraft"
 msgstr "마인크래프트"
 
-#: DEV_extra_translations/extra_translations.py:384
+#: ../DEV_extra_translations/extra_translations.py:303
 msgid "A 3D sandbox construction game by Markus Persson"
 msgstr "마르쿠스 페르손이 개발한 3D 샌드박스 건축 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:385
+#: ../DEV_extra_translations/extra_translations.py:76
 msgid "Myth II: Soulblighter"
 msgstr "미스 II: 소울블라이터"
 
-#: DEV_extra_translations/extra_translations.py:386
+#: ../DEV_extra_translations/extra_translations.py:77
 msgid "A real-time tactics game from Bungie"
 msgstr "번지가 개발한 실-시간 전술 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:387
+#: ../DEV_extra_translations/extra_translations.py:720
 msgid "Aleph One"
 msgstr "알레프 원"
 
-#: DEV_extra_translations/extra_translations.py:388
+#: ../DEV_extra_translations/extra_translations.py:721
 msgid "An enhanced port of Marathon 2: Durandal from Bungie Software"
 msgstr "번지 소프트웨어가 개발한 마라톤 2: 듀랜달의 향상된 이식 버전입니다"
 
-#: DEV_extra_translations/extra_translations.py:389
+#: ../DEV_extra_translations/extra_translations.py:691
 msgid "DOSBox IPX"
 msgstr "도스박스 IPX"
 
-#: DEV_extra_translations/extra_translations.py:390
-#: DEV_extra_translations/extra_translations.py:393
+#: ../DEV_extra_translations/extra_translations.py:692
+#: ../DEV_extra_translations/extra_translations.py:695
 msgid "DOS system emulator"
 msgstr "도스 시스템 에뮬레이터입니다"
 
-#: DEV_extra_translations/extra_translations.py:391
+#: ../DEV_extra_translations/extra_translations.py:693
 msgid "System;Emulator;"
 msgstr "시스템;에뮬레이터;"
 
-#: DEV_extra_translations/extra_translations.py:392
+#: ../DEV_extra_translations/extra_translations.py:694
 msgid "DOSBox Modem"
 msgstr "도스박스 모뎀"
 
-#: DEV_extra_translations/extra_translations.py:394
+#: ../DEV_extra_translations/extra_translations.py:794
 msgid "Frozen Bubble"
 msgstr "프로즌 버블"
 
-#: DEV_extra_translations/extra_translations.py:395
+#: ../DEV_extra_translations/extra_translations.py:795
 msgid "A clone of Puzzle Bobble/Bust-a-Move"
 msgstr "퍼즐 보블/버스트-어-무브의 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:396
+#: ../DEV_extra_translations/extra_translations.py:180
 msgid "Syslog"
 msgstr "시스템 로그"
 
-#: DEV_extra_translations/extra_translations.py:397
+#: ../DEV_extra_translations/extra_translations.py:181
 msgid "System logging"
 msgstr "시스템 로깅"
 
-#: DEV_extra_translations/extra_translations.py:398
+#: ../DEV_extra_translations/extra_translations.py:182
 msgid "System;"
 msgstr "시스템;"
 
-#: DEV_extra_translations/extra_translations.py:399
+#: ../DEV_extra_translations/extra_translations.py:753
 msgid "OpenMeetings Secure RTMP"
 msgstr "오픈미팅즈 RTMP를 안전하게 합니다"
 
-#: DEV_extra_translations/extra_translations.py:400
+#: ../DEV_extra_translations/extra_translations.py:754
 msgid "OpenMeetings Real Time Messaging Protocol over SSL"
 msgstr "오픈미팅즈 실시간 메시지 전달 SSL 프로토콜입니다"
 
-#: DEV_extra_translations/extra_translations.py:401
+#: ../DEV_extra_translations/extra_translations.py:755
 msgid "Network;Video Conference;"
 msgstr "네트워크;화상 회의;"
 
-#: DEV_extra_translations/extra_translations.py:402
+#: ../DEV_extra_translations/extra_translations.py:756
 msgid "OpenMeetings Tunneled RTMP"
 msgstr "오픈미팅즈 터널링을 한 RTMP입니다"
 
-#: DEV_extra_translations/extra_translations.py:403
+#: ../DEV_extra_translations/extra_translations.py:757
 msgid "OpenMeetings Real Time Messaging Protocol over HTTP"
 msgstr "오픈미팅즈 실시간 메시지 전달 HTTP 프로토콜입니다"
 
-#: DEV_extra_translations/extra_translations.py:404
+#: ../DEV_extra_translations/extra_translations.py:758
 msgid "OpenMeetings HTTP"
 msgstr "오픈미팅즈 HTTP"
 
-#: DEV_extra_translations/extra_translations.py:405
+#: ../DEV_extra_translations/extra_translations.py:759
 msgid "OpenMeetings HTTP server"
 msgstr "오픈미팅즈 HTTP 서버"
 
-#: DEV_extra_translations/extra_translations.py:406
+#: ../DEV_extra_translations/extra_translations.py:760
 msgid "OpenMeetings DSP"
 msgstr "오픈미팅즈 DSP"
 
-#: DEV_extra_translations/extra_translations.py:407
+#: ../DEV_extra_translations/extra_translations.py:761
 msgid "OpenMeetings Desktop Sharing Protocol (ODSP)"
 msgstr "오픈미팅즈 데스크톱 공유 프로토콜(ODSP)"
 
-#: DEV_extra_translations/extra_translations.py:408
+#: ../DEV_extra_translations/extra_translations.py:152
 msgid "IRC - 194/tcp"
 msgstr "IRC - 194/tcp"
 
-#: DEV_extra_translations/extra_translations.py:409
+#: ../DEV_extra_translations/extra_translations.py:153
 msgid "Internet Relay Chat on official port 194 (rarely used)"
 msgstr "공식 포트 194에 있는 인터넷 릴레이 챗(거의 사용하지 않습니다)"
 
-#: DEV_extra_translations/extra_translations.py:410
+#: ../DEV_extra_translations/extra_translations.py:154
 msgid "Network;IRC;"
 msgstr "네트워크;IRC;"
 
-#: DEV_extra_translations/extra_translations.py:411
+#: ../DEV_extra_translations/extra_translations.py:155
 msgid "IRC"
 msgstr "IRC"
 
-#: DEV_extra_translations/extra_translations.py:412
+#: ../DEV_extra_translations/extra_translations.py:156
 msgid ""
 "Internet Relay Chat on common default port 6667, using nf_conntrack_irc DCC "
 "helper"
 msgstr "보통 기본 포트 6667에 있는 인터넷 릴레이 챗, nf_conntrack_irc DCC 도우미를 사용합니다"
 
-#: DEV_extra_translations/extra_translations.py:413
+#: ../DEV_extra_translations/extra_translations.py:157
 msgid "IRC SSL"
 msgstr "IRC SSL"
 
-#: DEV_extra_translations/extra_translations.py:414
+#: ../DEV_extra_translations/extra_translations.py:158
 msgid "Internet Relay Chat on SSL default port 6697"
 msgstr "SSL 기본 포트 6697에 있는 인터넷 릴레이 챗"
 
-#: DEV_extra_translations/extra_translations.py:415
+#: ../DEV_extra_translations/extra_translations.py:426
 msgid "Shogo: Mobile Armour Division"
 msgstr "쇼고: 이동 전투단"
 
-#: DEV_extra_translations/extra_translations.py:416
+#: ../DEV_extra_translations/extra_translations.py:427
 msgid "A FPS by Monolith Productions"
 msgstr "모노리스 프로덕션이 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:417
+#: ../DEV_extra_translations/extra_translations.py:253
 msgid "Armagetron Advanced"
 msgstr "아르마게트론 어드밴스드"
 
-#: DEV_extra_translations/extra_translations.py:418
+#: ../DEV_extra_translations/extra_translations.py:254
 msgid "A 3D clone of the Light Cycle game in Tron"
 msgstr "트론에 있는 라이트 사이클 게임의 3D 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:419
+#: ../DEV_extra_translations/extra_translations.py:316
 msgid "The Mana World"
 msgstr "더 마나 월드"
 
-#: DEV_extra_translations/extra_translations.py:420
+#: ../DEV_extra_translations/extra_translations.py:317
 msgid "A fantasy MMORPG"
 msgstr "판타지 MMORPG 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:421
+#: ../DEV_extra_translations/extra_translations.py:281
 msgid "Teeworlds"
 msgstr "티월드"
 
-#: DEV_extra_translations/extra_translations.py:422
+#: ../DEV_extra_translations/extra_translations.py:282
 msgid "An open source sidescrolling multiplayer shooting game"
 msgstr "오픈 소스 사이드 스크롤링 멀티플레이어 슈터 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:423
+#: ../DEV_extra_translations/extra_translations.py:263
 msgid "Thousand Parsec"
 msgstr "사우전드 파섹"
 
-#: DEV_extra_translations/extra_translations.py:424
-#: DEV_extra_translations/extra_translations.py:426
-#: DEV_extra_translations/extra_translations.py:428
+#: ../DEV_extra_translations/extra_translations.py:264
+#: ../DEV_extra_translations/extra_translations.py:266
+#: ../DEV_extra_translations/extra_translations.py:268
 msgid ""
 "A common framework for building turn based space empire building games"
 msgstr "턴제 우주 제국 건설 게임을 만들기 위한 보통 프레임워크입니다"
 
-#: DEV_extra_translations/extra_translations.py:425
+#: ../DEV_extra_translations/extra_translations.py:265
 msgid "Thousand Parsec SSL"
 msgstr "사우전드 파섹 SSL"
 
-#: DEV_extra_translations/extra_translations.py:427
+#: ../DEV_extra_translations/extra_translations.py:267
 msgid "Thousand Parsec Admin"
 msgstr "사우전드 파섹 관리자"
 
-#: DEV_extra_translations/extra_translations.py:429
+#: ../DEV_extra_translations/extra_translations.py:191
 msgid "DAAP"
 msgstr "DAAP"
 
-#: DEV_extra_translations/extra_translations.py:430
+#: ../DEV_extra_translations/extra_translations.py:192
 msgid "Digital Audio Access Protocol"
 msgstr "디지털 오디오 접근 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:431
+#: ../DEV_extra_translations/extra_translations.py:404
 msgid "Subversion Server"
 msgstr "서브버전 서버"
 
-#: DEV_extra_translations/extra_translations.py:432
+#: ../DEV_extra_translations/extra_translations.py:405
 msgid "Subversion server for access to Subversion repositories"
 msgstr "서브버전 저장소에 접근용인 서브버전 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:433
+#: ../DEV_extra_translations/extra_translations.py:802
 msgid "MiG-29 Fulcrum"
 msgstr "MiG-29 펄크럼"
 
-#: DEV_extra_translations/extra_translations.py:434
+#: ../DEV_extra_translations/extra_translations.py:803
 msgid "A Mikoyan-Gurevich MiG-29 Fulcrum simulation by NovaLogic"
 msgstr "노바로직이 개발한 미코얀-구레비치 MiG-29 펄크럼 시뮬레이션 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:435
+#: ../DEV_extra_translations/extra_translations.py:239
 msgid "D2X-XL"
 msgstr "D2X-XL"
 
-#: DEV_extra_translations/extra_translations.py:436
+#: ../DEV_extra_translations/extra_translations.py:240
 msgid ""
 "A source port of Descent II, the 3D Flying FPS by Outrage Entertainment"
 msgstr "아웃레이지 엔터테인먼트가 개발한 3D 비행 FPS 게임인, 디센트 II의 소스 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:437
+#: ../DEV_extra_translations/extra_translations.py:215
 msgid "Legends"
 msgstr "레전드"
 
-#: DEV_extra_translations/extra_translations.py:438
+#: ../DEV_extra_translations/extra_translations.py:216
 msgid "A FPS based on the Torque Engine"
 msgstr "토크 엔진을 기반으로 한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:439
+#: ../DEV_extra_translations/extra_translations.py:95
 msgid "XBMC Remote"
 msgstr "XBMC 리모트"
 
-#: DEV_extra_translations/extra_translations.py:440
+#: ../DEV_extra_translations/extra_translations.py:96
 msgid "Remote control for XBMC"
 msgstr "XBMC용 원격 제어 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:441
+#: ../DEV_extra_translations/extra_translations.py:209
 msgid "Quake"
 msgstr "퀘이크"
 
-#: DEV_extra_translations/extra_translations.py:442
-#: DEV_extra_translations/extra_translations.py:486
-#: DEV_extra_translations/extra_translations.py:506
-#: DEV_extra_translations/extra_translations.py:537
-#: DEV_extra_translations/extra_translations.py:667
-#: DEV_extra_translations/extra_translations.py:831
+#: ../DEV_extra_translations/extra_translations.py:55
+#: ../DEV_extra_translations/extra_translations.py:210
+#: ../DEV_extra_translations/extra_translations.py:284
+#: ../DEV_extra_translations/extra_translations.py:450
+#: ../DEV_extra_translations/extra_translations.py:455
+#: ../DEV_extra_translations/extra_translations.py:513
 msgid "A FPS by id Software"
 msgstr "이드 소프트웨어가 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:443
+#: ../DEV_extra_translations/extra_translations.py:211
 msgid "QuakeWorld"
 msgstr "퀘이크월드"
 
-#: DEV_extra_translations/extra_translations.py:444
+#: ../DEV_extra_translations/extra_translations.py:212
 msgid "An enhanced multiplayer version of Quake by id Software"
 msgstr "이드 소프트웨어가 개발한 퀘이크의 향상된 멀티플레이어 버전입니다"
 
-#: DEV_extra_translations/extra_translations.py:445
+#: ../DEV_extra_translations/extra_translations.py:684
 msgid "Diablo"
 msgstr "디아블로"
 
-#: DEV_extra_translations/extra_translations.py:447
+#: ../DEV_extra_translations/extra_translations.py:167
 msgid "VLC HTTP stream"
 msgstr "VLC HTTP 스트림"
 
-#: DEV_extra_translations/extra_translations.py:448
+#: ../DEV_extra_translations/extra_translations.py:168
 msgid "VLC media player HTTP stream default port"
 msgstr "VLC 미디어 플레이어 HTTP 스트림 기본 포트"
 
-#: DEV_extra_translations/extra_translations.py:449
+#: ../DEV_extra_translations/extra_translations.py:169
 msgid "Audio Video;"
 msgstr "오디오 비디오;"
 
-#: DEV_extra_translations/extra_translations.py:450
+#: ../DEV_extra_translations/extra_translations.py:170
 msgid "VLC MMS HTTP stream"
 msgstr "VLC MMS HTTP 스트림"
 
-#: DEV_extra_translations/extra_translations.py:451
+#: ../DEV_extra_translations/extra_translations.py:171
 msgid ""
 "VLC media player Microsoft Media Server stream over HTTP (Windows Media HTTP "
 "Streaming Protocol/MS-WMSP) default port"
 msgstr ""
 "VLC 미디어 플레이어 마이크로소프트 미디어 서버 HTTP 스트림(윈도즈 미디어 HHTP 스트리밍 프로토콜/MS-WMSP) 기본 포트"
 
-#: DEV_extra_translations/extra_translations.py:452
+#: ../DEV_extra_translations/extra_translations.py:172
 msgid "VLC RTP stream"
 msgstr "VLC RTP 스트림"
 
-#: DEV_extra_translations/extra_translations.py:453
+#: ../DEV_extra_translations/extra_translations.py:173
 msgid "VLC media player Real-time Transport Protocol default port"
 msgstr "VLC 미디어 플레이어 실-시간 전송 프로토콜 기본 포트"
 
-#: DEV_extra_translations/extra_translations.py:454
+#: ../DEV_extra_translations/extra_translations.py:174
 msgid "VLC UDP stream"
 msgstr "VLC UDP 스트림"
 
-#: DEV_extra_translations/extra_translations.py:455
+#: ../DEV_extra_translations/extra_translations.py:175
 msgid "VLC media player User Datagram Protocol default port"
 msgstr "VLC 미디어 플레이어 사용자 데이터그램 프로토콜 기본 포트"
 
-#: DEV_extra_translations/extra_translations.py:457
+#: ../DEV_extra_translations/extra_translations.py:177
 msgid "VLC media player Icecast stream default port"
 msgstr "VLC 미디어 플레이어 아이스캐스트 스트림 기본 포트"
 
-#: DEV_extra_translations/extra_translations.py:458
+#: ../DEV_extra_translations/extra_translations.py:125
 msgid "RTMP Real Time Messaging Protocol"
 msgstr "RTMP 실시간 메시지 처리 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:459
+#: ../DEV_extra_translations/extra_translations.py:126
 msgid "Real Time Messaging Protocol (Adobe Flash)"
 msgstr "실시간 메시지 처리 프로토콜(어도비 플래시)"
 
-#: DEV_extra_translations/extra_translations.py:460
+#: ../DEV_extra_translations/extra_translations.py:837
 msgid "NFS TLDP NFS"
 msgstr "NFS TLDP NFS"
 
-#: DEV_extra_translations/extra_translations.py:461
+#: ../DEV_extra_translations/extra_translations.py:838
 msgid ""
 "Network File System protocol with static ports at 32765:32768 (some "
 "conflicts with popular games)"
 msgstr "32765:32768에 위치한 정적 포트를 사용하는 네트워크 파일 시스템 프로토콜(인기 있는 게임과 몇몇 충돌이 있습니다)"
 
-#: DEV_extra_translations/extra_translations.py:462
+#: ../DEV_extra_translations/extra_translations.py:839
 msgid "NFS Quota & TLDP NFS"
 msgstr "NFS 할당 & TLDP NFS"
 
-#: DEV_extra_translations/extra_translations.py:463
+#: ../DEV_extra_translations/extra_translations.py:840
 msgid ""
 "NFS with user/group filesystem usage quota support with static ports at "
 "32765:32769 (some conflicts with popular games)"
@@ -2948,338 +2943,338 @@ msgstr ""
 "32765:32769에 위치한 정적 포트를 사용하는 사용자/그룹 파일 시스템 사용 할당 지원이 있는 NFS(인기 있는 게임과 몇몇 충돌이 "
 "있습니다)"
 
-#: DEV_extra_translations/extra_translations.py:464
+#: ../DEV_extra_translations/extra_translations.py:466
 msgid "Asterisk"
 msgstr "Asterisk"
 
-#: DEV_extra_translations/extra_translations.py:465
+#: ../DEV_extra_translations/extra_translations.py:467
 msgid ""
 "An open source telephony switching and private branch exchange service"
 msgstr "오픈 소스 텔레포니 전환 및 개인 분기 교환 서비스입니다"
 
-#: DEV_extra_translations/extra_translations.py:466
+#: ../DEV_extra_translations/extra_translations.py:468
 msgid "Review that ports are the same in /etc/asterisk/rtp.conf"
 msgstr "/etc/asterisk/rtp.conf에 있는 같은 포트를 검토해줍니다"
 
-#: DEV_extra_translations/extra_translations.py:467
+#: ../DEV_extra_translations/extra_translations.py:183
 msgid "DHCP"
 msgstr "DHCP"
 
-#: DEV_extra_translations/extra_translations.py:468
+#: ../DEV_extra_translations/extra_translations.py:184
 msgid "Dynamic Host Configuration Protocol"
 msgstr "동적 호스트 설정 통신 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:469
+#: ../DEV_extra_translations/extra_translations.py:422
 msgid "usbip"
 msgstr "usbip"
 
-#: DEV_extra_translations/extra_translations.py:470
+#: ../DEV_extra_translations/extra_translations.py:423
 msgid "A Peripheral Bus Extension for Device Sharing over IP Network"
 msgstr "장치 공유 IP 네트워크용 주변기기 버스 확장 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:471
+#: ../DEV_extra_translations/extra_translations.py:798
 msgid "Savage: The Battle for Newerth/Savage XR"
 msgstr "세비지: 더 배틀 포 뉴어스/세비지 XR"
 
-#: DEV_extra_translations/extra_translations.py:473
+#: ../DEV_extra_translations/extra_translations.py:408
 msgid "Steam"
 msgstr "스팀"
 
-#: DEV_extra_translations/extra_translations.py:474
+#: ../DEV_extra_translations/extra_translations.py:409
 msgid "Software distribution service and game server browser from Valve"
 msgstr "밸브가 개발한 소프트웨어 배포 서비스 및 게임 서버 브라우저입니다"
 
-#: DEV_extra_translations/extra_translations.py:475
+#: ../DEV_extra_translations/extra_translations.py:410
 msgid "For Steam Client see the category: Games / Steam"
 msgstr "스팀 클라이언트를 찾으시려면 카테고리: 게임 / 스팀을 보십시오"
 
-#: DEV_extra_translations/extra_translations.py:477
+#: ../DEV_extra_translations/extra_translations.py:17
 msgid "Data storage device temperature data server"
 msgstr "데이터 저장 장치 온도 데이터 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:478
+#: ../DEV_extra_translations/extra_translations.py:257
 msgid "Alien Arena"
 msgstr "에일리언 아레나"
 
-#: DEV_extra_translations/extra_translations.py:479
+#: ../DEV_extra_translations/extra_translations.py:258
 msgid "A SciFi competitive FPS based on the CRX/id Tech 2 engine"
 msgstr "CRX/id Tech 2 엔진을 기반으로 한 공상과학 경쟁 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:480
+#: ../DEV_extra_translations/extra_translations.py:825
 msgid "Serious Sam"
 msgstr "시리어스 샘"
 
-#: DEV_extra_translations/extra_translations.py:482
+#: ../DEV_extra_translations/extra_translations.py:21
 msgid "monopd"
 msgstr "모노pd"
 
-#: DEV_extra_translations/extra_translations.py:483
+#: ../DEV_extra_translations/extra_translations.py:22
 msgid "A game server for Monopoly-like board games"
 msgstr "모노폴리-류 보드 게임용 게임 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:484
+#: ../DEV_extra_translations/extra_translations.py:23
 msgid "Games;Board;"
 msgstr "게임;보드;"
 
-#: DEV_extra_translations/extra_translations.py:485
+#: ../DEV_extra_translations/extra_translations.py:454
 msgid "Doom3"
 msgstr "둠 3"
 
-#: DEV_extra_translations/extra_translations.py:487
+#: ../DEV_extra_translations/extra_translations.py:129
 msgid "OpenTTD server"
 msgstr "오픈TTD 서버"
 
-#: DEV_extra_translations/extra_translations.py:488
+#: ../DEV_extra_translations/extra_translations.py:130
 msgid "An enhanced clone of Chris Sawyer's Transport Tycoon Deluxe"
 msgstr "크리스 소여가 개발한 트랜스포트 타이쿤 딜럭스의 향상된 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:489
+#: ../DEV_extra_translations/extra_translations.py:414
 msgid "Delta Force: BHD"
 msgstr "델타 포스: 블랙 호크 다운"
 
-#: DEV_extra_translations/extra_translations.py:490
+#: ../DEV_extra_translations/extra_translations.py:415
 msgid "Black Hawk Down. A FPS combat game by NovaLogic"
 msgstr "블랙 호크 다운입니다. 노바로직이 개발한 FPS 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:491
+#: ../DEV_extra_translations/extra_translations.py:13
 msgid "Warzone 2100"
 msgstr "워존 2100"
 
-#: DEV_extra_translations/extra_translations.py:492
+#: ../DEV_extra_translations/extra_translations.py:14
 msgid "A RTS game by Pumpkin Studios"
 msgstr "펌킨 스튜디오가 개발한 RTS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:493
+#: ../DEV_extra_translations/extra_translations.py:406
 msgid "Heavy Gear II"
 msgstr "헤비 기어 II"
 
-#: DEV_extra_translations/extra_translations.py:494
+#: ../DEV_extra_translations/extra_translations.py:407
 msgid ""
 "A mech FPS based on the Dream Pod 9 universe from Activision and Loki "
 "Software"
 msgstr "액티비전 및 로키 소프트웨어가 개발한 드림 팟을 기반으로 한 메카 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:495
+#: ../DEV_extra_translations/extra_translations.py:133
 msgid "STUN"
 msgstr "STUN"
 
-#: DEV_extra_translations/extra_translations.py:496
+#: ../DEV_extra_translations/extra_translations.py:134
 msgid "Session Traversal Utilities for NAT"
 msgstr "NAT용 세션 순회 유틸리티"
 
-#: DEV_extra_translations/extra_translations.py:497
+#: ../DEV_extra_translations/extra_translations.py:135
 msgid "STUN TLS"
 msgstr "STUN TLS"
 
-#: DEV_extra_translations/extra_translations.py:498
+#: ../DEV_extra_translations/extra_translations.py:136
 msgid "Session Traversal Utilities for NAT with TLS encryption"
 msgstr "TLS 암호화를 사용하는 NAT용 세션 순회 유틸리티"
 
-#: DEV_extra_translations/extra_translations.py:499
+#: ../DEV_extra_translations/extra_translations.py:508
 msgid "Spring game engine"
 msgstr "스프링 게임 엔진"
 
-#: DEV_extra_translations/extra_translations.py:500
+#: ../DEV_extra_translations/extra_translations.py:509
 msgid ""
 "An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
 msgstr "케이브 독이 개발한 RTS 게임인 토탈 어나이얼레이션의 향상된 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:501
+#: ../DEV_extra_translations/extra_translations.py:716
 msgid "0verkill"
 msgstr "0버킬"
 
-#: DEV_extra_translations/extra_translations.py:502
+#: ../DEV_extra_translations/extra_translations.py:717
 msgid "An ASCII-art 2D deathmatch game"
 msgstr "아스키-아트 2D 데스매치 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:503
+#: ../DEV_extra_translations/extra_translations.py:380
 msgid "Mumble"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:504
+#: ../DEV_extra_translations/extra_translations.py:381
 msgid "A voice chat application for groups"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:505
+#: ../DEV_extra_translations/extra_translations.py:512
 msgid "Doom II"
 msgstr "둠 II"
 
-#: DEV_extra_translations/extra_translations.py:507
+#: ../DEV_extra_translations/extra_translations.py:111
 msgid "Nicotine"
 msgstr "니코틴"
 
-#: DEV_extra_translations/extra_translations.py:508
+#: ../DEV_extra_translations/extra_translations.py:112
 msgid ""
 "Nicotine is a SoulSeek client written in Python, based on the PySoulSeek "
 "project"
 msgstr "니코틴은 파이선으로 작성된 소울식 클라이언트이며, Py소울식 프로젝트를 기반으로 두었습니다"
 
-#: DEV_extra_translations/extra_translations.py:510
+#: ../DEV_extra_translations/extra_translations.py:582
 msgid "Blobby Volley 2"
 msgstr "블로비 발리 2"
 
-#: DEV_extra_translations/extra_translations.py:511
+#: ../DEV_extra_translations/extra_translations.py:583
 msgid "A volleyball game"
 msgstr "배구 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:512
+#: ../DEV_extra_translations/extra_translations.py:638
 msgid "Heretic II"
 msgstr "헤러틱 II"
 
-#: DEV_extra_translations/extra_translations.py:513
+#: ../DEV_extra_translations/extra_translations.py:639
 msgid "Fantasy combat FPS by Raven Software"
 msgstr "레이븐 소프트웨어가 개발한 판타지 전투 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:514
+#: ../DEV_extra_translations/extra_translations.py:291
 msgid "GGZ Gaming Zone"
 msgstr "GGZ 게이밍 존"
 
-#: DEV_extra_translations/extra_translations.py:515
+#: ../DEV_extra_translations/extra_translations.py:292
 msgid "Network support for GNOME Games"
 msgstr "그놈 게임용 네트워크 지원입니다"
 
-#: DEV_extra_translations/extra_translations.py:516
+#: ../DEV_extra_translations/extra_translations.py:714
 msgid "Games for Windows - Live"
 msgstr "게임 포 윈도즈 - 라이브"
 
-#: DEV_extra_translations/extra_translations.py:517
+#: ../DEV_extra_translations/extra_translations.py:715
 msgid "Network games using Games for Windows - Live API"
 msgstr "게임 포 윈도즈를 사용하는 네트워크 게임 - 라이브 API"
 
-#: DEV_extra_translations/extra_translations.py:518
+#: ../DEV_extra_translations/extra_translations.py:476
 msgid "Firefly Media Server"
 msgstr "파이어플라이 미디어 서버"
 
-#: DEV_extra_translations/extra_translations.py:519
+#: ../DEV_extra_translations/extra_translations.py:477
 msgid "DAAP audio server formerly known as mt-daapd"
 msgstr "이전에 mt-daapd로 알려졌던 오디오 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:520
+#: ../DEV_extra_translations/extra_translations.py:109
 msgid "Tether"
 msgstr "테더"
 
-#: DEV_extra_translations/extra_translations.py:521
+#: ../DEV_extra_translations/extra_translations.py:110
 msgid ""
 "A clone of strategy game Moonbase Commander by Humongous Entertainment"
 msgstr "휴멍거스 엔터테인먼트가 개발한 문베이스 커맨더의 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:522
+#: ../DEV_extra_translations/extra_translations.py:786
 msgid "LPD"
 msgstr "LPD"
 
-#: DEV_extra_translations/extra_translations.py:523
+#: ../DEV_extra_translations/extra_translations.py:787
 msgid "LPD server"
 msgstr "LPD 서버"
 
-#: DEV_extra_translations/extra_translations.py:524
+#: ../DEV_extra_translations/extra_translations.py:62
 msgid "MPD"
 msgstr "MPD"
 
-#: DEV_extra_translations/extra_translations.py:525
+#: ../DEV_extra_translations/extra_translations.py:63
 msgid "Music Player Daemon. A server for streaming music"
 msgstr "음악 플레이어 데몬입니다. 음악 스트리밍용 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:526
+#: ../DEV_extra_translations/extra_translations.py:99
 msgid "Snowball Surprise (SnowballZ)"
 msgstr "스노우볼 서프라이즈(스노우불Z)"
 
-#: DEV_extra_translations/extra_translations.py:527
+#: ../DEV_extra_translations/extra_translations.py:100
 msgid "A RTS snowball fight"
 msgstr "RTS 눈싸움 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:528
+#: ../DEV_extra_translations/extra_translations.py:349
 msgid "KTorrent"
 msgstr "K토렌트"
 
-#: DEV_extra_translations/extra_translations.py:529
+#: ../DEV_extra_translations/extra_translations.py:350
 msgid "Feature rich BitTorrent client by KDE"
 msgstr "KDE가 개발한 기능이 풍부한 비트토렌트 클라이언트입니다"
 
-#: DEV_extra_translations/extra_translations.py:531
+#: ../DEV_extra_translations/extra_translations.py:792
 msgid "Kohan: Immortal Sovereigns"
 msgstr "코헨: 불멸의 제국"
 
-#: DEV_extra_translations/extra_translations.py:532
+#: ../DEV_extra_translations/extra_translations.py:793
 msgid "A real-time strategy game by TimeGate Studios"
 msgstr "타임게이트 스튜디오가 개발한 실-시간 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:533
+#: ../DEV_extra_translations/extra_translations.py:411
 msgid "AMANDA"
 msgstr "AMANDA"
 
-#: DEV_extra_translations/extra_translations.py:534
+#: ../DEV_extra_translations/extra_translations.py:412
 msgid "Backup server from Zmanda; standard port with nf_conntrack_amanda"
 msgstr "Zmanda로부터 서버를 백업합니다; nf_conntrack_amanda가 있는 기본 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:535
+#: ../DEV_extra_translations/extra_translations.py:413
 msgid "Network;Archiving;"
 msgstr "네트워크;압축;"
 
-#: DEV_extra_translations/extra_translations.py:536
+#: ../DEV_extra_translations/extra_translations.py:449
 msgid "Quake 4"
 msgstr "퀘이크 4"
 
-#: DEV_extra_translations/extra_translations.py:538
+#: ../DEV_extra_translations/extra_translations.py:555
 msgid "Yura.net Domination (jRisk)"
 msgstr "유라.넷 도미네이션(j리스크)"
 
-#: DEV_extra_translations/extra_translations.py:539
+#: ../DEV_extra_translations/extra_translations.py:556
 msgid "A clone of Risk"
 msgstr "리스크의 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:540
+#: ../DEV_extra_translations/extra_translations.py:86
 msgid "SAMBA"
 msgstr "삼바"
 
-#: DEV_extra_translations/extra_translations.py:541
+#: ../DEV_extra_translations/extra_translations.py:87
 msgid ""
 "SMB/CIFS protocol for Unix systems, allowing you to serve files and printers "
 "to Windows, NT, OS/2 and DOS clients"
 msgstr ""
 "유닉스 시스템용 SMB/CIFS 프로토콜이며, 당신이 윈도즈, NT, OS/2 및 도스 클라이언트에 파일과 프린터를 이용하도록 해줍니다"
 
-#: DEV_extra_translations/extra_translations.py:542
+#: ../DEV_extra_translations/extra_translations.py:88
 msgid "Network;Services;|Network;File Transfer"
 msgstr "네트워크;서비스;|네트워크;파일 전송"
 
-#: DEV_extra_translations/extra_translations.py:543
+#: ../DEV_extra_translations/extra_translations.py:245
 msgid "F-22 Raptor"
 msgstr "F-22 랩터"
 
-#: DEV_extra_translations/extra_translations.py:544
-#: DEV_extra_translations/extra_translations.py:689
+#: ../DEV_extra_translations/extra_translations.py:6
+#: ../DEV_extra_translations/extra_translations.py:246
 msgid "A F-22 Raptor simulation by NovaLogic"
 msgstr "노바로직이 개발한 F-22 랩터 시뮬레이션 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:545
+#: ../DEV_extra_translations/extra_translations.py:389
 msgid "TeamSpeak 3"
 msgstr "팀스피크 3"
 
-#: DEV_extra_translations/extra_translations.py:546
+#: ../DEV_extra_translations/extra_translations.py:390
 msgid "TeamSpeak 3 voice service"
 msgstr "팀스피크 3 음성 서비스"
 
-#: DEV_extra_translations/extra_translations.py:547
+#: ../DEV_extra_translations/extra_translations.py:391
 msgid "TeamSpeak 3 File"
 msgstr "팀스피크 3 파일"
 
-#: DEV_extra_translations/extra_translations.py:548
+#: ../DEV_extra_translations/extra_translations.py:392
 msgid "TeamSpeak 3 file transfer"
 msgstr "팀스피크 3 파일 전송"
 
-#: DEV_extra_translations/extra_translations.py:549
+#: ../DEV_extra_translations/extra_translations.py:393
 msgid "TeamSpeak 3 Query"
 msgstr "팀스피크 3 쿼리"
 
-#: DEV_extra_translations/extra_translations.py:550
+#: ../DEV_extra_translations/extra_translations.py:394
 msgid "TeamSpeak 3 TCP query"
 msgstr "팀스피크 3 TCP 쿼리"
 
-#: DEV_extra_translations/extra_translations.py:551
+#: ../DEV_extra_translations/extra_translations.py:8
 msgid "Assault Cube"
 msgstr "어썰트 큐브"
 
-#: DEV_extra_translations/extra_translations.py:552
+#: ../DEV_extra_translations/extra_translations.py:9
 msgid "A free, multiplayer, first-person shooter game"
 msgstr "자유, 멀티플레이어, 일-인칭 슈터 게임입니다"
 
@@ -3339,150 +3334,150 @@ msgstr ""
 msgid "Another port for Plex DLNA Server"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:567
+#: ../DEV_extra_translations/extra_translations.py:287
 msgid "0 A.D."
 msgstr "0 A.D."
 
-#: DEV_extra_translations/extra_translations.py:568
+#: ../DEV_extra_translations/extra_translations.py:288
 msgid "A free/open-source RTS game of ancient warfare from Wildfire Games"
 msgstr "와일드 파이어 게임즈가 개발한 에인션트 워페어의 자유/오픈-소스 RTS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:569
+#: ../DEV_extra_translations/extra_translations.py:464
 msgid "Dropbox LanSync"
 msgstr "드롭박스 LAN 동기화"
 
-#: DEV_extra_translations/extra_translations.py:570
+#: ../DEV_extra_translations/extra_translations.py:465
 msgid "A web-based file hosting service"
 msgstr "웹-기반 파일 호스팅 서비스입니다"
 
-#: DEV_extra_translations/extra_translations.py:571
+#: ../DEV_extra_translations/extra_translations.py:217
 msgid "SEDS Serious Sam"
 msgstr "SEDS 시리어스 샘"
 
-#: DEV_extra_translations/extra_translations.py:572
+#: ../DEV_extra_translations/extra_translations.py:218
 msgid "Dedicated server for the FPS by Croteam"
 msgstr "크로팀이 개발한 FPS 게임용 데디케이티드 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:573
+#: ../DEV_extra_translations/extra_translations.py:219
 msgid "SEDS Remote Admin"
 msgstr "SEDS 원격 관리자"
 
-#: DEV_extra_translations/extra_translations.py:574
+#: ../DEV_extra_translations/extra_translations.py:220
 msgid ""
 "Default remote administration Telnet port for Serious Engine dedicated server"
 msgstr "시리어스 엔진 데디케이티드 서버용 기본 원격 관리 텔넷 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:575
+#: ../DEV_extra_translations/extra_translations.py:221
 msgid "SEDS - port 25601"
 msgstr "SEDS - 포트 25601"
 
-#: DEV_extra_translations/extra_translations.py:576
+#: ../DEV_extra_translations/extra_translations.py:222
 msgid "Dedicated server for the FPS by Croteam, alternate game port 25601"
 msgstr "크로팀이 개발한 FPS 게임용 데디케이티드 서버입니다, 다른 게임 포트 25601입니다"
 
-#: DEV_extra_translations/extra_translations.py:577
+#: ../DEV_extra_translations/extra_translations.py:223
 msgid "SEDS Admin - port 25600"
 msgstr "SEDS - 포트 25600"
 
-#: DEV_extra_translations/extra_translations.py:578
+#: ../DEV_extra_translations/extra_translations.py:224
 msgid ""
 "Alternate 25600 remote administration Telnet port for Serious Engine "
 "dedicated server"
 msgstr "시리어스 엔진 데디케이티드 서버용 다른 25600 원격 관리 텔넷 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:579
+#: ../DEV_extra_translations/extra_translations.py:568
 msgid "Evil Islands: CotLS"
 msgstr "이블 아일랜드: 커스 오브 더 로스트 소울"
 
-#: DEV_extra_translations/extra_translations.py:580
+#: ../DEV_extra_translations/extra_translations.py:569
 msgid "A RTS game with RPG and stealth elements from Nival Interactive"
 msgstr "나이벌 인터렉티브가 개발한 RPG 및 잠입 요소가 들어있는 RTS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:581
+#: ../DEV_extra_translations/extra_translations.py:526
 msgid "Toribash - 20184"
 msgstr "토리바쉬 - 20184"
 
-#: DEV_extra_translations/extra_translations.py:582
-#: DEV_extra_translations/extra_translations.py:584
-#: DEV_extra_translations/extra_translations.py:586
-#: DEV_extra_translations/extra_translations.py:588
-#: DEV_extra_translations/extra_translations.py:590
+#: ../DEV_extra_translations/extra_translations.py:527
+#: ../DEV_extra_translations/extra_translations.py:529
+#: ../DEV_extra_translations/extra_translations.py:531
+#: ../DEV_extra_translations/extra_translations.py:533
+#: ../DEV_extra_translations/extra_translations.py:535
 msgid ""
 "A fighting game based on the physics sandbox model with customizable moves"
 msgstr "사용자 지정 움직임이 있는 물리 샌드박스 모델을 기반으로 한 격투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:583
+#: ../DEV_extra_translations/extra_translations.py:528
 msgid "Toribash - 20185"
 msgstr "토리바쉬 - 20185"
 
-#: DEV_extra_translations/extra_translations.py:585
+#: ../DEV_extra_translations/extra_translations.py:530
 msgid "Toribash - 20186"
 msgstr "토리바쉬 - 20186"
 
-#: DEV_extra_translations/extra_translations.py:587
+#: ../DEV_extra_translations/extra_translations.py:532
 msgid "Toribash - 20187"
 msgstr "토리바쉬 - 20187"
 
-#: DEV_extra_translations/extra_translations.py:589
+#: ../DEV_extra_translations/extra_translations.py:534
 msgid "Toribash Full"
 msgstr "토리바쉬 전체 버전"
 
-#: DEV_extra_translations/extra_translations.py:591
+#: ../DEV_extra_translations/extra_translations.py:78
 msgid "NTP"
 msgstr "NTP"
 
-#: DEV_extra_translations/extra_translations.py:592
+#: ../DEV_extra_translations/extra_translations.py:79
 msgid "Network Time Protocol"
 msgstr "네트워크 시간 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:593
+#: ../DEV_extra_translations/extra_translations.py:80
 msgid "Network;Time;"
 msgstr "네트워크;시간;"
 
-#: DEV_extra_translations/extra_translations.py:594
+#: ../DEV_extra_translations/extra_translations.py:435
 msgid "Nexuiz"
 msgstr "넥스위즈"
 
-#: DEV_extra_translations/extra_translations.py:595
+#: ../DEV_extra_translations/extra_translations.py:436
 msgid "A FPS based on Darkplaces/Quake engine by id Software"
 msgstr "이드 소프트웨어가 개발한 다크플레이스즈/퀘이크 엔진을 기반으로 한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:596
+#: ../DEV_extra_translations/extra_translations.py:200
 msgid "FreeCol"
 msgstr "프리Col"
 
-#: DEV_extra_translations/extra_translations.py:597
+#: ../DEV_extra_translations/extra_translations.py:201
 msgid "A turn-based strategy game similar to Colonization by Microprose"
 msgstr "마이크로프로즈가 개발한 콜로니제이션과 유사한 턴-제 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:598
+#: ../DEV_extra_translations/extra_translations.py:524
 msgid "BZFlag"
 msgstr "BZ플래그"
 
-#: DEV_extra_translations/extra_translations.py:599
+#: ../DEV_extra_translations/extra_translations.py:525
 msgid "A FPS tank battle capture the flag game"
 msgstr "캡처 더 플래그 FPS 전차 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:600
+#: ../DEV_extra_translations/extra_translations.py:750
 msgid "Vuze"
 msgstr "뷰즈"
 
-#: DEV_extra_translations/extra_translations.py:601
+#: ../DEV_extra_translations/extra_translations.py:751
 msgid ""
 "BitTorrent client used to transfer files via the BitTorrent protocol. Vuze "
 "uses the Azureus Engine"
 msgstr "비트토렌트 프로토콜을 거쳐서 파일을 전송하는 데 사용되는 비트토렌트 클라이언트입니다. 뷰즈는 아주레우스 엔진을 사용합니다"
 
-#: DEV_extra_translations/extra_translations.py:602
+#: ../DEV_extra_translations/extra_translations.py:752
 msgid ""
 "You need to add the main random port too that you selected the first time"
 msgstr "당신은 당신이 맨 처음에 선택한 주 무작위 포트 또한 추가해야 합니다"
 
-#: DEV_extra_translations/extra_translations.py:603
+#: ../DEV_extra_translations/extra_translations.py:813
 msgid "NFS (Chris Lowth)"
 msgstr "NFS(크리스 라우드)"
 
-#: DEV_extra_translations/extra_translations.py:604
+#: ../DEV_extra_translations/extra_translations.py:814
 msgid ""
 "Network File System protocol with static ports at 4000:4002 (some conflicts "
 "with popular games; statd broadcast on random port)"
@@ -3490,11 +3485,11 @@ msgstr ""
 "4000:4002에 위치한 정적 포트를 사용하는 네트워크 파일 시스템 프로토콜(인기 있는 게임과 몇몇 충돌이 있습니다; 무작위 포트에서 "
 "statd 브로드캐스트를 합니다)"
 
-#: DEV_extra_translations/extra_translations.py:605
+#: ../DEV_extra_translations/extra_translations.py:815
 msgid "NFS Quota (Chris Lowth)"
 msgstr "NFS 할당(크리스 라우드)"
 
-#: DEV_extra_translations/extra_translations.py:606
+#: ../DEV_extra_translations/extra_translations.py:816
 msgid ""
 "NFS with user/group filesystem usage quota support with static ports at "
 "4000:4003 (some conflicts with popular games; statd broadcast on random port)"
@@ -3502,250 +3497,250 @@ msgstr ""
 "4000:4003에 위치한 정적 포트를 사용하는 사용자/그룹 파일 시스템 사용 할당 지원이 있는 NFS(인기 있는 게임과 몇몇 충돌이 "
 "있습니다; 무작위 포트에서 statd 브로드캐스트를 합니다)"
 
-#: DEV_extra_translations/extra_translations.py:607
+#: ../DEV_extra_translations/extra_translations.py:712
 msgid "DEFCON"
 msgstr "데프콘"
 
-#: DEV_extra_translations/extra_translations.py:608
+#: ../DEV_extra_translations/extra_translations.py:713
 msgid "A thermo-nuclear war strategy game from Introversion Software"
 msgstr "인트로버전 소프트웨어의 수소-핵전쟁 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:609
+#: ../DEV_extra_translations/extra_translations.py:504
 msgid "Red Eclipse"
 msgstr "레드 이클립스"
 
-#: DEV_extra_translations/extra_translations.py:610
+#: ../DEV_extra_translations/extra_translations.py:505
 msgid "An open source first-person shooter that runs on the Cube Engine 2"
 msgstr "큐브 엔진 2로 실행되는 오픈 소스 일-인칭 슈터 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:611
+#: ../DEV_extra_translations/extra_translations.py:663
 msgid "PvPGN"
 msgstr "PvPGN"
 
-#: DEV_extra_translations/extra_translations.py:612
+#: ../DEV_extra_translations/extra_translations.py:664
 msgid "Player vs Player Gaming Network server emulation based on bnetd"
 msgstr "bnetd를 기반으로 한 플레이어 vs 플레이어 게이밍 네트워크 서버 에뮬레이션입니다"
 
-#: DEV_extra_translations/extra_translations.py:613
+#: ../DEV_extra_translations/extra_translations.py:665
 msgid "PvPGN Address Translation"
 msgstr "PvPGN 주소 번역"
 
-#: DEV_extra_translations/extra_translations.py:614
+#: ../DEV_extra_translations/extra_translations.py:666
 msgid "Player vs Player Gaming Network Address translation port"
 msgstr "플레이어 vs 플레이어 게이밍 네트워크 번역 포트"
 
-#: DEV_extra_translations/extra_translations.py:615
+#: ../DEV_extra_translations/extra_translations.py:101
 msgid "Quake III - 27960/udp"
 msgstr "퀘이크 III - 27960/udp"
 
-#: DEV_extra_translations/extra_translations.py:616
+#: ../DEV_extra_translations/extra_translations.py:102
 msgid "A FPS by id Software, server on port 27660"
 msgstr "이드 소프트웨어가 개발한 FPS 게임입니다, 포트 27660에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:617
+#: ../DEV_extra_translations/extra_translations.py:103
 msgid "Quake III - 27961/udp"
 msgstr "퀘이크 III - 27961/udp"
 
-#: DEV_extra_translations/extra_translations.py:618
+#: ../DEV_extra_translations/extra_translations.py:104
 msgid "A FPS by id Software, server on port 27961"
 msgstr "이드 소프트웨어가 개발한 FPS 게임입니다, 포트 27961에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:619
+#: ../DEV_extra_translations/extra_translations.py:105
 msgid "Quake III - 27962/udp"
 msgstr "퀘이크 III - 27962/udp"
 
-#: DEV_extra_translations/extra_translations.py:620
+#: ../DEV_extra_translations/extra_translations.py:106
 msgid "A FPS by id Software, server on port 27962"
 msgstr "이드 소프트웨어가 개발한 FPS 게임입니다, 포트 27962에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:621
+#: ../DEV_extra_translations/extra_translations.py:107
 msgid "Quake III - 27963/udp"
 msgstr "퀘이크 III - 27963/udp"
 
-#: DEV_extra_translations/extra_translations.py:622
+#: ../DEV_extra_translations/extra_translations.py:108
 msgid "A FPS by id Software, server on port 27963"
 msgstr "이드 소프트웨어가 개발한 FPS 게임입니다, 포트 27963에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:623
+#: ../DEV_extra_translations/extra_translations.py:642
 msgid "POP3"
 msgstr "POP3"
 
-#: DEV_extra_translations/extra_translations.py:624
+#: ../DEV_extra_translations/extra_translations.py:643
 msgid "Post Office Protocol"
 msgstr "우체국 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:625
+#: ../DEV_extra_translations/extra_translations.py:644
 msgid "POP3S"
 msgstr "POP3S"
 
-#: DEV_extra_translations/extra_translations.py:626
-#: DEV_extra_translations/extra_translations.py:630
+#: ../DEV_extra_translations/extra_translations.py:645
+#: ../DEV_extra_translations/extra_translations.py:649
 msgid "Secure mail server"
 msgstr "메일 서버를 안전하게 합니다"
 
-#: DEV_extra_translations/extra_translations.py:627
+#: ../DEV_extra_translations/extra_translations.py:646
 msgid "IMAP"
 msgstr "IMAP"
 
-#: DEV_extra_translations/extra_translations.py:628
+#: ../DEV_extra_translations/extra_translations.py:647
 msgid "Internet Message Access Protocol"
 msgstr "인터넷 메시지 접속 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:629
+#: ../DEV_extra_translations/extra_translations.py:648
 msgid "IMAPS"
 msgstr "IMAPS"
 
-#: DEV_extra_translations/extra_translations.py:631
+#: ../DEV_extra_translations/extra_translations.py:650
 msgid "SMTP"
 msgstr "SMTP"
 
-#: DEV_extra_translations/extra_translations.py:632
+#: ../DEV_extra_translations/extra_translations.py:651
 msgid "Simple Mail Transfer Protocol"
 msgstr "간이 전자 우편 전송 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:633
+#: ../DEV_extra_translations/extra_translations.py:696
 msgid "People Nearby"
 msgstr "피플 니어바이"
 
-#: DEV_extra_translations/extra_translations.py:634
+#: ../DEV_extra_translations/extra_translations.py:697
 msgid "People Nearby (Bonjour/Salut) functionality in Empathy"
 msgstr "엠퍼시에 있는 피플 니어바이(봉주르/살류트) 기능입니다"
 
-#: DEV_extra_translations/extra_translations.py:635
+#: ../DEV_extra_translations/extra_translations.py:698
 msgid "Bonjour"
 msgstr "봉주르"
 
-#: DEV_extra_translations/extra_translations.py:636
+#: ../DEV_extra_translations/extra_translations.py:699
 msgid "Bonjour protocol"
 msgstr "봉주르 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:637
+#: ../DEV_extra_translations/extra_translations.py:700
 msgid "MSN Chat"
 msgstr "MSN 채팅"
 
-#: DEV_extra_translations/extra_translations.py:638
+#: ../DEV_extra_translations/extra_translations.py:701
 msgid "MSN chat protocol (with file transfer and voice)"
 msgstr "MSN 채팅 프로토콜(파일 전송 및 음성 기능이 있는)"
 
-#: DEV_extra_translations/extra_translations.py:639
+#: ../DEV_extra_translations/extra_translations.py:702
 msgid "MSN Chat (SSL)"
 msgstr "MSN 채팅(SSL)"
 
-#: DEV_extra_translations/extra_translations.py:640
+#: ../DEV_extra_translations/extra_translations.py:703
 msgid "MSN chat protocol SSL"
 msgstr "MSN 채팅 프로토콜 SSL"
 
-#: DEV_extra_translations/extra_translations.py:641
+#: ../DEV_extra_translations/extra_translations.py:704
 msgid "AIM Talk"
 msgstr "AIM 톡"
 
-#: DEV_extra_translations/extra_translations.py:642
+#: ../DEV_extra_translations/extra_translations.py:705
 msgid "AIM talk protocol"
 msgstr "AIM 톡 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:643
+#: ../DEV_extra_translations/extra_translations.py:706
 msgid "Yahoo Chat"
 msgstr "야후 채팅"
 
-#: DEV_extra_translations/extra_translations.py:644
+#: ../DEV_extra_translations/extra_translations.py:707
 msgid "Yahoo chat protocol"
 msgstr "야후 채팅 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:645
+#: ../DEV_extra_translations/extra_translations.py:577
 msgid "MegaMek"
 msgstr "메가멕"
 
-#: DEV_extra_translations/extra_translations.py:646
+#: ../DEV_extra_translations/extra_translations.py:578
 msgid "A unofficial online BattleTech game"
 msgstr "비공식적인 배틀테크 온라인 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:647
+#: ../DEV_extra_translations/extra_translations.py:579
 msgid "Games;Strategy;Java;"
 msgstr "게임;전략;자바;"
 
-#: DEV_extra_translations/extra_translations.py:648
+#: ../DEV_extra_translations/extra_translations.py:163
 msgid "Chocolate Doom"
 msgstr "초콜릿 둠"
 
-#: DEV_extra_translations/extra_translations.py:649
+#: ../DEV_extra_translations/extra_translations.py:164
 msgid ""
 "A Doom source port that accurately reproduces the experience of Doom as it "
 "was played in the 1990s"
 msgstr "둠을 하던 시절의 경험을 정확하게 1990년대에 했던 것처럼 제공해주는 둠 소스 포트입니다."
 
-#: DEV_extra_translations/extra_translations.py:650
+#: ../DEV_extra_translations/extra_translations.py:91
 msgid "PulseAudio"
 msgstr "펄스오디오"
 
-#: DEV_extra_translations/extra_translations.py:651
+#: ../DEV_extra_translations/extra_translations.py:92
 msgid "Networked sound server"
 msgstr "네트워크 된 소리 서버"
 
-#: DEV_extra_translations/extra_translations.py:652
+#: ../DEV_extra_translations/extra_translations.py:735
 msgid "XPilot"
 msgstr "X파일럿"
 
-#: DEV_extra_translations/extra_translations.py:653
-#: DEV_extra_translations/extra_translations.py:655
-#: DEV_extra_translations/extra_translations.py:657
-#: DEV_extra_translations/extra_translations.py:659
-#: DEV_extra_translations/extra_translations.py:661
+#: ../DEV_extra_translations/extra_translations.py:736
+#: ../DEV_extra_translations/extra_translations.py:738
+#: ../DEV_extra_translations/extra_translations.py:740
+#: ../DEV_extra_translations/extra_translations.py:742
+#: ../DEV_extra_translations/extra_translations.py:744
 msgid "A 2D space combat game"
 msgstr "2D 우주 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:654
+#: ../DEV_extra_translations/extra_translations.py:737
 msgid "XPilot 2-players"
 msgstr "X파일럿 2-플레이어"
 
-#: DEV_extra_translations/extra_translations.py:656
+#: ../DEV_extra_translations/extra_translations.py:739
 msgid "XPilot 4-players"
 msgstr "X파일럿 4-플레이어"
 
-#: DEV_extra_translations/extra_translations.py:658
+#: ../DEV_extra_translations/extra_translations.py:741
 msgid "XPilot 8-players"
 msgstr "X파일럿 8-플레이어"
 
-#: DEV_extra_translations/extra_translations.py:660
+#: ../DEV_extra_translations/extra_translations.py:743
 msgid "XPilot 16-players"
 msgstr "X파일럿 16-플레이어"
 
-#: DEV_extra_translations/extra_translations.py:662
+#: ../DEV_extra_translations/extra_translations.py:829
 msgid "Vendetta Online"
 msgstr "벤데타 온라인"
 
-#: DEV_extra_translations/extra_translations.py:663
+#: ../DEV_extra_translations/extra_translations.py:830
 msgid ""
 "A twitch-based, science fiction massively multiplayer online role-playing "
 "game (MMORPG)"
 msgstr "트위치-기반, 공상과학 대규모 멀티플레이어 온라인 롤-플레잉 게임입니다(MMORPG)"
 
-#: DEV_extra_translations/extra_translations.py:664
+#: ../DEV_extra_translations/extra_translations.py:304
 msgid "Comanche 4"
 msgstr "코만치 4"
 
-#: DEV_extra_translations/extra_translations.py:665
+#: ../DEV_extra_translations/extra_translations.py:305
 msgid "A Comanche RAH-66 helicopter simulation by NovaLogic"
 msgstr "노바로직이 개발한 코만치 RAH-66 헬리콥터 시뮬레이션 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:666
+#: ../DEV_extra_translations/extra_translations.py:283
 msgid "Quake II"
 msgstr "퀘이크 II"
 
-#: DEV_extra_translations/extra_translations.py:668
+#: ../DEV_extra_translations/extra_translations.py:345
 msgid "Dark Horizons: LI"
 msgstr "다크 호라이즌즈: 로어 인베이젼"
 
-#: DEV_extra_translations/extra_translations.py:669
+#: ../DEV_extra_translations/extra_translations.py:346
 msgid ""
 "Lore Invasion. A mech-style FPS by Max Gaming Technologies using the Torque "
 "Game Engine"
 msgstr "로어 인베이젼입니다. 맥스 게이밍 테크놀로지가 토크 게임 엔진을 사용하여 개발한 메카-스타일 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:670
+#: ../DEV_extra_translations/extra_translations.py:731
 msgid "ThinkTanks"
 msgstr "씽크탱크"
 
-#: DEV_extra_translations/extra_translations.py:671
+#: ../DEV_extra_translations/extra_translations.py:732
 msgid ""
 "A 3D tank combat game by BraveTree Productions using the Torque Game Engine"
 msgstr "브레이브트리 프로덕션이 토크 게임 엔진을 사용하여 개발한 3D 전차 전투 게임입니다"
@@ -3758,164 +3753,164 @@ msgstr ""
 msgid "Google Stream device"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:674
+#: ../DEV_extra_translations/extra_translations.py:594
 msgid "RDP"
 msgstr "RDP"
 
-#: DEV_extra_translations/extra_translations.py:675
+#: ../DEV_extra_translations/extra_translations.py:595
 msgid "Remote Desktop Protocols"
 msgstr "원격 데스크톱 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:677
+#: ../DEV_extra_translations/extra_translations.py:599
 msgid "Transmission"
 msgstr "트랜스미션"
 
-#: DEV_extra_translations/extra_translations.py:678
+#: ../DEV_extra_translations/extra_translations.py:600
 msgid ""
 "BitTorrent client which features a simple interface on top of a cross-"
 "platform backend"
 msgstr "크로스-플랫폼 백엔드를 위에 둔 간단한 인터페이스 기능이 있는 비트토렌트 클라이언트입니다"
 
-#: DEV_extra_translations/extra_translations.py:680
+#: ../DEV_extra_translations/extra_translations.py:318
 msgid "Drakan: Order of the Flame"
 msgstr "드라켄: 오더 오브 더 플레임"
 
-#: DEV_extra_translations/extra_translations.py:681
+#: ../DEV_extra_translations/extra_translations.py:319
 msgid "A dragon-riding action-adventure from Surreal Software"
 msgstr "서리얼 소프트웨어가 개발한 용-탑승 액션-어드벤처 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:682
+#: ../DEV_extra_translations/extra_translations.py:510
 msgid "HPLIP"
 msgstr "HPLIP"
 
-#: DEV_extra_translations/extra_translations.py:683
+#: ../DEV_extra_translations/extra_translations.py:511
 msgid "HP Linux Imaging and Printing"
 msgstr "HP 리눅스 이미지 처리 및 인쇄"
 
-#: DEV_extra_translations/extra_translations.py:684
+#: ../DEV_extra_translations/extra_translations.py:445
 msgid "Pioneers"
 msgstr "파이오니아즈"
 
-#: DEV_extra_translations/extra_translations.py:685
+#: ../DEV_extra_translations/extra_translations.py:446
 msgid "A game based on The Settlers of Catan by Klaus Teuber"
 msgstr "클라우스 토이버가 제작한 카탄의 개척자를 기반으로 한 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:686
+#: ../DEV_extra_translations/extra_translations.py:447
 msgid "Pioneers Metaserver"
 msgstr "파이오니아즈 메타서버"
 
-#: DEV_extra_translations/extra_translations.py:687
+#: ../DEV_extra_translations/extra_translations.py:448
 msgid "Metaserver for Pioneers"
 msgstr "파이오니아즈용 메타서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:688
+#: ../DEV_extra_translations/extra_translations.py:5
 msgid "F-22 Lightning 3"
 msgstr "F-22 라이트닝 3"
 
-#: DEV_extra_translations/extra_translations.py:690
+#: ../DEV_extra_translations/extra_translations.py:231
 msgid "World of Padman - 27960/udp"
 msgstr "월드 오브 패드맨 - 27960/udp"
 
-#: DEV_extra_translations/extra_translations.py:691
+#: ../DEV_extra_translations/extra_translations.py:232
 msgid ""
 "A FPS by Padworld Entertainment based on Quake III, server on port 27960"
 msgstr "패드월드 엔터테인먼트가 퀘이크 III을 기반으로 한 FPS 게임입니다, 포트 27960에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:692
+#: ../DEV_extra_translations/extra_translations.py:233
 msgid "World of Padman - 27961/udp"
 msgstr "월드 오브 패드맨 - 27961/udp"
 
-#: DEV_extra_translations/extra_translations.py:693
+#: ../DEV_extra_translations/extra_translations.py:234
 msgid ""
 "A FPS by Padworld Entertainment based on Quake III, server on port 27961"
 msgstr "패드월드 엔터테인먼트가 퀘이크 III을 기반으로 한 FPS 게임입니다, 포트 27961에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:694
+#: ../DEV_extra_translations/extra_translations.py:235
 msgid "World of Padman - 27962/udp"
 msgstr "월드 오브 패드맨 - 27962/udp"
 
-#: DEV_extra_translations/extra_translations.py:695
+#: ../DEV_extra_translations/extra_translations.py:236
 msgid ""
 "A FPS by Padworld Entertainment based on Quake III, server on port 27962"
 msgstr "패드월드 엔터테인먼트가 퀘이크 III을 기반으로 한 FPS 게임입니다, 포트 27962에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:696
+#: ../DEV_extra_translations/extra_translations.py:237
 msgid "World of Padman - 27963/udp"
 msgstr "월드 오브 패드맨 - 27963/udp"
 
-#: DEV_extra_translations/extra_translations.py:697
+#: ../DEV_extra_translations/extra_translations.py:238
 msgid ""
 "A FPS by Padworld Entertainment based on Quake III, server on port 27963"
 msgstr "패드월드 엔터테인먼트가 퀘이크 III을 기반으로 한 FPS 게임입니다, 포트 27963에 서버가 있습니다"
 
-#: DEV_extra_translations/extra_translations.py:698
+#: ../DEV_extra_translations/extra_translations.py:118
 msgid "SSDP"
 msgstr "SSDP"
 
-#: DEV_extra_translations/extra_translations.py:699
+#: ../DEV_extra_translations/extra_translations.py:119
 msgid "Simple Service Discovery Protocol"
 msgstr "간이 서비스 발견 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:700
+#: ../DEV_extra_translations/extra_translations.py:384
 msgid "OpenRPG"
 msgstr "오픈RPG"
 
-#: DEV_extra_translations/extra_translations.py:701
+#: ../DEV_extra_translations/extra_translations.py:385
 msgid ""
 "A map/chat/dice-rolling tool to allow players to play tabletop games on-line"
 msgstr "플레이어들이 테이블탑 게임들을 온-라인으로 즐길 수 있게 해주는 지도/채팅/주사위-굴리기 도구입니다"
 
-#: DEV_extra_translations/extra_translations.py:702
+#: ../DEV_extra_translations/extra_translations.py:670
 msgid "Clonk"
 msgstr "클랑크"
 
-#: DEV_extra_translations/extra_translations.py:703
+#: ../DEV_extra_translations/extra_translations.py:671
 msgid "An action/RTS/platform game by RedWolf Design; standard ports"
 msgstr "레드 울프 디자인이 개발한 액션/RTS/플랫폼 게임입니다; 표준 이식 버전입니다"
 
-#: DEV_extra_translations/extra_translations.py:704
+#: ../DEV_extra_translations/extra_translations.py:672
 msgid "Clonk Host"
 msgstr "클랑크 호스트"
 
-#: DEV_extra_translations/extra_translations.py:705
+#: ../DEV_extra_translations/extra_translations.py:673
 msgid "An action/RTS/platform game by RedWolf Design; host ports"
 msgstr "레드 울프 디자인이 개발한 액션/RTS/플랫폼 게임입니다; 호스트용 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:706
+#: ../DEV_extra_translations/extra_translations.py:674
 msgid "Clonk LAN"
 msgstr "클랑크 LAN"
 
-#: DEV_extra_translations/extra_translations.py:707
+#: ../DEV_extra_translations/extra_translations.py:675
 msgid ""
 "An action/RTS/platform game by RedWolf Design; LAN game discovery port"
 msgstr "레드 울프 디자인이 개발한 액션/RTS/플랫폼 게임입니다; LAN 게임 발견용 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:708
+#: ../DEV_extra_translations/extra_translations.py:225
 msgid "ManiaDrive game server"
 msgstr "매니아드라이브 게임 서버"
 
-#: DEV_extra_translations/extra_translations.py:709
+#: ../DEV_extra_translations/extra_translations.py:226
 msgid "A clone of TrackMania from Nadeo"
 msgstr "나데오가 개발한 트랙매니아의 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:710
+#: ../DEV_extra_translations/extra_translations.py:227
 msgid "ManiaDrive HTTP server "
 msgstr "매니아드라이브 HTTP 서버 "
 
-#: DEV_extra_translations/extra_translations.py:711
+#: ../DEV_extra_translations/extra_translations.py:228
 msgid "ManiaDrive/Raydium game monitor HTTP server"
 msgstr "매니아드라이브/레이듐 게임 관리 HTTP 서버"
 
-#: DEV_extra_translations/extra_translations.py:712
-#: DEV_extra_translations/extra_translations.py:713
+#: ../DEV_extra_translations/extra_translations.py:247
+#: ../DEV_extra_translations/extra_translations.py:248
 msgid "GameSpy"
 msgstr "게임스파이"
 
-#: DEV_extra_translations/extra_translations.py:714
+#: ../DEV_extra_translations/extra_translations.py:249
 msgid "GameSpy Arcade"
 msgstr "게임스파이 아케이드"
 
-#: DEV_extra_translations/extra_translations.py:715
+#: ../DEV_extra_translations/extra_translations.py:250
 msgid "GameSpy Arcade gaming network"
 msgstr "게임스파이 아케이드 게이밍 네트워크"
 
@@ -3932,205 +3927,205 @@ msgstr ""
 msgid "Audio Video;Music;"
 msgstr ""
 
-#: DEV_extra_translations/extra_translations.py:719
+#: ../DEV_extra_translations/extra_translations.py:386
 msgid "Deluge Torrent"
 msgstr "델류즈 토렌트"
 
-#: DEV_extra_translations/extra_translations.py:720
+#: ../DEV_extra_translations/extra_translations.py:387
 msgid "Cross-platform BitTorrent client written with Python and GTK+"
 msgstr "파이선 및 GTK+로 작성된 크로스-플랫폼 비트토렌트 클라이언트입니다"
 
-#: DEV_extra_translations/extra_translations.py:722
+#: ../DEV_extra_translations/extra_translations.py:395
 msgid "Amule"
 msgstr "에이뮬"
 
-#: DEV_extra_translations/extra_translations.py:723
+#: ../DEV_extra_translations/extra_translations.py:396
 msgid ""
 "Free peer-to-peer file sharing application that works with the EDonkey "
 "network and the Kad network"
 msgstr "이동키 네트워크 및 카드 네트워크와 같이 실행되는 자유 피어-투-피어 파일 공유 프로그램입니다"
 
-#: DEV_extra_translations/extra_translations.py:725
+#: ../DEV_extra_translations/extra_translations.py:354
 msgid "Sacred - port 2005"
 msgstr "세이크리드 - 포트 2005"
 
-#: DEV_extra_translations/extra_translations.py:726
-#: DEV_extra_translations/extra_translations.py:728
-#: DEV_extra_translations/extra_translations.py:730
-#: DEV_extra_translations/extra_translations.py:732
-#: DEV_extra_translations/extra_translations.py:734
-#: DEV_extra_translations/extra_translations.py:736
+#: ../DEV_extra_translations/extra_translations.py:355
+#: ../DEV_extra_translations/extra_translations.py:357
+#: ../DEV_extra_translations/extra_translations.py:359
+#: ../DEV_extra_translations/extra_translations.py:361
+#: ../DEV_extra_translations/extra_translations.py:363
+#: ../DEV_extra_translations/extra_translations.py:365
 msgid "Server port for the fantasy RPG by Ascaron Entertainment"
 msgstr "아스카론 엔터테인먼트가 개발한 판타지 RPG용 서버 포트입니다"
 
-#: DEV_extra_translations/extra_translations.py:727
+#: ../DEV_extra_translations/extra_translations.py:356
 msgid "Sacred - ports 2005:2006"
 msgstr "세이크리드 - 포트 2005:2006"
 
-#: DEV_extra_translations/extra_translations.py:729
+#: ../DEV_extra_translations/extra_translations.py:358
 msgid "Sacred - ports 2005:2007"
 msgstr "세이크리드 - 포트 2005:2007"
 
-#: DEV_extra_translations/extra_translations.py:731
+#: ../DEV_extra_translations/extra_translations.py:360
 msgid "Sacred - ports 2005:2008"
 msgstr "세이크리드 - 포트 2005:2008"
 
-#: DEV_extra_translations/extra_translations.py:733
+#: ../DEV_extra_translations/extra_translations.py:362
 msgid "Sacred - ports 2005:2009"
 msgstr "세이크리드 - 포트 2005:2009"
 
-#: DEV_extra_translations/extra_translations.py:735
+#: ../DEV_extra_translations/extra_translations.py:364
 msgid "Sacred - ports 2005:2010"
 msgstr "세이크리드 - 포트 2005:2010"
 
-#: DEV_extra_translations/extra_translations.py:737
+#: ../DEV_extra_translations/extra_translations.py:279
 msgid "Castle Vox"
 msgstr "캐슬 복스"
 
-#: DEV_extra_translations/extra_translations.py:738
+#: ../DEV_extra_translations/extra_translations.py:280
 msgid ""
 "A simultaneous-turns strategy game from Sillysoft influenced by Diplomacy "
 "and Axis & Allies"
 msgstr "실리소프트가 디플로머시 및 연합군 & 추축국으로부터 영향을 받아 개발한 턴제-시뮬레이션 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:739
+#: ../DEV_extra_translations/extra_translations.py:790
 msgid "Return To Castle Wolfenstein"
 msgstr "리턴 투 캐슬 울펜슈타인"
 
-#: DEV_extra_translations/extra_translations.py:740
+#: ../DEV_extra_translations/extra_translations.py:791
 msgid ""
 "WWII FPS and sequel from Splash Damage, Gray Matter Interactive, Nerve "
 "Software, and id Software"
 msgstr ""
 "스플래시 데미지, 그레이 매터 인터렉티브, 너브 소프트웨어, 그리고 이드 소프트웨어가 개발한 제2차 세계대전 게임이자 속편입니다"
 
-#: DEV_extra_translations/extra_translations.py:741
+#: ../DEV_extra_translations/extra_translations.py:433
 msgid "Delta Force: TFD"
 msgstr "델타 포스: 태스크 포스 대거"
 
-#: DEV_extra_translations/extra_translations.py:742
+#: ../DEV_extra_translations/extra_translations.py:434
 msgid "Task Force Dagger. A FPS combat game by NovaLogic"
 msgstr "태스크 포스 대거입니다. 노바로직이 개발한 FPS 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:743
+#: ../DEV_extra_translations/extra_translations.py:255
 msgid "DNS"
 msgstr "DNS"
 
-#: DEV_extra_translations/extra_translations.py:744
+#: ../DEV_extra_translations/extra_translations.py:256
 msgid "Domain Name System"
 msgstr "도메인 이름 시스템"
 
-#: DEV_extra_translations/extra_translations.py:745
+#: ../DEV_extra_translations/extra_translations.py:159
 msgid "Battlefield 1942"
 msgstr "배틀필드 1942"
 
-#: DEV_extra_translations/extra_translations.py:746
+#: ../DEV_extra_translations/extra_translations.py:160
 msgid "A WWII FPS from Digital Illusions CE"
 msgstr "디지털 일루전스 CE가 개발한 제2차 세계대전 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:747
+#: ../DEV_extra_translations/extra_translations.py:161
 msgid "Battlefield 1942 Console"
 msgstr "배틀필드 1942 콘솔"
 
-#: DEV_extra_translations/extra_translations.py:748
+#: ../DEV_extra_translations/extra_translations.py:162
 msgid "The RemoteConsole administration tool for Battlefield 1942"
 msgstr "배틀필드 1942용 원격 콘솔 관리 도구입니다"
 
-#: DEV_extra_translations/extra_translations.py:749
-#: DEV_extra_translations/extra_translations.py:753
+#: ../DEV_extra_translations/extra_translations.py:418
+#: ../DEV_extra_translations/extra_translations.py:652
 msgid "SANE scanner"
 msgstr "SANE 스캐너"
 
-#: DEV_extra_translations/extra_translations.py:750
-#: DEV_extra_translations/extra_translations.py:754
+#: ../DEV_extra_translations/extra_translations.py:419
+#: ../DEV_extra_translations/extra_translations.py:653
 msgid "Scanner Access Now Easy - scanner sharing server"
 msgstr "지금부터 스캐너 접속이 쉽게 됩니다 - 스캐너 공유 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:751
+#: ../DEV_extra_translations/extra_translations.py:462
 msgid "Delta Force: LW"
 msgstr "델타 포스: 랜드 워리어"
 
-#: DEV_extra_translations/extra_translations.py:752
+#: ../DEV_extra_translations/extra_translations.py:463
 msgid "Land Warrior. A FPS combat game by NovaLogic"
 msgstr "랜드 워리어입니다. 노바로직이 개발한 FPS 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:755
+#: ../DEV_extra_translations/extra_translations.py:654
 msgid "Network;Scanning;"
 msgstr "네트워크;스캐닝;"
 
-#: DEV_extra_translations/extra_translations.py:756
+#: ../DEV_extra_translations/extra_translations.py:655
 msgid "SANE Manual"
 msgstr "SANE 설명서"
 
-#: DEV_extra_translations/extra_translations.py:757
+#: ../DEV_extra_translations/extra_translations.py:656
 msgid ""
 "Scanner Access Now Easy - scanner sharing server, manual ports without "
 "nf_conntrack_sane module"
 msgstr ""
 "지금부터 스캐너 접속이 쉽게 됩니다 - 스캐너 공유 서버이자, nf_conntrack_sane 모듈 없이 수동 포트를 사용합니다"
 
-#: DEV_extra_translations/extra_translations.py:758
+#: ../DEV_extra_translations/extra_translations.py:831
 msgid "LBreakout2 - 8001/udp"
 msgstr "엘브레이크아웃2 - 8001/udp"
 
-#: DEV_extra_translations/extra_translations.py:759
-#: DEV_extra_translations/extra_translations.py:761
+#: ../DEV_extra_translations/extra_translations.py:832
+#: ../DEV_extra_translations/extra_translations.py:834
 msgid "A Breakout clone"
 msgstr "브레이크아웃의 복제판입니다"
 
-#: DEV_extra_translations/extra_translations.py:760
+#: ../DEV_extra_translations/extra_translations.py:833
 msgid "LBreakout2 - 2002/udp"
 msgstr "엘브레이크아웃2 - 2002/udp"
 
-#: DEV_extra_translations/extra_translations.py:762
+#: ../DEV_extra_translations/extra_translations.py:584
 msgid "Prey"
 msgstr "프레이"
 
-#: DEV_extra_translations/extra_translations.py:763
+#: ../DEV_extra_translations/extra_translations.py:585
 msgid "A SciFi FPS action adventure by 3D Realms"
 msgstr "3D 렐름즈가 개발한 공상과학 FPS 액션 어드벤처 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:764
+#: ../DEV_extra_translations/extra_translations.py:522
 msgid "Heroes of Might and Magic III"
 msgstr "히어로즈 오브 마이트 앤 매직 III"
 
-#: DEV_extra_translations/extra_translations.py:765
+#: ../DEV_extra_translations/extra_translations.py:523
 msgid "A fantasy strategy game by 3DO"
 msgstr "3DO용으로 나온 판타지 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:766
+#: ../DEV_extra_translations/extra_translations.py:680
 msgid "Delta Force 2"
 msgstr "델타 포스 2"
 
-#: DEV_extra_translations/extra_translations.py:768
+#: ../DEV_extra_translations/extra_translations.py:60
 msgid "London Law"
 msgstr "런던 로우"
 
-#: DEV_extra_translations/extra_translations.py:769
+#: ../DEV_extra_translations/extra_translations.py:61
 msgid "An online multiplayer adaptation of the Scotland Yard board game"
 msgstr "스코틀랜드 야드 보드게임의 온라인 멀티플레이어 도입 버전입니다"
 
-#: DEV_extra_translations/extra_translations.py:772
+#: ../DEV_extra_translations/extra_translations.py:84
 msgid "NAT"
 msgstr "NAT"
 
-#: DEV_extra_translations/extra_translations.py:773
+#: ../DEV_extra_translations/extra_translations.py:85
 msgid "Port Mapping Protocol"
 msgstr "포트 맵핑 프로토콜"
 
-#: DEV_extra_translations/extra_translations.py:774
+#: ../DEV_extra_translations/extra_translations.py:310
 msgid "Rune"
 msgstr "룬"
 
-#: DEV_extra_translations/extra_translations.py:775
+#: ../DEV_extra_translations/extra_translations.py:311
 msgid "A third-person fantasy combat game by Human Head Studios"
 msgstr "휴먼 헤드 스튜디오가 개발한 삼-인칭 판타지 전투 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:776
+#: ../DEV_extra_translations/extra_translations.py:312
 msgid "Rune admin"
 msgstr "룬 관리자"
 
-#: DEV_extra_translations/extra_translations.py:777
+#: ../DEV_extra_translations/extra_translations.py:313
 msgid "Web-based administration for the Rune game by Human Head Studios"
 msgstr "휴먼 헤드 스튜디오가 개발한 룬 게임용 웹-기반 관리 프로그램입니다"
 
@@ -4138,288 +4133,288 @@ msgstr "휴먼 헤드 스튜디오가 개발한 룬 게임용 웹-기반 관리 
 msgid "qBittorrent"
 msgstr "큐비트토렌트"
 
-#: DEV_extra_translations/extra_translations.py:779
+#: ../DEV_extra_translations/extra_translations.py:668
 msgid "Cross-platform BitTorrent client GUI written with Qt4"
 msgstr "Qt4로 작성된 크로스-플랫폼 비트토렌트 클라이언트 GUI 소프트웨어입니다."
 
-#: DEV_extra_translations/extra_translations.py:781
+#: ../DEV_extra_translations/extra_translations.py:141
 msgid "Full Metal Soccer server"
 msgstr "풀 메탈 사커 서버"
 
-#: DEV_extra_translations/extra_translations.py:782
-#: DEV_extra_translations/extra_translations.py:784
-#: DEV_extra_translations/extra_translations.py:786
+#: ../DEV_extra_translations/extra_translations.py:142
+#: ../DEV_extra_translations/extra_translations.py:145
+#: ../DEV_extra_translations/extra_translations.py:147
 msgid "A soccer game played with tanks by QuantiCode"
 msgstr "퀀티코드가 개발한 전차로 하는 축구 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:783
+#: ../DEV_extra_translations/extra_translations.py:144
 msgid "Full Metal Soccer ranking server"
 msgstr "풀 메탈 사커 순위 서버"
 
-#: DEV_extra_translations/extra_translations.py:785
+#: ../DEV_extra_translations/extra_translations.py:146
 msgid "Full Metal Soccer master server"
 msgstr "풀 메탈 사커 마스터 서버"
 
-#: DEV_extra_translations/extra_translations.py:787
+#: ../DEV_extra_translations/extra_translations.py:602
 msgid "Warsow"
 msgstr "워소우"
 
-#: DEV_extra_translations/extra_translations.py:788
+#: ../DEV_extra_translations/extra_translations.py:603
 msgid "A competitive FPS based on the Qfusion 3D/id tech 2 engine"
 msgstr "큐퓨전 3D/id tech 2 엔진을 기반으로 한 경쟁 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:789
+#: ../DEV_extra_translations/extra_translations.py:835
 msgid "Bos Wars"
 msgstr "보스 워즈"
 
-#: DEV_extra_translations/extra_translations.py:790
+#: ../DEV_extra_translations/extra_translations.py:836
 msgid "A futuristic RTS based on the Stratagus engine"
 msgstr "스트라타거스 엔진을 기반으로 한 미래적인 RTS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:791
+#: ../DEV_extra_translations/extra_translations.py:251
 msgid "Cube 2: Sauerbraten"
 msgstr "큐브 2: 사우어브라텐"
 
-#: DEV_extra_translations/extra_translations.py:792
+#: ../DEV_extra_translations/extra_translations.py:252
 msgid "A FPS game based on the Cube engine"
 msgstr "큐브 엔진을 기반으로 한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:793
+#: ../DEV_extra_translations/extra_translations.py:682
 msgid "GameRanger"
 msgstr "게임레인저"
 
-#: DEV_extra_translations/extra_translations.py:794
+#: ../DEV_extra_translations/extra_translations.py:683
 msgid "A game server browser from GameRanger Technologies"
 msgstr "게임레인저 테크놀로지스가 개발한 게임 서버 브라우저입니다"
 
-#: DEV_extra_translations/extra_translations.py:795
+#: ../DEV_extra_translations/extra_translations.py:657
 msgid "Vibe Streamer"
 msgstr "바이브 스트리머"
 
-#: DEV_extra_translations/extra_translations.py:796
+#: ../DEV_extra_translations/extra_translations.py:658
 msgid "A free MP3 streaming server"
 msgstr "자유 MP3 스트리밍 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:797
+#: ../DEV_extra_translations/extra_translations.py:289
 msgid "Lux"
 msgstr "럭스"
 
-#: DEV_extra_translations/extra_translations.py:798
+#: ../DEV_extra_translations/extra_translations.py:290
 msgid ""
 "Delux, Ancient Empires and American History: A turn-based strategy game from "
 "Sillysoft influenced by Risk"
 msgstr "딜럭스, 고대 제국 및 미국 역사: 실리소프트가 리스크으로부터 영향을 받아 개발한 턴-제 전략 게임입니다."
 
-#: DEV_extra_translations/extra_translations.py:799
+#: ../DEV_extra_translations/extra_translations.py:580
 msgid "Delta Force: Xtreme"
 msgstr "델타 포스: 익스트림"
 
-#: DEV_extra_translations/extra_translations.py:801
+#: ../DEV_extra_translations/extra_translations.py:420
 msgid "F-16 Multirole Fighter"
 msgstr "F-16 멀티롤 파이터"
 
-#: DEV_extra_translations/extra_translations.py:802
+#: ../DEV_extra_translations/extra_translations.py:421
 msgid "A F-16 simulation by NovaLogic"
 msgstr "노바로직이 개발한 F-16 시뮬레이션 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:805
+#: ../DEV_extra_translations/extra_translations.py:458
 msgid "H.323 discovery"
 msgstr "H.323 발견"
 
-#: DEV_extra_translations/extra_translations.py:806
+#: ../DEV_extra_translations/extra_translations.py:459
 msgid "H.323 multicast gatekeeper discovery (H.225)"
 msgstr "H.323 멀티캐스트 발견 문지기(H.225)"
 
-#: DEV_extra_translations/extra_translations.py:807
+#: ../DEV_extra_translations/extra_translations.py:460
 msgid "H.323 RAS"
 msgstr "H.323 RAS"
 
-#: DEV_extra_translations/extra_translations.py:808
+#: ../DEV_extra_translations/extra_translations.py:461
 msgid "H.323 Gatekeeper Registration, Admission and Status (H.225)"
 msgstr "H.323 등록, 승인 및 상태 문지기(H.225)"
 
-#: DEV_extra_translations/extra_translations.py:809
+#: ../DEV_extra_translations/extra_translations.py:352
 msgid "Glest"
 msgstr "글래스트"
 
-#: DEV_extra_translations/extra_translations.py:810
+#: ../DEV_extra_translations/extra_translations.py:353
 msgid "A free, open source 3D RTS game server"
 msgstr "자유, 오픈 소스 3D RTS 게임 서버입니다"
 
-#: DEV_extra_translations/extra_translations.py:811
+#: ../DEV_extra_translations/extra_translations.py:320
 msgid "HTTP"
 msgstr "HTTP"
 
-#: DEV_extra_translations/extra_translations.py:812
+#: ../DEV_extra_translations/extra_translations.py:321
 msgid "WWW standard protocol on port 80/tcp (IANA/Debian www, http)"
 msgstr "포트 80/tcp에 있는 WWW 표준 프로토콜(IANA/데비안 www, http)"
 
-#: DEV_extra_translations/extra_translations.py:813
+#: ../DEV_extra_translations/extra_translations.py:322
 msgid "HTTPS"
 msgstr "HTTPS"
 
-#: DEV_extra_translations/extra_translations.py:814
+#: ../DEV_extra_translations/extra_translations.py:323
 msgid "WWW standard protocol with SSL/TLS on port 443/tcp (IANA https)"
 msgstr "포트 443에 있는 SSL/TLS를 사용하는 WWW 표준 프로토콜(IANA https)"
 
-#: DEV_extra_translations/extra_translations.py:815
+#: ../DEV_extra_translations/extra_translations.py:324
 msgid "HTTP - 8008/tcp"
 msgstr "HTTP - 8008/tcp"
 
-#: DEV_extra_translations/extra_translations.py:816
+#: ../DEV_extra_translations/extra_translations.py:325
 msgid "WWW standard protocol on port 8008/tcp (IANA http-alt)"
 msgstr "포트 8000/tcp에 있는 WWW 표준 프로토콜(IANA http-alt)"
 
-#: DEV_extra_translations/extra_translations.py:817
-#: DEV_extra_translations/extra_translations.py:818
+#: ../DEV_extra_translations/extra_translations.py:326
+#: ../DEV_extra_translations/extra_translations.py:327
 msgid "Web Server (HTTP,HTTPS)"
 msgstr "웹 서버(HTTP,HTTPS)"
 
-#: DEV_extra_translations/extra_translations.py:819
-#: DEV_extra_translations/extra_translations.py:820
+#: ../DEV_extra_translations/extra_translations.py:328
+#: ../DEV_extra_translations/extra_translations.py:329
 msgid "Web Server (8080)"
 msgstr "웹 서버(8080)"
 
-#: DEV_extra_translations/extra_translations.py:821
+#: ../DEV_extra_translations/extra_translations.py:330
 msgid "HTTP - 8090/tcp"
 msgstr "HTTP - 8090/tcp"
 
-#: DEV_extra_translations/extra_translations.py:822
+#: ../DEV_extra_translations/extra_translations.py:331
 msgid ""
 "WWW standard protocol on port 8090/tcp (IANA unassigned, commonly "
 "http_alt_alt)"
 msgstr "포트 8090/tcp에 있는 WWW 표준 프로토콜(할당되지 않은 IANA이며, 보통 http_alt_alt입니다)"
 
-#: DEV_extra_translations/extra_translations.py:823
+#: ../DEV_extra_translations/extra_translations.py:332
 msgid "UPS Tools daemon"
 msgstr "UPS 도구 데몬"
 
-#: DEV_extra_translations/extra_translations.py:824
+#: ../DEV_extra_translations/extra_translations.py:333
 msgid "Network UPS Tools"
 msgstr "네트워크 UPS 도구"
 
-#: DEV_extra_translations/extra_translations.py:825
+#: ../DEV_extra_translations/extra_translations.py:451
 msgid "MySQL"
 msgstr "MySQL"
 
-#: DEV_extra_translations/extra_translations.py:826
+#: ../DEV_extra_translations/extra_translations.py:452
 msgid "MySQL Database"
 msgstr "MySQL 데이터베이스"
 
-#: DEV_extra_translations/extra_translations.py:827
+#: ../DEV_extra_translations/extra_translations.py:453
 msgid "Office;Database;"
 msgstr "오피스;데이터베이스;"
 
-#: DEV_extra_translations/extra_translations.py:828
+#: ../DEV_extra_translations/extra_translations.py:424
 msgid "Kali"
 msgstr "칼리"
 
-#: DEV_extra_translations/extra_translations.py:829
+#: ../DEV_extra_translations/extra_translations.py:425
 msgid "Internet game browser and IPX network emulator"
 msgstr "인터넷 게임 브라우저 및 IPX 네트워크 에뮬레이터입니다"
 
-#: DEV_extra_translations/extra_translations.py:830
+#: ../DEV_extra_translations/extra_translations.py:54
 msgid "Dopewars"
 msgstr "도프워즈"
 
-#: DEV_extra_translations/extra_translations.py:832
+#: ../DEV_extra_translations/extra_translations.py:762
 msgid "VNC server display :0"
 msgstr "VNC 서버 표시 :0"
 
-#: DEV_extra_translations/extra_translations.py:833
+#: ../DEV_extra_translations/extra_translations.py:763
 msgid "Virtual Network Computing standard server display :0"
 msgstr "가상 네트워크 컴퓨팅 표준 서버 :0을 표시합니다"
 
-#: DEV_extra_translations/extra_translations.py:835
-#: DEV_extra_translations/extra_translations.py:847
+#: ../DEV_extra_translations/extra_translations.py:765
+#: ../DEV_extra_translations/extra_translations.py:777
 msgid "VNC displays :0-:1"
 msgstr "VNC 표시 :0-:1"
 
-#: DEV_extra_translations/extra_translations.py:836
+#: ../DEV_extra_translations/extra_translations.py:766
 msgid "Virtual Network Computing standard server displays :0 through :1"
 msgstr "가상 네트워크 컴퓨팅 표준 서버 :1을 통해서 :0을 표시합니다"
 
-#: DEV_extra_translations/extra_translations.py:838
-#: DEV_extra_translations/extra_translations.py:850
+#: ../DEV_extra_translations/extra_translations.py:768
+#: ../DEV_extra_translations/extra_translations.py:780
 msgid "VNC displays :0-:3"
 msgstr "VNC 표시 :0-:3"
 
-#: DEV_extra_translations/extra_translations.py:839
+#: ../DEV_extra_translations/extra_translations.py:769
 msgid "Virtual Network Computing standard server displays :0 through :3"
 msgstr "가상 네트워크 컴퓨팅 표준 서버 :3을 통해서 :0을 표시합니다"
 
-#: DEV_extra_translations/extra_translations.py:841
-#: DEV_extra_translations/extra_translations.py:853
+#: ../DEV_extra_translations/extra_translations.py:771
+#: ../DEV_extra_translations/extra_translations.py:783
 msgid "VNC displays :0-:7"
 msgstr "VNC 표시 :0-:7"
 
-#: DEV_extra_translations/extra_translations.py:842
+#: ../DEV_extra_translations/extra_translations.py:772
 msgid "Virtual Network Computing standard server displays :0 through :7"
 msgstr "가상 네트워크 컴퓨팅 표준 서버 :7을 통해서 :0을 표시합니다"
 
-#: DEV_extra_translations/extra_translations.py:844
+#: ../DEV_extra_translations/extra_translations.py:774
 msgid "VNC http server display :0"
 msgstr "VNC http 서버 표시 :0"
 
-#: DEV_extra_translations/extra_translations.py:845
+#: ../DEV_extra_translations/extra_translations.py:775
 msgid "Virtual Network Computing http server display :0"
 msgstr "가상 네트워크 컴퓨팅 http 서버 :0을 표시합니다"
 
-#: DEV_extra_translations/extra_translations.py:848
+#: ../DEV_extra_translations/extra_translations.py:778
 msgid "Virtual Network Computing http server displays :0 through :1"
 msgstr "가상 네트워크 컴퓨팅 http 서버가 :1을 통해서 :0을 표시합니다"
 
-#: DEV_extra_translations/extra_translations.py:851
+#: ../DEV_extra_translations/extra_translations.py:781
 msgid "Virtual Network Computing http server displays :0 through :3"
 msgstr "가상 네트워크 컴퓨팅 http 서버가 :3을 통해서 :0을 표시합니다"
 
-#: DEV_extra_translations/extra_translations.py:854
+#: ../DEV_extra_translations/extra_translations.py:784
 msgid "Virtual Network Computing http server displays :0 through :7"
 msgstr "가상 네트워크 컴퓨팅 http 서버가 :7을 통해서 :0을 표시합니다"
 
-#: DEV_extra_translations/extra_translations.py:856
+#: ../DEV_extra_translations/extra_translations.py:306
 msgid "SiN"
 msgstr "신"
 
-#: DEV_extra_translations/extra_translations.py:857
+#: ../DEV_extra_translations/extra_translations.py:307
 msgid "A FPS by Ritual Entertainment"
 msgstr "리추얼 엔터테인먼트가 개발한 FPS 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:858
+#: ../DEV_extra_translations/extra_translations.py:806
 msgid "Webcam_server"
 msgstr "웹캠 서버"
 
-#: DEV_extra_translations/extra_translations.py:859
+#: ../DEV_extra_translations/extra_translations.py:807
 msgid "A webcam viewer for web servers with an optional Java-based viewer"
 msgstr "선택적 자바-기반 열람용 소프트웨어가 있는 웹 서버용 웹캠 열람용 소프트웨어입니다"
 
-#: DEV_extra_translations/extra_translations.py:860
+#: ../DEV_extra_translations/extra_translations.py:808
 msgid "Network;Audio Video;Video;"
 msgstr "네트워크;오디오 비디오;비디오;"
 
-#: DEV_extra_translations/extra_translations.py:862
+#: ../DEV_extra_translations/extra_translations.py:598
 msgid ""
 "A free and open source team-based first-person shooter with real-time "
 "strategy elements"
 msgstr "실-시간 전략 요소가 들어 있는 자유 및 오픈 소스 팀-제 일-인칭 슈터 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:863
+#: ../DEV_extra_translations/extra_translations.py:202
 msgid "Sid Meier's Civilization IV"
 msgstr "시드 마이어의 문명 IV"
 
-#: DEV_extra_translations/extra_translations.py:864
+#: ../DEV_extra_translations/extra_translations.py:203
 msgid "A turn-based strategy game from Firaxis Games"
 msgstr "파이락시스 게임즈가 개발한 턴-제 전략 게임입니다"
 
-#: DEV_extra_translations/extra_translations.py:865
+#: ../DEV_extra_translations/extra_translations.py:841
 msgid "Authentication is required to run the Firewall Configuration"
 msgstr "방화벽 설정을 사용하시는 데에 인증이 요구됩니다"
 
-#: DEV_extra_translations/extra_translations.py:866
+#: ../gufw.desktop.in.h:1
 msgid "Firewall Configuration"
 msgstr "방화벽 설정"
 
-#: DEV_extra_translations/extra_translations.py:867
+#: ../gufw.desktop.in.h:2
 msgid "An easy way to configure your firewall"
 msgstr "당신의 방화벽을 쉽게 설정하는 방법입니다"
 
