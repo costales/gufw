@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Gufw 20.04.0 - https://costales.github.io/projects/gufw/
-# Copyright (C) 2008-2019 Marcos Alvarez Costales https://costales.github.io
+# Gufw - https://costales.github.io/projects/gufw/
+# Copyright (C) 2008-2020 Marcos Alvarez Costales https://costales.github.io
 #
 # Gufw is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

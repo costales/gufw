@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Gufw 20.04.0 - https://costales.github.io/projects/gufw/
-# Copyright (C) 2008-2019 Marcos Alvarez Costales https://costales.github.io
+# Gufw - https://costales.github.io/projects/gufw/
+# Copyright (C) 2008-2020 Marcos Alvarez Costales https://costales.github.io
 #
 # Gufw is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -27,7 +27,7 @@ data = [ ('/usr/share/polkit-1/actions/', ['policykit/actions/com.ubuntu.pkexec.
 # Setup stage
 setup(
     name         = "gufw",
-    version      = "20.04.0",
+    version      = "20.10.0",
     description  = "An easy, intuitive, way to manage your Linux firewall. It supports common tasks such as allowing or blocking pre-configured, common p2p, or individual ports port(s), and many others!",
     author       = "Marcos Alvarez Costales https://costales.github.io",
     author_email = "https://costales.github.io",
