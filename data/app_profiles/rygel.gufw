@@ -1,0 +1,6 @@
+[rygel]
+title=Rygel
+description=Easier media sharing between Ubuntu and smart TVs, games consoles, and even other computers
+ports=1900/udp
+categories=Audio Video;TV;
+reference=[https://forums.linuxmint.com/viewtopic.php?t=300500]
