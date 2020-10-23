@@ -37,7 +37,7 @@ class Backend():
             proc = subprocess.Popen(cmd, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout,stderr=proc.communicate()
         
-        if stderr: # Error
+        if stderr and not stderr.decode().startswith("WARN"): # Error
             while stderr[-1:] == '\n':
                 stderr = stderr[:-1]
             return stderr.decode('utf-8')
