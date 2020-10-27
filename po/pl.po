@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-09-12 07:41+0000\n"
-"X-Generator: Launchpad (build 83bdf6c8a3a5f87722c8927e54838522f3e57504)\n"
+"X-Launchpad-Export-Date: 2020-10-27 19:12+0000\n"
+"X-Generator: Launchpad (build 96ff31b88b65a0d0ea73b89333fe7c4a2669d8fb)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
@@ -750,6 +750,7 @@ msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
 "  Account Deactivated https://launchpad.net/~accountdeactivated\n"
+"  Adrian Feliks https://launchpad.net/~mexit\n"
 "  Antoni Kudelski https://launchpad.net/~antoni-kudelski-deactivatedaccount\n"
 "  Arkadiusz Błasiak https://launchpad.net/~ares1112\n"
 "  Inox https://launchpad.net/~inox\n"

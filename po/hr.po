@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2019-05-08 21:10+0200\n"
-"PO-Revision-Date: 2020-04-12 20:09+0000\n"
+"PO-Revision-Date: 2020-10-26 11:11+0000\n"
 "Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-09-12 07:41+0000\n"
-"X-Generator: Launchpad (build 83bdf6c8a3a5f87722c8927e54838522f3e57504)\n"
+"X-Launchpad-Export-Date: 2020-10-27 19:12+0000\n"
+"X-Generator: Launchpad (build 96ff31b88b65a0d0ea73b89333fe7c4a2669d8fb)\n"
 "Language: hr\n"
 
 #: gufw/gufw/instance.py:48
@@ -206,12 +206,12 @@ msgid ""
 "An uncomplicated way to manage your firewall, powered by ufw. Easy, simple, "
 "nice and useful! :)"
 msgstr ""
-"Jednostavan način upravljanja vašim vatrozidom, pogonjenim ufw-om. Lagan, "
-"jednostavan, ugodan i koristan! :)"
+"Jednostavno grafičko sučelje za upravljanje vašim ufw vatrozidom. Lagano, "
+"jednostavno, ugodno i korisno! :)"
 
 #: ../gufw/gufw/view/gufw.py:304
 msgid "Basic"
-msgstr "Osnovno"
+msgstr "Osnove"
 
 #: ../gufw/gufw/view/gufw.py:305
 msgid "FAQ"
@@ -224,12 +224,12 @@ msgid ""
 "apps:"
 msgstr ""
 "Ako ste uobičajeni korisnik biti ćete najsigurniji s ovim postavkama "
-"(Stanje=UKLJ, Dolazno=Uskrati, Odolazno=Dopusti). Ne zaboravite dodati "
+"(Stanje=UKLJ, Dolazno=Uskrati, Odlazno=Dopusti). Ne zaboravite dodati "
 "pravilo za vaše P2P aplikacije:"
 
 #: ../gufw/gufw/view/gufw.py:307
 msgid "You can rename your profiles with just 2 clicks on them:"
-msgstr "Možete preimenovati svoj profil samo s 2 klika na njega:"
+msgstr "Svoje profile možete preimenovati dvostrukim klikom na njih:"
 
 #: ../gufw/gufw/view/gufw.py:308
 msgid "The Rule Name will help you to identify your rules in the future:"
@@ -244,8 +244,8 @@ msgid ""
 "You do not need it. After you do all of the changes in Gufw, the settings "
 "are still in place until the next changes."
 msgstr ""
-"To nije potrebno. Nakon što postavite sve promjene u Gufw vatrozidu, "
-"postavke ostaju do sljedeće promjene."
+"To nije potrebno. Nakon što učinite sve promjene u Gufw vatrozidu, postavke "
+"ostaju do sljedeće promjene."
 
 #: ../gufw/gufw/view/gufw.py:311
 msgid "Why is Gufw disabled by default?"
@@ -448,15 +448,15 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:476
 msgid "Outgoing: "
-msgstr "Odolazno: "
+msgstr "Odlazno: "
 
 #: ../gufw/gufw/view/gufw.py:477
 msgid "Outgoing policy changed"
-msgstr "Odolazno pravilo promijenjeno"
+msgstr "Odlazno pravilo promijenjeno"
 
 #: ../gufw/gufw/view/gufw.py:479
 msgid "There was an error changing the outgoing policy"
-msgstr "Dogodila se greška pri promjeni odolaznog pravila"
+msgstr "Dogodila se greška pri promjeni odlaznog pravila"
 
 #: ../gufw/gufw/view/gufw.py:487
 msgid "Routed: "
@@ -652,7 +652,7 @@ msgstr "Profil postoji"
 
 #: ../gufw/gufw/view/preferences.py:108
 msgid "There is a profile with the same name"
-msgstr "Već postoji profil s istim nazivom"
+msgstr "Već postoji profil istog naziva"
 
 #: ../gufw/gufw/view/preferences.py:113
 msgid "Current profile"
@@ -744,8 +744,8 @@ msgid ""
 "An uncomplicated way to manage your firewall, powered by ufw.\n"
 "Easy, simple, nice and useful!"
 msgstr ""
-"Jednostavan način upravljanja vašim vatrozidom, pogonjenim ufw-om.\n"
-"Lagan, jednostavan, ugodan i koristan!"
+"Jednostavno grafičko sučelje za upravljanje vašim ufw vatrozidom.\n"
+"Lagano, jednostavno, ugodno i korisno!"
 
 #: ../data/ui/about.ui.h:4
 msgid "translator-credits"
@@ -1023,7 +1023,7 @@ msgstr "_Dolazno:"
 
 #: ../data/ui/gufw.ui.h:25
 msgid "_Outgoing:"
-msgstr "_Odolazno:"
+msgstr "_Odlazno:"
 
 #: ../data/ui/gufw.ui.h:29
 msgid "_Routed:"
