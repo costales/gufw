@@ -1,7 +1,6 @@
 [tvheadend]
-title=Tvheadend server
-description=Tvheadend is a TV streaming server and digital video recorder. It supports inputs: DVB-C(2), DVB-T(2), DVB-S(2), ATSC, SAT>IP, HDHomeRun, IPTV (UDP and HTTP). It supports outputs: HTTP, HTSP (own protocol) and SAT>IP.
+title=Tvheadend
+description=TV streaming server and digital video recorder
 ports=9981/tcp|9982/tcp
-warning=Remember to open the ports on the router
 categories=Media;Multimedia;Network;Streaming;TV;
 reference=[https://tvheadend.org/projects/tvheadend/wiki/Install_and_initial_setup Tvheadend Guide: Required Ports for Tvheadend]
