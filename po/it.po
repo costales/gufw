@@ -2,14 +2,14 @@
 # Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the gui-ufw package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
-#
+#ALBANO BATTISTELLA <albano_battistella@hotmail.com>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2019-05-08 21:10+0200\n"
-"PO-Revision-Date: 2017-02-14 20:28+0000\n"
-"Last-Translator: Milo Casagrande <milo.casagrande@gmail.com>\n"
+"PO-Revision-Date: 2020-24-12 16:54+0100\n"
+"Last-Translator: Albano Battistella <albano_battistella@hotmail.com>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: gufw/gufw/instance.py:48
 #, python-format
 msgid "Error: %s is writable"
-msgstr ""
+msgstr "Errore:%s è scrivibile"
 
 #: gufw/gufw/instance.py:49
 #, python-format
@@ -28,6 +28,8 @@ msgid ""
 "Your %s directory is writable.\n"
 "Fix it running from Terminal:"
 msgstr ""
+"La tua directory %s è scrivibile.\n"
+"Risolvilo in eseguendo dal terminale:"
 
 #: ../gufw/gufw/instance.py:64
 msgid "Please, just one Gufw's instance"
@@ -160,7 +162,7 @@ msgstr "Regole"
 
 #: ../gufw/gufw/view/gufw.py:191
 msgid "Report"
-msgstr ""
+msgstr "Rapporto"
 
 #: ../data/ui/update.ui.h:13 ../data/ui/add.ui.h:28
 #: ../gufw/gufw/view/gufw.py:196
@@ -266,6 +268,9 @@ msgid ""
 "when you edit a rule, Gufw will add that rule again, then ufw re-adds that "
 "rule for IPv4 and IPv6."
 msgstr ""
+"Bene, il comportamento è tale che quando modifichi o importi un profilo, o"
+"quando modifichi una regola, Gufw aggiungerà di nuovo quella regola, quindi ufw la aggiungerà questa"
+"regola per IPv4 e IPv6."
 
 #: ../gufw/gufw/view/gufw.py:315
 msgid "What is Allow, Deny, Reject and Limit?"
@@ -299,7 +304,7 @@ msgstr "Tutte le regole di ufw appariranno in tutti i profili."
 
 #: ../gufw/gufw/view/gufw.py:322
 msgid "What do I see in the Listening Report?"
-msgstr ""
+msgstr "Cosa vedo nel rapporto di ascolto?"
 
 #: ../gufw/gufw/view/gufw.py:323
 msgid ""
@@ -311,11 +316,11 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:324
 msgid "I want even more!"
-msgstr ""
+msgstr "Voglio ancora di più!"
 
 #: ../gufw/gufw/view/gufw.py:325
 msgid "You'll find more information in the community documentation :)"
-msgstr ""
+msgstr "Troverai maggiori informazioni nella documentazione della community :)"
 
 #: ../gufw/gufw/view/gufw.py:334 ../gufw/gufw/view/gufw.py:338
 #: ../gufw/gufw/view/gufw.py:341
@@ -340,6 +345,8 @@ msgid ""
 "Filename has wrong permissions (not 600). Trust only on your exported "
 "profiles"
 msgstr ""
+"Il nome del file ha autorizzazioni errate (non 600). Considera attendibile solo il file esportato"
+"dei profili"
 
 #: ../gufw/gufw/view/gufw.py:363
 msgid ""
@@ -362,6 +369,8 @@ msgid ""
 "Delete it before from the Preferences Window or rename the file (the profile "
 "will be the filename)"
 msgstr ""
+"Eliminalo prima dalla finestra delle preferenze o rinomina il file (il profilo"
+"sarà il nome del file)"
 
 #: ../gufw/gufw/view/gufw.py:372
 msgid "Profile imported: "
@@ -570,7 +579,7 @@ msgstr " IN INGRESSO "
 
 #: ../gufw/gufw/view/gufw.py:693
 msgid " FWD "
-msgstr ""
+msgstr "INOLTRA"
 
 #: ../gufw/gufw/view/gufw.py:694
 msgid "Anywhere"
@@ -582,7 +591,7 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:696
 msgid "(log-all)"
-msgstr ""
+msgstr "(tutti i log)"
 
 #: ../gufw/gufw/view/gufw.py:697
 msgid " (out)"
@@ -1076,7 +1085,7 @@ msgstr "Modifica la regole selezionata"
 
 #: data/ui/gufw.ui:789
 msgid "Pause Listening Report"
-msgstr ""
+msgstr "Pausa rapporto di ascolto"
 
 #: data/ui/gufw.ui:790 data/ui/gufw.ui:805
 msgid "Pause"
@@ -1084,11 +1093,11 @@ msgstr "Pausa"
 
 #: data/ui/gufw.ui:804
 msgid "See current Listening Report"
-msgstr ""
+msgstr "VedI il rapporto di ascolto corrente"
 
 #: ../data/ui/gufw.ui.h:36
 msgid "Create a rule from the listening report..."
-msgstr ""
+msgstr "Crea una regola del rapporto di ascolto..."
 
 #: ../data/ui/gufw.ui.h:37
 msgid "Copy log to clipboard"
@@ -1788,7 +1797,7 @@ msgstr "Secure Shell"
 #: DEV_extra_translations/extra_translations.py:852
 #: DEV_extra_translations/extra_translations.py:855
 msgid "It may be a security risk to use a default allow policy"
-msgstr ""
+msgstr "Potrebbe essere un rischio per la sicurezza utilizzare un criterio di autorizzazione predefinito"
 
 #: ../DEV_extra_translations/extra_translations.py:726
 msgid "VNC"
@@ -1911,11 +1920,11 @@ msgstr "NASCAR Racing 2002/03 42 giocatori"
 
 #: DEV_extra_translations/extra_translations.py:185
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDE Connect"
 
 #: DEV_extra_translations/extra_translations.py:186
 msgid "Communicate across all your devices"
-msgstr ""
+msgstr "Comunica attraverso i tuoi dispositivi"
 
 #: ../DEV_extra_translations/extra_translations.py:48
 msgid "OpenArena"
@@ -2327,6 +2336,7 @@ msgstr "Client"
 msgid ""
 "Game client traffic, typically Matchmaking and HLTV and Steam downloads"
 msgstr ""
+"Traffico del client di gioco, in genere Matchmaking e download di HLTV e Steam"
 
 #: ../DEV_extra_translations/extra_translations.py:624
 msgid "Dedicated Servers"
@@ -2358,7 +2368,7 @@ msgstr "Liquid War"
 
 #: ../DEV_extra_translations/extra_translations.py:315
 msgid "An original shortest path algorithm and core concept"
-msgstr ""
+msgstr "Un algoritmo del percorso più breve originale e un concetto di base"
 
 #: ../DEV_extra_translations/extra_translations.py:16
 #: ../DEV_extra_translations/extra_translations.py:300
@@ -2572,7 +2582,7 @@ msgstr "Metaserver Conquest"
 
 #: DEV_extra_translations/extra_translations.py:340
 msgid "NRPE Nagios Plugin"
-msgstr ""
+msgstr "Plugin NRPE Nagios"
 
 #: ../DEV_extra_translations/extra_translations.py:90
 msgid "Remote Plugin Executor"
@@ -2639,13 +2649,15 @@ msgstr "Joint Operations: Typhoon Rising"
 
 #: DEV_extra_translations/extra_translations.py:357
 msgid "TeamViewer"
-msgstr ""
+msgstr "TeamViewer"
 
 #: DEV_extra_translations/extra_translations.py:358
 msgid ""
 "Remote control, desktop sharing, online meetings, web conferencing and file "
 "transfer between computers"
 msgstr ""
+"Controllo remoto, condivisione desktop, riunioni online, conferenze Web e file"
+"di trasferimento tra computer"
 
 #: ../DEV_extra_translations/extra_translations.py:30
 #: ../DEV_extra_translations/extra_translations.py:788
@@ -2732,7 +2744,7 @@ msgstr "Server email SMTPS Postfix"
 
 #: ../DEV_extra_translations/extra_translations.py:277
 msgid "Postfix Mail Server Submission"
-msgstr ""
+msgstr "Invio al server di posta Postfix"
 
 #: ../DEV_extra_translations/extra_translations.py:302
 msgid "Minecraft"
@@ -3079,10 +3091,11 @@ msgstr "Asterisk"
 msgid ""
 "An open source telephony switching and private branch exchange service"
 msgstr ""
+"Un servizio di commutazione di telefonia open source e di scambio di servizi privati"
 
 #: ../DEV_extra_translations/extra_translations.py:468
 msgid "Review that ports are the same in /etc/asterisk/rtp.conf"
-msgstr ""
+msgstr "Verifica che le porte siano le stesse in /etc/asterisk/rtp.conf"
 
 #: ../DEV_extra_translations/extra_translations.py:183
 msgid "DHCP"
@@ -3694,7 +3707,7 @@ msgstr "Traduzione indirizzo PvPGN"
 
 #: ../DEV_extra_translations/extra_translations.py:666
 msgid "Player vs Player Gaming Network Address translation port"
-msgstr ""
+msgstr "Giocatore vs GIocatore Porta di traduzione dell'indirizzo di rete di gioco"
 
 #: ../DEV_extra_translations/extra_translations.py:101
 msgid "Quake III - 27960/udp"
@@ -3838,6 +3851,8 @@ msgid ""
 "A Doom source port that accurately reproduces the experience of Doom as it "
 "was played in the 1990s"
 msgstr ""
+"Una porta sorgente di Doom che riproduce accuratamente l'esperienza di Doom così com'è "
+"è stato giocato negli anni '90"
 
 #: ../DEV_extra_translations/extra_translations.py:91
 msgid "PulseAudio"
@@ -3884,6 +3899,8 @@ msgid ""
 "A twitch-based, science fiction massively multiplayer online role-playing "
 "game (MMORPG)"
 msgstr ""
+"Un gioco di ruolo online multigiocatore di massa fantascientifico basato su gioco "
+"di ruolo (MMORPG)"
 
 #: ../DEV_extra_translations/extra_translations.py:304
 msgid "Comanche 4"
@@ -3922,11 +3939,11 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:672
 msgid "ChromeCast"
-msgstr ""
+msgstr "ChromeCast"
 
 #: DEV_extra_translations/extra_translations.py:673
 msgid "Google Stream device"
-msgstr ""
+msgstr "Dispositivo Google Stream"
 
 #: ../DEV_extra_translations/extra_translations.py:594
 msgid "RDP"
@@ -4116,10 +4133,11 @@ msgstr ""
 msgid ""
 "Multi-platform music-creation system for production, performance and DJing"
 msgstr ""
+"Sistema multipiattaforma per la creazione di musica per produzione, performance e DJ"
 
 #: DEV_extra_translations/extra_translations.py:718
 msgid "Audio Video;Music;"
-msgstr ""
+msgstr "Audio video;musica;"
 
 #: ../DEV_extra_translations/extra_translations.py:386
 msgid "Deluge Torrent"
