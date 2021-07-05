@@ -6,7 +6,7 @@ categories=Games;Arcade;
 reference=[http://memak.raydium.org/viewtopic.php?f=10&t=369 ManiaDrive forum: ManiaDrive 1.0.1 doesn't works in my GNU/Linux system]
 
 [ManiaDrive HTTP]
-title=ManiaDrive HTTP server 
+title=ManiaDrive HTTP server
 description=ManiaDrive/Raydium game monitor HTTP server
 ports=29104/tcp
 categories=Games;Arcade;

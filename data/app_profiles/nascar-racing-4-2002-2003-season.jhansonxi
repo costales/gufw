@@ -20,7 +20,7 @@ categories=Games;Simulation;
 reference=[http://findports.com/document.php?id=511 Findports.com : Nascar 2002 tcp/udp ports list]
 
 [NASCAR Racing 4-2002-2003 Season - 8]
-title=NASCAR Racing 2002/03  8 players
+title=NASCAR Racing 2002/03 8 players
 description=Racing simulators from Papyrus Design Group
 ports=32766:32775/udp
 categories=Games;Simulation;
