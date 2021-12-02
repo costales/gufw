@@ -1,6 +1,0 @@
-[Parsec]
-title=Parsec
-description=A desktop capturing application primarily used for playing games through video streaming.
-ports=443/tcp|3478/udp
-categories=Games
-reference=https://parsec.app/
