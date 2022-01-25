@@ -1,20 +1,20 @@
-# Slovenian translation for gui-ufw
-# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# Welsh translation for gui-ufw
+# Copyright (c) 2021 Rosetta Contributors and Canonical Ltd 2021
 # This file is distributed under the same license as the gui-ufw package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2021-07-05 10:51+0200\n"
-"PO-Revision-Date: 2012-05-02 15:32+0000\n"
-"Last-Translator: costales <Unknown>\n"
-"Language-Team: Slovenian <sl@li.org>\n"
+"PO-Revision-Date: 2021-11-10 12:42+0000\n"
+"Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
+"Language-Team: Welsh <cy@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
+"X-Launchpad-Export-Date: 2022-01-25 18:25+0000\n"
 "X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
 
 #: gufw/gufw/instance.py:48
@@ -39,18 +39,18 @@ msgstr ""
 
 #: ../gufw/gufw/model/firewall.py:61
 msgid "Deleting previous rules: "
-msgstr "Brisanje predhodnih pravil: "
+msgstr ""
 
 #: ../gufw/gufw/model/firewall.py:86
 msgid "Appending new rules: "
-msgstr "Pripenjanje novih pravil: "
+msgstr ""
 
 #: ../gufw/gufw/model/firewall.py:266 ../gufw/gufw/model/firewall.py:286
 #: ../gufw/gufw/model/firewall.py:287 ../gufw/gufw/model/firewall.py:302
 #: ../gufw/gufw/model/firewall.py:303 ../gufw/gufw/model/firewall.py:304
 #: ../gufw/gufw/model/firewall.py:306
 msgid "Home"
-msgstr "Doma"
+msgstr "Cartref"
 
 #. Filename without path and extension
 #. First run
@@ -58,13 +58,13 @@ msgstr "Doma"
 #: ../gufw/gufw/model/firewall.py:313 ../gufw/gufw/model/firewall.py:314
 #: ../gufw/gufw/model/firewall.py:316
 msgid "Public"
-msgstr "Javno"
+msgstr "Cyhoeddus"
 
 #: ../gufw/gufw/model/firewall.py:285 ../gufw/gufw/model/firewall.py:307
 #: ../gufw/gufw/model/firewall.py:308 ../gufw/gufw/model/firewall.py:309
 #: ../gufw/gufw/model/firewall.py:311
 msgid "Office"
-msgstr "Pisarna"
+msgstr "Swyddfa"
 
 #: ../gufw/gufw/model/firewall.py:304 ../gufw/gufw/model/firewall.py:309
 #: ../gufw/gufw/model/firewall.py:314
@@ -76,7 +76,7 @@ msgstr ""
 #: ../gufw/gufw/view/update.py:101 ../gufw/gufw/view/update.py:186
 #: ../gufw/gufw/view/update.py:215
 msgid "All Interfaces"
-msgstr "Vsi vmesniki"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:100 ../gufw/gufw/view/add.py:359
 #: ../gufw/gufw/view/add.py:464 ../gufw/gufw/view/update.py:102
@@ -90,11 +90,11 @@ msgstr ""
 #: ../gufw/gufw/view/add.py:553 ../gufw/gufw/view/add.py:567
 #: ../gufw/gufw/view/add.py:569 ../gufw/gufw/view/add.py:571
 msgid "All"
-msgstr "Vsa"
+msgstr "Y Cyfan"
 
 #: ../gufw/gufw/view/add.py:153 ../gufw/gufw/view/add.py:366
 msgid "Ports: "
-msgstr "Vrata: "
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:195 ../gufw/gufw/view/add.py:204
 #: ../gufw/gufw/view/update.py:134
@@ -111,48 +111,48 @@ msgstr ""
 
 #: ../gufw/gufw/view/add.py:376
 msgid "Error: Firewall is disabled"
-msgstr "Napaka: požarni zid je onemogočen"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:376
 msgid "The firewall has to be enabled first"
-msgstr "Ta požarni zid mora biti najprej omogočen"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:406 ../gufw/gufw/view/gufw.py:569
 msgid "Error running: "
-msgstr "Napaka pri izvajanju: "
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:410
 msgid "Rule(s) added"
-msgstr "Pravilo(a) dodano"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:413
 msgid "Warning: Some rules added. Review the log"
-msgstr "Opozorilo: nekatera pravila so bila dodana. Preglejte dnevnik"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:416
 msgid "Error: No rules added. Review the log"
-msgstr "Napaka: ni bilo dodanih pravil. Preglejte dnevnik"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:432
 msgid "Insert Port"
-msgstr "Vnesite vrata"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:432
 msgid "You need to insert a port in the port field"
-msgstr "V polje vrat morate vstaviti vrata"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:436
 msgid "Edward Snowden's Greatest Fear"
-msgstr "Največji strah Edwarda Snowdena"
+msgstr ""
 
 #: ../gufw/gufw/view/add.py:436
 msgid "\"Nothing Will Change\""
-msgstr "\"Nič se ne bo spremenilo\""
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:125 ../gufw/gufw/view/gufw.py:180
 #: ../gufw/gufw/view/gufw.py:302
 msgid "Getting started"
-msgstr "Kako začeti"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:186
 msgid "Rules"
@@ -165,54 +165,52 @@ msgstr ""
 #: ../data/ui/update.ui.h:13 ../data/ui/add.ui.h:28
 #: ../gufw/gufw/view/gufw.py:196
 msgid "Log"
-msgstr "Dnevnik"
+msgstr ""
 
 #. Rules
 #. Listening Report
 #: ../gufw/gufw/view/gufw.py:233 ../gufw/gufw/view/gufw.py:250
 msgid "Nº"
-msgstr "Št."
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:238
 msgid "Rule"
-msgstr "Pravilo"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:243
 msgid "Name"
-msgstr "Ime"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:255
 msgid "Protocol"
-msgstr "Protokol"
+msgstr ""
 
 #: ../data/ui/update.ui.h:23 ../data/ui/add.ui.h:35
 #: ../gufw/gufw/view/gufw.py:260
 msgid "Port"
-msgstr "Vrata"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:265
 msgid "Address"
-msgstr "Naslov"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:270
 msgid "Application"
-msgstr "Program"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:303
 msgid ""
 "An uncomplicated way to manage your firewall, powered by ufw. Easy, simple, "
 "nice and useful! :)"
 msgstr ""
-"Nezahtevni način upravljanja vašega požarnega zidu, ki ga poganja ufw. "
-"Lahek, preprost, prijazen in uporaben! :)"
 
 #: ../gufw/gufw/view/gufw.py:304
 msgid "Basic"
-msgstr "Osnovno"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:305
 msgid "FAQ"
-msgstr "Pogosto zastavljena vprašanja"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:306
 msgid ""
@@ -220,41 +218,36 @@ msgid ""
 "Incoming=Deny, Outgoing=Allow). Remember to append allow rules for your P2P "
 "apps:"
 msgstr ""
-"Če ste običajni uporabnik, ste varni z nastavitvami (Stanje=Vklopljeno, "
-"Dohodno: Zavrni, Odhodno=Dovoli). Zapomnite si, da dodate pravila za svoje "
-"programe P2P:"
 
 #: ../gufw/gufw/view/gufw.py:307
 msgid "You can rename your profiles with just 2 clicks on them:"
-msgstr "Profile lahko preimenujete z 2 klikoma na njih:"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:308
 msgid "The Rule Name will help you to identify your rules in the future:"
-msgstr "Ime pravila vam bo pomagalo določiti pravila v prihodnosti:"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:309
 msgid "How to autostart Gufw with the system?"
-msgstr "Kako samodejno začeti Gufw skupaj s sistemom?"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:310
 msgid ""
 "You do not need it. After you do all of the changes in Gufw, the settings "
 "are still in place until the next changes."
 msgstr ""
-"Ne potrebujete. Ko naredite vse spremembe v Gufw, nastavitve še vedno "
-"veljajo do naslednje spremembe."
 
 #: ../gufw/gufw/view/gufw.py:311
 msgid "Why is Gufw disabled by default?"
-msgstr "Zakaj je Gufw privzeto onemogočen?"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:312
 msgid "By default, the firewall does not open ports to the outside world."
-msgstr "Privzeto požarni zid ne odpre vrat v zunanji svet."
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:313
 msgid "Some rules are added by themselves?"
-msgstr "Zakaj se nekatera pravila dodajo sama?"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:314
 msgid ""
@@ -265,35 +258,35 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:315
 msgid "What is Allow, Deny, Reject and Limit?"
-msgstr "Kaj je Dovoli, Blokiraj, Zavrni in Omeji?"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:316
 msgid "Allow: Will allow traffic."
-msgstr "Dovoli: dovoli promet."
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:317
 msgid "Deny: Will deny traffic."
-msgstr "Blokiraj: blokira promet."
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:318
 msgid "Reject: Will deny traffic and will inform that it has been rejected."
-msgstr "Zavrni: blokira promet in obvesti o zavrnitvi."
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:319
 msgid "Limit: Will deny traffic if an IP tried several connections."
-msgstr "Omeji: bo blokiral promet, če IP poskusi z več povezavami."
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:320
 msgid "I see some rules in all profiles"
-msgstr "Vidim nekaj pravil v vseh profilih"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:321
 msgid "All the ufw rules will be appear in all profiles."
-msgstr "Vsa pravila ufw se pojavijo v profilih."
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:322
 msgid "What do I see in the Listening Report?"
-msgstr "Kaj vidim v poročilu poslušanja?"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:323
 msgid ""
@@ -312,19 +305,19 @@ msgstr ""
 #: ../gufw/gufw/view/gufw.py:334 ../gufw/gufw/view/gufw.py:338
 #: ../gufw/gufw/view/gufw.py:341
 msgid "Visit this web (please, copy & paste in your browser):"
-msgstr "Obiščite to spletno stran (kopirajte in prilepite v svoj brskalnik):"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:349
 msgid "Import Profile"
-msgstr "Uvozi profil"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:355
 msgid "Import cancelled"
-msgstr "Uvoz je bil preklican"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:359 ../gufw/gufw/view/gufw.py:363
 msgid "Error"
-msgstr "Napaka"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:359
 msgid ""
@@ -337,16 +330,14 @@ msgid ""
 "Filename has not valid characters. Rename the file\n"
 "to only letters, numbers, dashes and underscores"
 msgstr ""
-"Ime datoteke nima veljavnih znakov. Preimenujte datoteko,\n"
-"da bo imela samo črke, številke, pomišljaje in podčrtaje"
 
 #: ../gufw/gufw/view/gufw.py:367
 msgid "Operation cancelled"
-msgstr "Opravilo je bilo preklicano"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:368
 msgid "Profile already exists"
-msgstr "Profil že obstaja"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:368
 msgid ""
@@ -356,71 +347,69 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:372
 msgid "Profile imported: "
-msgstr "Profil uvožen: "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:373
 msgid "Profile imported, now you can choose it in the profiles"
-msgstr "Profil je uvožen, sedaj ga lahko izberete med profili"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:376
 msgid "Export Profile"
-msgstr "Izvozi profil"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:379
 msgid "Export cancelled"
-msgstr "Izvoz je bil preklican"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:386
 msgid "Profile exported: "
-msgstr "Profil izvožen: "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:387
 msgid "Profile exported"
-msgstr "Profil je izvožen"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:411
 msgid "Reset Firewall"
-msgstr "Ponastavi požarni zid"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:411
 msgid ""
 "This will remove all rules in the current\n"
 "profile and disable the firewall"
 msgstr ""
-"To bo odstranilo vsa pravila v trenutnem\n"
-"profilu in onemogočilo požarni zid"
 
 #: ../gufw/gufw/view/gufw.py:411 ../gufw/gufw/view/gufw.py:555
 msgid "Do you want to continue?"
-msgstr "Ali želite nadaljevati?"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:416
 msgid "Removed rules and reset firewall!"
-msgstr "Pravila so odstranjena in požarni zid je ponastavljen!"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:421
 msgid "Gufw Log: Removed"
-msgstr "Dnevnik Gufw: odstranjen"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:422
 msgid "Gufw Log removed"
-msgstr "Dnevnik Gufw je odstranjen"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:427
 msgid "Text copied to clipboard"
-msgstr "Besedilo je kopirano na odložišče"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:468
 msgid "Incoming: "
-msgstr "Prihajajoče: "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:469
 msgid "Incoming policy changed"
-msgstr "Dohodni pravilnik se je spremenil"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:471
 msgid "There was an error changing the incoming policy"
-msgstr "Med spreminjanjem dohodnega pravilnika je prišlo do napake"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:471 ../gufw/gufw/view/gufw.py:479
 #: ../gufw/gufw/view/gufw.py:490
@@ -428,20 +417,18 @@ msgid ""
 "Restart your firewall to refresh to the real status\n"
 "and please report this bug"
 msgstr ""
-"Znova zaženite vaš požarni zid za osvežitev realnega stanja\n"
-"in poročajte ta hrošč"
 
 #: ../gufw/gufw/view/gufw.py:476
 msgid "Outgoing: "
-msgstr "Odhajajoče: "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:477
 msgid "Outgoing policy changed"
-msgstr "Odhodni pravilnik se je spremenil"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:479
 msgid "There was an error changing the outgoing policy"
-msgstr "Med spreminjanjem odhodnega pravilnika je prišlo do napake"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:487
 msgid "Routed: "
@@ -457,7 +444,7 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:511 ../gufw/gufw/view/gufw.py:590
 msgid "Select just one row"
-msgstr "Izberite samo eno vrstico"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:511
 msgid "You can create a rule from just one row selected"
@@ -465,58 +452,57 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:525
 msgid "Status: Enabled"
-msgstr "Stanje: omogočeno"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:526
 msgid "Firewall enabled"
-msgstr "Požarni zid je omogočen"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:528
 msgid "Status: Disabled"
-msgstr "Stanje: onemogočeno"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:529
 msgid "Firewall disabled"
-msgstr "Požarni zid je onemogočen"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:540
 msgid "There was an error changing the firewall status"
-msgstr "Med spreminjanjem stanja požarnega zidu je prišlo do napake"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:540
 msgid ""
 "Restart your firewall to refresh to the real status and please report this "
 "bug"
 msgstr ""
-"Za osvežitev na realno stanje ponastavite požarni zid in poročajte ta hrošč"
 
 #: ../gufw/gufw/view/gufw.py:555
 msgid "Delete rule"
-msgstr "Izbriši pravilo"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:555
 msgid "You will delete all selected rules"
-msgstr "Izbrisali boste vsa izbrana pravila"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:567
 msgid "Rule(s) deleted"
-msgstr "Pravilo(a) je izbrisano"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:570
 msgid "Error. Review Gufw Log"
-msgstr "Napaka: preglejte dnevnik Gufw"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:575
 msgid "No rule selected"
-msgstr "Ni izbranega pravila"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:575
 msgid "You have to select a rule"
-msgstr "Izbrati morate pravilo"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:590
 msgid "You can edit just one rule"
-msgstr "Urejate lahko zgolj eno pravilo"
+msgstr ""
 
 #. ufw rule > inmutable
 #: ../gufw/gufw/view/gufw.py:598
@@ -525,35 +511,35 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:598
 msgid "You can't edit a rule added from ufw"
-msgstr "Ne morete urejati pravila, dodanega iz ufw"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:618
 msgid "Changing profile: "
-msgstr "Menjava profila: "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:687
 msgid " ALLOW "
-msgstr " DOVOLI "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:688
 msgid " DENY "
-msgstr " BLOKIRAJ "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:689
 msgid " REJECT "
-msgstr " ZAVRNI "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:690
 msgid " LIMIT "
-msgstr " OMEJITEV "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:691
 msgid " OUT "
-msgstr " ODHODNO "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:692
 msgid " IN "
-msgstr " DOHODNO "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:693
 msgid " FWD "
@@ -561,7 +547,7 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:694
 msgid "Anywhere"
-msgstr "Kjerkoli"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:695
 msgid "(log)"
@@ -573,27 +559,27 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:697
 msgid " (out)"
-msgstr " (odhodno)"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:698
 msgid " on "
-msgstr " na "
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:741
 msgid "Gufw profile"
-msgstr "Profil Gufw"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:745
 msgid "All files"
-msgstr "Vse datoteke"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:785
 msgid "Insert IP/Ports"
-msgstr "Vnesite IP/Vrata"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:785
 msgid "You need to insert IP/ports in to/from fields"
-msgstr "V polja do/od morate vnesti IP/vrata"
+msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:794
 msgid "Insert number bigger that number of rules"
@@ -606,92 +592,92 @@ msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:82 ../gufw/gufw/view/preferences.py:127
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:91 ../gufw/gufw/view/preferences.py:95
 #: ../gufw/gufw/view/preferences.py:99 ../gufw/gufw/view/preferences.py:103
 msgid "Profile not valid"
-msgstr "Profil ni veljaven"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:91
 msgid "You can't use this profile name"
-msgstr "Ne morete uporabiti tega imena profila"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:95
 msgid "Enter at least one character"
-msgstr "Vnesite vsaj en znak"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:99
 msgid "Too long! (max. 15 characters)"
-msgstr "Predolgo! (največ 15 znakov)"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:103
 msgid "Use only letters, numbers, dashes and underscores"
-msgstr "Uporabite le črke, števila, črte in podčrtaje"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:108
 msgid "Profile exist"
-msgstr "Profil obstaja"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:108
 msgid "There is a profile with the same name"
-msgstr "Profil z istim imenom že obstaja"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:113
 msgid "Current profile"
-msgstr "Trenutni profil"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:113
 msgid "You can't rename the current profile"
-msgstr "Trenutnega profila ni mogoče preimenovati"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:120
 msgid "Edited Profile: "
-msgstr "Urejeni profil: "
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:138
 msgid "Created Profile: "
-msgstr "Ustvarjen profil: "
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:143
 msgid "Select a profile"
-msgstr "Izberi profil"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:143
 msgid "You need to select a profile for deleting"
-msgstr "Izbrati morate profil za izbris"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:147
 msgid "Profile not erasable"
-msgstr "profila ni mogoče izbrisati"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:147
 msgid "You can't remove the current profile"
-msgstr "ne morate izbrisati trenutnega profila"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:152
 msgid "Deleted Profile: "
-msgstr "Izbrisan profil: "
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:156
 msgid "ufw Logging: "
-msgstr "Beleženje ufw: "
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:161
 msgid "Gufw Logging: Enabled"
-msgstr "Beleženje ufw: omogočeno"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:163
 msgid "Gufw Logging: Disabled"
-msgstr "Beleženje ufw: onemogočeno"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:169
 msgid "Confirm Delete Dialog: Enabled"
-msgstr "Potrdi izbris pogovornega okna: omogočeno"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:172
 msgid "Confirm Delete Dialog: Disabled"
-msgstr "Potrdi izbris pogovornega okna: onemogočeno"
+msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:183
 msgid "Refresh Interval: "
@@ -708,19 +694,19 @@ msgstr ""
 
 #: ../gufw/gufw/view/update.py:251
 msgid "Editing rule (Removing): "
-msgstr "Urejanje pravila (odstranjevanje): "
+msgstr ""
 
 #: ../gufw/gufw/view/update.py:257
 msgid "Editing rule (Adding): "
-msgstr "Urejanje pravila (dodajanje): "
+msgstr ""
 
 #: ../gufw/gufw/view/update.py:258
 msgid "Updated rule "
-msgstr "Posodobljeno pravilo "
+msgstr ""
 
 #: ../data/ui/about.ui.h:1
 msgid "About Gufw Firewall"
-msgstr "O požarnem zidu Gufw"
+msgstr ""
 
 #: data/ui/about.ui:21
 msgid "An easy, simple, nice and useful firewall!"
@@ -730,67 +716,59 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
-"  Andrej Znidarsic https://launchpad.net/~andrejznidarsic\n"
-"  Bernard Banko https://launchpad.net/~beernarrd\n"
-"  Damir Jerovšek https://launchpad.net/~jierro\n"
-"  Matic Gradišer https://launchpad.net/~0micky\n"
-"  Mitja https://launchpad.net/~mitja-pitko\n"
-"  Sasa Batistic https://launchpad.net/~sasa-batistic\n"
-"  costales https://launchpad.net/~costales\n"
-"  neon https://launchpad.net/~timi-lah\n"
-"  Štefan Baebler https://launchpad.net/~stefanba"
+"  Rhoslyn Prys https://launchpad.net/~rprys"
 
 #: ../data/ui/add.ui.h:1
 msgid "Add a Firewall Rule"
-msgstr "Dodaj pravilo požarnega zidu"
+msgstr ""
 
 #: ../data/ui/update.ui.h:6 ../data/ui/add.ui.h:2 ../data/ui/gufw.ui.h:26
 msgid "Allow"
-msgstr "Dovoli"
+msgstr ""
 
 #: ../data/ui/update.ui.h:7 ../data/ui/add.ui.h:3 ../data/ui/gufw.ui.h:27
 msgid "Deny"
-msgstr "Blokiraj"
+msgstr ""
 
 #: ../data/ui/update.ui.h:8 ../data/ui/add.ui.h:4 ../data/ui/gufw.ui.h:28
 msgid "Reject"
-msgstr "Zavrni"
+msgstr ""
 
 #: ../data/ui/update.ui.h:9 ../data/ui/add.ui.h:5
 msgid "Limit"
-msgstr "Omejitev"
+msgstr ""
 
 #: ../data/ui/update.ui.h:10 ../data/ui/add.ui.h:6
 msgid "In"
-msgstr "Dohodni promet"
+msgstr ""
 
 #: ../data/ui/update.ui.h:11 ../data/ui/add.ui.h:7
 msgid "Out"
-msgstr "Odhodni promet"
+msgstr ""
 
 #: ../data/ui/update.ui.h:15 ../data/ui/add.ui.h:8
 msgid "Both"
-msgstr "Obojesmerno"
+msgstr ""
 
 #: ../data/ui/update.ui.h:2 ../data/ui/add.ui.h:9
 msgid "Policy:"
-msgstr "Ravnanje:"
+msgstr ""
 
 #: ../data/ui/update.ui.h:3 ../data/ui/add.ui.h:10
 msgid "Direction:"
-msgstr "Smer:"
+msgstr ""
 
 #: ../data/ui/add.ui.h:11
 msgid "Category:"
-msgstr "Kategorija:"
+msgstr ""
 
 #: ../data/ui/add.ui.h:12
 msgid "Subcategory:"
-msgstr "Podkategorija:"
+msgstr ""
 
 #: ../data/ui/add.ui.h:13
 msgid "Application:"
-msgstr "Program:"
+msgstr ""
 
 #: ../data/ui/add.ui.h:14
 msgid "Application Filter"
@@ -798,82 +776,80 @@ msgstr ""
 
 #: ../data/ui/add.ui.h:15
 msgid "Copy app values and jump to Advanced Tab"
-msgstr "Kopiraj vrednosti programa in skoči na zavihek napredno"
+msgstr ""
 
 #: ../data/ui/add.ui.h:16
 msgid "Preconfigured"
-msgstr "Prednastavljeno"
+msgstr ""
 
 #: ../data/ui/update.ui.h:5 ../data/ui/add.ui.h:17
 msgid "Protocol:"
-msgstr "Protokol:"
+msgstr ""
 
 #: ../data/ui/update.ui.h:16 ../data/ui/add.ui.h:18
 msgid "TCP"
-msgstr "TCP"
+msgstr ""
 
 #: ../data/ui/update.ui.h:17 ../data/ui/add.ui.h:19
 msgid "UDP"
-msgstr "UDP"
+msgstr ""
 
 #: ../data/ui/add.ui.h:20
 msgid "Port:"
-msgstr "Vrata:"
+msgstr ""
 
 #: ../data/ui/update.ui.h:26 ../data/ui/add.ui.h:21
 msgid "Name:"
-msgstr "Ime:"
+msgstr ""
 
 #: ../data/ui/update.ui.h:27 ../data/ui/add.ui.h:22
 msgid "Rule Description"
-msgstr "Opis pravila"
+msgstr ""
 
 #: ../data/ui/add.ui.h:23
 msgid ""
 "You can write a port as '22', a port range as '22:24' or a service as 'http'"
 msgstr ""
-"Vrata lahko napišete kot '22', kot obseg vrat kot '22:24) ali kot storitev "
-"kot 'http'"
 
 #: ../data/ui/add.ui.h:24
 msgid "Port or service"
-msgstr "Vrata ali storitev"
+msgstr ""
 
 #: ../data/ui/add.ui.h:25
 msgid "Simple"
-msgstr "Enostavno"
+msgstr ""
 
 #: ../data/ui/update.ui.h:4 ../data/ui/add.ui.h:26
 msgid "Log:"
-msgstr "Dnevnik:"
+msgstr ""
 
 #: ../data/ui/update.ui.h:12 ../data/ui/add.ui.h:27
 msgid "Do not Log"
-msgstr "Ne beleži dnevnika"
+msgstr ""
 
 #: ../data/ui/update.ui.h:14 ../data/ui/add.ui.h:29
 msgid "Log All"
-msgstr "Beleži vse"
+msgstr ""
 
 #: ../data/ui/update.ui.h:18 ../data/ui/add.ui.h:30
 msgid "From:"
-msgstr "Od:"
+msgstr ""
 
 #: ../data/ui/update.ui.h:19 ../data/ui/add.ui.h:31
 msgid "To:"
-msgstr "Za:"
+msgstr ""
 
 #: ../data/ui/update.ui.h:20 ../data/ui/add.ui.h:32
 msgid "IP"
-msgstr "IP"
+msgstr ""
 
 #: ../data/ui/update.ui.h:21 ../data/ui/add.ui.h:33
 msgid "Paste your current local IP"
-msgstr "Prilepi vaš trenutni krajevni IP"
+msgstr ""
 
 #: ../data/ui/update.ui.h:22 ../data/ui/add.ui.h:34
 msgid "You can write a port as '22' or a port range as '22:24'"
-msgstr "Vrata lahko napišete kot '22' ali obseg vrat kot '22:24'"
+msgstr ""
 
 #: ../data/ui/update.ui.h:24 ../data/ui/add.ui.h:36
 msgid ""
@@ -881,21 +857,18 @@ msgid ""
 "If you're editing a Preconfigured or Simple rule, Interface field must be "
 "'All Interfaces' and the IPs and From Port fields must be empty."
 msgstr ""
-"Vrata lahko zapišete kot '22' oz. obseg vrat kot '22:24'.\n"
-"Če urejate prednastavljeno ali enostavno pravilo, mora vmesnik biti 'Vsi "
-"vmesniki', polja IP-ji in odhodna vrata morata biti prazni."
 
 #: ../data/ui/add.ui.h:38
 msgid "Insert:"
-msgstr "Vstavi:"
+msgstr ""
 
 #: ../data/ui/update.ui.h:28 ../data/ui/add.ui.h:39
 msgid "Interface:"
-msgstr "Vmesnik:"
+msgstr ""
 
 #: ../data/ui/add.ui.h:40
 msgid "Rule number to insert"
-msgstr "Številka pravila za vstavitev"
+msgstr ""
 
 #: ../data/ui/add.ui.h:41
 msgid "At the end"
@@ -903,56 +876,55 @@ msgstr ""
 
 #: ../data/ui/add.ui.h:43
 msgid "Advanced"
-msgstr "Napredno"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:1
 msgid "Firewall"
-msgstr "Požarni zid"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:2
 msgid "_File"
-msgstr "_Datoteka"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:3
 msgid "_Import profile"
-msgstr "_Uvoz profila"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:4
 msgid "_Export this profile"
-msgstr "_Izvozi ta profil"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:5
 msgid "Only the rules added from Gufw will be exported (not ufw rules)"
 msgstr ""
-"Izvožena bodo samo pravila, ki so bila dodana z Gufw (in ne pravila ufw)"
 
 #: ../data/ui/gufw.ui.h:6
 msgid "_Edit"
-msgstr "_Uredi"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:7
 msgid "_Reset Current Profile"
-msgstr "_Poenostavi trenutni profil"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:8
 msgid "_Help"
-msgstr "_Pomoč"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:22
 msgid "_Profile:"
-msgstr "_Profil:"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:23
 msgid "S_tatus:"
-msgstr "S_tanje:"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:24
 msgid "_Incoming:"
-msgstr "_Dohodno:"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:25
 msgid "_Outgoing:"
-msgstr "_Odhodno:"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:29
 msgid "_Routed:"
@@ -960,27 +932,27 @@ msgstr ""
 
 #: ../data/ui/gufw.ui.h:30
 msgid "<b>Firewall</b>"
-msgstr "<b>Požarni zid</b>"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:31
 msgid "Add a rule..."
-msgstr "Dodaj pravilo ..."
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:17 ../data/ui/gufw.ui.h:32
 msgid "Add"
-msgstr "Dodaj"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:33
 msgid "Remove the selected rule(s)"
-msgstr "Odstranite izbrano pravilo(a)"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:19 ../data/ui/gufw.ui.h:34
 msgid "Remove"
-msgstr "Odstrani"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:35
 msgid "Edit the selected rule"
-msgstr "Uredi izbrano pravilo"
+msgstr ""
 
 #: data/ui/gufw.ui:642
 msgid "Pause Listening Report"
@@ -1000,55 +972,55 @@ msgstr ""
 
 #: ../data/ui/gufw.ui.h:37
 msgid "Copy log to clipboard"
-msgstr "Kopiraj dnevnik v odložišče"
+msgstr ""
 
 #: ../data/ui/gufw.ui.h:38
 msgid "Remove log"
-msgstr "Odstrani dnevnik"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:1
 msgid "Firewall Preferences"
-msgstr "Možnosti požarnega zidu"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:2
 msgid "_Logging:"
-msgstr "_Beleženje:"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:3
 msgid "Off"
-msgstr "Izključeno"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:4
 msgid "Low"
-msgstr "Nizko"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:5
 msgid "Medium"
-msgstr "Srednje"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:6
 msgid "High"
-msgstr "Visoko"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:7
 msgid "Full"
-msgstr "Polno"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:8
 msgid "<b>ufw</b>"
-msgstr "<b>ufw</b>"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:9
 msgid "Lo_gging Gufw activity"
-msgstr "Be_leženje dejavnosti Gufw"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:10
 msgid "Show confirm dialog for deleting rules"
-msgstr "Prikaži potrditveno pojavno okno za izbris pravil"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:11
 msgid "<b>Gufw</b>"
-msgstr "<b>Gufw</b>"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:12
 msgid "Refresh Interval:"
@@ -1062,15 +1034,15 @@ msgstr ""
 
 #: ../data/ui/preferences.ui.h:15
 msgid "<b>Listening Report</b>"
-msgstr "<b>Poročilo poslušanja</b>"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:16
 msgid "Add a profile"
-msgstr "Dodaj profil"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:18
 msgid "Remove the selected profile"
-msgstr "Odstrani izbrani profil"
+msgstr ""
 
 #: ../data/ui/preferences.ui.h:20
 msgid "<b>Profiles</b>"
@@ -1078,150 +1050,143 @@ msgstr ""
 
 #: ../data/ui/update.ui.h:1
 msgid "Update a Firewall Rule"
-msgstr "Posodobitev pravila požarnega zidu:"
+msgstr ""
 
 #. Sort translation, please!
 #: ../data/ui/update.ui.h:31
 msgid "The rule will be moved to the end of the list"
-msgstr "Pravilo bo premaknjeno na konec seznama"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:384
 msgid "OpenRPG"
-msgstr "OpenRPG"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:385
 msgid ""
 "A map/chat/dice-rolling tool to allow players to play tabletop games on-line"
 msgstr ""
-"orodje zemljevida/klepeta/metanja, ki omogoča igralcem, da igrajo namizne "
-"igre na spletu"
 
 #: ../DEV_extra_translations/extra_translations.py:75
 msgid "Network;Games;"
-msgstr "Omrežje;Igre;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:127
 msgid "Nagios"
-msgstr "Nagios"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:128
 msgid ""
 "Computer system monitor, network monitoring and infrastructure monitoring "
 "software application"
 msgstr ""
-"Računalniški sistemski monitor, nadzorovanje omrežja in infrastrukture, "
-"spremljanje uporabe programske opreme"
 
 #: ../DEV_extra_translations/extra_translations.py:18
 msgid "System;Monitor;"
-msgstr "Sistem;Nadzor;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:469
 msgid "Webmin"
-msgstr "Webmin"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:470
 #: ../DEV_extra_translations/extra_translations.py:473
 msgid "Web-page based system management utility"
-msgstr "Na spletu osnovan pripomoček za upravljanje sistema"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:471
 msgid "Network;Shell;"
-msgstr "Omrežje;Lupina;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:472
 msgid "Webmin fast RPC"
-msgstr "Webmin hitri RPC"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:200
 msgid "FreeCol"
-msgstr "FreeCol"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:201
 msgid "A turn-based strategy game similar to Colonization by Microprose"
 msgstr ""
-"Potezna strateška igra, ki je podobrna igri Colonization podjetja Microprose"
 
 #: ../DEV_extra_translations/extra_translations.py:15
 msgid "Games;Strategy;"
-msgstr "Igre;Strategija;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:118
 msgid "SSDP"
-msgstr "SSDP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:119
 msgid "Simple Service Discovery Protocol"
-msgstr "Enostaven protokol odkrivanja storitev"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:37
 msgid "Network;"
-msgstr "Omrežje;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:682
 msgid "GameRanger"
-msgstr "GameRanger"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:683
 msgid "A game server browser from GameRanger Technologies"
-msgstr "Brskalnik po igralskih strežnikih GameRanger Technologies"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:572
 msgid "Telnet"
-msgstr "Telnet"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:573
 msgid "Text-based remote access (like SSH but without the security)"
-msgstr "Besedilni oddaljeni dostop (kot SSH, vendar brez varnosti)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:574
 msgid ""
 "Telnet is like SSH but without security. It'd be better to use the 'Telnet "
 "SSL'"
 msgstr ""
-"Telnet je kot SSH, vendar brez varnosti. Bolje bi bilo uporabiti 'Telnet SSL'"
 
 #: ../DEV_extra_translations/extra_translations.py:575
 msgid "Telnet TLS/SSL"
-msgstr "Telnet TLS/SSL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:576
 msgid "Text-based remote access (like SSH but without the security) SSL"
-msgstr "Besedilni oddaljeni dostop (kot SSH, vendar brez varnosti) SSL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:676
 msgid "Crossfire"
-msgstr "Crossfire"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:677
 msgid ""
 "An open source, cooperative multiplayer graphical RPG and adventure game"
 msgstr ""
-"Odprtokodna, večigralska, sodelovalna, grafična RPG in pustolovska igra"
 
 #: ../DEV_extra_translations/extra_translations.py:206
 msgid "Games;Role;"
-msgstr "Igre;Vloge;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:678
 msgid "Crossfire Metaserver"
-msgstr "Crossfire Metaserver"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:679
 msgid "Metaserver for Crossfire RPG"
-msgstr "Meta strežnik za Crossfire RPG"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:122
 msgid "Murmur"
-msgstr "Murmur"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:123
 msgid "Murmur voice chat server (counterpart to Mumble client)"
-msgstr "Murmur strežnik za glasovni klepet (za uporabo z odjemalcem Mumble)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:124
 msgid "Network;Telephony;"
-msgstr "Omrežje;Telefonija;"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:37
 msgid "PLEX"
@@ -1233,7 +1198,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:297
 msgid "Network;Audio Video;"
-msgstr "Omrežje;Zvok;Video;"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:40
 msgid "PLEX DLNA"
@@ -1285,87 +1250,83 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:831
 msgid "LBreakout2 - 8001/udp"
-msgstr "LBreakout2 - 8001/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:832
 #: ../DEV_extra_translations/extra_translations.py:834
 msgid "A Breakout clone"
-msgstr "dvojnik igre Breakout"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:67
 msgid "Games;Arcade;"
-msgstr "Igre;Arkada;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:833
 msgid "LBreakout2 - 2002/udp"
-msgstr "LBreakout2 - 2002/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:520
 msgid "Postal"
-msgstr "Postal"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:521
 msgid "Violent combat game from Running With Scissors"
-msgstr "Nasilna bojna igra podjeja Running With Scissors"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:10
 msgid "Games;Action;"
-msgstr "Igre;Akcija;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:217
 msgid "SEDS Serious Sam"
-msgstr "SEDS Serious Sam"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:218
 msgid "Dedicated server for the FPS by Croteam"
-msgstr "Namenski strežnik za prvoosebno strelsko igro podjetja Croteam"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:219
 msgid "SEDS Remote Admin"
-msgstr "Oddaljeni skrbnik SEDS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:220
 msgid ""
 "Default remote administration Telnet port for Serious Engine dedicated server"
 msgstr ""
-"privzeta vrata oddaljenega skrbništva Telnet za nameski strežnik Serious "
-"Engine"
 
 #: ../DEV_extra_translations/extra_translations.py:221
 msgid "SEDS - port 25601"
-msgstr "SEDS - vrata 25601"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:222
 msgid "Dedicated server for the FPS by Croteam, alternate game port 25601"
-msgstr "Namenski strežnik za FPS z Croteam, nadomestna igralna vrata 25601"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:223
 msgid "SEDS Admin - port 25600"
-msgstr "skrbnik SEDS - vrata 25600"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:224
 msgid ""
 "Alternate 25600 remote administration Telnet port for Serious Engine "
 "dedicated server"
 msgstr ""
-"nadomestna 25600 oddaljena skrbniška vrata Telnet namenski strežnik za pogon "
-"Serious"
 
 #: ../DEV_extra_translations/extra_translations.py:133
 msgid "STUN"
-msgstr "STUN"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:134
 msgid "Session Traversal Utilities for NAT"
-msgstr "Orodje prevajanja seje za NAT"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:135
 msgid "STUN TLS"
-msgstr "STUN TLS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:136
 msgid "Session Traversal Utilities for NAT with TLS encryption"
-msgstr "pripomočki prehoda seje za NAT s šifriranjem TLS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:68
 msgid "MiniDLNA"
@@ -1378,159 +1339,146 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:70
 msgid "Audio Video;TV;"
-msgstr "Zvok Video; TV;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:382
 msgid "Gamer's Internet Tunnel"
-msgstr "Internetni tunel za igralce"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:383
 msgid "IPX network emulator from Morpheus Software"
-msgstr "Omrežni posnemovalnik IPX podjetja Morpheus Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:239
 msgid "D2X-XL"
-msgstr "D2X-XL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:240
 msgid ""
 "A source port of Descent II, the 3D Flying FPS by Outrage Entertainment"
 msgstr ""
-"Predelava igre Descent II, 3D leteči FPS podjetja Outrage Entertainment"
 
 #: ../DEV_extra_translations/extra_translations.py:193
 msgid "Yet Another Netplay Guider"
-msgstr "Še en vodnik Netplay"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:194
 msgid "YANG - Yet Another Netplay Guider, default game connection"
-msgstr "YANG - še en vodnik po omrežnem igranju, privzeta povezava iger"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:195
 msgid "Games;"
-msgstr "Igre;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:196
 msgid "Yet Another Netplay Guider Hosting"
-msgstr "še eno gostovanje Netplay Guider"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:197
 msgid "YANG - Yet Another Netplay Guider, room hosting"
-msgstr "YANG - še en vodnik po omrežnem igranju, gostovanje sob"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:198
 msgid "DXX-Rebirth on YANG"
-msgstr "DXX-Rebirth na YANG"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:199
 msgid "DXX-Rebirth, a source port of Descent, connected through YANG"
 msgstr ""
-"DDX-Rebirh, predelava igre Descent na pogon source, povezava skozi YANG"
 
 #: ../DEV_extra_translations/extra_translations.py:837
 msgid "NFS TLDP NFS"
-msgstr "NFS TLDP NFS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:838
 msgid ""
 "Network File System protocol with static ports at 32765:32768 (some "
 "conflicts with popular games)"
 msgstr ""
-"Protokol omrežnega datotečnega sistema s statičnimi vrati na 32765:32768 "
-"(nekaj sporov s priljubljenimi igrami)"
 
 #: ../DEV_extra_translations/extra_translations.py:32
 msgid "Network;File Transfer;"
-msgstr "Omrežje;Datotečni prenos;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:839
 msgid "NFS Quota & TLDP NFS"
-msgstr "NFS Quota in TLDP NFS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:840
 msgid ""
 "NFS with user/group filesystem usage quota support with static ports at "
 "32765:32769 (some conflicts with popular games)"
 msgstr ""
-"NFS s podporo omejitve porabe uporabnika/skupine s statičnimi vrati na "
-"32765:32769 (nekaj sporov s priljubljenimi igrami)"
 
 #: ../DEV_extra_translations/extra_translations.py:165
 msgid "Widelands"
-msgstr "Widelands"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:166
 msgid "A RTS similar to The Settlers I & II from Blue Byte Software"
 msgstr ""
-"Realnočasovna strategija, podobna igri The Settlers I in II podjetja Blue "
-"Byte Software"
 
 #: ../DEV_extra_translations/extra_translations.py:437
 msgid "Savage 2: A Tortured Soul"
-msgstr "Savage 2: A Tortured Soul"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:438
 #: ../DEV_extra_translations/extra_translations.py:799
 msgid "A RTS/FPS from S2 Games"
 msgstr ""
-"A realnočasovna strategija/prvoosebna strelska igra podjetja S2 Games"
 
 #: ../DEV_extra_translations/extra_translations.py:101
 msgid "Quake III - 27960/udp"
-msgstr "Quake III - 27960/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:102
 msgid "A FPS by id Software, server on port 27660"
 msgstr ""
-"Prvoosebna strelska igra podjetja id Software, strežnik na vratih 27660"
 
 #: ../DEV_extra_translations/extra_translations.py:103
 msgid "Quake III - 27961/udp"
-msgstr "Quake III - 27961/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:104
 msgid "A FPS by id Software, server on port 27961"
 msgstr ""
-"Prvoosebna strelska igra podjetja id Software, strežnik na vratih 27961"
 
 #: ../DEV_extra_translations/extra_translations.py:105
 msgid "Quake III - 27962/udp"
-msgstr "Quake III - 27962/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:106
 msgid "A FPS by id Software, server on port 27962"
 msgstr ""
-"Prvoosebna strelska igra podjetja id Software, strežnik na vratih 27962"
 
 #: ../DEV_extra_translations/extra_translations.py:107
 msgid "Quake III - 27963/udp"
-msgstr "Quake III - 27963/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:108
 msgid "A FPS by id Software, server on port 27963"
 msgstr ""
-"Prvoosebna strelska igra podjetja id Software, strežnik na vratih 27963"
 
 #: ../DEV_extra_translations/extra_translations.py:800
 msgid "Skype Normal"
-msgstr "Skype normalno"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:801
 msgid "Proprietary Voice over IP service and software application"
-msgstr "zaščitena storitev pogovora skozi IP in program"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:5
 msgid "F-22 Lightning 3"
-msgstr "F-22 Lightning 3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:6
 #: ../DEV_extra_translations/extra_translations.py:246
 msgid "A F-22 Raptor simulation by NovaLogic"
-msgstr "Simulacija F-22 Raptorja podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:7
 msgid "Games;Simulation;"
-msgstr "Igre;Simulacija"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:108
 msgid "ChromeCast"
@@ -1542,32 +1490,32 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:295
 msgid "Icecast"
-msgstr "Icecast"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:176
 #: ../DEV_extra_translations/extra_translations.py:296
 msgid "Icecast stream"
-msgstr "Pretok Icecast"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:298
 msgid "Icecast - 8000:8001/tcp"
-msgstr "Icecast - 8000:8001/tcp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:299
 msgid "Icecast with SHOUTcast-compatible stream"
-msgstr "Icecast s pretokom, združljivim s SHOUTcast"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:594
 msgid "RDP"
-msgstr "RDP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:595
 msgid "Remote Desktop Protocols"
-msgstr "Protokoli za odaljeno namizje"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:592
 msgid "Network;Remote Access;"
-msgstr "Omrežje;Oddaljeni dostop;"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:117
 #: DEV_extra_translations/extra_translations.py:186
@@ -1587,115 +1535,115 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:291
 msgid "GGZ Gaming Zone"
-msgstr "GGZ območje igranja"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:292
 msgid "Network support for GNOME Games"
-msgstr "Omrežna podpora za igre GNOME"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:433
 msgid "Delta Force: TFD"
-msgstr "Delta Force: TFD"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:434
 msgid "Task Force Dagger. A FPS combat game by NovaLogic"
-msgstr "Task Force Dagger. Prvoosebna strelska bojna igra podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:680
 msgid "Delta Force 2"
-msgstr "Delta Force 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:12
 #: ../DEV_extra_translations/extra_translations.py:503
 #: ../DEV_extra_translations/extra_translations.py:581
 #: ../DEV_extra_translations/extra_translations.py:681
 msgid "A FPS combat game by NovaLogic"
-msgstr "Prvoosebna strelska bojna igra podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:640
 msgid "MythTV"
-msgstr "MythTV"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:641
 msgid "MythTV backend"
-msgstr "MythTV vmesnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:696
 msgid "People Nearby"
-msgstr "Uporabniki v bližini"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:697
 msgid "People Nearby (Bonjour/Salut) functionality in Empathy"
-msgstr "Zmožnost ljudje v bližini (Bonjour/Salut) v Empathy"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:336
 msgid "Network;Telephony;Instant Messaging;"
-msgstr "Omrežje;Telefonija;Hipno sporočanje;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:698
 msgid "Bonjour"
-msgstr "Bonjour"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:699
 msgid "Bonjour protocol"
-msgstr "protokol Bonjour"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:700
 msgid "MSN Chat"
-msgstr "MSN Chat"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:701
 msgid "MSN chat protocol (with file transfer and voice)"
-msgstr "Protokol klepeta MSN (s prenosom datotek in zvokom)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:702
 msgid "MSN Chat (SSL)"
-msgstr "MSN Chat (SSL)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:703
 msgid "MSN chat protocol SSL"
-msgstr "MSN klepetalni protokol SSL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:704
 msgid "AIM Talk"
-msgstr "AIM Talk"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:705
 msgid "AIM talk protocol"
-msgstr "Govorni protokol AMI"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:706
 msgid "Yahoo Chat"
-msgstr "Yahoo Chat"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:707
 msgid "Yahoo chat protocol"
-msgstr "Klepetalni protokol Yahoo"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:191
 msgid "DAAP"
-msgstr "DAAP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:192
 msgid "Digital Audio Access Protocol"
-msgstr "Protokol digitalnega zvočnega dostopa"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:64
 msgid "Network;Audio Video;Audio;"
-msgstr "Omrežje;Zvok Video;Zvok;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:50
 msgid "Conquest"
-msgstr "Conquest"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:51
 #: ../DEV_extra_translations/extra_translations.py:53
 msgid "A space warfare game"
-msgstr "Vesoljska igra bojevanja"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:52
 msgid "Conquest Metaserver"
-msgstr "Conquest Metaserver"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:466
 msgid "Asterisk"
@@ -1712,164 +1660,158 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:148
 msgid "EDuke32"
-msgstr "EDuke32"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:149
 msgid "An enhanced version of Duke Nukem 3D"
-msgstr "Izboljšana različica Duke Nukem 3D"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:426
 msgid "Shogo: Mobile Armour Division"
-msgstr "Shogo: Mobile Armour Division"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:427
 msgid "A FPS by Monolith Productions"
-msgstr "Prvoosebna strelska igra podjetja Monolith Productions"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:577
 msgid "MegaMek"
-msgstr "MegaMek"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:578
 msgid "A unofficial online BattleTech game"
-msgstr "Neuradna spletna igra  BattleTech"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:579
 msgid "Games;Strategy;Java;"
-msgstr "Igre;Strategija;Java;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:308
 msgid "rsync daemon"
-msgstr "ozadnji program rsync"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:309
 msgid "File synchronization utility"
-msgstr "orodje za usklajevanje datotek"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:245
 msgid "F-22 Raptor"
-msgstr "F-22 Raptor"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:289
 msgid "Lux"
-msgstr "Lux"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:290
 msgid ""
 "Delux, Ancient Empires and American History: A turn-based strategy game from "
 "Sillysoft influenced by Risk"
 msgstr ""
-"Delux, Ancient Empires in American History: potezna strategija iz Sillysoft "
-"pod vplivom igre Risk"
 
 #: ../DEV_extra_translations/extra_translations.py:642
 msgid "POP3"
-msgstr "POP3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:643
 msgid "Post Office Protocol"
-msgstr "Protokol POP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:116
 msgid "Network;Services;"
-msgstr "Omrežje;Storitve;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:644
 msgid "POP3S"
-msgstr "POP3S"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:645
 #: ../DEV_extra_translations/extra_translations.py:649
 msgid "Secure mail server"
-msgstr "Varni poštni strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:646
 msgid "IMAP"
-msgstr "IMAP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:647
 msgid "Internet Message Access Protocol"
-msgstr "Protokol IMAP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:648
 msgid "IMAPS"
-msgstr "IMAPS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:650
 msgid "SMTP"
-msgstr "SMTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:651
 msgid "Simple Mail Transfer Protocol"
-msgstr "Protokol SMTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:28
 #: ../DEV_extra_translations/extra_translations.py:456
 #: ../DEV_extra_translations/extra_translations.py:457
 msgid "H.323 Call Signaling"
-msgstr "klicna signalizacija H.323"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:29
 msgid "Network;Telephony;Video Conference;"
-msgstr "Omrežje;Telefonija;Video konferenca"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:458
 msgid "H.323 discovery"
-msgstr "odkrivanje H.323"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:459
 msgid "H.323 multicast gatekeeper discovery (H.225)"
-msgstr "H.323 odkrivanje vratarja razpršenega oddajanja (H.225)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:460
 msgid "H.323 RAS"
-msgstr "H.323 RAS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:461
 msgid "H.323 Gatekeeper Registration, Admission and Status (H.225)"
-msgstr "H.323 registracija, spis in stanje vratarja (H.225)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:823
 msgid "DXX-Rebirth"
-msgstr "DXX-Rebirth"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:824
 msgid "A source port of Descent, the 3D Flying FPS by Outrage Entertainment"
 msgstr ""
-"Predelava source igre Descent, 3D letalske prvoosebne strelske igre podjetja "
-"Outrage Entertainment"
 
 #: ../DEV_extra_translations/extra_translations.py:514
 msgid "Doomsday"
-msgstr "Doomsday"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:515
 msgid ""
 "A source port of id Software's Doom engine which supports Doom, Heretic, and "
 "Hexen"
 msgstr ""
-"Predelava source pogona Doom podjetja  id Software, ki podpira igre Doom, "
-"Heretic, in Hexen"
 
 #: ../DEV_extra_translations/extra_translations.py:114
 msgid "SSH"
-msgstr "SSH"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:115
 msgid "Secure Shell"
-msgstr "Varna lupina"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:207
 msgid "Optimized Link State Routing"
-msgstr "Optimalno stanje usmerjevalne povezave"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:208
 msgid "A mesh networking protocol"
-msgstr "Mrežni omrežni protokol"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:263
 msgid "Thousand Parsec"
-msgstr "Thousand Parsec"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:264
 #: ../DEV_extra_translations/extra_translations.py:266
@@ -1877,86 +1819,79 @@ msgstr "Thousand Parsec"
 msgid ""
 "A common framework for building turn based space empire building games"
 msgstr ""
-"Skupno ogrodje za izgradnjo na potezah osnovane igre izgradnje imperija"
 
 #: ../DEV_extra_translations/extra_translations.py:265
 msgid "Thousand Parsec SSL"
-msgstr "Thousand Parsec SSL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:267
 msgid "Thousand Parsec Admin"
-msgstr "Skrbnik Thousand Parsec"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:78
 msgid "NTP"
-msgstr "NTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:79
 msgid "Network Time Protocol"
-msgstr "Omrežni časovni protokol"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:80
 msgid "Network;Time;"
-msgstr "Omrežje;Čas;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:424
 msgid "Kali"
-msgstr "Kali"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:425
 msgid "Internet game browser and IPX network emulator"
-msgstr "Internetni brskalnik iger in posmenovalnik omrežja IPX"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:670
 msgid "Clonk"
-msgstr "Clonk"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:671
 msgid "An action/RTS/platform game by RedWolf Design; standard ports"
 msgstr ""
-"akcijska/realnočasovno strateška/ploščadna igra podjetja RedWolf Design; "
-"standardna vrata"
 
 #: ../DEV_extra_translations/extra_translations.py:672
 msgid "Clonk Host"
-msgstr "Gostitelj Clonk"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:673
 msgid "An action/RTS/platform game by RedWolf Design; host ports"
 msgstr ""
-"akcijska/realnočasovno strateška/ploščadna igra podjetja RedWolf Design; "
-"vrata gostitelja"
 
 #: ../DEV_extra_translations/extra_translations.py:674
 msgid "Clonk LAN"
-msgstr "Clonk LAN"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:675
 msgid ""
 "An action/RTS/platform game by RedWolf Design; LAN game discovery port"
 msgstr ""
-"aktcijska/RTS/platformska igra podjetja RedWolf Design; odkritje vrat za "
-"igre LAN"
 
 #: ../DEV_extra_translations/extra_translations.py:568
 msgid "Evil Islands: CotLS"
-msgstr "Evil Islands: CotLS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:569
 msgid "A RTS game with RPG and stealth elements from Nival Interactive"
-msgstr "RTS igra z elementi RPG in skrivanja podjetja Nival Interactive"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:257
 msgid "Alien Arena"
-msgstr "Alien Arena"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:258
 msgid "A SciFi competitive FPS based on the CRX/id Tech 2 engine"
-msgstr "SciFi tekmovalna FPS na osnovi pogona CRX/id Tech 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:209
 msgid "Quake"
-msgstr "Quake"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:55
 #: ../DEV_extra_translations/extra_translations.py:210
@@ -1965,99 +1900,96 @@ msgstr "Quake"
 #: ../DEV_extra_translations/extra_translations.py:455
 #: ../DEV_extra_translations/extra_translations.py:513
 msgid "A FPS by id Software"
-msgstr "Prvoosebna strelska igra podjetja id Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:211
 msgid "QuakeWorld"
-msgstr "QuakeWorld"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:212
 msgid "An enhanced multiplayer version of Quake by id Software"
-msgstr "Izboljšana različica večigralne igre Quake podjetja id Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:536
 msgid "Counter-Strike 2D"
-msgstr "Counter-Strike 2D"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:537
 msgid ""
 "A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software"
-msgstr "2D dvojnik igre Counter-Strike podjetja Valve Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:602
 msgid "Warsow"
-msgstr "Warsow"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:603
 msgid "A competitive FPS based on the Qfusion 3D/id tech 2 engine"
 msgstr ""
-"Bojevita prvoosebna strelska igra, ki temelji na pogonu Qfusion 3D/id tech 2"
 
 #: ../DEV_extra_translations/extra_translations.py:762
 msgid "VNC server display :0"
-msgstr "Zaslonski strežnik VNC :0"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:763
 msgid "Virtual Network Computing standard server display :0"
-msgstr "Standardni strežniški zaslon :0 Virtual Network Computing"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:765
 #: ../DEV_extra_translations/extra_translations.py:777
 msgid "VNC displays :0-:1"
-msgstr "Zasloni VNC :0-:1"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:766
 msgid "Virtual Network Computing standard server displays :0 through :1"
-msgstr "Zasloni strežnika standarda Virtual Network Computing :0 do :1"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:768
 #: ../DEV_extra_translations/extra_translations.py:780
 msgid "VNC displays :0-:3"
-msgstr "Zasloni VNC :0-:3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:769
 msgid "Virtual Network Computing standard server displays :0 through :3"
-msgstr "Zasloni strežnika standarda Virtual Network Computing :0 do :3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:771
 #: ../DEV_extra_translations/extra_translations.py:783
 msgid "VNC displays :0-:7"
-msgstr "Zasloni VNC :0-:7"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:772
 msgid "Virtual Network Computing standard server displays :0 through :7"
-msgstr "Zasloni strežnika standarda Virtual Network Computing :0 do :7"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:774
 msgid "VNC http server display :0"
-msgstr "VNC http zaslonski strežnik :0"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:775
 msgid "Virtual Network Computing http server display :0"
-msgstr "Zaslon strežnika http Virtual Network Computing :0"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:778
 msgid "Virtual Network Computing http server displays :0 through :1"
-msgstr "Zasloni strežnika http Virtual Network Computing od :0 do :1"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:781
 msgid "Virtual Network Computing http server displays :0 through :3"
-msgstr "Zasloni strežnika http Virtual Network Computing od :0 do :3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:784
 msgid "Virtual Network Computing http server displays :0 through :7"
-msgstr "Zasloni strežnika http Virtual Network Computing od :0 do :7"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:570
 msgid "FreeOrion"
-msgstr "FreeOrion"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:571
 msgid ""
 "A turn-based 4X strategy game inspired by Master of Orion from MicroProse"
 msgstr ""
-"Potezna 4x strategijska igra, ki se zgleduje po igri Master of Orion "
-"podjetja MicroProse"
 
 #: DEV_extra_translations/extra_translations.py:244
 msgid "TeamViewer"
@@ -2071,7 +2003,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:750
 msgid "Vuze"
-msgstr "Vuze"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:751
 msgid ""
@@ -2081,7 +2013,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:58
 msgid "Network;P2P;"
-msgstr "Omrežje;P2P;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:752
 msgid ""
@@ -2090,15 +2022,13 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:345
 msgid "Dark Horizons: LI"
-msgstr "Dark Horizons: LI"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:346
 msgid ""
 "Lore Invasion. A mech-style FPS by Max Gaming Technologies using the Torque "
 "Game Engine"
 msgstr ""
-"Lore invazija. Prvoosebna strelska igra v slogu mech podjetja Max Gaming "
-"Technologies z igralskim pogonom Torque"
 
 #: ../DEV_extra_translations/extra_translations.py:404
 msgid "Subversion Server"
@@ -2106,11 +2036,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:405
 msgid "Subversion server for access to Subversion repositories"
-msgstr "Strežnik Subversion za dostop do skladišča Subversion"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:735
 msgid "XPilot"
-msgstr "XPilot"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:736
 #: ../DEV_extra_translations/extra_translations.py:738
@@ -2118,36 +2048,36 @@ msgstr "XPilot"
 #: ../DEV_extra_translations/extra_translations.py:742
 #: ../DEV_extra_translations/extra_translations.py:744
 msgid "A 2D space combat game"
-msgstr "2D vsesoljska bojna igra"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:737
 msgid "XPilot 2-players"
-msgstr "XPilot 2-igralca"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:739
 msgid "XPilot 4-players"
-msgstr "XPilot 4-igralci"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:741
 msgid "XPilot 8-players"
-msgstr "XPilot 8-igralcev"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:743
 msgid "XPilot 16-players"
-msgstr "XPilot 16-igralcev"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:825
 msgid "Serious Sam"
-msgstr "Serious Sam"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:797
 #: ../DEV_extra_translations/extra_translations.py:826
 msgid "FPS by Croteam"
-msgstr "Prvoosebna strelska igra podjetja Croteam"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:8
 msgid "Assault Cube"
-msgstr "Assault Cube"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:9
 msgid "A free, multiplayer, first-person shooter game"
@@ -2155,101 +2085,98 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:748
 msgid "Wormux"
-msgstr "Wormux"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:66
 #: ../DEV_extra_translations/extra_translations.py:749
 msgid "An arcade combat game inspired by Worms from Team17 Software"
 msgstr ""
-"Arkadna bojevalna igra, ki se zgleduje po igri Worms podjetja Team17 Software"
 
 #: ../DEV_extra_translations/extra_translations.py:150
 msgid "Diablo II"
-msgstr "Diablo II"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:151
 #: ../DEV_extra_translations/extra_translations.py:685
 msgid "Fantasy combat game by Blizzard Entertainment"
-msgstr "Domišljijska bojna igra podjetja Blizzard Entertainment"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:285
 msgid "NFS"
-msgstr "NFS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:286
 msgid "Network File System"
-msgstr "Omrežni datotečni sistem"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:817
 msgid "TeamSpeak 2 voice"
-msgstr "TeamSpeak 2 zvok"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:818
 msgid "TeamSpeak 2 voice service"
-msgstr "Glasovna storitev TeamSpeak 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:819
 msgid "TeamSpeak 2 web"
-msgstr "TeamSpeak 2 splet"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:820
 msgid "TeamSpeak 2 web interface"
-msgstr "Spletni vmesnik TeamSpeak 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:821
 #: ../DEV_extra_translations/extra_translations.py:822
 msgid "TeamSpeak 2 TCP query"
-msgstr "Poizvedba TC TeamSpeak2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:215
 msgid "Legends"
-msgstr "Legende"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:216
 msgid "A FPS based on the Torque Engine"
-msgstr "Prvoosebna strelska igra, ki temelji na pogonu Torque"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:11
 msgid "Joint Operations: Typhoon Rising"
-msgstr "Joint Operations: Typhoon Rising"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:584
 msgid "Prey"
-msgstr "Prey"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:585
 msgid "A SciFi FPS action adventure by 3D Realms"
 msgstr ""
-"Znanstveno fantastična prvoosebna strelska akcijska pustolovščina podjetja "
-"3D Realms"
 
 #: ../DEV_extra_translations/extra_translations.py:449
 msgid "Quake 4"
-msgstr "Quake 4"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:178
 msgid "Multicast DNS"
-msgstr "večsmerni DNS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:179
 msgid "Multicast DNS (Avahi, Bonjour)"
-msgstr "Večsmerni DNS  (Avahi, Bonjour)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:733
 msgid "Dofus"
-msgstr "Dofus"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:734
 msgid "A massively multiplayer online role-playing game"
-msgstr "Množična večigralska spletna igra igranja vlog"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:120
 msgid "Sid Meier's Alpha Centauri"
-msgstr "Sid Meier's Alpha Centauri"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:121
 msgid "SciFi strategy game by Firaxis"
-msgstr "SciFi strategija podjetja Firaxis"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:295
 msgid "KODI Remote"
@@ -2261,48 +2188,45 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:431
 msgid "Enemy Territory: Quake Wars"
-msgstr "Enemy Territory: Quake Wars"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:432
 msgid "A FPS by Splash Damage"
-msgstr "Prvoosebna strelska igra podjetja Splash Damage"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:562
 msgid "Neverwinter Nights server"
-msgstr "strežnik Neverwinter Nights"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:563
 msgid "Default port for Neverwinter Nights, a RPG from Bioware"
 msgstr ""
-"Privzeta vrata za Neverwinter Nights, igro igranja vlog iz podjetja Bioware"
 
 #: ../DEV_extra_translations/extra_translations.py:462
 msgid "Delta Force: LW"
-msgstr "Delta Force: LW"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:463
 msgid "Land Warrior. A FPS combat game by NovaLogic"
-msgstr "Land Warrior. Prvoosebna strelska bojna igra podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:474
 msgid "Armored Fist 3"
-msgstr "Armored Fist 3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:475
 msgid "A M1A2 Abrams tank simulation by NovaLogic"
-msgstr "Simulacija M1A2 Abrams tankov podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:86
 msgid "SAMBA"
-msgstr "SAMBA"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:87
 msgid ""
 "SMB/CIFS protocol for Unix systems, allowing you to serve files and printers "
 "to Windows, NT, OS/2 and DOS clients"
 msgstr ""
-"SMB/CIFS protokol za sisteme Unix, ki vam omogoča, da strežete datoteke in "
-"tiskalnike za odjemalce Windows NT, OS\\/2 in DOS"
 
 #: DEV_extra_translations/extra_translations.py:307
 msgid "Network;Services;|Network;File Transfer;"
@@ -2310,11 +2234,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:476
 msgid "Firefly Media Server"
-msgstr "Firefly predstavnostni strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:477
 msgid "DAAP audio server formerly known as mt-daapd"
-msgstr "DAAP zvočni strežnik, prej znan kot mt-daapd"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:310
 msgid "NRPE Nagios Plugin"
@@ -2322,466 +2246,439 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:90
 msgid "Remote Plugin Executor"
-msgstr "Izvajalnik oddaljenega vstavka"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:809
 msgid "CUPS"
-msgstr "CUPS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:810
 msgid "Modular printing system for Unix-like computer operating systems"
 msgstr ""
-"Modularni sistem tiskanja za računalniške operacijske sisteme, podobne Unixu"
 
 #: ../DEV_extra_translations/extra_translations.py:430
 msgid "Network;Printing;"
-msgstr "Omrežje;Tiskanje;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:251
 msgid "Cube 2: Sauerbraten"
-msgstr "Cube 2: Sauerbraten"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:252
 msgid "A FPS game based on the Cube engine"
-msgstr "Prvoosebna strelska igra zasnovana na pogonu Cube"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:827
 msgid "FreeLords"
-msgstr "FreeLords"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:828
 msgid "A clone of Warlords"
-msgstr "Klon igre Warlords"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:398
 msgid "Warcraft II Battle.net"
-msgstr "Warcraft II Battle.net"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:399
 msgid "Strategy game by Blizzard Entertainment"
-msgstr "Strateška igra podjetja Blizzard Entertainment"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:71
 msgid "Tachyon: The Fringe"
-msgstr "Tachyon: The Fringe"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:72
 msgid "A 3D space combat game by NovaLogic"
-msgstr "3D bojna igra podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:829
 msgid "Vendetta Online"
-msgstr "Spletna Vendetta"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:830
 msgid ""
 "A twitch-based, science fiction massively multiplayer online role-playing "
 "game (MMORPG)"
 msgstr ""
-"Dejavna znanstveno-fantastična spletna množična večigralska igra igranja "
-"vlog (MMORPG)"
 
 #: ../DEV_extra_translations/extra_translations.py:796
 msgid "Serious Sam II"
-msgstr "Serious Sam II"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:320
 msgid "HTTP"
-msgstr "HTTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:321
 msgid "WWW standard protocol on port 80/tcp (IANA/Debian www, http)"
-msgstr "Običajni protokol WWW na vratih 80/tcp (IANA/Debian www, http)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:322
 msgid "HTTPS"
-msgstr "HTTPS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:323
 msgid "WWW standard protocol with SSL/TLS on port 443/tcp (IANA https)"
-msgstr "Običajni protokol WWW s SSL/TLS na vratih 443/tcp (IANA https)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:324
 msgid "HTTP - 8008/tcp"
-msgstr "HTTP - 8008/tcp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:325
 msgid "WWW standard protocol on port 8008/tcp (IANA http-alt)"
-msgstr "Običajni protokol WWW na vratih 8008/tcp (IANA http-alt)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:326
 #: ../DEV_extra_translations/extra_translations.py:327
 msgid "Web Server (HTTP,HTTPS)"
-msgstr "Spletni strežnik (HTTP, HTTPS)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:328
 #: ../DEV_extra_translations/extra_translations.py:329
 msgid "Web Server (8080)"
-msgstr "Spletni strežnik (8080)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:330
 msgid "HTTP - 8090/tcp"
-msgstr "HTTP - 8090/tcp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:331
 msgid ""
 "WWW standard protocol on port 8090/tcp (IANA unassigned, commonly "
 "http_alt_alt)"
 msgstr ""
-"Standardni protokol WWW na vratih 8090/tcp (IANA nedoločeno, pogosto "
-"http_alt_alt)"
 
 #: ../DEV_extra_translations/extra_translations.py:189
 msgid "Freeciv"
-msgstr "Freeciv"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:190
 msgid ""
 "A turn-based strategy game similar to Civilization I & II by Microprose"
 msgstr ""
-"Potezna strateška igra, podobna igri Civilization I in II podjetja Microprose"
 
 #: ../DEV_extra_translations/extra_translations.py:163
 msgid "Chocolate Doom"
-msgstr "Čokoladni Doom"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:164
 msgid ""
 "A Doom source port that accurately reproduces the experience of Doom as it "
 "was played in the 1990s"
 msgstr ""
-"Prenos izvorne kode Dooma, ki natančno izvede izkušnjo Dooma, kot je bil "
-"igran v 90-tih"
 
 #: ../DEV_extra_translations/extra_translations.py:316
 msgid "The Mana World"
-msgstr "The Mana World"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:317
 msgid "A fantasy MMORPG"
 msgstr ""
-"Fantazijska množično-večigralska spletna igra z igranjem vlog (MMORPG)"
 
 #: ../DEV_extra_translations/extra_translations.py:54
 msgid "Dopewars"
-msgstr "Dopewars"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:586
 msgid "Windows Messenger"
-msgstr "Windows Messenger"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:587
 msgid ""
 "Windows Messenger/Windows Live Messenger application sharing and whiteboard "
 "(requires SIP)"
 msgstr ""
-"Skupna raba programov Windows Messenger/Windows Live Messenger in table "
-"(zahteva SIP)"
 
 #: ../DEV_extra_translations/extra_translations.py:588
 msgid "Windows Messenger File"
-msgstr "datoteke Windows Messenger"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:589
 msgid "Windows Messenger/MSN Messenger file transfer"
-msgstr "Windows Messenger/MSN Messenger prenos datoteke"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:590
 msgid "Windows Messenger Assistance"
-msgstr "Windows Messenger Assistance"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:591
 msgid "Remote Assistance/Remote Desktop Protocol/Terminal Services (RDP)"
 msgstr ""
-"Oddaljena pomoč/Protokol za oddaljena namizja/Terminalske storitve(RDP)"
 
 #: ../DEV_extra_translations/extra_translations.py:202
 msgid "Sid Meier's Civilization IV"
-msgstr "Sid Meier's Civilization IV"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:203
 msgid "A turn-based strategy game from Firaxis Games"
-msgstr "Potezna stragetija podjetja Firaxis Games"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:786
 msgid "LPD"
-msgstr "LPD"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:787
 msgid "LPD server"
-msgstr "Strežnik LPD"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:553
 msgid "Mechwarrior 4"
-msgstr "Mechwarrior 4"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:554
 msgid "A FPS based on the Fasa Battletech universe"
-msgstr "Prvoosebna strelska igra na osnovi igre Fasa Battletech universe"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:802
 msgid "MiG-29 Fulcrum"
-msgstr "MiG-29 Fulcrum"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:803
 msgid "A Mikoyan-Gurevich MiG-29 Fulcrum simulation by NovaLogic"
-msgstr "Mikoyan-Gurevich MiG-29 Fulcrum simulacija podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:451
 msgid "MySQL"
-msgstr "MySQL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:452
 msgid "MySQL Database"
-msgstr "Podatkovna zbirka MySQL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:453
 msgid "Office;Database;"
-msgstr "Pisarna;Podatkovna zbirka;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:30
 #: ../DEV_extra_translations/extra_translations.py:788
 msgid "FTP"
-msgstr "FTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:31
 #: ../DEV_extra_translations/extra_translations.py:789
 msgid "File Transfer Protocol"
-msgstr "Protokol prenosa datotek"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:420
 msgid "F-16 Multirole Fighter"
-msgstr "F-16 Multirole Fighter"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:421
 msgid "A F-16 simulation by NovaLogic"
-msgstr "Simulacija F-16 podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:378
 msgid "Knights and Merchants TSK"
-msgstr "Knights and Merchants TSK"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:379
 msgid "A RTS by Joymania"
-msgstr "Realnočasovna strategija podjetja Joymania"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:716
 msgid "0verkill"
-msgstr "0verkill"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:717
 msgid "An ASCII-art 2D deathmatch game"
-msgstr "2D ubijalska igra iz znakov ASCII"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:712
 msgid "DEFCON"
-msgstr "DEFCON"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:713
 msgid "A thermo-nuclear war strategy game from Introversion Software"
-msgstr "Termo jedrska vojna strateška igra podjetja introversion Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:93
 msgid "Kingpin: Life of Crime"
-msgstr "Kingpin: Life of Crime"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:94
 msgid "A FPS by Xatrix Entertainment"
-msgstr "Prvoosebna strelska igra podjetja Xatrix Entertainment"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:402
 msgid "UFO: Alien Invasion"
-msgstr "UFO: Alien Invasion"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:403
 msgid "An open-source 3D RTS inspired by X-COM"
 msgstr ""
-"odprtokodna 3D realnočasovna strategija, ki jo je navihnila igra X-COM"
 
 #: ../DEV_extra_translations/extra_translations.py:279
 msgid "Castle Vox"
-msgstr "Castle Vox"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:280
 msgid ""
 "A simultaneous-turns strategy game from Sillysoft influenced by Diplomacy "
 "and Axis & Allies"
 msgstr ""
-"sočasno-potezna strategija iz Sillysoft pod vplivom iger Diplomacy in Axis & "
-"Allies"
 
 #: ../DEV_extra_translations/extra_translations.py:506
 msgid "Postal 2"
-msgstr "Postal 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:507
 msgid "A FPS by Running with Scissors (uses the Unreal engine)"
 msgstr ""
-"Prvoosebna strelska igra podjetja Running with Scissors (uporablja Unreal "
-"engine)"
 
 #: ../DEV_extra_translations/extra_translations.py:557
 msgid "Ur-Quan Masters"
-msgstr "Ur-Quan glavni strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:558
 msgid "An enhanced version of Star Control II from 3DO"
-msgstr "Izboljšana različica Star Control II podjetja 3DO"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:559
 msgid "Games;Adventure;"
-msgstr "Igre;Avantura;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:310
 msgid "Rune"
-msgstr "Rune"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:311
 msgid "A third-person fantasy combat game by Human Head Studios"
-msgstr "Tretje osebna fantazijska bojna igra podjeta Human Head Studios"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:312
 msgid "Rune admin"
-msgstr "Rune admin"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:313
 msgid "Web-based administration for the Rune game by Human Head Studios"
-msgstr "skrbništvo na osnovi spleta za igro Rune podjetja Human Head Studios"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:753
 msgid "OpenMeetings Secure RTMP"
-msgstr "OpenMeetings varen RTMP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:754
 msgid "OpenMeetings Real Time Messaging Protocol over SSL"
-msgstr "OpenMeetings protokol za sporočanje v realnem času preko SSL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:755
 msgid "Network;Video Conference;"
-msgstr "Omrežja;Video konference;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:756
 msgid "OpenMeetings Tunneled RTMP"
-msgstr "OpenMeetings tuneliran RTMP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:757
 msgid "OpenMeetings Real Time Messaging Protocol over HTTP"
-msgstr "OpenMeetings protokol za pogovarjanje v realnem času preko HTTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:758
 msgid "OpenMeetings HTTP"
-msgstr "OpenMeetings HTTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:759
 msgid "OpenMeetings HTTP server"
-msgstr "OpenMeetings strežnik HTTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:760
 msgid "OpenMeetings DSP"
-msgstr "OpenMeetings DSP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:761
 msgid "OpenMeetings Desktop Sharing Protocol (ODSP)"
-msgstr "OpenMeetings protokol za souporabo namizja (ODSP)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:243
 msgid "Balazar III"
-msgstr "Balazar III"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:244
 msgid "A 2D/3D dungeon adventure game"
-msgstr "2D/3D postulovska igra"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:231
 msgid "World of Padman - 27960/udp"
-msgstr "World of Padman - 27960/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:232
 msgid ""
 "A FPS by Padworld Entertainment based on Quake III, server on port 27960"
 msgstr ""
-"Prvoosebna strelska igra podjetja Padworld Entertainment, ki temelji na  "
-"Quake III, strežniška vrata na  27960"
 
 #: ../DEV_extra_translations/extra_translations.py:233
 msgid "World of Padman - 27961/udp"
-msgstr "World of Padman - 27961/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:234
 msgid ""
 "A FPS by Padworld Entertainment based on Quake III, server on port 27961"
 msgstr ""
-"Prvoosebna strelska igra podjetja Padworld Entertainment, ki temelji na  "
-"Quake III, strežniška vrata na  27961"
 
 #: ../DEV_extra_translations/extra_translations.py:235
 msgid "World of Padman - 27962/udp"
-msgstr "World of Padman - 27962/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:236
 msgid ""
 "A FPS by Padworld Entertainment based on Quake III, server on port 27962"
 msgstr ""
-"Prvoosebna strelska igra podjetja Padworld Entertainment, ki temelji na  "
-"Quake III, strežniška vrata na  27962"
 
 #: ../DEV_extra_translations/extra_translations.py:237
 msgid "World of Padman - 27963/udp"
-msgstr "World of Padman - 27963/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:238
 msgid ""
 "A FPS by Padworld Entertainment based on Quake III, server on port 27963"
 msgstr ""
-"Prvoosebna strelska igra podjetja Padworld Entertainment, ki temelji na  "
-"Quake III, strežniška vrata na  27963"
 
 #: ../DEV_extra_translations/extra_translations.py:597
 #: ../DEV_extra_translations/extra_translations.py:729
 msgid "Tremulous"
-msgstr "Tremulous"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:730
 msgid "Team-based SciFi/alien FPS from Dark Legion Development"
 msgstr ""
-"Ekipna znanstveno fantastična prvoosebna strelska igra podjetja Dark Legion "
-"Development"
 
 #: ../DEV_extra_translations/extra_translations.py:343
 msgid "FreeSpace 2"
-msgstr "FreeSpace 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:344
 msgid "Space combat simulation by Volition"
-msgstr "Vesoljska bojna simulacija od Volition"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:97
 msgid "Globulation 2"
-msgstr "Globulation 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:98
 msgid "A RTS"
-msgstr "Realnočasovna strategija"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:524
 msgid "BZFlag"
-msgstr "BZFlag"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:525
 msgid "A FPS tank battle capture the flag game"
-msgstr "Prvoosebna strelska tankovska bitka in zajem zastave"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:659
 msgid "Frostwire"
-msgstr "Frostwire"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:660
 msgid "Frostwire peer-peer file sharing on default port"
-msgstr "Frostwire p2p deljenje datotek na privzetih vratih"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:661
 msgid "Network;File Transfer;P2P;"
-msgstr "Omrežje;Prenos datotek;P2P;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:59
 #: ../DEV_extra_translations/extra_translations.py:113
@@ -2796,33 +2693,31 @@ msgstr "Omrežje;Prenos datotek;P2P;"
 #: ../DEV_extra_translations/extra_translations.py:669
 #: ../DEV_extra_translations/extra_translations.py:747
 msgid "Remember to open the ports on the router"
-msgstr "Ne pozabite odpreti vrat na usmerjevalniku"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:183
 msgid "DHCP"
-msgstr "DHCP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:184
 msgid "Dynamic Host Configuration Protocol"
-msgstr "Protokol nastavitve dinamičnega gostitelja"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:19
 msgid "Abuse"
-msgstr "Abuse"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:20
 msgid "A dark 2D side-scrolling platform game developed by Crack dot Com"
 msgstr ""
-"Temna 2D stransko drseča ploščadna igra, ki jo je razvil Crack dot Com"
 
 #: ../DEV_extra_translations/extra_translations.py:386
 msgid "Deluge Torrent"
-msgstr "Deluge Torrent"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:387
 msgid "Cross-platform BitTorrent client written with Python and GTK+"
 msgstr ""
-"Odjemalec BitTorrent, ki deluje v več okoljih, napisan v Python in GTK+"
 
 #: ../DEV_extra_translations/extra_translations.py:380
 msgid "Mumble"
@@ -2834,11 +2729,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:714
 msgid "Games for Windows - Live"
-msgstr "igre za  Windows - Live"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:715
 msgid "Network games using Games for Windows - Live API"
-msgstr "Omrežne igre, ki uporabljajo Igre za Windows - API Live"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:432
 msgid "Jellyfin"
@@ -2850,79 +2745,74 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:722
 msgid "WINE: Warcraft III"
-msgstr "WINE: Warcraft III"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:34
 #: ../DEV_extra_translations/extra_translations.py:723
 msgid "A strategy game by Blizzard Entertainment"
-msgstr "strateška igra podjetja Blizzard Entertainment"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:724
 msgid "WINE: Warcraft III all ports"
-msgstr "WINE: Warcraft III vsa vrata"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:725
 msgid "Warcraft III with 6112-6119 TCP ports open"
-msgstr "Warcraft III z odprtimi vrati TCP 6112-6119"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:281
 msgid "Teeworlds"
-msgstr "Teeworlds"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:282
 msgid "An open source sidescrolling multiplayer shooting game"
-msgstr "Odprokodna od strani gledana večigralska strelska igra"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:454
 msgid "Doom3"
-msgstr "Doom3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:81
 msgid "Ubuntu One"
-msgstr "Ubuntu One"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:82
 msgid ""
 "Store files online and sync them between computers and mobile devices, as "
 "well as stream audio and music from cloud to mobile devices"
 msgstr ""
-"Shranjevanje datotek na spletu, ter usklajevanje med računalnikom in "
-"mobilnimi napravami, kot tudi pretok zvoka in glasbe iz oblaka na mobilne "
-"naprave"
 
 #: ../DEV_extra_translations/extra_translations.py:83
 msgid "Network;Cloud;"
-msgstr "Omrežja;Oblak;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:478
 msgid "Majesty: The Fantasy Kingdom Sim"
-msgstr "Majesty: The Fantasy Kingdom Sim"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:479
 msgid "A RTS by Cyberlore Studios, ported to Linux by Linux Game Publishing"
 msgstr ""
-"Realnočasovna strateška igra podjetja Cyberlore Studios, ki jo je za Linux "
-"predelalo podjeteje Linux Game Publishing"
 
 #: ../DEV_extra_translations/extra_translations.py:347
 msgid "YS FLIGHT SIMULATION 2000"
-msgstr "YS FLIGHT SIMULATION 2000"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:348
 msgid "A 3D flight simulator"
-msgstr "Simulator 3D letenja"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:21
 msgid "monopd"
-msgstr "monopd"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:22
 msgid "A game server for Monopoly-like board games"
-msgstr "Igralski strežnik za igre, ki so podobne Monopoliju"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:23
 msgid "Games;Board;"
-msgstr "Igre;Namizne igre"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:452
 msgid "Tvheadend"
@@ -2938,7 +2828,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:354
 msgid "Sacred - port 2005"
-msgstr "Sacred - vrata 2005"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:355
 #: ../DEV_extra_translations/extra_translations.py:357
@@ -2948,16 +2838,14 @@ msgstr "Sacred - vrata 2005"
 #: ../DEV_extra_translations/extra_translations.py:365
 msgid "Server port for the fantasy RPG by Ascaron Entertainment"
 msgstr ""
-"Vrata strežnika za fantazijsko igro z igranjem vlog podjetja Ascaron "
-"Entertainment"
 
 #: ../DEV_extra_translations/extra_translations.py:356
 msgid "Sacred - ports 2005:2006"
-msgstr "Sacred - vrata 2005:2006"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:358
 msgid "Sacred - ports 2005:2007"
-msgstr "Sacred - vrata 2005:2007"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:360
 msgid "Sacred - ports 2005:2008"
@@ -2965,121 +2853,115 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:362
 msgid "Sacred - ports 2005:2009"
-msgstr "Sacred - vrata 2005:2009"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:364
 msgid "Sacred - ports 2005:2010"
-msgstr "Sacred - vrata 2005:2010"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:352
 msgid "Glest"
-msgstr "Glest"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:353
 msgid "A free, open source 3D RTS game server"
-msgstr "Brezplačen, odprtokodni 3D igralski strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:152
 msgid "IRC - 194/tcp"
-msgstr "IRC - 194/tcp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:153
 msgid "Internet Relay Chat on official port 194 (rarely used)"
-msgstr "Klepet IRC na neuradnih vratih 194 (redko uporabljeno)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:154
 msgid "Network;IRC;"
-msgstr "Omrežje;IRC"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:155
 msgid "IRC"
-msgstr "IRC"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:156
 msgid ""
 "Internet Relay Chat on common default port 6667, using nf_conntrack_irc DCC "
 "helper"
 msgstr ""
-"Klepet IRC na pogostih privzetih vratih 6667, z uporabo pomočnika "
-"nf_conntrack_irc DDC"
 
 #: ../DEV_extra_translations/extra_translations.py:157
 msgid "IRC SSL"
-msgstr "IRC SSL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:158
 msgid "Internet Relay Chat on SSL default port 6697"
-msgstr "Klepet IRC na privzetih vratih SSL, 6697"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:794
 msgid "Frozen Bubble"
-msgstr "Frozen Bubble"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:795
 msgid "A clone of Puzzle Bobble/Bust-a-Move"
-msgstr "Dvojnik od f Puzzle Bobble/Bust-a-Move"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:167
 msgid "VLC HTTP stream"
-msgstr "VLC HTTP pretok"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:168
 msgid "VLC media player HTTP stream default port"
-msgstr "Privzeta vrata HTTP toka za predstavnostni predvajalnik VLC"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:169
 msgid "Audio Video;"
-msgstr "Zvok video;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:170
 msgid "VLC MMS HTTP stream"
-msgstr "VLC MMS HTTP pretok"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:171
 msgid ""
 "VLC media player Microsoft Media Server stream over HTTP (Windows Media HTTP "
 "Streaming Protocol/MS-WMSP) default port"
 msgstr ""
-"Predvajalnik VLC - pretoki Microsoft Media Server preko HTTP (Windows Media "
-"HTTP protokol za pretakanje/MS-WMSP) privzeta vrata"
 
 #: ../DEV_extra_translations/extra_translations.py:172
 msgid "VLC RTP stream"
-msgstr "VLC RTP pretok"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:173
 msgid "VLC media player Real-time Transport Protocol default port"
 msgstr ""
-"Privzeta vrata protokola kumunikacije v realnem času za  predstavnostni "
-"predvajalnik VLC"
 
 #: ../DEV_extra_translations/extra_translations.py:174
 msgid "VLC UDP stream"
-msgstr "VLC UDP pretok"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:175
 msgid "VLC media player User Datagram Protocol default port"
-msgstr "Privzeta vrata UDP-ja za predstavnostni predvajalnik VLC"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:177
 msgid "VLC media player Icecast stream default port"
-msgstr "VLC predvajalnik - privzeta vrata pretoka Icecast"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:65
 msgid "Hedgewars"
-msgstr "Hedgewars"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:480
 msgid "FooBillard"
-msgstr "FooBillard"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:481
 msgid "Cue sports simulation with Carambol, Snooker, and Pool"
-msgstr "Športna simulacija biljarda s carambolom, snookerjem in bilijardom"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:143
 msgid "Games;Sports;"
-msgstr "Igre;Šport;"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:494
 msgid "qBittorrent"
@@ -3087,7 +2969,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:668
 msgid "Cross-platform BitTorrent client GUI written with Qt4"
-msgstr "BitTorrent grafični vmesnik za več okolij napisan s Qt4"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:745
 msgid "Vuze Remote"
@@ -3099,101 +2981,101 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:422
 msgid "usbip"
-msgstr "usbip"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:423
 msgid "A Peripheral Bus Extension for Device Sharing over IP Network"
-msgstr "vodilo zunanje napreve za suporabo naprave preko omrežja IP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:389
 msgid "TeamSpeak 3"
-msgstr "TeamSpeak 3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:390
 msgid "TeamSpeak 3 voice service"
-msgstr "Glasovna storitev TeamSpeak 3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:391
 msgid "TeamSpeak 3 File"
-msgstr "Datoteke TeamSpeak 3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:392
 msgid "TeamSpeak 3 file transfer"
-msgstr "Prenos datotek TeamSpeak 3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:393
 msgid "TeamSpeak 3 Query"
-msgstr "TeamSpeak 3 poizvedba"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:394
 msgid "TeamSpeak 3 TCP query"
-msgstr "TeamSpeak 3 poizvedba TCP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:555
 msgid "Yura.net Domination (jRisk)"
-msgstr "Yura.net Domination (jRisk)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:556
 msgid "A clone of Risk"
-msgstr "Dvojnik igre Risk"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:35
 msgid "Kerberos v5 KDC"
-msgstr "Kerberos v5 KDC"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:36
 msgid "Kerberos v5 KDC server"
-msgstr "Strežnik Kerberos v5 KDC"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:38
 msgid "Kerberos v5 admin"
-msgstr "Skrbnik Kerberos v5"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:39
 #: ../DEV_extra_translations/extra_translations.py:43
 msgid "Kerberos v5 server"
-msgstr "Strežnik Kerberos v5"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:40
 #: ../DEV_extra_translations/extra_translations.py:41
 msgid "Kerberos v5 password"
-msgstr "Geslo Kerberos v5"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:42
 msgid "Kerberos v5 Full"
-msgstr "Kerberos v5 celoten"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:44
 msgid "LDAP"
-msgstr "LDAP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:45
 msgid "LDAP server"
-msgstr "Strežnik LDAP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:46
 msgid "LDAPS"
-msgstr "LDAPS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:47
 msgid "LDAP server (LDAPS)"
-msgstr "Strežnik LDAP (LDAPS)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:443
 msgid "Scorched 3D server"
-msgstr "strežnik Scorched 3D"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:444
 msgid "A modernization of the classic DOS game Scorched Earth"
-msgstr "Posodobitev klasične DOS igre Scorched Earth"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:684
 msgid "Diablo"
-msgstr "Diablo"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:526
 msgid "Toribash - 20184"
-msgstr "Toribash - 20184"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:527
 #: ../DEV_extra_translations/extra_translations.py:529
@@ -3203,85 +3085,80 @@ msgstr "Toribash - 20184"
 msgid ""
 "A fighting game based on the physics sandbox model with customizable moves"
 msgstr ""
-"bojna igra, ki temelji na modelu fizike peskovnika s prilagodljivimi premiki"
 
 #: ../DEV_extra_translations/extra_translations.py:528
 msgid "Toribash - 20185"
-msgstr "Toribash - 20185"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:530
 msgid "Toribash - 20186"
-msgstr "Toribash - 20186"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:532
 msgid "Toribash - 20187"
-msgstr "Toribash - 20187"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:534
 msgid "Toribash Full"
-msgstr "Toribash celoten"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:111
 msgid "Nicotine"
-msgstr "Nicotine"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:112
 msgid ""
 "Nicotine is a SoulSeek client written in Python, based on the PySoulSeek "
 "project"
 msgstr ""
-"Nicotine je odjemalec SoulSeek napisan v Pythonu in je osnovan na projektu "
-"PySoulSeek"
 
 #: ../DEV_extra_translations/extra_translations.py:302
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:303
 msgid "A 3D sandbox construction game by Markus Persson"
-msgstr "3D igra gradnje v peskovniku podjetja Markus Persson"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:141
 msgid "Full Metal Soccer server"
-msgstr "strežnik Full Metal Soccer"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:142
 #: ../DEV_extra_translations/extra_translations.py:145
 #: ../DEV_extra_translations/extra_translations.py:147
 msgid "A soccer game played with tanks by QuantiCode"
-msgstr "nogometna igra s tanki od QuantiCode"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:144
 msgid "Full Metal Soccer ranking server"
-msgstr "Full Metal Soccer strežnik mest"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:146
 msgid "Full Metal Soccer master server"
-msgstr "Glavni strežnik Full Metal Soccer"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:125
 msgid "RTMP Real Time Messaging Protocol"
-msgstr "RTMP protokol sporočanja v realnem času"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:126
 msgid "Real Time Messaging Protocol (Adobe Flash)"
-msgstr "Protokol sporočanja v realnem času  (Adobe Flash)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:790
 msgid "Return To Castle Wolfenstein"
-msgstr "Return To Castle Wolfenstein"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:791
 msgid ""
 "WWII FPS and sequel from Splash Damage, Gray Matter Interactive, Nerve "
 "Software, and id Software"
 msgstr ""
-"Prvoosebna strelska igra v drugi svetovni vojni in nadaljevanja podjetih "
-"Splash Damage, Gray Matter Interactive, Nerve Software in id Software."
 
 #: ../DEV_extra_translations/extra_translations.py:512
 msgid "Doom II"
-msgstr "Doom II"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:553
 msgid "KDE Connect"
@@ -3293,11 +3170,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:798
 msgid "Savage: The Battle for Newerth/Savage XR"
-msgstr "Savage: The Battle for Newerth/Savage XR"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:604
 msgid "NASCAR Racing 2002/03 1 player"
-msgstr "NASCAR dirke 2002/03 1 igralec"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:605
 #: ../DEV_extra_translations/extra_translations.py:607
@@ -3307,15 +3184,15 @@ msgstr "NASCAR dirke 2002/03 1 igralec"
 #: ../DEV_extra_translations/extra_translations.py:615
 #: ../DEV_extra_translations/extra_translations.py:617
 msgid "Racing simulators from Papyrus Design Group"
-msgstr "Simulatorji dirke podjetja Papyrus Design Group"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:606
 msgid "NASCAR Racing 2002/03 2 players"
-msgstr "NASCAR dirkanje 2002/03 2 igralca"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:608
 msgid "NASCAR Racing 2002/03 4 players"
-msgstr "NASCAR dirke 2002/03 4 igralci"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:563
 msgid "NASCAR Racing 2002/03 8 players"
@@ -3323,65 +3200,64 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:612
 msgid "NASCAR Racing 2002/03 16 players"
-msgstr "NASCAR dirke 2002/03 16 igralcev"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:614
 msgid "NASCAR Racing 2002/03 32 players"
-msgstr "NASCAR dirke 2002/03 32 igralcev"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:616
 msgid "NASCAR Racing 2002/03 42 players"
-msgstr "NASCAR dirke 2002/03 42 igralcev"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:109
 msgid "Tether"
-msgstr "Tether"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:110
 msgid ""
 "A clone of strategy game Moonbase Commander by Humongous Entertainment"
 msgstr ""
-"Dvojnik strateške igre Moonbase Commander podjetje Humongous Entertainment"
 
 #: ../DEV_extra_translations/extra_translations.py:688
 msgid "gpsd"
-msgstr "gpsd"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:689
 msgid "Interface daemon for GPS receivers"
-msgstr "ozadnji vmesnik za sprejemnike GPS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:690
 msgid "Network;Geography;"
-msgstr "Omrežje;Geografija;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:504
 msgid "Red Eclipse"
-msgstr "Red Eclipse"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:505
 msgid "An open source first-person shooter that runs on the Cube Engine 2"
-msgstr "Odprtokodna prvoosebna strelska igra, ki jo poganja Cube Engine 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:259
 msgid "Descent 3"
-msgstr "Descent 3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:260
 msgid "3D Flying FPS by Outrage Entertainment"
-msgstr "3D prvoosebna strelska igra podjetja Outrage Entertainment"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:657
 msgid "Vibe Streamer"
-msgstr "Vibe Streamer"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:658
 msgid "A free MP3 streaming server"
-msgstr "Brezplačen strežnik pretakanja MP3"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:56
 msgid "Transmission Daemon"
-msgstr "Ozadnji program Transmission"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:57
 msgid "Remote control for Transmission"
@@ -3389,85 +3265,79 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:510
 msgid "HPLIP"
-msgstr "HPLIP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:511
 msgid "HP Linux Imaging and Printing"
-msgstr "HP Linux optično branje in tiskanje"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:60
 msgid "London Law"
-msgstr "London Law"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:61
 msgid "An online multiplayer adaptation of the Scotland Yard board game"
-msgstr "spletna večigralna igra najrena po namizni igri Scotland Yard"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:813
 msgid "NFS (Chris Lowth)"
-msgstr "NFS (Chris Lowth)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:814
 msgid ""
 "Network File System protocol with static ports at 4000:4002 (some conflicts "
 "with popular games; statd broadcast on random port)"
 msgstr ""
-"Protokol omrežnega datotečnega sistema s statičnimi vrati pri 4000:4002 "
-"(nekateri spori s priljubljenimi igrami, vsesmerno oddajanje statd na "
-"naključnih vratih)"
 
 #: ../DEV_extra_translations/extra_translations.py:815
 msgid "NFS Quota (Chris Lowth)"
-msgstr "NFS Quota (Chris Lowth)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:816
 msgid ""
 "NFS with user/group filesystem usage quota support with static ports at "
 "4000:4003 (some conflicts with popular games; statd broadcast on random port)"
 msgstr ""
-"NFS s podporo količinske omejitve uporabe uporabniškega/skupinskega "
-"datotečnega sistema s statičnimi vrati pri 4000:4003 (nekateri spori s "
-"priljubljenimi igrami, vsesmerno oddajanje statd na naključnih vratih)"
 
 #: ../DEV_extra_translations/extra_translations.py:76
 msgid "Myth II: Soulblighter"
-msgstr "Myth II: Soulblighter"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:77
 msgid "A real-time tactics game from Bungie"
-msgstr "realno časovna taktična igra podjetja Bungie"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:718
 msgid "USB Redirector"
-msgstr "USB preusmerjevalnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:719
 msgid "USB device sharing system from INCENTIVES Pro"
-msgstr "Sistem souporabe naprav USB podjetja INCENTIVES Pro"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:411
 msgid "AMANDA"
-msgstr "AMANDA"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:412
 msgid "Backup server from Zmanda; standard port with nf_conntrack_amanda"
-msgstr "Rezervni strežnik od Zmanda; običajna vrata z nf_conntrack_amanda"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:413
 msgid "Network;Archiving;"
-msgstr "Omrežje;Arhiviranje;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:464
 msgid "Dropbox LanSync"
-msgstr "Dropbox LanSync"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:465
 msgid "A web-based file hosting service"
-msgstr "Storitev spletnega datotečnega gostovanja"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:708
 msgid "Steel Storm"
-msgstr "Steel Storm"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:709
 msgid ""
@@ -3476,87 +3346,81 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:806
 msgid "Webcam_server"
-msgstr "Webcam_strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:807
 msgid "A webcam viewer for web servers with an optional Java-based viewer"
 msgstr ""
-"Pregledovalnik s spletno kamero za spletne strežnike s poljubnim "
-"pregledovalnikom na osnovi jave"
 
 #: ../DEV_extra_translations/extra_translations.py:808
 msgid "Network;Audio Video;Video;"
-msgstr "Omrežje;Zvok Video;Video"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:599
 msgid "Transmission"
-msgstr "Transmission"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:600
 msgid ""
 "BitTorrent client which features a simple interface on top of a cross-"
 "platform backend"
 msgstr ""
-"Odjemalec BitTorrent, ki omogoča enostaven vmesnik, na vrhu zaledja "
-"različnih okolij"
 
 #: ../DEV_extra_translations/extra_translations.py:445
 msgid "Pioneers"
-msgstr "Pioneers"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:446
 msgid "A game based on The Settlers of Catan by Klaus Teuber"
-msgstr "Igra zasnovana na igri The Settlers of Catan Klausa Teuberja"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:447
 msgid "Pioneers Metaserver"
-msgstr "Pioneers Metaserver"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:448
 msgid "Metaserver for Pioneers"
-msgstr "Metastrežnik za Pioneers"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:185
 msgid "Tribes 2"
-msgstr "Tribes 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:186
 msgid "A multiplayer combat online game by Dynamix - main port"
-msgstr "Večigralna spletna bojna igra podjetja Dynamix - glavna vrata"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:187
 msgid "Tribes 2 - 28000:29000/tcp/udp"
-msgstr "Tribes 2 - 28000:29000/tcp/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:188
 msgid "A multiplayer combat online game by Dynamix, all suggested ports open"
 msgstr ""
-"Večigralna spletna bojna igra podjetja Dynamix, vse predlagana vrata so "
-"odprta"
 
 #: ../DEV_extra_translations/extra_translations.py:332
 msgid "UPS Tools daemon"
-msgstr "Ozadnji program orodij UPS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:333
 msgid "Network UPS Tools"
-msgstr "UPS omrežna orodja"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:182
 msgid "System;"
-msgstr "Sistem;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:241
 msgid "The Battle for Wesnoth"
-msgstr "The Battle for Wesnoth"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:242
 msgid "Turn-based tactical strategy game"
-msgstr "Potezna taktična strateška igra"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:314
 msgid "Liquid War"
-msgstr "Liquid War"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:315
 msgid "An original shortest path algorithm and core concept"
@@ -3564,37 +3428,37 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:255
 msgid "DNS"
-msgstr "DNS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:256
 msgid "Domain Name System"
-msgstr "Sistem domenskih imen"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:582
 msgid "Blobby Volley 2"
-msgstr "Blobby Volley 2"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:583
 msgid "A volleyball game"
-msgstr "Igra odbojke"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:273
 msgid "Postfix Mail Server SMTP"
-msgstr "SMTP poštni strežnik Postfix"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:274
 #: ../DEV_extra_translations/extra_translations.py:276
 #: ../DEV_extra_translations/extra_translations.py:278
 msgid "Postfix is a high-performance mail transport agent"
-msgstr "Postfix je visoko zmogljiv posrednik za prenos pošte"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:275
 msgid "Postfix Mail Server SMTPS"
-msgstr "SMTPS poštni strežnik Postfix"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:277
 msgid "Postfix Mail Server Submission"
-msgstr "Priprava poštnega strežnika Postfix"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:635
 msgid "Rygel"
@@ -3608,19 +3472,19 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:522
 msgid "Heroes of Might and Magic III"
-msgstr "Heroes of Might and Magic III"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:523
 msgid "A fantasy strategy game by 3DO"
-msgstr "fantazijska strateška igra podjetja 3DO"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:225
 msgid "ManiaDrive game server"
-msgstr "igralski strežnik ManiaDrive"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:226
 msgid "A clone of TrackMania from Nadeo"
-msgstr "Dvojnik TrackMania iz Nadeo"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:641
 msgid "ManiaDrive HTTP server"
@@ -3628,587 +3492,551 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:228
 msgid "ManiaDrive/Raydium game monitor HTTP server"
-msgstr "ManiaDrive/Raydium igralski nadzornik za strežnik HTTP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:304
 msgid "Comanche 4"
-msgstr "Comanche 4"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:305
 msgid "A Comanche RAH-66 helicopter simulation by NovaLogic"
-msgstr "Comanche RAH-66 simulacija helikopterja podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:99
 msgid "Snowball Surprise (SnowballZ)"
-msgstr "Snowball Surprise (SnowballZ)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:100
 msgid "A RTS snowball fight"
-msgstr "Realnočasovna strategija obmetavanja s snežnimi kepami"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:287
 msgid "0 A.D."
-msgstr "0 A.D."
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:288
 msgid "A free/open-source RTS game of ancient warfare from Wildfire Games"
 msgstr ""
-"brezplačna/odprto kodna RTS igra starodavnega bojevanja od Wildfire Games"
 
 #: ../DEV_extra_translations/extra_translations.py:731
 msgid "ThinkTanks"
-msgstr "ThinkTanks"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:732
 msgid ""
 "A 3D tank combat game by BraveTree Productions using the Torque Game Engine"
 msgstr ""
-"3D bojna igra tankov podjetja BraveTree Productions, ki uporablja Torque "
-"igralski pogon"
 
 #: ../DEV_extra_translations/extra_translations.py:247
 #: ../DEV_extra_translations/extra_translations.py:248
 msgid "GameSpy"
-msgstr "GameSpy"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:249
 msgid "GameSpy Arcade"
-msgstr "GameSpy Arcade"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:250
 msgid "GameSpy Arcade gaming network"
-msgstr "Igralno omrežje GameSpy Arcade"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:283
 msgid "Quake II"
-msgstr "Quake II"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:538
 msgid "Socks Proxy"
-msgstr "Posredniški strežnik Socks"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:539
 msgid "SOCKS protocol for proxy server support"
-msgstr "SOCKS protokol za podporo posrediškega strežnika"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:540
 msgid "Transparent Proxy"
-msgstr "Prosojni posredniški strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:541
 msgid "Transparent proxy"
-msgstr "Prozoren posredniški strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:84
 msgid "NAT"
-msgstr "NAT"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:85
 msgid "Port Mapping Protocol"
-msgstr "Protokol preslikave vrat"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:560
 msgid "netPanzer"
-msgstr "netPanzer"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:561
 msgid "An online multiplayer tactical warfare game"
-msgstr "Taktično-bojevalna igra s spletnim večigralstvom"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:439
 msgid "SIP"
-msgstr "SIP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:440
 msgid ""
 "Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
 msgstr ""
-"Protokol za začenjanje seje, nešifriran, uporablja nf_conntrack_sip module"
 
 #: ../DEV_extra_translations/extra_translations.py:441
 msgid "SIP TLS"
-msgstr "SIP TLS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:442
 msgid "Session Initiation Protocol with TLS encryption"
-msgstr "Protokol za začenjanje seje z šifriranjem TLS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:293
 msgid "GNUMP3d"
-msgstr "GNUMP3d"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:294
 msgid "An audio streaming server"
-msgstr "pretočni zvočni strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:376
 msgid "NSClient++"
-msgstr "NSClient++"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:377
 msgid "Used to monitor Windows machines from a Nagios Server"
-msgstr "Uporabljajo za nadzor računalnikov Windows s strežnika Nagios"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:73
 msgid "MSN Gaming Zone"
-msgstr "MSN Gaming Zone"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:74
 msgid "Games using MSN Gaming Zone API"
-msgstr "Igre, ki uprabljajo API MSN Gaming Zone"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:129
 msgid "OpenTTD server"
-msgstr "Strežnik OpenTTD"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:130
 msgid "An enhanced clone of Chris Sawyer's Transport Tycoon Deluxe"
-msgstr "Izboljšan dvojnik igre Chris Sawyer's Transport Tycoon Deluxe"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:180
 msgid "Syslog"
-msgstr "Sistemski dnevnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:181
 msgid "System logging"
-msgstr "Sistemsko beleženje"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:27
 msgid "Camfrog"
-msgstr "Camfrog"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:710
 msgid "Tor Normal"
-msgstr "Tor običajno"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:711
 msgid "Tor anonymity network"
-msgstr "Anonimno omrežje Tor"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:366
 msgid "Hexen II - 26900/udp"
-msgstr "Hexen II - 26900/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:367
 msgid "A fantasy FPS by Raven Software, server on port 27660"
 msgstr ""
-"Izmišljena prvoosebna strelska igra podjetja Raven Software, strežnik na "
-"vratih 27660"
 
 #: ../DEV_extra_translations/extra_translations.py:368
 msgid "Hexen II - 26901/udp"
-msgstr "Hexen II - 26901/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:369
 msgid "A fantasy FPS by Raven Software, server on port 26901"
 msgstr ""
-"Domišljijska prvoosebna strelska igra podjetja Raven Software, strežnik na "
-"vratih 26901"
 
 #: ../DEV_extra_translations/extra_translations.py:370
 msgid "Hexen II - 26902/udp"
-msgstr "Hexen II - 26902/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:371
 msgid "A fantasy FPS by Raven Software, server on port 26902"
 msgstr ""
-"Domišljijska prvoosebna strelska igra podjetja Raven Software, strežnik na "
-"vratih 26902"
 
 #: ../DEV_extra_translations/extra_translations.py:372
 msgid "Hexen II - 26903/udp"
-msgstr "Hexen II - 26903/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:373
 msgid "A fantasy FPS by Raven Software, server on port 26903"
 msgstr ""
-"Domišljijska prvoosebna strelska igra podjetja Raven Software, strežnik na "
-"vratih 26903"
 
 #: ../DEV_extra_translations/extra_translations.py:374
 msgid "HexenWorld - 26950/udp"
-msgstr "HexenWorld - 26950/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:375
 msgid "HexenWorld server by Raven Software"
-msgstr "HexenWorld strežnik podjetja  Raven Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:804
 msgid "iMaze"
-msgstr "iMaze"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:805
 msgid "A maze combat game in 3D"
-msgstr "Akcijsko labirintna igra v 3D"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:618
 msgid "All Services"
-msgstr "Vse storitve"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:619
 msgid "Client, dedicated servers, P2P and voice chat"
-msgstr "Odjemalec,"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:620
 msgid "Games;Steam;"
-msgstr "Igre;Steam;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:621
 msgid "Client, Dedicated Servers, P2P and Voice Chat"
-msgstr "Odjemalec, namenski strežniki, P2P in glasovni pogovor"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:622
 msgid "Client"
-msgstr "Odjemalec"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:623
 msgid ""
 "Game client traffic, typically Matchmaking and HLTV and Steam downloads"
-msgstr "Promet odjemalcev iger, navadno prejemi Matchmaking, HLTV in Steam"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:624
 msgid "Dedicated Servers"
-msgstr "Namenski strežniki"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:625
 msgid "SRCDS Rcon port"
-msgstr "Vrata Rcon SRCDS"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:626
 msgid "P2P and Voice Chat"
-msgstr "P2P in glasovni pogovor"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:627
 msgid "Steamworks P2P Networking and Steam Voice Chat"
-msgstr "Omreženje Steamworks P2P in Steam glasovni pogovor"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:628
 msgid "Call of Duty"
-msgstr "Call of Duty"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:629
 msgid "Additional Ports for Call of Duty: Modern Warfare 2 Multiplayer"
-msgstr "Dodatna vrata za Call of Duty: Modern Warfare 2 Multiplayer"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:159
 msgid "Battlefield 1942"
-msgstr "Battlefield 1942"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:160
 msgid "A WWII FPS from Digital Illusions CE"
 msgstr ""
-"Prvoosebna strelska igra o 2. svetovni vojni podjetja Digital Illusions CE"
 
 #: ../DEV_extra_translations/extra_translations.py:161
 msgid "Battlefield 1942 Console"
-msgstr "Battlefield 1942 konzola"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:162
 msgid "The RemoteConsole administration tool for Battlefield 1942"
-msgstr "RemoteConsole skrbniško orodje za  Battlefield 1942"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:516
 msgid "NFS (jhansonxi)"
-msgstr "NFS (jhansonxi)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:517
 msgid ""
 "Network File System protocol with static ports at relatively unused "
 "4194:4197 (4195 broadcast out)"
 msgstr ""
-"Protokol omrežnega datotečnega sistema s statičnimi vrati na relativno "
-"neuporabljenih 4194:4197 (4195 oddajanje iz)"
 
 #: ../DEV_extra_translations/extra_translations.py:518
 msgid "NFS Quota (jhansonxi)"
-msgstr "NFS Quota (jhansonxi)"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:519
 msgid ""
 "Network File System protocol with filesystem usage quota support with static "
 "ports at relatively unused 4194:4198 (4195 broadcast out)"
 msgstr ""
-"Protokol omrežnega datotečnega sistema s statičnimi vrati na relativno "
-"neuporabljenih 4194:4198  (4195 oddajanje iz)"
 
 #: ../DEV_extra_translations/extra_translations.py:306
 msgid "SiN"
-msgstr "SiN"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:307
 msgid "A FPS by Ritual Entertainment"
-msgstr "Prvoosebna strelska igra podjetja Ritual Entertainment"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:16
 #: ../DEV_extra_translations/extra_translations.py:300
 msgid "hddtemp"
-msgstr "hddtemp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:17
 msgid "Data storage device temperature data server"
-msgstr "Naprava za shranjevanje podatkov temparature podatkovnega strežnika"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:349
 msgid "KTorrent"
-msgstr "KTorrent"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:350
 msgid "Feature rich BitTorrent client by KDE"
-msgstr "Značilnosti bogatih  BitTorrent odjemalcev za KDE"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:408
 msgid "Steam"
-msgstr "Steam"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:409
 msgid "Software distribution service and game server browser from Valve"
 msgstr ""
-"storitev distribucije programske opreme in brskalnik strežnika iger podjetja "
-"Valve"
 
 #: ../DEV_extra_translations/extra_translations.py:410
 msgid "For Steam Client see the category: Games / Steam"
-msgstr "Za odjemalca Steam si poglejte kategorijo: Igre / Steam"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:542
 msgid "BitTorrent Minimum"
-msgstr "BitTorrent najmanj"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:543
 #: ../DEV_extra_translations/extra_translations.py:546
 #: ../DEV_extra_translations/extra_translations.py:549
 msgid "BitTorrent peer-peer file sharing"
-msgstr "Souporaba datotek BitTorrent soležnik-soležnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:545
 msgid "BitTorrent"
-msgstr "BitTorrent"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:548
 msgid "BitTorrent Full"
-msgstr "BitTorrent celoten"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:416
 msgid "Daimonin"
-msgstr "Daimonin"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:417
 msgid "An open-source MMORPG"
 msgstr ""
-"Odprtokodna množično-večigralska spletna igra z igranjem vlog (MMORPG)"
 
 #: ../DEV_extra_translations/extra_translations.py:213
 msgid "Dropbox"
-msgstr "Dropbox"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:214
 msgid ""
 "File hosting service, that offers cloud storage, file synchronization and "
 "client software"
 msgstr ""
-"storitve gostovanja datotek, ki ponuja shrambo v oblaku, usklajevanje "
-"datotek in odjemalce"
 
 #: ../DEV_extra_translations/extra_translations.py:508
 msgid "Spring game engine"
-msgstr "Spring igralski pogon"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:509
 msgid ""
 "An enhanced clone of RTS game Total Annihilation by Cavedog Entertainment"
 msgstr ""
-"Izboljšan klon realnočasovne strateške igre Total Annihilation podjetja "
-"Cavedog Entertainment"
 
 #: ../DEV_extra_translations/extra_translations.py:418
 #: ../DEV_extra_translations/extra_translations.py:652
 msgid "SANE scanner"
-msgstr "Optični bralnik SANE"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:419
 #: ../DEV_extra_translations/extra_translations.py:653
 msgid "Scanner Access Now Easy - scanner sharing server"
-msgstr "Strežnik za souporabo optičnih bralnikov - SANE"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:654
 msgid "Network;Scanning;"
-msgstr "Omrežje;Optično branje"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:655
 msgid "SANE Manual"
-msgstr "Priročnik SANE"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:656
 msgid ""
 "Scanner Access Now Easy - scanner sharing server, manual ports without "
 "nf_conntrack_sane module"
 msgstr ""
-"SANE - strežnik souporabe optičnega branja, ročna vrata brez modula "
-"nf_conntrack_sane"
 
 #: ../DEV_extra_translations/extra_translations.py:48
 msgid "OpenArena"
-msgstr "OpenArena"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:49
 msgid "A competitive FPS based on ioquake3/id tech 3 engine"
 msgstr ""
-"Tekmovalna prvoosebna strelska igra, osnovana na programniku ioquake3/id "
-"tech3"
 
 #: ../DEV_extra_translations/extra_translations.py:318
 msgid "Drakan: Order of the Flame"
-msgstr "Drakan: Order of the Flame"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:319
 msgid "A dragon-riding action-adventure from Surreal Software"
-msgstr "Akcijska zmajska pustolovščina podjetja Surreal Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:334
 msgid "XMPP"
-msgstr "XMPP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:335
 msgid "Extensible Messaging and Presence Protocol client connection (Jabber)"
 msgstr ""
-"Povezava odjemalca razširljivega protokola sporočanja in prisotnosti (Jabber)"
 
 #: ../DEV_extra_translations/extra_translations.py:337
 msgid "XMPP SSL"
-msgstr "XMPP SSL"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:338
 msgid ""
 "Extensible Messaging and Presence Protocol (Jabber) client connection with "
 "SSL encryption"
 msgstr ""
-"Povezava odjemalca razširljivega protokola sporočanja in prisotnosti "
-"(Jabber) s šifriranjem SSL"
 
 #: ../DEV_extra_translations/extra_translations.py:339
 msgid "XMPP Interserver"
-msgstr "XMPP notranji strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:340
 msgid "Extensible Messaging and Presence Protocol server-server connection"
 msgstr ""
-"Povezava odjemalca razširljivega protokola sporočanja - povezava strežnika"
 
 #: ../DEV_extra_translations/extra_translations.py:341
 msgid "XMPP Serverless"
-msgstr "XMPP Serverless"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:342
 msgid ""
 "Extensible Messaging and Presence Protocol link-local messaging/serverless "
 "messaging"
 msgstr ""
-"Povezava odjemalca razširljivega protokola sporočanja - sporočanje brez "
-"strežnika"
 
 #: ../DEV_extra_translations/extra_translations.py:261
 msgid "Soldier of Fortune"
-msgstr "Soldier of Fortune"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:262
 msgid "Soldier of Fortune - A FPS by Raven Software"
 msgstr ""
-"Soldier of Fortune - prvoosebna strelska igra podjetja Raven Software"
 
 #: ../DEV_extra_translations/extra_translations.py:792
 msgid "Kohan: Immortal Sovereigns"
-msgstr "Kohan: Immortal Sovereigns"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:793
 msgid "A real-time strategy game by TimeGate Studios"
-msgstr "Realnočasovna strateška igra podjetja TimeGate Studios"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:726
 msgid "VNC"
-msgstr "VNC"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:727
 msgid "Virtual Network Computing"
-msgstr "Virtualno omrežno računalništvo"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:406
 msgid "Heavy Gear II"
-msgstr "Heavy Gear II"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:407
 msgid ""
 "A mech FPS based on the Dream Pod 9 universe from Activision and Loki "
 "Software"
 msgstr ""
-"dvobojna FPS na osnovi Dream Pod 9 universe iz Activision in Loki Software"
 
 #: ../DEV_extra_translations/extra_translations.py:33
 msgid "WINE: Starcraft"
-msgstr "WINE: Starcraft"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:137
 msgid "DirectX 7"
-msgstr "DirectX 7"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:138
 msgid "Network games using DirectX 7 API"
-msgstr "Omrežne igre, ki uporabljajo API DirectX 7"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:139
 msgid "DirectX 8"
-msgstr "DirectX 8"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:140
 msgid "Network games using DirectX 8 API"
-msgstr "Omrežne igre, ki uporabljajo API DirectX 8"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:686
 msgid "PennMUSH"
-msgstr "PennMUSH"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:687
 msgid "A MUSH/MUD server"
-msgstr "strežnik MUSH/MUD"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:564
 msgid "Unreal Tournament 2004"
-msgstr "Unreal Tournament 2004"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:565
 msgid "A FPS by Epic Games"
-msgstr "Prvoosebna strelska igra podjetja Epic Games"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:566
 msgid "Unreal Tournament 2004 Admin"
-msgstr "Skrbnik Unreal Tournament 2004"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:567
 msgid "Web-based administration for the FPS by Epic Games"
-msgstr "Spletno skrbništvo za prvoosebne strelske igre podjetja Epic Games"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:428
 msgid "IPP"
-msgstr "IPP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:429
 msgid "Internet Printing Protocol"
-msgstr "spletni protokol za tiskanje"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:580
 msgid "Delta Force: Xtreme"
-msgstr "Delta Force: Xtreme"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:482
 msgid "Skype - 23399"
-msgstr "Skype - 23399"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:483
 msgid "VoIP client"
-msgstr "odjemalec VoIP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:484
 msgid "Skype - 23398"
-msgstr "Skype - 23398"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:485
 #: ../DEV_extra_translations/extra_translations.py:487
@@ -4220,199 +4048,189 @@ msgstr "Skype - 23398"
 #: ../DEV_extra_translations/extra_translations.py:499
 #: ../DEV_extra_translations/extra_translations.py:501
 msgid "VoIP client, suggested alternate port"
-msgstr "Odjemalec VoIP, predlagna alternativna vrata"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:486
 msgid "Skype - 23397"
-msgstr "Skype - 23397"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:488
 msgid "Skype - 23396"
-msgstr "Skype - 23396"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:490
 msgid "Skype - 23395"
-msgstr "Skype - 23395"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:492
 msgid "Skype - 23394"
-msgstr "Skype - 23394"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:494
 msgid "Skype - 23393"
-msgstr "Skype - 23393"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:496
 msgid "Skype - 23392"
-msgstr "Skype - 23392"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:498
 msgid "Skype - 23391"
-msgstr "Skype - 23391"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:500
 msgid "Skype - 23390"
-msgstr "Skype - 23390"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:395
 msgid "Amule"
-msgstr "Amule"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:396
 msgid ""
 "Free peer-to-peer file sharing application that works with the EDonkey "
 "network and the Kad network"
 msgstr ""
-"Prosti peer-to-peer program za deljenje datotek, ki deluje z omrežjema "
-"EDonkey in Kad"
 
 #: ../DEV_extra_translations/extra_translations.py:62
 msgid "MPD"
-msgstr "MPD"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:63
 msgid "Music Player Daemon. A server for streaming music"
-msgstr "Ozadnji predvajalnik glasbe. Strežnik za pretakanje glasbe"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:131
 msgid "Blood II: The Chosen"
-msgstr "Blood II: The Chosen"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:132
 msgid "A FPS from Monolith Productions"
-msgstr "Prvoosebna strelska igra podjetja Monolith Productions"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:691
 msgid "DOSBox IPX"
-msgstr "DOSBox IPX"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:692
 #: ../DEV_extra_translations/extra_translations.py:695
 msgid "DOS system emulator"
-msgstr "DOS sistemski posnemovalnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:693
 msgid "System;Emulator;"
-msgstr "Sistem;Posnemovalnik;"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:694
 msgid "DOSBox Modem"
-msgstr "modem DOSBox"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:835
 msgid "Bos Wars"
-msgstr "Bos vojne"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:836
 msgid "A futuristic RTS based on the Stratagus engine"
-msgstr "Futuristična realnočasovna strategija, osnona na pogonu Stratagus"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:253
 msgid "Armagetron Advanced"
-msgstr "Armagetron Advanced"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:254
 msgid "A 3D clone of the Light Cycle game in Tron"
-msgstr "3D dvojnik igre the Light Cycle in Tron"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:720
 msgid "Aleph One"
-msgstr "Aleph One"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:721
 msgid "An enhanced port of Marathon 2: Durandal from Bungie Software"
-msgstr "Izboljšana predelava Marathon 2: Durandal podjetja Bungie Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:663
 msgid "PvPGN"
-msgstr "PvPGN"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:664
 msgid "Player vs Player Gaming Network server emulation based on bnetd"
 msgstr ""
-"Posnemovalnik igralskega omrežnega strežnika igralec proti igralcu, ki "
-"temelji na bnetd"
 
 #: ../DEV_extra_translations/extra_translations.py:665
 msgid "PvPGN Address Translation"
-msgstr "Prevod naslova PvPGN"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:666
 msgid "Player vs Player Gaming Network Address translation port"
-msgstr "Vrata prevajanja igralskega omrežnega naslova igralec proti igralcu"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:502
 msgid "Delta Force"
-msgstr "Delta Force"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:91
 msgid "PulseAudio"
-msgstr "PulseAudio"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:92
 msgid "Networked sound server"
-msgstr "Omrežni zvočni strežnik"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:598
 msgid ""
 "A free and open source team-based first-person shooter with real-time "
 "strategy elements"
 msgstr ""
-"Brezplačna in odprtokodna ekipna prvoosebna strelska igra z realnočasovnimi "
-"strateškimi predmeti"
 
 #: ../DEV_extra_translations/extra_translations.py:13
 msgid "Warzone 2100"
-msgstr "Warzone 2100"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:14
 msgid "A RTS game by Pumpkin Studios"
-msgstr "Realnočasovna strategija podjetja Pumpkin Studios"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:414
 msgid "Delta Force: BHD"
-msgstr "Delta Force: BHD"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:415
 msgid "Black Hawk Down. A FPS combat game by NovaLogic"
-msgstr "Black Hawk Down. Prvoosebna strelska bojna igra podjetja NovaLogic"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:204
 msgid "Ryzom"
-msgstr "Ryzom"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:205
 msgid ""
 "It's also known as The Saga of Ryzom, is a massively multiplayer online role-"
 "playing game (MMORPG)"
 msgstr ""
-"Poznana je tudi kot Saga Ryzoma, množična večigralska spletna igra igranja "
-"vlog (MMORPG)"
 
 #: ../DEV_extra_translations/extra_translations.py:811
 msgid "GNUnet"
-msgstr "GNUnet"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:812
 msgid ""
 "A decentralized peer-to-peer networking framework with file sharing and "
 "messaging"
 msgstr ""
-"Decentralizirano ogrodje mreženja peer-to-peer s souporabo datotek in "
-"sporočanjem"
 
 #: ../DEV_extra_translations/extra_translations.py:269
 msgid "Castle-Combat - 50386/tcp"
-msgstr "Castle-Combat - 50386/tcp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:270
 #: ../DEV_extra_translations/extra_translations.py:272
 msgid "A clone of Rampart from Atari Games"
-msgstr "dvojnik igre Rampart podjetja Atari Games"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:271
 msgid "Castle-Combat - 8787/tcp"
-msgstr "Castle-Combat - 8787/tcp"
+msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:846
 msgid "Bitwig"
@@ -4429,41 +4247,39 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:638
 msgid "Heretic II"
-msgstr "Heretic II"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:639
 msgid "Fantasy combat FPS by Raven Software"
-msgstr "Domišlijska bojna prvoosebna strelska igra podjetja Raven Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:551
 msgid "Railroad Tycoon II"
-msgstr "Railroad Tycoon II"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:552
 msgid "Railroad strategy game by PopTop Software"
-msgstr "Strateška igra z železnicami podjetja PopTop Software"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:435
 msgid "Nexuiz"
-msgstr "Nexuiz"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:436
 msgid "A FPS based on Darkplaces/Quake engine by id Software"
 msgstr ""
-"Prvoosebna strelska igra, ki temelji na pogonu Darkplaces/Quake pogono "
-"podjetja id Software"
 
 #: ../DEV_extra_translations/extra_translations.py:301
 msgid "Trivial File Transfer Protocol"
-msgstr "Trivialni protokol za prenos datotek"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:229
 msgid "Wakfu"
-msgstr "Wakfu"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:230
 msgid "An online tactical turn-based MMORPG"
-msgstr "Spletni potezno strategijski MMORGP"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:24
 msgid "UPnP"
@@ -4481,219 +4297,60 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:630
 msgid "Urban Terror - 27960/udp"
-msgstr "Urban Terror - 27960/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:631
 msgid ""
 "A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
 "port 27660"
 msgstr ""
-"Realistična prvoosebna strelska igra podjetja Frozen Sand na osnovi Quake "
-"III podjetja id Software, strežnik na vratih 27660"
 
 #: ../DEV_extra_translations/extra_translations.py:632
 msgid "Urban Terror - 27961/udp"
-msgstr "Urban Terror - 27961/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:633
 msgid ""
 "A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
 "port 27961"
 msgstr ""
-"Realistična prvoosebna strelska igra podjetja Frozen Sand na osnovi Quake "
-"III podjetja id Software, strežnik na vratih 27961"
 
 #: ../DEV_extra_translations/extra_translations.py:634
 msgid "Urban Terror - 27962/udp"
-msgstr "Urban Terror - 27962/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:635
 msgid ""
 "A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
 "port 27962"
 msgstr ""
-"Realistična prvoosebna strelska igra podjetja Frozen Sand, na osnovi Quake "
-"III podjetja Id Software, strežnik na vratih 27962"
 
 #: ../DEV_extra_translations/extra_translations.py:636
 msgid "Urban Terror - 27963/udp"
-msgstr "Urban Terror - 27963/udp"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:637
 msgid ""
 "A realistic FPS by Frozen Sand, based on Quake III by id Software, server on "
 "port 27963"
 msgstr ""
-"Realistična prvoosebna strelska igra podjetja Frozen Sand na osnovi Quake "
-"III podjetja id Software, strežnik na vratih 27963"
 
 #: ../DEV_extra_translations/extra_translations.py:400
 msgid "World of Warcraft"
-msgstr "World of Warcraft"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:401
 msgid "A MMORPG game by Blizzard Entertainment"
-msgstr "Igra MMORPG podjetja Blizzard Entertainment"
+msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:841
 msgid "Authentication is required to run the Firewall Configuration"
-msgstr "Za zagon nastavitev požarnega zidu je zahtevana overitev"
+msgstr ""
 
 #: ../gufw.desktop.in.h:1
 msgid "Firewall Configuration"
-msgstr "Nastavitev požarnega zidu"
+msgstr ""
 
 #: ../gufw.desktop.in.h:2
 msgid "An easy way to configure your firewall"
-msgstr "Enostaven način nastavitve vašega požarnega zidu"
-
-#~ msgid "Action"
-#~ msgstr "Dejanje"
-
-#~ msgid "From"
-#~ msgstr "Od"
-
-#~ msgid "To"
-#~ msgstr "Za"
-
-#~ msgid "Error: Insert a port number"
-#~ msgstr "Napaka: Vpišite številko vrat"
-
-#~ msgid "Error: Fields filled out incorrectly"
-#~ msgstr "Napaka: Polja so napačno izpolnjena"
-
-#~ msgid "Error performing operation"
-#~ msgstr "Napaka pri izvajanju dejanj"
-
-#~ msgid "Rule added"
-#~ msgstr "Pravilo dodano"
-
-#~ msgid "<b>Rules</b>"
-#~ msgstr "<b>Pravila</b>"
-
-#~ msgid "Deny all OUTGOING traffic"
-#~ msgstr "Prepovej ves IZHODNI promet"
-
-#~ msgid "Allow all OUTGOING traffic"
-#~ msgstr "Dovoli ves IZHODNI promet"
-
-#~ msgid "Reject all OUTGOING traffic"
-#~ msgstr "Zavrni ves IZHODNI promet"
-
-#~ msgid "Select rule(s)"
-#~ msgstr "Izberi pravilo/pravila"
-
-#~ msgid "Incoming:"
-#~ msgstr "Vhodni:"
-
-#~ msgid "Allow all INCOMING traffic"
-#~ msgstr "Dovoli ves VHODNI promet"
-
-#~ msgid "Deny all INCOMING traffic"
-#~ msgstr "Prepovej ves VHODNI promet"
-
-#~ msgid "Outgoing:"
-#~ msgstr "Izhodni:"
-
-#~ msgid "Error: Range ports only with tcp or udp protocol"
-#~ msgstr "Napaka: območje vrat se lahko določi le pri protokolih tcp ali udp"
-
-#~ msgid "Show extended actions"
-#~ msgstr "Prikaži razširjene možnosti"
-
-#~ msgid "Reject all INCOMING traffic"
-#~ msgstr "Zavrni ves VHODNI promet"
-
-#~ msgid "Removing rules..."
-#~ msgstr "Odstanjevanje pravil..."
-
-#~ msgid "Enabled firewall"
-#~ msgstr "Požarni zid omogočen"
-
-#~ msgid "Disabled firewall"
-#~ msgstr "Požarni zid onemogočen"
-
-#~ msgid "Logging:"
-#~ msgstr "Beleženje:"
-
-#~ msgid "<b>Gufw Options</b>"
-#~ msgstr "<b>Možnosti Gufw</b>"
-
-#~ msgid "<b>ufw Options</b>"
-#~ msgstr "<b>Možnosti ufw</b>"
-
-#~ msgid "It may be a security risk to use a default allow policy for RDP"
-#~ msgstr "Uporaba privzetega dovolilnega pravilnika za RDP"
-
-#~ msgid "It may be a security risk to use a default allow policy for SSH"
-#~ msgstr "Uporaba privzetega pravila za SSH je lahko varnostno tveganje"
-
-#~ msgid "Go to the official answers"
-#~ msgstr "Pojdi na uradne odgovore"
-
-#~ msgid "Go to the official documentation"
-#~ msgstr "Pojdi na uradno dokumentacijo"
-
-#~ msgid "_Google +"
-#~ msgstr "_Google +"
-
-#~ msgid "_Follow"
-#~ msgstr "_Sledi"
-
-#~ msgid "_Twitter"
-#~ msgstr "_Twitter"
-
-#~ msgid "Thanks in advance!!"
-#~ msgstr "Hvala vnaprej!"
-
-#~ msgid "Get Help _Online..."
-#~ msgstr "Poišči pomoč na _spletu ..."
-
-#~ msgid "Google+ _Community"
-#~ msgstr "_Skupnost Google+"
-
-#~ msgid "Google+ Community"
-#~ msgstr "Skupnost Google+"
-
-#~ msgid "_Donate..."
-#~ msgstr "_Doniraj ..."
-
-#~ msgid "ManiaDrive HTTP server "
-#~ msgstr "ManiaDrive HTTP strežnik "
-
-#~ msgid "NASCAR Racing 2002/03  8 players"
-#~ msgstr "NASCAR dirke 2002/03 8 igralcev"
-
-#~ msgid "Nagios Plugin"
-#~ msgstr "vstavek Nagios"
-
-#~ msgid "qBittorent"
-#~ msgstr "qBittorent"
-
-#~ msgid "_Documentation..."
-#~ msgstr "_Dokumentacija ..."
-
-#~ msgid "_Report a Problem..."
-#~ msgstr "_Prijavi težavo ..."
-
-#~ msgid "_Translate this Application..."
-#~ msgstr "_Prevedi ta program ..."
-
-#~ msgid "Translate this Application..."
-#~ msgstr "Prevedi ta program ..."
-
-#~ msgid "Documentation..."
-#~ msgstr "Dokumentacija ..."
-
-#~ msgid "Get Help Online..."
-#~ msgstr "Poiščite pomoč na spletu ..."
-
-#~ msgid "Report a Problem..."
-#~ msgstr "Prijavi težavo ..."
-
-#~ msgid ""
-#~ "An uncomplicated way to manage your firewall, powered by ufw.\n"
-#~ "Easy, simple, nice and useful!"
-#~ msgstr ""
-#~ "Nezahtevni način za upravljanje vašega požarnega zidu, ki ga poganja ufw.\n"
-#~ "Lahek, preprost, prijazen in uporaben!"
+msgstr ""
