@@ -1,7 +1,7 @@
    
    
-   ### Gufw - version 21.04.0
-   © 2008-2020 ﻿﻿Marcos Alvarez Costales
+   ### Gufw
+   © 2008-2022 ﻿﻿Marcos Alvarez Costales
 
 ![Main Window](https://github.com/costales/costales.github.io/blob/master/projects/gufw/gufw.jpg)
 
@@ -9,7 +9,7 @@
    - A graphical user interface for Ubuntu's Uncomplicated Firewall.
    
    ### How do I install & run it?
-   - Read the INSTALL file
+   - The easy way is from your distro repository. If you don't have it, please, read the INSTALL file.
    
 
    ### Logo
