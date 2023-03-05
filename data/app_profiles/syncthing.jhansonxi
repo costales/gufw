@@ -1,0 +1,13 @@
+[Syncthing Sync]
+title=Syncthing Sync
+description=Syncthing UDP/TCP based sync protocol traffic (default port)
+ports=22000
+categories=Network;File Transfer;
+reference=[https://docs.syncthing.net/users/firewall.html#local-firewall docs.syncthing.net: Local Firewall]
+
+[Syncthing Local Discovery]
+title=Syncthing Local Discovery
+description=Syncthing discovery broadcasts on IPv4 and multicasts on IPv6 (default port)
+ports=21027/udp
+categories=Network;File Transfer;
+reference=[https://docs.syncthing.net/users/firewall.html#local-firewall docs.syncthing.net: Local Firewall]
