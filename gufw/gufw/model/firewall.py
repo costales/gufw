@@ -132,7 +132,7 @@ class Firewall():
     def set_status(self, status):
         self.status = status
         self.backend.set_status(status)
-        self.backend.set_profile_values(self.profile, status, self.incoming, self.outgoing, self.routed, self.get_rules(False))
+        self.backend.set_profile_values(self.profile, status, self.incoming, self.outgoing, self.routed, self.get_rules(not status))
     
     def get_policy(self, policy):
         if policy == 'incoming':
