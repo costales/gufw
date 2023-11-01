@@ -1,5 +1,5 @@
 # Gufw - https://costales.github.io/projects/gufw/
-# Copyright (C) 2008-2020 Marcos Alvarez Costales https://costales.github.io
+# Copyright (C) 2008-2023 Marcos Alvarez Costales https://costales.github.io
 #
 # Gufw is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
