@@ -1,0 +1,5 @@
+[SMPlayer]
+title=SMPlayer to ChromeCast
+description=Stream SMPlayer to ChromeCast
+ports=8010/tcp
+categories=Audio Video;TV;
