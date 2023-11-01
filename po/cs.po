@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2021-07-05 10:51+0200\n"
-"PO-Revision-Date: 2019-08-31 13:53+0000\n"
-"Last-Translator: Pavel Borecki <Unknown>\n"
+"PO-Revision-Date: 2022-10-03 01:14+0000\n"
+"Last-Translator: Tomáš Marný <tomik.marny@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
-"X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
+"X-Launchpad-Export-Date: 2023-11-01 16:56+0000\n"
+"X-Generator: Launchpad (build 9412a8042fac354f9c42815196ef31c1d9358917)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
@@ -736,7 +736,7 @@ msgstr "O firewallu Gufw"
 
 #: data/ui/about.ui:21
 msgid "An easy, simple, nice and useful firewall!"
-msgstr ""
+msgstr "Snadný, jednoduchý, přívětivý a užitečný firewall!"
 
 #: ../data/ui/about.ui.h:4
 msgid "translator-credits"
@@ -753,11 +753,13 @@ msgstr ""
 "  Roman Horník https://launchpad.net/~roman.hornik\n"
 "  Sesivany https://launchpad.net/~jiri-eischmann\n"
 "  Tadeáš Pařík https://launchpad.net/~pariktadeas\n"
+"  Tomáš Marný https://launchpad.net/~tomik-marny\n"
 "  Vit Hrachovy https://launchpad.net/~flaska\n"
 "  Vojtěch Trefný https://launchpad.net/~vojtech.trefny\n"
 "  Zezik https://launchpad.net/~zezulamichal\n"
 "  costales https://launchpad.net/~costales\n"
-"  dregn https://launchpad.net/~hurricane"
+"  dregn https://launchpad.net/~hurricane\n"
+"  nereknu https://launchpad.net/~aninahodou"
 
 #: ../data/ui/add.ui.h:1
 msgid "Add a Firewall Rule"
@@ -1224,7 +1226,7 @@ msgstr "Crossfire Metaserver"
 
 #: ../DEV_extra_translations/extra_translations.py:679
 msgid "Metaserver for Crossfire RPG"
-msgstr ""
+msgstr "Metaserver pro hru Crossfire RPG"
 
 #: ../DEV_extra_translations/extra_translations.py:122
 msgid "Murmur"
@@ -1334,7 +1336,7 @@ msgstr "SEDS Serious Sam"
 
 #: ../DEV_extra_translations/extra_translations.py:218
 msgid "Dedicated server for the FPS by Croteam"
-msgstr ""
+msgstr "Dedikovaný server pro FPS od Croteam"
 
 #: ../DEV_extra_translations/extra_translations.py:219
 msgid "SEDS Remote Admin"
@@ -1386,7 +1388,7 @@ msgstr "MiniDLNA"
 #: ../DEV_extra_translations/extra_translations.py:69
 msgid ""
 "Serves media files (music, pictures, and video) to clients on a network"
-msgstr ""
+msgstr "Poskytuje mediální soubory (hudbu, obrázky a video) klientům na síti"
 
 #: ../DEV_extra_translations/extra_translations.py:70
 msgid "Audio Video;TV;"
@@ -1468,6 +1470,8 @@ msgstr "Widelands"
 #: ../DEV_extra_translations/extra_translations.py:166
 msgid "A RTS similar to The Settlers I & II from Blue Byte Software"
 msgstr ""
+"Strategická hra v reálném čase podobná hrám Osadníci I a II od Blue Byte "
+"Software"
 
 #: ../DEV_extra_translations/extra_translations.py:437
 msgid "Savage 2: A Tortured Soul"
@@ -1500,7 +1504,7 @@ msgstr "Quake III – 27962/udp"
 
 #: ../DEV_extra_translations/extra_translations.py:106
 msgid "A FPS by id Software, server on port 27962"
-msgstr ""
+msgstr "FPS od id Software, server na portu 27962"
 
 #: ../DEV_extra_translations/extra_translations.py:107
 msgid "Quake III - 27963/udp"
@@ -1508,7 +1512,7 @@ msgstr "Quake III – 27963/udp"
 
 #: ../DEV_extra_translations/extra_translations.py:108
 msgid "A FPS by id Software, server on port 27963"
-msgstr ""
+msgstr "FPS od id Software, server na portu 27963"
 
 #: ../DEV_extra_translations/extra_translations.py:800
 msgid "Skype Normal"
@@ -1533,11 +1537,11 @@ msgstr "Hry;Simulace;"
 
 #: DEV_extra_translations/extra_translations.py:108
 msgid "ChromeCast"
-msgstr ""
+msgstr "ChromeCast"
 
 #: DEV_extra_translations/extra_translations.py:109
 msgid "Google Stream device"
-msgstr ""
+msgstr "Zařízení Google Stream"
 
 #: ../DEV_extra_translations/extra_translations.py:295
 msgid "Icecast"
@@ -1546,7 +1550,7 @@ msgstr "Icecast"
 #: ../DEV_extra_translations/extra_translations.py:176
 #: ../DEV_extra_translations/extra_translations.py:296
 msgid "Icecast stream"
-msgstr ""
+msgstr "Icecast stream"
 
 #: ../DEV_extra_translations/extra_translations.py:298
 msgid "Icecast - 8000:8001/tcp"
@@ -1653,7 +1657,7 @@ msgstr "MSN Chat (SSL)"
 
 #: ../DEV_extra_translations/extra_translations.py:703
 msgid "MSN chat protocol SSL"
-msgstr ""
+msgstr "MSN chatovací protokol SSL"
 
 #: ../DEV_extra_translations/extra_translations.py:704
 msgid "AIM Talk"
@@ -1669,7 +1673,7 @@ msgstr "Yahoo Chat"
 
 #: ../DEV_extra_translations/extra_translations.py:707
 msgid "Yahoo chat protocol"
-msgstr ""
+msgstr "Yahoo chatovací protokol"
 
 #: ../DEV_extra_translations/extra_translations.py:191
 msgid "DAAP"
@@ -1969,6 +1973,8 @@ msgstr "Counter-Strike 2D"
 msgid ""
 "A top-down 2D clone of Valve Software's Counter-Strike by Unreal Software"
 msgstr ""
+"2D hra z horního pohledu - klon Counter-Strike od Valve Software napsaný "
+"Unreal Software"
 
 #: ../DEV_extra_translations/extra_translations.py:602
 msgid "Warsow"
@@ -2041,6 +2047,7 @@ msgstr "FreeOrion"
 msgid ""
 "A turn-based 4X strategy game inspired by Master of Orion from MicroProse"
 msgstr ""
+"Tahová 4X strategie inspirovaná hrou Master of Orion od firmy MicroProse"
 
 #: DEV_extra_translations/extra_translations.py:244
 msgid "TeamViewer"
@@ -2051,6 +2058,8 @@ msgid ""
 "Remote control, desktop sharing, online meetings, web conferencing and file "
 "transfer between computers"
 msgstr ""
+"Vzdálený přístup, sdílení plochy, online a webové konference, a přenos "
+"souborů mezi počítači"
 
 #: ../DEV_extra_translations/extra_translations.py:750
 msgid "Vuze"
@@ -2061,6 +2070,8 @@ msgid ""
 "BitTorrent client used to transfer files via the BitTorrent protocol. Vuze "
 "uses the Azureus Engine"
 msgstr ""
+"BitTorrentový klient používaný k přenosu souborů přes protokol BitTorrent. "
+"Vuze používá Azureus Engine"
 
 #: ../DEV_extra_translations/extra_translations.py:58
 msgid "Network;P2P;"
@@ -2132,7 +2143,7 @@ msgstr "Assault Cube"
 
 #: ../DEV_extra_translations/extra_translations.py:9
 msgid "A free, multiplayer, first-person shooter game"
-msgstr ""
+msgstr "Bezplatná střílečka z pohledu první osoby pro více hráčů"
 
 #: ../DEV_extra_translations/extra_translations.py:748
 msgid "Wormux"
@@ -2150,7 +2161,7 @@ msgstr "Diablo II"
 #: ../DEV_extra_translations/extra_translations.py:151
 #: ../DEV_extra_translations/extra_translations.py:685
 msgid "Fantasy combat game by Blizzard Entertainment"
-msgstr ""
+msgstr "Bojová fantasy hra od Blizzard Entertainment"
 
 #: ../DEV_extra_translations/extra_translations.py:285
 msgid "NFS"
@@ -2166,7 +2177,7 @@ msgstr "TeamSpeak 2 hlas"
 
 #: ../DEV_extra_translations/extra_translations.py:818
 msgid "TeamSpeak 2 voice service"
-msgstr ""
+msgstr "TeamSpeak 2 hlasový chat"
 
 #: ../DEV_extra_translations/extra_translations.py:819
 msgid "TeamSpeak 2 web"
@@ -2484,7 +2495,7 @@ msgstr "Mechwarrior 4"
 
 #: ../DEV_extra_translations/extra_translations.py:554
 msgid "A FPS based on the Fasa Battletech universe"
-msgstr ""
+msgstr "Herní střílečka ve Fasa Battletech vesmíru"
 
 #: ../DEV_extra_translations/extra_translations.py:802
 msgid "MiG-29 Fulcrum"
@@ -2554,7 +2565,7 @@ msgstr "Kingpin: Life of Crime"
 
 #: ../DEV_extra_translations/extra_translations.py:94
 msgid "A FPS by Xatrix Entertainment"
-msgstr ""
+msgstr "Herní střílečka od Xatrix Entertainment"
 
 #: ../DEV_extra_translations/extra_translations.py:402
 msgid "UFO: Alien Invasion"
@@ -3302,7 +3313,7 @@ msgstr "Descent 3"
 
 #: ../DEV_extra_translations/extra_translations.py:260
 msgid "3D Flying FPS by Outrage Entertainment"
-msgstr ""
+msgstr "3D létací herní střílečka od Outrage Entertainment"
 
 #: ../DEV_extra_translations/extra_translations.py:657
 msgid "Vibe Streamer"
@@ -3631,7 +3642,7 @@ msgstr "netPanzer"
 
 #: ../DEV_extra_translations/extra_translations.py:561
 msgid "An online multiplayer tactical warfare game"
-msgstr ""
+msgstr "Síťová vojensko-taktická hra pro víc hráčů"
 
 #: ../DEV_extra_translations/extra_translations.py:439
 msgid "SIP"
@@ -3641,6 +3652,7 @@ msgstr "SIP"
 msgid ""
 "Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
 msgstr ""
+"Session Initiation Protocol, šifrovaný, pomocí modulu nf_conntrack_sip"
 
 #: ../DEV_extra_translations/extra_translations.py:441
 msgid "SIP TLS"
@@ -3648,7 +3660,7 @@ msgstr "SIP TLS"
 
 #: ../DEV_extra_translations/extra_translations.py:442
 msgid "Session Initiation Protocol with TLS encryption"
-msgstr ""
+msgstr "Session Initiation Protocol s TLS šifrováním"
 
 #: ../DEV_extra_translations/extra_translations.py:293
 msgid "GNUMP3d"
@@ -3748,7 +3760,7 @@ msgstr "iMaze"
 
 #: ../DEV_extra_translations/extra_translations.py:805
 msgid "A maze combat game in 3D"
-msgstr ""
+msgstr "Bojová hra v 3D bludišti"
 
 #: ../DEV_extra_translations/extra_translations.py:618
 msgid "All Services"
@@ -4001,7 +4013,7 @@ msgstr "Soldier of Fortune"
 
 #: ../DEV_extra_translations/extra_translations.py:262
 msgid "Soldier of Fortune - A FPS by Raven Software"
-msgstr ""
+msgstr "Soldier of Fortune - FPS střílečka od Raven Software"
 
 #: ../DEV_extra_translations/extra_translations.py:792
 msgid "Kohan: Immortal Sovereigns"
@@ -4278,6 +4290,8 @@ msgid ""
 "A decentralized peer-to-peer networking framework with file sharing and "
 "messaging"
 msgstr ""
+"Decentralizovaný síťový rámec peer-to-peer se sdílením souborů a zasíláním "
+"zpráv"
 
 #: ../DEV_extra_translations/extra_translations.py:269
 msgid "Castle-Combat - 50386/tcp"
@@ -4286,7 +4300,7 @@ msgstr "Castle-Combat – 50386/tcp"
 #: ../DEV_extra_translations/extra_translations.py:270
 #: ../DEV_extra_translations/extra_translations.py:272
 msgid "A clone of Rampart from Atari Games"
-msgstr ""
+msgstr "Klon hry Rampart od Atari Games"
 
 #: ../DEV_extra_translations/extra_translations.py:271
 msgid "Castle-Combat - 8787/tcp"

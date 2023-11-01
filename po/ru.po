@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2021-07-05 10:51+0200\n"
-"PO-Revision-Date: 2020-04-11 06:38+0000\n"
-"Last-Translator: Aleksey Kabanov <Unknown>\n"
+"PO-Revision-Date: 2022-08-31 16:24+0000\n"
+"Last-Translator: Sergej <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
-"X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
+"X-Launchpad-Export-Date: 2023-11-01 16:56+0000\n"
+"X-Generator: Launchpad (build 9412a8042fac354f9c42815196ef31c1d9358917)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
 msgid "Error: %s is writable"
-msgstr ""
+msgstr "Ошибка: %s доступен для записи"
 
 #: gufw/gufw/instance.py:49
 #, python-format
@@ -28,6 +28,8 @@ msgid ""
 "Your %s directory is writable.\n"
 "Fix it running from Terminal:"
 msgstr ""
+"Ваш каталог %s доступен для записи.\n"
+"Исправьте это, выполнив в терминале:"
 
 #: ../gufw/gufw/instance.py:64
 msgid "Please, just one Gufw's instance"
@@ -735,7 +737,7 @@ msgstr "О программе Gufw Firewall"
 
 #: data/ui/about.ui:21
 msgid "An easy, simple, nice and useful firewall!"
-msgstr ""
+msgstr "Удобный, простой, элегантный и полезный межсетевой экран!"
 
 #: ../data/ui/about.ui.h:4
 msgid "translator-credits"
@@ -751,12 +753,13 @@ msgstr ""
 "  Dmitry Kireev https://launchpad.net/~dinimito2\n"
 "  Dmitry Vakhnin https://launchpad.net/~jsbmand\n"
 "  Eugene Roskin https://launchpad.net/~lowrider\n"
-"  Eugenio https://launchpad.net/~mr-evgeniy\n"
 "  Evgeniy https://launchpad.net/~maljanow\n"
 "  Int https://launchpad.net/~howrudoin\n"
 "  Novichkov Alexander https://launchpad.net/~berkut\n"
 "  Oleg Koptev https://launchpad.net/~koptev-oleg\n"
+"  Precise https://launchpad.net/~mr-precise\n"
 "  Sandro https://launchpad.net/~regipool\n"
+"  Sergej https://launchpad.net/~ser82-png\n"
 "  Sergey Sedov https://launchpad.net/~serg-sedov\n"
 "  Stas Solovey https://launchpad.net/~whats-up\n"
 "  XPEH https://launchpad.net/~akidyarov\n"
@@ -1566,7 +1569,7 @@ msgstr "ChromeCast"
 
 #: DEV_extra_translations/extra_translations.py:109
 msgid "Google Stream device"
-msgstr ""
+msgstr "Устройство Google Stream"
 
 #: ../DEV_extra_translations/extra_translations.py:295
 msgid "Icecast"
@@ -3356,7 +3359,7 @@ msgstr "NASCAR Racing 2002/03, 4 игрока"
 
 #: DEV_extra_translations/extra_translations.py:563
 msgid "NASCAR Racing 2002/03 8 players"
-msgstr ""
+msgstr "NASCAR Racing 2002/03 8 игроков"
 
 #: ../DEV_extra_translations/extra_translations.py:612
 msgid "NASCAR Racing 2002/03 16 players"
@@ -4466,6 +4469,8 @@ msgstr "Bitwig"
 msgid ""
 "Multi-platform music-creation system for production, performance and DJing"
 msgstr ""
+"Мультиплатформенная система создания музыки для композиторов, исполнителей и "
+"диджеев"
 
 #: DEV_extra_translations/extra_translations.py:848
 msgid "Audio Video;Music;"

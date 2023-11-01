@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
-"X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
+"X-Launchpad-Export-Date: 2023-11-01 16:56+0000\n"
+"X-Generator: Launchpad (build 9412a8042fac354f9c42815196ef31c1d9358917)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
@@ -720,7 +720,7 @@ msgstr ""
 "  Hew https://launchpad.net/~hew\n"
 "  Jackson Doak https://launchpad.net/~noskcaj\n"
 "  Jared Norris https://launchpad.net/~jarednorris\n"
-"  Jeremy Bicha https://launchpad.net/~jbicha"
+"  Jeremy Bícha https://launchpad.net/~jbicha"
 
 #: ../data/ui/add.ui.h:1
 msgid "Add a Firewall Rule"

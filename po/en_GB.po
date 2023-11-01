@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2021-07-05 10:51+0200\n"
-"PO-Revision-Date: 2020-04-25 10:44+0000\n"
-"Last-Translator: Stephan Woidowski <swoidowski@t-online.de>\n"
+"PO-Revision-Date: 2022-06-07 14:11+0000\n"
+"Last-Translator: Andi Chandler <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
-"X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
+"X-Launchpad-Export-Date: 2023-11-01 16:56+0000\n"
+"X-Generator: Launchpad (build 9412a8042fac354f9c42815196ef31c1d9358917)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
@@ -738,7 +738,7 @@ msgstr "About Gufw Firewall"
 
 #: data/ui/about.ui:21
 msgid "An easy, simple, nice and useful firewall!"
-msgstr ""
+msgstr "An easy, simple, nice and useful firewall!"
 
 #: ../data/ui/about.ui.h:4
 msgid "translator-credits"
@@ -2257,11 +2257,11 @@ msgstr "SciFi strategy game by Firaxis"
 
 #: DEV_extra_translations/extra_translations.py:295
 msgid "KODI Remote"
-msgstr ""
+msgstr "KODI Remote"
 
 #: DEV_extra_translations/extra_translations.py:296
 msgid "Remote control for KODI"
-msgstr ""
+msgstr "Remote control for KODI"
 
 #: ../DEV_extra_translations/extra_translations.py:431
 msgid "Enemy Territory: Quake Wars"
@@ -2309,7 +2309,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:307
 msgid "Network;Services;|Network;File Transfer;"
-msgstr ""
+msgstr "Network;Services;|Network;File Transfer;"
 
 #: ../DEV_extra_translations/extra_translations.py:476
 msgid "Firefly Media Server"
@@ -2831,11 +2831,11 @@ msgstr "Network games using Games for Windows - Live API"
 
 #: DEV_extra_translations/extra_translations.py:432
 msgid "Jellyfin"
-msgstr ""
+msgstr "Jellyfin"
 
 #: DEV_extra_translations/extra_translations.py:433
 msgid "Media System"
-msgstr ""
+msgstr "Media System"
 
 #: ../DEV_extra_translations/extra_translations.py:722
 msgid "WINE: Warcraft III"
@@ -2912,15 +2912,15 @@ msgstr "Games;Board;"
 
 #: DEV_extra_translations/extra_translations.py:452
 msgid "Tvheadend"
-msgstr ""
+msgstr "Tvheadend"
 
 #: DEV_extra_translations/extra_translations.py:453
 msgid "TV streaming server and digital video recorder"
-msgstr ""
+msgstr "TV streaming server and digital video recorder"
 
 #: DEV_extra_translations/extra_translations.py:454
 msgid "Media;Multimedia;Network;Streaming;TV;"
-msgstr ""
+msgstr "Media;Multimedia;Network;Streaming;TV;"
 
 #: ../DEV_extra_translations/extra_translations.py:354
 msgid "Sacred - port 2005"
@@ -3301,7 +3301,7 @@ msgstr "NASCAR Racing 2002/03 4 players"
 
 #: DEV_extra_translations/extra_translations.py:563
 msgid "NASCAR Racing 2002/03 8 players"
-msgstr ""
+msgstr "NASCAR Racing 2002/03 8 players"
 
 #: ../DEV_extra_translations/extra_translations.py:612
 msgid "NASCAR Racing 2002/03 16 players"
@@ -3576,13 +3576,15 @@ msgstr "Postfix Mail Server Submission"
 
 #: DEV_extra_translations/extra_translations.py:635
 msgid "Rygel"
-msgstr ""
+msgstr "Rygel"
 
 #: DEV_extra_translations/extra_translations.py:636
 msgid ""
 "Easier media sharing between Ubuntu and smart TVs, games consoles, and even "
 "other computers"
 msgstr ""
+"Easier media sharing between Ubuntu and smart TVs, games consoles, and even "
+"other computers"
 
 #: ../DEV_extra_translations/extra_translations.py:522
 msgid "Heroes of Might and Magic III"
@@ -3602,7 +3604,7 @@ msgstr "A clone of TrackMania from Nadeo"
 
 #: DEV_extra_translations/extra_translations.py:641
 msgid "ManiaDrive HTTP server"
-msgstr ""
+msgstr "ManiaDrive HTTP server"
 
 #: ../DEV_extra_translations/extra_translations.py:228
 msgid "ManiaDrive/Raydium game monitor HTTP server"

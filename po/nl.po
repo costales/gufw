@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2021-07-05 10:51+0200\n"
-"PO-Revision-Date: 2017-01-20 18:46+0000\n"
+"PO-Revision-Date: 2022-10-16 13:13+0000\n"
 "Last-Translator: Pjotr12345 <Unknown>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
-"X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
+"X-Launchpad-Export-Date: 2023-11-01 16:56+0000\n"
+"X-Generator: Launchpad (build 9412a8042fac354f9c42815196ef31c1d9358917)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
 msgid "Error: %s is writable"
-msgstr ""
+msgstr "Fout: %s is beschrijfbaar"
 
 #: gufw/gufw/instance.py:49
 #, python-format
@@ -28,22 +28,24 @@ msgid ""
 "Your %s directory is writable.\n"
 "Fix it running from Terminal:"
 msgstr ""
+"Uw %s map is beschrijfbaar.\n"
+"Repareer het vanuit de terminal:"
 
 #: ../gufw/gufw/instance.py:64
 msgid "Please, just one Gufw's instance"
-msgstr ""
+msgstr "Graag slechts één instantie van Gufw"
 
 #: ../gufw/gufw/instance.py:65
 msgid "Gufw is already running. If this is wrong, remove the file: "
-msgstr ""
+msgstr "Gufw draait reeds. Als dit niet klopt, verwijder het bestand: "
 
 #: ../gufw/gufw/model/firewall.py:61
 msgid "Deleting previous rules: "
-msgstr ""
+msgstr "Vorige regels verwijderen: "
 
 #: ../gufw/gufw/model/firewall.py:86
 msgid "Appending new rules: "
-msgstr ""
+msgstr "Nieuwe regels toevoegen: "
 
 #: ../gufw/gufw/model/firewall.py:266 ../gufw/gufw/model/firewall.py:286
 #: ../gufw/gufw/model/firewall.py:287 ../gufw/gufw/model/firewall.py:302
@@ -69,20 +71,20 @@ msgstr "Kantoor"
 #: ../gufw/gufw/model/firewall.py:304 ../gufw/gufw/model/firewall.py:309
 #: ../gufw/gufw/model/firewall.py:314
 msgid "Renamed profile: "
-msgstr ""
+msgstr "Hernoemd profiel: "
 
 #: ../gufw/gufw/view/add.py:99 ../gufw/gufw/view/add.py:349
 #: ../gufw/gufw/view/add.py:460 ../gufw/gufw/view/update.py:75
 #: ../gufw/gufw/view/update.py:101 ../gufw/gufw/view/update.py:186
 #: ../gufw/gufw/view/update.py:215
 msgid "All Interfaces"
-msgstr ""
+msgstr "Alle netwerkapparaten"
 
 #: ../gufw/gufw/view/add.py:100 ../gufw/gufw/view/add.py:359
 #: ../gufw/gufw/view/add.py:464 ../gufw/gufw/view/update.py:102
 #: ../gufw/gufw/view/update.py:196 ../gufw/gufw/view/update.py:219
 msgid "Not Forward"
-msgstr ""
+msgstr "Niet doorsturen"
 
 #. Append new apps
 #: ../gufw/gufw/view/add.py:139 ../gufw/gufw/view/add.py:268
@@ -90,32 +92,34 @@ msgstr ""
 #: ../gufw/gufw/view/add.py:553 ../gufw/gufw/view/add.py:567
 #: ../gufw/gufw/view/add.py:569 ../gufw/gufw/view/add.py:571
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 #: ../gufw/gufw/view/add.py:153 ../gufw/gufw/view/add.py:366
 msgid "Ports: "
-msgstr ""
+msgstr "Poorten "
 
 #: ../gufw/gufw/view/add.py:195 ../gufw/gufw/view/add.py:204
 #: ../gufw/gufw/view/update.py:134
 msgid "Choose a TCP or UDP Protocol with a range of ports"
-msgstr ""
+msgstr "Kies een TCP- of UDF-protocol met een bereik aan poorten"
 
 #: ../gufw/gufw/view/add.py:351 ../gufw/gufw/view/update.py:188
 msgid "The IP/Port will be forward to this interface"
-msgstr ""
+msgstr "De IP-poort zal worden doorgestuurd naar dit apparaat"
 
 #: ../gufw/gufw/view/add.py:354 ../gufw/gufw/view/update.py:191
 msgid "You need to set an Interface for forwarding to this another interface"
 msgstr ""
+"U dient een apparaat in te stellen voor het doorsturen naar een ander "
+"apparaat"
 
 #: ../gufw/gufw/view/add.py:376
 msgid "Error: Firewall is disabled"
-msgstr ""
+msgstr "Fout: firewall is uitgeschakeld"
 
 #: ../gufw/gufw/view/add.py:376
 msgid "The firewall has to be enabled first"
-msgstr ""
+msgstr "De firewall moet eerst worden ingeschakeld"
 
 #: ../gufw/gufw/view/add.py:406 ../gufw/gufw/view/gufw.py:569
 msgid "Error running: "
@@ -123,31 +127,31 @@ msgstr "Foutmelding tijdens uitvoeren van: "
 
 #: ../gufw/gufw/view/add.py:410
 msgid "Rule(s) added"
-msgstr ""
+msgstr "Regel(s) toegevoegd"
 
 #: ../gufw/gufw/view/add.py:413
 msgid "Warning: Some rules added. Review the log"
-msgstr ""
+msgstr "Waarschuwing: er zijn sommige regels toegevoegd. Zie het logboek"
 
 #: ../gufw/gufw/view/add.py:416
 msgid "Error: No rules added. Review the log"
-msgstr ""
+msgstr "Fout: geen regels toegevoegd. Zie het logboek"
 
 #: ../gufw/gufw/view/add.py:432
 msgid "Insert Port"
-msgstr ""
+msgstr "Poort toevoegen"
 
 #: ../gufw/gufw/view/add.py:432
 msgid "You need to insert a port in the port field"
-msgstr ""
+msgstr "U dient een poort toe te voegen in het poortveld"
 
 #: ../gufw/gufw/view/add.py:436
 msgid "Edward Snowden's Greatest Fear"
-msgstr ""
+msgstr "De grootste angst van Edward Snowden"
 
 #: ../gufw/gufw/view/add.py:436
 msgid "\"Nothing Will Change\""
-msgstr ""
+msgstr "\"Er zal niets veranderen\""
 
 #: ../gufw/gufw/view/gufw.py:125 ../gufw/gufw/view/gufw.py:180
 #: ../gufw/gufw/view/gufw.py:302
@@ -156,11 +160,11 @@ msgstr "Aan de slag"
 
 #: ../gufw/gufw/view/gufw.py:186
 msgid "Rules"
-msgstr ""
+msgstr "Regels"
 
 #: ../gufw/gufw/view/gufw.py:191
 msgid "Report"
-msgstr ""
+msgstr "Rapport"
 
 #: ../data/ui/update.ui.h:13 ../data/ui/add.ui.h:28
 #: ../gufw/gufw/view/gufw.py:196
@@ -171,7 +175,7 @@ msgstr "Logboek"
 #. Listening Report
 #: ../gufw/gufw/view/gufw.py:233 ../gufw/gufw/view/gufw.py:250
 msgid "Nº"
-msgstr ""
+msgstr "Nº"
 
 #: ../gufw/gufw/view/gufw.py:238
 msgid "Rule"
@@ -299,7 +303,7 @@ msgstr "Alle ufw-regels zullen verschijnen in alle profielen."
 
 #: ../gufw/gufw/view/gufw.py:322
 msgid "What do I see in the Listening Report?"
-msgstr ""
+msgstr "Wat zie ik in het luisterrapport?"
 
 #: ../gufw/gufw/view/gufw.py:323
 msgid ""
@@ -422,7 +426,7 @@ msgstr "Tekst gekopieerd naar het klembord"
 
 #: ../gufw/gufw/view/gufw.py:468
 msgid "Incoming: "
-msgstr "Inkomend: "
+msgstr "Binnenkomend: "
 
 #: ../gufw/gufw/view/gufw.py:469
 msgid "Incoming policy changed"
@@ -444,7 +448,7 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:476
 msgid "Outgoing: "
-msgstr "Uitgaand "
+msgstr "Uitgaand: "
 
 #: ../gufw/gufw/view/gufw.py:477
 msgid "Outgoing policy changed"
@@ -457,15 +461,16 @@ msgstr ""
 
 #: ../gufw/gufw/view/gufw.py:487
 msgid "Routed: "
-msgstr ""
+msgstr "Gerouteerd: "
 
 #: ../gufw/gufw/view/gufw.py:488
 msgid "Routed policy changed"
-msgstr ""
+msgstr "Routeringsbeleid is veranderd"
 
 #: ../gufw/gufw/view/gufw.py:490
 msgid "There was an error changing the routed policy"
 msgstr ""
+"Er is een fout opgetreden bij het veranderen van het routeringsbeleid"
 
 #: ../gufw/gufw/view/gufw.py:511 ../gufw/gufw/view/gufw.py:590
 msgid "Select just one row"
@@ -473,7 +478,7 @@ msgstr "Selecteer één rij"
 
 #: ../gufw/gufw/view/gufw.py:511
 msgid "You can create a rule from just one row selected"
-msgstr ""
+msgstr "U kunt een regel maken van slechts één gekozen rij"
 
 #: ../gufw/gufw/view/gufw.py:525
 msgid "Status: Enabled"
@@ -530,12 +535,12 @@ msgstr "U dient een regel te selecteren"
 
 #: ../gufw/gufw/view/gufw.py:590
 msgid "You can edit just one rule"
-msgstr ""
+msgstr "U kunt slechts één enkele regel bewerken"
 
 #. ufw rule > inmutable
 #: ../gufw/gufw/view/gufw.py:598
 msgid "Immutable Rule"
-msgstr ""
+msgstr "Onveranderbare regel"
 
 #: ../gufw/gufw/view/gufw.py:598
 msgid "You can't edit a rule added from ufw"
@@ -622,101 +627,102 @@ msgstr ""
 
 #: ../gufw/gufw/view/preferences.py:82 ../gufw/gufw/view/preferences.py:127
 msgid "Profile"
-msgstr ""
+msgstr "Profiel"
 
 #: ../gufw/gufw/view/preferences.py:91 ../gufw/gufw/view/preferences.py:95
 #: ../gufw/gufw/view/preferences.py:99 ../gufw/gufw/view/preferences.py:103
 msgid "Profile not valid"
-msgstr ""
+msgstr "Profiel ongeldig"
 
 #: ../gufw/gufw/view/preferences.py:91
 msgid "You can't use this profile name"
-msgstr ""
+msgstr "U kunt deze profielnaam niet gebruiken"
 
 #: ../gufw/gufw/view/preferences.py:95
 msgid "Enter at least one character"
-msgstr ""
+msgstr "Voer minimaal één teken in"
 
 #: ../gufw/gufw/view/preferences.py:99
 msgid "Too long! (max. 15 characters)"
-msgstr ""
+msgstr "Te lang! (max. 15 tekens)"
 
 #: ../gufw/gufw/view/preferences.py:103
 msgid "Use only letters, numbers, dashes and underscores"
 msgstr ""
+"Gebruik enkel letters, getallen, liggende streepjes en onderstrepingstekens"
 
 #: ../gufw/gufw/view/preferences.py:108
 msgid "Profile exist"
-msgstr ""
+msgstr "Profiel bestaat reeds"
 
 #: ../gufw/gufw/view/preferences.py:108
 msgid "There is a profile with the same name"
-msgstr ""
+msgstr "Er bestaat al een profiel met dezelfde naam"
 
 #: ../gufw/gufw/view/preferences.py:113
 msgid "Current profile"
-msgstr ""
+msgstr "Huidig profiel"
 
 #: ../gufw/gufw/view/preferences.py:113
 msgid "You can't rename the current profile"
-msgstr ""
+msgstr "U kunt het huidige profiel niet hernoemen"
 
 #: ../gufw/gufw/view/preferences.py:120
 msgid "Edited Profile: "
-msgstr ""
+msgstr "Bewerkt profiel: "
 
 #: ../gufw/gufw/view/preferences.py:138
 msgid "Created Profile: "
-msgstr ""
+msgstr "Gemaakt profiel: "
 
 #: ../gufw/gufw/view/preferences.py:143
 msgid "Select a profile"
-msgstr ""
+msgstr "Kies een profiel"
 
 #: ../gufw/gufw/view/preferences.py:143
 msgid "You need to select a profile for deleting"
-msgstr ""
+msgstr "U dient een profiel te kiezen om het te kunnen verwijderen"
 
 #: ../gufw/gufw/view/preferences.py:147
 msgid "Profile not erasable"
-msgstr ""
+msgstr "Profiel niet verwijderbaar"
 
 #: ../gufw/gufw/view/preferences.py:147
 msgid "You can't remove the current profile"
-msgstr ""
+msgstr "U kunt het huidige profiel niet verwijderen"
 
 #: ../gufw/gufw/view/preferences.py:152
 msgid "Deleted Profile: "
-msgstr ""
+msgstr "Verwijderd profiel: "
 
 #: ../gufw/gufw/view/preferences.py:156
 msgid "ufw Logging: "
-msgstr ""
+msgstr "Logboeken van ufw: "
 
 #: ../gufw/gufw/view/preferences.py:161
 msgid "Gufw Logging: Enabled"
-msgstr ""
+msgstr "Logboeken van Gufw: ingeschakeld"
 
 #: ../gufw/gufw/view/preferences.py:163
 msgid "Gufw Logging: Disabled"
-msgstr ""
+msgstr "Logboeken van Gufw: uitgeschakeld"
 
 #: ../gufw/gufw/view/preferences.py:169
 msgid "Confirm Delete Dialog: Enabled"
-msgstr ""
+msgstr "Dialoogvenster voor bevestiging van verwijdering: ingeschakeld"
 
 #: ../gufw/gufw/view/preferences.py:172
 msgid "Confirm Delete Dialog: Disabled"
-msgstr ""
+msgstr "Dialoogvenster voor bevestiging van verwijdering: ingeschakeld"
 
 #: ../gufw/gufw/view/preferences.py:183
 msgid "Refresh Interval: "
-msgstr ""
+msgstr "Tussenpoze voor verversen: "
 
 #: ../data/ui/update.ui.h:29 ../data/ui/add.ui.h:42
 #: ../gufw/gufw/view/update.py:77
 msgid "You need to set an Interface"
-msgstr ""
+msgstr "U dient een apparaat in te stellen"
 
 #: ../gufw/gufw/view/update.py:244
 msgid "No changes were made!"
@@ -736,11 +742,11 @@ msgstr "Bijgewerkte regel "
 
 #: ../data/ui/about.ui.h:1
 msgid "About Gufw Firewall"
-msgstr ""
+msgstr "Over Gufw Firewall"
 
 #: data/ui/about.ui:21
 msgid "An easy, simple, nice and useful firewall!"
-msgstr ""
+msgstr "Een makkelijke, eenvoudige en nuttige vuurmuur!"
 
 #: ../data/ui/about.ui.h:4
 msgid "translator-credits"
@@ -760,12 +766,12 @@ msgstr ""
 "  Pjotr https://launchpad.net/~pjotrvertaalt\n"
 "  Pjotr12345 https://launchpad.net/~computertip\n"
 "  PjotrAmslap https://launchpad.net/~pieterpalsma\n"
+"  Removed by request https://launchpad.net/~removed1016696\n"
 "  Soul-Sing https://launchpad.net/~soulzing\n"
 "  StevenA https://launchpad.net/~steven-avonds\n"
 "  costales https://launchpad.net/~costales\n"
 "  gert holterman https://launchpad.net/~gertov\n"
-"  rob https://launchpad.net/~rvdb\n"
-"  ubuntu user https://launchpad.net/~gplx1111"
+"  rob https://launchpad.net/~rvdb"
 
 #: ../data/ui/add.ui.h:1
 msgid "Add a Firewall Rule"
@@ -821,7 +827,7 @@ msgstr "Toepassing:"
 
 #: ../data/ui/add.ui.h:14
 msgid "Application Filter"
-msgstr ""
+msgstr "Toepassingenfilter"
 
 #: ../data/ui/add.ui.h:15
 msgid "Copy app values and jump to Advanced Tab"
@@ -853,7 +859,7 @@ msgstr "Naam"
 
 #: ../data/ui/update.ui.h:27 ../data/ui/add.ui.h:22
 msgid "Rule Description"
-msgstr ""
+msgstr "Regelbeschrijving"
 
 #: ../data/ui/add.ui.h:23
 msgid ""
@@ -864,7 +870,7 @@ msgstr ""
 
 #: ../data/ui/add.ui.h:24
 msgid "Port or service"
-msgstr ""
+msgstr "Poort of dienst"
 
 #: ../data/ui/add.ui.h:25
 msgid "Simple"
@@ -892,7 +898,7 @@ msgstr "Naar:"
 
 #: ../data/ui/update.ui.h:20 ../data/ui/add.ui.h:32
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: ../data/ui/update.ui.h:21 ../data/ui/add.ui.h:33
 msgid "Paste your current local IP"
@@ -915,7 +921,7 @@ msgstr ""
 
 #: ../data/ui/add.ui.h:38
 msgid "Insert:"
-msgstr ""
+msgstr "Invoegen:"
 
 #: ../data/ui/update.ui.h:28 ../data/ui/add.ui.h:39
 msgid "Interface:"
@@ -927,7 +933,7 @@ msgstr "Regelnummer om in te voegen"
 
 #: ../data/ui/add.ui.h:41
 msgid "At the end"
-msgstr ""
+msgstr "Aan het einde"
 
 #: ../data/ui/add.ui.h:43
 msgid "Advanced"
@@ -943,15 +949,17 @@ msgstr "_Bestand"
 
 #: ../data/ui/gufw.ui.h:3
 msgid "_Import profile"
-msgstr ""
+msgstr "Profiel _importeren"
 
 #: ../data/ui/gufw.ui.h:4
 msgid "_Export this profile"
-msgstr ""
+msgstr "_Exporteer dit profiel"
 
 #: ../data/ui/gufw.ui.h:5
 msgid "Only the rules added from Gufw will be exported (not ufw rules)"
 msgstr ""
+"Uitsluitend de regels toegevoegd vanuit Gufw zullen worden geëxporteerd "
+"(geen ufw-regels)"
 
 #: ../data/ui/gufw.ui.h:6
 msgid "_Edit"
@@ -959,7 +967,7 @@ msgstr "_Bewerken"
 
 #: ../data/ui/gufw.ui.h:7
 msgid "_Reset Current Profile"
-msgstr ""
+msgstr "Huidig profiel _terugzetten"
 
 #: ../data/ui/gufw.ui.h:8
 msgid "_Help"
@@ -967,23 +975,23 @@ msgstr "_Hulp"
 
 #: ../data/ui/gufw.ui.h:22
 msgid "_Profile:"
-msgstr ""
+msgstr "_Profiel:"
 
 #: ../data/ui/gufw.ui.h:23
 msgid "S_tatus:"
-msgstr ""
+msgstr "S_tatus:"
 
 #: ../data/ui/gufw.ui.h:24
 msgid "_Incoming:"
-msgstr ""
+msgstr "_Binnenkomend:"
 
 #: ../data/ui/gufw.ui.h:25
 msgid "_Outgoing:"
-msgstr ""
+msgstr "_Uitgaand:"
 
 #: ../data/ui/gufw.ui.h:29
 msgid "_Routed:"
-msgstr ""
+msgstr "Gerouteerd:"
 
 #: ../data/ui/gufw.ui.h:30
 msgid "<b>Firewall</b>"
@@ -1007,31 +1015,31 @@ msgstr "Verwijderen"
 
 #: ../data/ui/gufw.ui.h:35
 msgid "Edit the selected rule"
-msgstr ""
+msgstr "De gekozen regel bewerken"
 
 #: data/ui/gufw.ui:642
 msgid "Pause Listening Report"
-msgstr ""
+msgstr "Luisterrapport pauzeren"
 
 #: data/ui/gufw.ui:643 data/ui/gufw.ui:658
 msgid "Pause"
-msgstr ""
+msgstr "Pauzeren"
 
 #: data/ui/gufw.ui:657
 msgid "See current Listening Report"
-msgstr ""
+msgstr "Zie huidig luisterrapport"
 
 #: ../data/ui/gufw.ui.h:36
 msgid "Create a rule from the listening report..."
-msgstr ""
+msgstr "Vervaardig een regel vanuit het luisterrapport..."
 
 #: ../data/ui/gufw.ui.h:37
 msgid "Copy log to clipboard"
-msgstr ""
+msgstr "Logboek kopiëren naar klembord"
 
 #: ../data/ui/gufw.ui.h:38
 msgid "Remove log"
-msgstr ""
+msgstr "Logboek verwijderen"
 
 #: ../data/ui/preferences.ui.h:1
 msgid "Firewall Preferences"
@@ -1063,7 +1071,7 @@ msgstr "Volledig"
 
 #: ../data/ui/preferences.ui.h:8
 msgid "<b>ufw</b>"
-msgstr ""
+msgstr "<b>ufw</b>"
 
 #: ../data/ui/preferences.ui.h:9
 msgid "Lo_gging Gufw activity"
@@ -1071,21 +1079,24 @@ msgstr "Gufw-activiteit vastleggen in logboek"
 
 #: ../data/ui/preferences.ui.h:10
 msgid "Show confirm dialog for deleting rules"
-msgstr ""
+msgstr "Toon bevestigingsdialoog voor verwijderen van regels"
 
 #: ../data/ui/preferences.ui.h:11
 msgid "<b>Gufw</b>"
-msgstr ""
+msgstr "<b>Gufw</b>"
 
 #: ../data/ui/preferences.ui.h:12
 msgid "Refresh Interval:"
-msgstr ""
+msgstr "Tussenpoze voor verversen:"
 
 #: ../data/ui/preferences.ui.h:13
 msgid ""
 "Less seconds uses more CPU\n"
 "This interval will apply the next time you expand the Listening Report"
 msgstr ""
+"Minder seconden verbruikt meer CPU\n"
+"Deze tussenpoze zal worden toegepast wanneer u het luisterrapport nogmaals "
+"uitklapt"
 
 #: ../data/ui/preferences.ui.h:15
 msgid "<b>Listening Report</b>"
@@ -1101,7 +1112,7 @@ msgstr "Het geselecteerde profiel verwijderen"
 
 #: ../data/ui/preferences.ui.h:20
 msgid "<b>Profiles</b>"
-msgstr ""
+msgstr "<b>Profielen</b>"
 
 #: ../data/ui/update.ui.h:1
 msgid "Update a Firewall Rule"
@@ -1114,7 +1125,7 @@ msgstr "De regel zal worden verplaatst naar het einde van de lijst"
 
 #: ../DEV_extra_translations/extra_translations.py:384
 msgid "OpenRPG"
-msgstr ""
+msgstr "OpenRPG"
 
 #: ../DEV_extra_translations/extra_translations.py:385
 msgid ""
@@ -1123,17 +1134,17 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:75
 msgid "Network;Games;"
-msgstr ""
+msgstr "Netwerk;Spelen;"
 
 #: ../DEV_extra_translations/extra_translations.py:127
 msgid "Nagios"
-msgstr ""
+msgstr "Nagios"
 
 #: ../DEV_extra_translations/extra_translations.py:128
 msgid ""
 "Computer system monitor, network monitoring and infrastructure monitoring "
 "software application"
-msgstr ""
+msgstr "Toepassing voor bewaken van systeem, netwerk en infrastructuur"
 
 #: ../DEV_extra_translations/extra_translations.py:18
 msgid "System;Monitor;"
@@ -1191,25 +1202,30 @@ msgstr "Een spelserver-browser van GameRanger Technologies"
 
 #: ../DEV_extra_translations/extra_translations.py:572
 msgid "Telnet"
-msgstr ""
+msgstr "Telnet"
 
 #: ../DEV_extra_translations/extra_translations.py:573
 msgid "Text-based remote access (like SSH but without the security)"
 msgstr ""
+"Tekstgebaseerde toegang op afstand  (zoals SSH maar zonder diens beveiliging)"
 
 #: ../DEV_extra_translations/extra_translations.py:574
 msgid ""
 "Telnet is like SSH but without security. It'd be better to use the 'Telnet "
 "SSL'"
 msgstr ""
+"Telnet is zoals SSH  maar zonder beveiliging. U kunt beter de 'Telnet SSL' "
+"gebruiken"
 
 #: ../DEV_extra_translations/extra_translations.py:575
 msgid "Telnet TLS/SSL"
-msgstr ""
+msgstr "Telnet TLS/SSL"
 
 #: ../DEV_extra_translations/extra_translations.py:576
 msgid "Text-based remote access (like SSH but without the security) SSL"
 msgstr ""
+"Tekstgebaseerde toegang op afstand (zoals SSH maar zonder diens veiligheid) "
+"SSL"
 
 #: ../DEV_extra_translations/extra_translations.py:676
 msgid "Crossfire"
@@ -1248,11 +1264,11 @@ msgstr "Netwerk;Telefonie;"
 
 #: DEV_extra_translations/extra_translations.py:37
 msgid "PLEX"
-msgstr ""
+msgstr "PLEX"
 
 #: DEV_extra_translations/extra_translations.py:38
 msgid "Plex Media Server (Main port)"
-msgstr ""
+msgstr "Plex Media Server (Main port)"
 
 #: ../DEV_extra_translations/extra_translations.py:297
 msgid "Network;Audio Video;"
@@ -1260,15 +1276,15 @@ msgstr "Netwerk;Audio Video;"
 
 #: DEV_extra_translations/extra_translations.py:40
 msgid "PLEX DLNA"
-msgstr ""
+msgstr "PLEX DLNA"
 
 #: DEV_extra_translations/extra_translations.py:41
 msgid "Access to the Plex DLNA Server"
-msgstr ""
+msgstr "Toegang tot de Plex DLNA Server"
 
 #: DEV_extra_translations/extra_translations.py:42
 msgid "PLEX Companion"
-msgstr ""
+msgstr "PLEX Companion"
 
 #: DEV_extra_translations/extra_translations.py:43
 msgid "Controlling Plex Home Theater via Plex Companion"
@@ -1397,7 +1413,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:70
 msgid "Audio Video;TV;"
-msgstr ""
+msgstr "Audio Video;TV;"
 
 #: ../DEV_extra_translations/extra_translations.py:382
 msgid "Gamer's Internet Tunnel"
@@ -1590,6 +1606,8 @@ msgstr "Netwerk;Toegang-op-afstand;"
 #: DEV_extra_translations/extra_translations.py:763
 msgid "It may be a security risk to use a default allow policy"
 msgstr ""
+"Het zou een veiligheidsrisico kunnen zijn om standaard een beleid te "
+"gebruiken dat alles toestaat"
 
 #: ../DEV_extra_translations/extra_translations.py:291
 msgid "GGZ Gaming Zone"
@@ -1628,7 +1646,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:696
 msgid "People Nearby"
-msgstr ""
+msgstr "Mensen in uw omgeving"
 
 #: ../DEV_extra_translations/extra_translations.py:697
 msgid "People Nearby (Bonjour/Salut) functionality in Empathy"
@@ -1742,15 +1760,15 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:579
 msgid "Games;Strategy;Java;"
-msgstr ""
+msgstr "Spelen;Strategie;Java;"
 
 #: ../DEV_extra_translations/extra_translations.py:308
 msgid "rsync daemon"
-msgstr ""
+msgstr "rsync-achtergronddienst"
 
 #: ../DEV_extra_translations/extra_translations.py:309
 msgid "File synchronization utility"
-msgstr ""
+msgstr "Hulpmiddel voor bestandssynchronisatie"
 
 #: ../DEV_extra_translations/extra_translations.py:245
 msgid "F-22 Raptor"
@@ -1888,7 +1906,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:78
 msgid "NTP"
-msgstr ""
+msgstr "NTP"
 
 #: ../DEV_extra_translations/extra_translations.py:79
 msgid "Network Time Protocol"
@@ -1896,7 +1914,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:80
 msgid "Network;Time;"
-msgstr ""
+msgstr "Netwerk;Tijd;"
 
 #: ../DEV_extra_translations/extra_translations.py:424
 msgid "Kali"
@@ -2231,7 +2249,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:734
 msgid "A massively multiplayer online role-playing game"
-msgstr ""
+msgstr "Een grootschalig multi-speler internetrollenspel"
 
 #: ../DEV_extra_translations/extra_translations.py:120
 msgid "Sid Meier's Alpha Centauri"
@@ -2293,7 +2311,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:307
 msgid "Network;Services;|Network;File Transfer;"
-msgstr ""
+msgstr "Netwerk;Diensten;|Netwerk;Bestandoverdracht;"
 
 #: ../DEV_extra_translations/extra_translations.py:476
 msgid "Firefly Media Server"
@@ -2461,11 +2479,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:588
 msgid "Windows Messenger File"
-msgstr ""
+msgstr "Windows Messenger-bestand"
 
 #: ../DEV_extra_translations/extra_translations.py:589
 msgid "Windows Messenger/MSN Messenger file transfer"
-msgstr ""
+msgstr "Windows Messenger/MSN Messenger bestandsoverdracht"
 
 #: ../DEV_extra_translations/extra_translations.py:590
 msgid "Windows Messenger Assistance"
@@ -2607,7 +2625,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:559
 msgid "Games;Adventure;"
-msgstr ""
+msgstr "Spelen;Avontuur;"
 
 #: ../DEV_extra_translations/extra_translations.py:310
 msgid "Rune"
@@ -2758,7 +2776,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:661
 msgid "Network;File Transfer;P2P;"
-msgstr ""
+msgstr "Netwerk;Bestandsoverdracht;P2P;"
 
 #: ../DEV_extra_translations/extra_translations.py:59
 #: ../DEV_extra_translations/extra_translations.py:113
@@ -2909,7 +2927,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:454
 msgid "Media;Multimedia;Network;Streaming;TV;"
-msgstr ""
+msgstr "Media;Multimedia;Netwerk;Streaming;TV;"
 
 #: ../DEV_extra_translations/extra_translations.py:354
 msgid "Sacred - port 2005"
@@ -3136,19 +3154,19 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:44
 msgid "LDAP"
-msgstr ""
+msgstr "LDAP"
 
 #: ../DEV_extra_translations/extra_translations.py:45
 msgid "LDAP server"
-msgstr ""
+msgstr "LDAP-server"
 
 #: ../DEV_extra_translations/extra_translations.py:46
 msgid "LDAPS"
-msgstr ""
+msgstr "LDAPS"
 
 #: ../DEV_extra_translations/extra_translations.py:47
 msgid "LDAP server (LDAPS)"
-msgstr ""
+msgstr "LDAP-server (LDAPS)"
 
 #: ../DEV_extra_translations/extra_translations.py:443
 msgid "Scorched 3D server"
@@ -3348,11 +3366,11 @@ msgstr "Een gratis MP3-muziekspeelserver"
 
 #: ../DEV_extra_translations/extra_translations.py:56
 msgid "Transmission Daemon"
-msgstr ""
+msgstr "Achtergronddienst voor Transmission"
 
 #: ../DEV_extra_translations/extra_translations.py:57
 msgid "Remote control for Transmission"
-msgstr ""
+msgstr "Bediening op afstand voor Transmission"
 
 #: ../DEV_extra_translations/extra_translations.py:510
 msgid "HPLIP"
@@ -3422,7 +3440,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:413
 msgid "Network;Archiving;"
-msgstr ""
+msgstr "Netwerk;Archivering;"
 
 #: ../DEV_extra_translations/extra_translations.py:464
 msgid "Dropbox LanSync"
@@ -3430,7 +3448,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:465
 msgid "A web-based file hosting service"
-msgstr ""
+msgstr "Een webgebaseerde bestandsopslagdienst"
 
 #: ../DEV_extra_translations/extra_translations.py:708
 msgid "Steel Storm"
@@ -3463,6 +3481,8 @@ msgid ""
 "BitTorrent client which features a simple interface on top of a cross-"
 "platform backend"
 msgstr ""
+"BitTorrent-cliënt met een simpele bedieningsschil bovenop een "
+"platformoverstijgende achtergronddienst"
 
 #: ../DEV_extra_translations/extra_translations.py:445
 msgid "Pioneers"
@@ -3526,7 +3546,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:255
 msgid "DNS"
-msgstr ""
+msgstr "DNS"
 
 #: ../DEV_extra_translations/extra_translations.py:256
 msgid "Domain Name System"
@@ -3729,11 +3749,11 @@ msgstr "Een verbeterde kloon van Chris Sawyer's Transport Tycoon Deluxe"
 
 #: ../DEV_extra_translations/extra_translations.py:180
 msgid "Syslog"
-msgstr ""
+msgstr "Syslog"
 
 #: ../DEV_extra_translations/extra_translations.py:181
 msgid "System logging"
-msgstr ""
+msgstr "Logboeken van het systeem bijhouden"
 
 #: ../DEV_extra_translations/extra_translations.py:27
 msgid "Camfrog"
@@ -3797,7 +3817,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:618
 msgid "All Services"
-msgstr ""
+msgstr "Alle diensten"
 
 #: ../DEV_extra_translations/extra_translations.py:619
 msgid "Client, dedicated servers, P2P and voice chat"
@@ -3813,7 +3833,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:622
 msgid "Client"
-msgstr ""
+msgstr "Cliënt"
 
 #: ../DEV_extra_translations/extra_translations.py:623
 msgid ""
@@ -3891,7 +3911,7 @@ msgstr "Een FPS door Ritual Entertainment"
 #: ../DEV_extra_translations/extra_translations.py:16
 #: ../DEV_extra_translations/extra_translations.py:300
 msgid "hddtemp"
-msgstr ""
+msgstr "hddtemp"
 
 #: ../DEV_extra_translations/extra_translations.py:17
 msgid "Data storage device temperature data server"
@@ -4225,11 +4245,11 @@ msgstr ""
 #: ../DEV_extra_translations/extra_translations.py:692
 #: ../DEV_extra_translations/extra_translations.py:695
 msgid "DOS system emulator"
-msgstr ""
+msgstr "DOS-systeemnabootser"
 
 #: ../DEV_extra_translations/extra_translations.py:693
 msgid "System;Emulator;"
-msgstr ""
+msgstr "Systeem;Nabootser;"
 
 #: ../DEV_extra_translations/extra_translations.py:694
 msgid "DOSBox Modem"
@@ -4355,7 +4375,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:848
 msgid "Audio Video;Music;"
-msgstr ""
+msgstr "Audio Video;Muziek;"
 
 #: ../DEV_extra_translations/extra_translations.py:638
 msgid "Heretic II"
@@ -4395,7 +4415,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:24
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 #: ../DEV_extra_translations/extra_translations.py:25
 msgid ""
@@ -4405,7 +4425,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:26
 msgid "System;General;"
-msgstr ""
+msgstr "Systeem;Algemeen;"
 
 #: ../DEV_extra_translations/extra_translations.py:630
 msgid "Urban Terror - 27960/udp"
@@ -4466,6 +4486,7 @@ msgstr "Een MMORPG spel door Blizzard Entertainment"
 #: ../DEV_extra_translations/extra_translations.py:841
 msgid "Authentication is required to run the Firewall Configuration"
 msgstr ""
+"Authenticatie is vereist om de instellingen van de firewall te starten"
 
 #: ../gufw.desktop.in.h:1
 msgid "Firewall Configuration"

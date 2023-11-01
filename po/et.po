@@ -8,19 +8,20 @@ msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2021-07-05 10:51+0200\n"
-"PO-Revision-Date: 2014-09-04 10:15+0000\n"
-"Last-Translator: mahfiaz <mahfiaz@gmail.com>\n"
+"PO-Revision-Date: 2023-06-07 10:32+0000\n"
+"Last-Translator: vaba <Unknown>\n"
 "Language-Team: Estonian <et@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
-"X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
+"X-Launchpad-Export-Date: 2023-11-01 16:56+0000\n"
+"X-Generator: Launchpad (build 9412a8042fac354f9c42815196ef31c1d9358917)\n"
+"Language: et\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
 msgid "Error: %s is writable"
-msgstr ""
+msgstr "Viga: %s on kirjutatav"
 
 #: gufw/gufw/instance.py:49
 #, python-format
@@ -28,22 +29,24 @@ msgid ""
 "Your %s directory is writable.\n"
 "Fix it running from Terminal:"
 msgstr ""
+"Sinu kataloog %s on kirjutatav.\n"
+"Paranda see terminalist töötades:"
 
 #: ../gufw/gufw/instance.py:64
 msgid "Please, just one Gufw's instance"
-msgstr ""
+msgstr "Palun, vaid üks Gufwi näide"
 
 #: ../gufw/gufw/instance.py:65
 msgid "Gufw is already running. If this is wrong, remove the file: "
-msgstr ""
+msgstr "Gufw juba töötab. Kui see on vale, eemalda fail: "
 
 #: ../gufw/gufw/model/firewall.py:61
 msgid "Deleting previous rules: "
-msgstr ""
+msgstr "Eelmiste reeglite kustutamine: "
 
 #: ../gufw/gufw/model/firewall.py:86
 msgid "Appending new rules: "
-msgstr ""
+msgstr "Uute reeglite lisamine: "
 
 #: ../gufw/gufw/model/firewall.py:266 ../gufw/gufw/model/firewall.py:286
 #: ../gufw/gufw/model/firewall.py:287 ../gufw/gufw/model/firewall.py:302
@@ -58,7 +61,7 @@ msgstr "Kodu"
 #: ../gufw/gufw/model/firewall.py:313 ../gufw/gufw/model/firewall.py:314
 #: ../gufw/gufw/model/firewall.py:316
 msgid "Public"
-msgstr "Publik"
+msgstr "Avalik"
 
 #: ../gufw/gufw/model/firewall.py:285 ../gufw/gufw/model/firewall.py:307
 #: ../gufw/gufw/model/firewall.py:308 ../gufw/gufw/model/firewall.py:309
@@ -69,20 +72,20 @@ msgstr "Kontor"
 #: ../gufw/gufw/model/firewall.py:304 ../gufw/gufw/model/firewall.py:309
 #: ../gufw/gufw/model/firewall.py:314
 msgid "Renamed profile: "
-msgstr ""
+msgstr "Ümber nimetatud profiil: "
 
 #: ../gufw/gufw/view/add.py:99 ../gufw/gufw/view/add.py:349
 #: ../gufw/gufw/view/add.py:460 ../gufw/gufw/view/update.py:75
 #: ../gufw/gufw/view/update.py:101 ../gufw/gufw/view/update.py:186
 #: ../gufw/gufw/view/update.py:215
 msgid "All Interfaces"
-msgstr ""
+msgstr "Kõik liidesed"
 
 #: ../gufw/gufw/view/add.py:100 ../gufw/gufw/view/add.py:359
 #: ../gufw/gufw/view/add.py:464 ../gufw/gufw/view/update.py:102
 #: ../gufw/gufw/view/update.py:196 ../gufw/gufw/view/update.py:219
 msgid "Not Forward"
-msgstr ""
+msgstr "Mitte edasi"
 
 #. Append new apps
 #: ../gufw/gufw/view/add.py:139 ../gufw/gufw/view/add.py:268
@@ -99,15 +102,15 @@ msgstr "Pordid: "
 #: ../gufw/gufw/view/add.py:195 ../gufw/gufw/view/add.py:204
 #: ../gufw/gufw/view/update.py:134
 msgid "Choose a TCP or UDP Protocol with a range of ports"
-msgstr ""
+msgstr "Valige  TCP  või UDP  protokolli pordid"
 
 #: ../gufw/gufw/view/add.py:351 ../gufw/gufw/view/update.py:188
 msgid "The IP/Port will be forward to this interface"
-msgstr ""
+msgstr "IP/port edastatakse sellele liidesele"
 
 #: ../gufw/gufw/view/add.py:354 ../gufw/gufw/view/update.py:191
 msgid "You need to set an Interface for forwarding to this another interface"
-msgstr ""
+msgstr "Teisele liidesele edastamiseks peate määrama liidese"
 
 #: ../gufw/gufw/view/add.py:376
 msgid "Error: Firewall is disabled"
@@ -115,7 +118,7 @@ msgstr "Viga: tulemüür on väljas"
 
 #: ../gufw/gufw/view/add.py:376
 msgid "The firewall has to be enabled first"
-msgstr ""
+msgstr "Esmalt tuleb lubada tulemüür"
 
 #: ../gufw/gufw/view/add.py:406 ../gufw/gufw/view/gufw.py:569
 msgid "Error running: "
@@ -127,40 +130,40 @@ msgstr "Reeglid lisatud"
 
 #: ../gufw/gufw/view/add.py:413
 msgid "Warning: Some rules added. Review the log"
-msgstr ""
+msgstr "Hoiatus: mõned reeglid on lisatud. Vaadake logi üle"
 
 #: ../gufw/gufw/view/add.py:416
 msgid "Error: No rules added. Review the log"
-msgstr ""
+msgstr "Viga: reegleid pole lisatud. Vaadake logi üle"
 
 #: ../gufw/gufw/view/add.py:432
 msgid "Insert Port"
-msgstr ""
+msgstr "Sisesta port"
 
 #: ../gufw/gufw/view/add.py:432
 msgid "You need to insert a port in the port field"
-msgstr ""
+msgstr "Pordiväljale peate sisestama pordi"
 
 #: ../gufw/gufw/view/add.py:436
 msgid "Edward Snowden's Greatest Fear"
-msgstr ""
+msgstr "Edward Snowdeni suurim hirm"
 
 #: ../gufw/gufw/view/add.py:436
 msgid "\"Nothing Will Change\""
-msgstr ""
+msgstr "\"Miski ei muutu\""
 
 #: ../gufw/gufw/view/gufw.py:125 ../gufw/gufw/view/gufw.py:180
 #: ../gufw/gufw/view/gufw.py:302
 msgid "Getting started"
-msgstr ""
+msgstr "Alustamine"
 
 #: ../gufw/gufw/view/gufw.py:186
 msgid "Rules"
-msgstr ""
+msgstr "Reeglid"
 
 #: ../gufw/gufw/view/gufw.py:191
 msgid "Report"
-msgstr ""
+msgstr "Aruanne"
 
 #: ../data/ui/update.ui.h:13 ../data/ui/add.ui.h:28
 #: ../gufw/gufw/view/gufw.py:196
@@ -171,7 +174,7 @@ msgstr "Logi"
 #. Listening Report
 #: ../gufw/gufw/view/gufw.py:233 ../gufw/gufw/view/gufw.py:250
 msgid "Nº"
-msgstr ""
+msgstr "Nº"
 
 #: ../gufw/gufw/view/gufw.py:238
 msgid "Rule"
@@ -203,10 +206,12 @@ msgid ""
 "An uncomplicated way to manage your firewall, powered by ufw. Easy, simple, "
 "nice and useful! :)"
 msgstr ""
+"Lihtne viis tulemüüri haldamiseks, mida toetab ufw. Lihtne, lihtne, tore ja "
+"kasulik! :)"
 
 #: ../gufw/gufw/view/gufw.py:304
 msgid "Basic"
-msgstr ""
+msgstr "Põhiline"
 
 #: ../gufw/gufw/view/gufw.py:305
 msgid "FAQ"
@@ -218,36 +223,41 @@ msgid ""
 "Incoming=Deny, Outgoing=Allow). Remember to append allow rules for your P2P "
 "apps:"
 msgstr ""
+"Kui oled tavakasutaja, oled selle seadistusega kaitstud (Olek = Sees, "
+"Sisenev = Keeldu, Väljuv = Luba).  Ära unusta lisada oma P2P -rakenduste "
+"lubamise reegleid:"
 
 #: ../gufw/gufw/view/gufw.py:307
 msgid "You can rename your profiles with just 2 clicks on them:"
-msgstr ""
+msgstr "Saad oma profiile ümber nimetada vaid 2 klõpsuga:"
 
 #: ../gufw/gufw/view/gufw.py:308
 msgid "The Rule Name will help you to identify your rules in the future:"
-msgstr ""
+msgstr "Reegli nimi aitab teil tulevikus oma reegleid tuvastada:"
 
 #: ../gufw/gufw/view/gufw.py:309
 msgid "How to autostart Gufw with the system?"
-msgstr ""
+msgstr "Kuidas Gufw süsteemiga automaatselt käivitada?"
 
 #: ../gufw/gufw/view/gufw.py:310
 msgid ""
 "You do not need it. After you do all of the changes in Gufw, the settings "
 "are still in place until the next changes."
 msgstr ""
+"Sa ei vaja seda. Pärast kõigi Gufwis tehtud muudatuste tegemist on seaded "
+"kuni järgmiste muudatusteni paigas."
 
 #: ../gufw/gufw/view/gufw.py:311
 msgid "Why is Gufw disabled by default?"
-msgstr ""
+msgstr "Miks on Gufw vaikimisi keelatud?"
 
 #: ../gufw/gufw/view/gufw.py:312
 msgid "By default, the firewall does not open ports to the outside world."
-msgstr ""
+msgstr "Vaikimisi ei ava tulemüür porte välismaailmale."
 
 #: ../gufw/gufw/view/gufw.py:313
 msgid "Some rules are added by themselves?"
-msgstr ""
+msgstr "Mõned reeglid on lisatud iseenesest?"
 
 #: ../gufw/gufw/view/gufw.py:314
 msgid ""
@@ -255,65 +265,70 @@ msgid ""
 "when you edit a rule, Gufw will add that rule again, then ufw re-adds that "
 "rule for IPv4 and IPv6."
 msgstr ""
+"Noh, käitumine on selline, et profiili muutes või importides või reeglit "
+"redigeerides lisab Gufw selle reegli uuesti, seejärel lisab ufw selle reegli "
+"uuesti IPv4 ja IPv6 jaoks."
 
 #: ../gufw/gufw/view/gufw.py:315
 msgid "What is Allow, Deny, Reject and Limit?"
-msgstr ""
+msgstr "Mis on Lubatud, Keelatud, Tagasi lükatud ja Piiratud?"
 
 #: ../gufw/gufw/view/gufw.py:316
 msgid "Allow: Will allow traffic."
-msgstr ""
+msgstr "Luba: lubab liiklust."
 
 #: ../gufw/gufw/view/gufw.py:317
 msgid "Deny: Will deny traffic."
-msgstr ""
+msgstr "Keela: keelab liikluse."
 
 #: ../gufw/gufw/view/gufw.py:318
 msgid "Reject: Will deny traffic and will inform that it has been rejected."
-msgstr ""
+msgstr "Keelatud: keelab liikluse ja teatab, et see on tagasi lükatud."
 
 #: ../gufw/gufw/view/gufw.py:319
 msgid "Limit: Will deny traffic if an IP tried several connections."
-msgstr ""
+msgstr "Piirang: keelab liikluse, kui IP proovis mitut ühendust."
 
 #: ../gufw/gufw/view/gufw.py:320
 msgid "I see some rules in all profiles"
-msgstr ""
+msgstr "Ma näen kõigis profiilides teatud reegleid"
 
 #: ../gufw/gufw/view/gufw.py:321
 msgid "All the ufw rules will be appear in all profiles."
-msgstr ""
+msgstr "Kõik ufw reeglid kuvatakse kõikides profiilides."
 
 #: ../gufw/gufw/view/gufw.py:322
 msgid "What do I see in the Listening Report?"
-msgstr ""
+msgstr "Mida ma kuulamisraportis näen?"
 
 #: ../gufw/gufw/view/gufw.py:323
 msgid ""
 "The ports on the live system in the listening state for TCP and the open "
 "state for UDP."
 msgstr ""
+"Reaalajas süsteemi pordid TCP jaoks kuulamisolekus ja UDP jaoks avatud "
+"olekus."
 
 #: ../gufw/gufw/view/gufw.py:324
 msgid "I want even more!"
-msgstr ""
+msgstr "Ma tahan veelgi rohkem!"
 
 #: ../gufw/gufw/view/gufw.py:325
 msgid "You'll find more information in the community documentation :)"
-msgstr ""
+msgstr "Lisateavet leiad kogukonna dokumentatsioonist :)"
 
 #: ../gufw/gufw/view/gufw.py:334 ../gufw/gufw/view/gufw.py:338
 #: ../gufw/gufw/view/gufw.py:341
 msgid "Visit this web (please, copy & paste in your browser):"
-msgstr ""
+msgstr "Külasta seda veebi (palun kopeeri ja kleebi oma brauserisse):"
 
 #: ../gufw/gufw/view/gufw.py:349
 msgid "Import Profile"
-msgstr ""
+msgstr "Profiili importimine"
 
 #: ../gufw/gufw/view/gufw.py:355
 msgid "Import cancelled"
-msgstr ""
+msgstr "Importimine on tühistatud"
 
 #: ../gufw/gufw/view/gufw.py:359 ../gufw/gufw/view/gufw.py:363
 msgid "Error"
@@ -324,50 +339,56 @@ msgid ""
 "Filename has wrong permissions (not 600). Trust only on your exported "
 "profiles"
 msgstr ""
+"Failinimel on valed õigused (mitte 600). Usalda ainult oma eksporditud "
+"profiile"
 
 #: ../gufw/gufw/view/gufw.py:363
 msgid ""
 "Filename has not valid characters. Rename the file\n"
 "to only letters, numbers, dashes and underscores"
 msgstr ""
+"Failinimes ei ole kehtivaid tähemärke. Nimetage fail ümber\n"
+"ainult tähtede, numbrite, sidekriipsude ja alakriipsude jaoks"
 
 #: ../gufw/gufw/view/gufw.py:367
 msgid "Operation cancelled"
-msgstr ""
+msgstr "Operatsioon tühistatud"
 
 #: ../gufw/gufw/view/gufw.py:368
 msgid "Profile already exists"
-msgstr ""
+msgstr "Profiil juba eksisteerib"
 
 #: ../gufw/gufw/view/gufw.py:368
 msgid ""
 "Delete it before from the Preferences Window or rename the file (the profile "
 "will be the filename)"
 msgstr ""
+"Kustutage see enne eelistuste aknast või nimetage fail ümber (profiiliks "
+"saab failinimi)"
 
 #: ../gufw/gufw/view/gufw.py:372
 msgid "Profile imported: "
-msgstr ""
+msgstr "Profiil imporditud: "
 
 #: ../gufw/gufw/view/gufw.py:373
 msgid "Profile imported, now you can choose it in the profiles"
-msgstr ""
+msgstr "Profiil imporditud, nüüd saate selle profiilidest valida"
 
 #: ../gufw/gufw/view/gufw.py:376
 msgid "Export Profile"
-msgstr ""
+msgstr "Ekspordi profiil"
 
 #: ../gufw/gufw/view/gufw.py:379
 msgid "Export cancelled"
-msgstr ""
+msgstr "Eksport on tühistatud"
 
 #: ../gufw/gufw/view/gufw.py:386
 msgid "Profile exported: "
-msgstr ""
+msgstr "Profiil eksporditud: "
 
 #: ../gufw/gufw/view/gufw.py:387
 msgid "Profile exported"
-msgstr ""
+msgstr "Profiil eksporditud"
 
 #: ../gufw/gufw/view/gufw.py:411
 msgid "Reset Firewall"
@@ -378,6 +399,8 @@ msgid ""
 "This will remove all rules in the current\n"
 "profile and disable the firewall"
 msgstr ""
+"See eemaldab kõik kehtivatest reeglitest\n"
+"profiili ja lülitab tulemüüri välja"
 
 #: ../gufw/gufw/view/gufw.py:411 ../gufw/gufw/view/gufw.py:555
 msgid "Do you want to continue?"
@@ -385,19 +408,19 @@ msgstr "Kas oled kindel, et soovid jätkata?"
 
 #: ../gufw/gufw/view/gufw.py:416
 msgid "Removed rules and reset firewall!"
-msgstr "Reeglid eemaldati ja tulemüüri algseaded taastati"
+msgstr "Reeglid eemaldati ja tulemüüri algseaded taastati!"
 
 #: ../gufw/gufw/view/gufw.py:421
 msgid "Gufw Log: Removed"
-msgstr ""
+msgstr "Gufw logi: eemaldatud"
 
 #: ../gufw/gufw/view/gufw.py:422
 msgid "Gufw Log removed"
-msgstr ""
+msgstr "Gufw logi eemaldatud"
 
 #: ../gufw/gufw/view/gufw.py:427
 msgid "Text copied to clipboard"
-msgstr ""
+msgstr "Tekst kopeeriti lõikelauale"
 
 #: ../gufw/gufw/view/gufw.py:468
 msgid "Incoming: "
@@ -405,11 +428,11 @@ msgstr "Sisenev: "
 
 #: ../gufw/gufw/view/gufw.py:469
 msgid "Incoming policy changed"
-msgstr ""
+msgstr "Sissetuleva poliisi muutus"
 
 #: ../gufw/gufw/view/gufw.py:471
 msgid "There was an error changing the incoming policy"
-msgstr ""
+msgstr "Sissetuleva poliisi muutmisel ilmnes viga"
 
 #: ../gufw/gufw/view/gufw.py:471 ../gufw/gufw/view/gufw.py:479
 #: ../gufw/gufw/view/gufw.py:490
@@ -417,6 +440,8 @@ msgid ""
 "Restart your firewall to refresh to the real status\n"
 "and please report this bug"
 msgstr ""
+"Reaalsesse olekusse värskendamiseks taaskäivita tulemüür\n"
+"ja palun teata sellest veast"
 
 #: ../gufw/gufw/view/gufw.py:476
 msgid "Outgoing: "
@@ -424,31 +449,31 @@ msgstr "Väljuv: "
 
 #: ../gufw/gufw/view/gufw.py:477
 msgid "Outgoing policy changed"
-msgstr ""
+msgstr "Väljamineva poliisi muutus"
 
 #: ../gufw/gufw/view/gufw.py:479
 msgid "There was an error changing the outgoing policy"
-msgstr ""
+msgstr "Väljuva poliisi muutmisel ilmnes viga"
 
 #: ../gufw/gufw/view/gufw.py:487
 msgid "Routed: "
-msgstr ""
+msgstr "Suunatud: "
 
 #: ../gufw/gufw/view/gufw.py:488
 msgid "Routed policy changed"
-msgstr ""
+msgstr "Suunamis poliisi muudeti"
 
 #: ../gufw/gufw/view/gufw.py:490
 msgid "There was an error changing the routed policy"
-msgstr ""
+msgstr "Marsruutimise reegli muutmisel ilmnes viga"
 
 #: ../gufw/gufw/view/gufw.py:511 ../gufw/gufw/view/gufw.py:590
 msgid "Select just one row"
-msgstr ""
+msgstr "Vali ainult üks rida"
 
 #: ../gufw/gufw/view/gufw.py:511
 msgid "You can create a rule from just one row selected"
-msgstr ""
+msgstr "Saate luua reegli ainult ühest valitud reast"
 
 #: ../gufw/gufw/view/gufw.py:525
 msgid "Status: Enabled"
@@ -468,13 +493,15 @@ msgstr "Tulemüür väljas"
 
 #: ../gufw/gufw/view/gufw.py:540
 msgid "There was an error changing the firewall status"
-msgstr ""
+msgstr "Tulemüüri oleku muutmisel ilmnes viga"
 
 #: ../gufw/gufw/view/gufw.py:540
 msgid ""
 "Restart your firewall to refresh to the real status and please report this "
 "bug"
 msgstr ""
+"Taaskäivita tulemüür, et värskendada tegelikku olekut ja teavita sellest "
+"veast"
 
 #: ../gufw/gufw/view/gufw.py:555
 msgid "Delete rule"
@@ -482,7 +509,7 @@ msgstr "Reegli kustutamine"
 
 #: ../gufw/gufw/view/gufw.py:555
 msgid "You will delete all selected rules"
-msgstr ""
+msgstr "Kustutad kõik valitud reeglid"
 
 #: ../gufw/gufw/view/gufw.py:567
 msgid "Rule(s) deleted"
@@ -490,7 +517,7 @@ msgstr "Reeglid kustutatud"
 
 #: ../gufw/gufw/view/gufw.py:570
 msgid "Error. Review Gufw Log"
-msgstr ""
+msgstr "Viga. Vaadake üle Gufw logi"
 
 #: ../gufw/gufw/view/gufw.py:575
 msgid "No rule selected"
@@ -498,24 +525,24 @@ msgstr "Reegleid ei lisatud"
 
 #: ../gufw/gufw/view/gufw.py:575
 msgid "You have to select a rule"
-msgstr ""
+msgstr "Pead valima reegli"
 
 #: ../gufw/gufw/view/gufw.py:590
 msgid "You can edit just one rule"
-msgstr ""
+msgstr "Saad muuta ainult ühte reeglit"
 
 #. ufw rule > inmutable
 #: ../gufw/gufw/view/gufw.py:598
 msgid "Immutable Rule"
-msgstr ""
+msgstr "Muutumatu reegel"
 
 #: ../gufw/gufw/view/gufw.py:598
 msgid "You can't edit a rule added from ufw"
-msgstr ""
+msgstr "Ufw-ist lisatud reeglit ei saa muuta"
 
 #: ../gufw/gufw/view/gufw.py:618
 msgid "Changing profile: "
-msgstr ""
+msgstr "Profiili muutmine: "
 
 #: ../gufw/gufw/view/gufw.py:687
 msgid " ALLOW "
@@ -543,19 +570,19 @@ msgstr " SISSE "
 
 #: ../gufw/gufw/view/gufw.py:693
 msgid " FWD "
-msgstr ""
+msgstr " FWD "
 
 #: ../gufw/gufw/view/gufw.py:694
 msgid "Anywhere"
-msgstr "kõikjalt"
+msgstr "Igalt poolt"
 
 #: ../gufw/gufw/view/gufw.py:695
 msgid "(log)"
-msgstr ""
+msgstr "(logi)"
 
 #: ../gufw/gufw/view/gufw.py:696
 msgid "(log-all)"
-msgstr ""
+msgstr "(logi-kõike)"
 
 #: ../gufw/gufw/view/gufw.py:697
 msgid " (out)"
@@ -567,7 +594,7 @@ msgstr " masinas "
 
 #: ../gufw/gufw/view/gufw.py:741
 msgid "Gufw profile"
-msgstr ""
+msgstr "Gufw profiil"
 
 #: ../gufw/gufw/view/gufw.py:745
 msgid "All files"
@@ -575,20 +602,21 @@ msgstr "Kõik failid"
 
 #: ../gufw/gufw/view/gufw.py:785
 msgid "Insert IP/Ports"
-msgstr ""
+msgstr "Sisesta IP/pordid"
 
 #: ../gufw/gufw/view/gufw.py:785
 msgid "You need to insert IP/ports in to/from fields"
-msgstr ""
+msgstr "Pead sisestama IP/pordid väljadele to/from"
 
 #: ../gufw/gufw/view/gufw.py:794
 msgid "Insert number bigger that number of rules"
-msgstr ""
+msgstr "Sisesta reeglite arvust suurem number"
 
 #: ../gufw/gufw/view/gufw.py:794
 msgid ""
 "By example, if you have 3 rules, you can't insert a rule into position 4"
 msgstr ""
+"Näiteks kui teil on 3 reeglit, ei saa te reeglit positsioonile 4 lisada"
 
 #: ../gufw/gufw/view/preferences.py:82 ../gufw/gufw/view/preferences.py:127
 msgid "Profile"
@@ -597,23 +625,23 @@ msgstr "Profiil"
 #: ../gufw/gufw/view/preferences.py:91 ../gufw/gufw/view/preferences.py:95
 #: ../gufw/gufw/view/preferences.py:99 ../gufw/gufw/view/preferences.py:103
 msgid "Profile not valid"
-msgstr ""
+msgstr "Profiil ei ole korrektne"
 
 #: ../gufw/gufw/view/preferences.py:91
 msgid "You can't use this profile name"
-msgstr ""
+msgstr "Te ei saa seda profiilinime kasutada"
 
 #: ../gufw/gufw/view/preferences.py:95
 msgid "Enter at least one character"
-msgstr ""
+msgstr "Sisestage vähemalt üks märk"
 
 #: ../gufw/gufw/view/preferences.py:99
 msgid "Too long! (max. 15 characters)"
-msgstr ""
+msgstr "Liiga pikk! (kuni 15 tähemärki)"
 
 #: ../gufw/gufw/view/preferences.py:103
 msgid "Use only letters, numbers, dashes and underscores"
-msgstr ""
+msgstr "Kasuta ainult tähti, numbreid, sidekriipse ja alakriipse"
 
 #: ../gufw/gufw/view/preferences.py:108
 msgid "Profile exist"
@@ -621,39 +649,39 @@ msgstr "Profiil eksisteerib"
 
 #: ../gufw/gufw/view/preferences.py:108
 msgid "There is a profile with the same name"
-msgstr ""
+msgstr "Sama nimega profiil on olemas"
 
 #: ../gufw/gufw/view/preferences.py:113
 msgid "Current profile"
-msgstr ""
+msgstr "Praegune profiil"
 
 #: ../gufw/gufw/view/preferences.py:113
 msgid "You can't rename the current profile"
-msgstr ""
+msgstr "Sa ei saa praegust profiili ümber nimetada"
 
 #: ../gufw/gufw/view/preferences.py:120
 msgid "Edited Profile: "
-msgstr ""
+msgstr "Muudetud profiil: "
 
 #: ../gufw/gufw/view/preferences.py:138
 msgid "Created Profile: "
-msgstr ""
+msgstr "Loodud profiil: "
 
 #: ../gufw/gufw/view/preferences.py:143
 msgid "Select a profile"
-msgstr ""
+msgstr "Vali profiil"
 
 #: ../gufw/gufw/view/preferences.py:143
 msgid "You need to select a profile for deleting"
-msgstr ""
+msgstr "Kustutamiseks peate valima profiili"
 
 #: ../gufw/gufw/view/preferences.py:147
 msgid "Profile not erasable"
-msgstr ""
+msgstr "Profiili ei saa kustutada"
 
 #: ../gufw/gufw/view/preferences.py:147
 msgid "You can't remove the current profile"
-msgstr ""
+msgstr "Te ei saa praegust profiili eemaldada"
 
 #: ../gufw/gufw/view/preferences.py:152
 msgid "Deleted Profile: "
@@ -661,44 +689,44 @@ msgstr "Kustutatud profiil: "
 
 #: ../gufw/gufw/view/preferences.py:156
 msgid "ufw Logging: "
-msgstr ""
+msgstr "ufw logimine: "
 
 #: ../gufw/gufw/view/preferences.py:161
 msgid "Gufw Logging: Enabled"
-msgstr ""
+msgstr "Gufw logimine: Lubatud"
 
 #: ../gufw/gufw/view/preferences.py:163
 msgid "Gufw Logging: Disabled"
-msgstr ""
+msgstr "Gufw logimine: Keelatud"
 
 #: ../gufw/gufw/view/preferences.py:169
 msgid "Confirm Delete Dialog: Enabled"
-msgstr ""
+msgstr "Kustutamise kinnitamise dialoog: lubatud"
 
 #: ../gufw/gufw/view/preferences.py:172
 msgid "Confirm Delete Dialog: Disabled"
-msgstr ""
+msgstr "Kustutamise kinnitamise dialoog: keelatud"
 
 #: ../gufw/gufw/view/preferences.py:183
 msgid "Refresh Interval: "
-msgstr ""
+msgstr "Värskendamise intervall: "
 
 #: ../data/ui/update.ui.h:29 ../data/ui/add.ui.h:42
 #: ../gufw/gufw/view/update.py:77
 msgid "You need to set an Interface"
-msgstr ""
+msgstr "Pead seadistama liidese"
 
 #: ../gufw/gufw/view/update.py:244
 msgid "No changes were made!"
-msgstr ""
+msgstr "Muudatusi ei tehtud!"
 
 #: ../gufw/gufw/view/update.py:251
 msgid "Editing rule (Removing): "
-msgstr ""
+msgstr "Reegli redigeerimine (eemaldamine): "
 
 #: ../gufw/gufw/view/update.py:257
 msgid "Editing rule (Adding): "
-msgstr ""
+msgstr "Reegli muutmine (lisamine): "
 
 #: ../gufw/gufw/view/update.py:258
 msgid "Updated rule "
@@ -710,7 +738,7 @@ msgstr "Gufw tulemüüri kohta"
 
 #: data/ui/about.ui:21
 msgid "An easy, simple, nice and useful firewall!"
-msgstr ""
+msgstr "Lihtne, lihtne, kena ja kasulik tulemüür!"
 
 #: ../data/ui/about.ui.h:4
 msgid "translator-credits"
@@ -779,7 +807,7 @@ msgstr "Rakendus:"
 
 #: ../data/ui/add.ui.h:14
 msgid "Application Filter"
-msgstr ""
+msgstr "Rakenduse filter"
 
 #: ../data/ui/add.ui.h:15
 msgid "Copy app values and jump to Advanced Tab"
@@ -811,16 +839,17 @@ msgstr "Nimi:"
 
 #: ../data/ui/update.ui.h:27 ../data/ui/add.ui.h:22
 msgid "Rule Description"
-msgstr ""
+msgstr "Reegli kirjeldus"
 
 #: ../data/ui/add.ui.h:23
 msgid ""
 "You can write a port as '22', a port range as '22:24' or a service as 'http'"
 msgstr ""
+"Saad kirjutada pordi kui '22', pordivahemiku '22:24' või teenuse kui 'http'"
 
 #: ../data/ui/add.ui.h:24
 msgid "Port or service"
-msgstr ""
+msgstr "Port või teenus"
 
 #: ../data/ui/add.ui.h:25
 msgid "Simple"
@@ -852,11 +881,11 @@ msgstr "IP"
 
 #: ../data/ui/update.ui.h:21 ../data/ui/add.ui.h:33
 msgid "Paste your current local IP"
-msgstr ""
+msgstr "Kleepige oma praegune kohalik IP"
 
 #: ../data/ui/update.ui.h:22 ../data/ui/add.ui.h:34
 msgid "You can write a port as '22' or a port range as '22:24'"
-msgstr ""
+msgstr "Saad kirjutada pordi väärtuseks '22' või pordivahemikuks '22:24'"
 
 #: ../data/ui/update.ui.h:24 ../data/ui/add.ui.h:36
 msgid ""
@@ -864,6 +893,10 @@ msgid ""
 "If you're editing a Preconfigured or Simple rule, Interface field must be "
 "'All Interfaces' and the IPs and From Port fields must be empty."
 msgstr ""
+"Saad kirjutada pordi väärtuseks '22' või pordivahemikuks '22:24'.\n"
+"\n"
+"Kui muudad eelkonfigureeritud või lihtsat reeglit, peab liidese väli olema "
+"„Kõik liidesed” ning väljad IP-d ja pordist peavad olema tühjad."
 
 #: ../data/ui/add.ui.h:38
 msgid "Insert:"
@@ -871,7 +904,7 @@ msgstr "Lisamine:"
 
 #: ../data/ui/update.ui.h:28 ../data/ui/add.ui.h:39
 msgid "Interface:"
-msgstr ""
+msgstr "Liides:"
 
 #: ../data/ui/add.ui.h:40
 msgid "Rule number to insert"
@@ -879,7 +912,7 @@ msgstr "Sisestatava reegli järjenumber"
 
 #: ../data/ui/add.ui.h:41
 msgid "At the end"
-msgstr ""
+msgstr "Lõpus"
 
 #: ../data/ui/add.ui.h:43
 msgid "Advanced"
@@ -895,7 +928,7 @@ msgstr "_Fail"
 
 #: ../data/ui/gufw.ui.h:3
 msgid "_Import profile"
-msgstr "Proofili _importime"
+msgstr "Profili _importime"
 
 #: ../data/ui/gufw.ui.h:4
 msgid "_Export this profile"
@@ -903,7 +936,7 @@ msgstr "Selle profiili _eksportimine"
 
 #: ../data/ui/gufw.ui.h:5
 msgid "Only the rules added from Gufw will be exported (not ufw rules)"
-msgstr ""
+msgstr "Eksporditakse ainult Gufwist lisatud reeglid (mitte ufw-reeglid)"
 
 #: ../data/ui/gufw.ui.h:6
 msgid "_Edit"
@@ -911,7 +944,7 @@ msgstr "_Muutmine"
 
 #: ../data/ui/gufw.ui.h:7
 msgid "_Reset Current Profile"
-msgstr ""
+msgstr "_ Lähtesta praegune profiil"
 
 #: ../data/ui/gufw.ui.h:8
 msgid "_Help"
@@ -935,7 +968,7 @@ msgstr "Väljuv:"
 
 #: ../data/ui/gufw.ui.h:29
 msgid "_Routed:"
-msgstr ""
+msgstr "_Suunatud:"
 
 #: ../data/ui/gufw.ui.h:30
 msgid "<b>Firewall</b>"
@@ -959,31 +992,31 @@ msgstr "Eemalda"
 
 #: ../data/ui/gufw.ui.h:35
 msgid "Edit the selected rule"
-msgstr ""
+msgstr "Muuda valitud reeglit"
 
 #: data/ui/gufw.ui:642
 msgid "Pause Listening Report"
-msgstr ""
+msgstr "Peata kuulamisaruanne"
 
 #: data/ui/gufw.ui:643 data/ui/gufw.ui:658
 msgid "Pause"
-msgstr ""
+msgstr "Paus"
 
 #: data/ui/gufw.ui:657
 msgid "See current Listening Report"
-msgstr ""
+msgstr "Vaata praegust kuulamisaruannet"
 
 #: ../data/ui/gufw.ui.h:36
 msgid "Create a rule from the listening report..."
-msgstr ""
+msgstr "Loo kuulamisaruandest reegel..."
 
 #: ../data/ui/gufw.ui.h:37
 msgid "Copy log to clipboard"
-msgstr ""
+msgstr "Logi kopeerimine lõikelauale"
 
 #: ../data/ui/gufw.ui.h:38
 msgid "Remove log"
-msgstr ""
+msgstr "Eemalda logi"
 
 #: ../data/ui/preferences.ui.h:1
 msgid "Firewall Preferences"
@@ -1019,11 +1052,11 @@ msgstr "<b>ufw</b>"
 
 #: ../data/ui/preferences.ui.h:9
 msgid "Lo_gging Gufw activity"
-msgstr ""
+msgstr "Gufw aktiivsuse lo_gimine"
 
 #: ../data/ui/preferences.ui.h:10
 msgid "Show confirm dialog for deleting rules"
-msgstr ""
+msgstr "Kuva reeglite kustutamise kinnitusdialoog"
 
 #: ../data/ui/preferences.ui.h:11
 msgid "<b>Gufw</b>"
@@ -1031,13 +1064,16 @@ msgstr "<b>Gufw</b>"
 
 #: ../data/ui/preferences.ui.h:12
 msgid "Refresh Interval:"
-msgstr ""
+msgstr "Värskendamise intervall:"
 
 #: ../data/ui/preferences.ui.h:13
 msgid ""
 "Less seconds uses more CPU\n"
 "This interval will apply the next time you expand the Listening Report"
 msgstr ""
+"Vähem sekundeid kasutab rohkem protsessorit\n"
+"\n"
+"See intervall rakendub järgmisel korral, kui kuulamisaruannet laiendad"
 
 #: ../data/ui/preferences.ui.h:15
 msgid "<b>Listening Report</b>"
@@ -1045,11 +1081,11 @@ msgstr "<b>Aruanne</b>"
 
 #: ../data/ui/preferences.ui.h:16
 msgid "Add a profile"
-msgstr ""
+msgstr "Lisa profiil"
 
 #: ../data/ui/preferences.ui.h:18
 msgid "Remove the selected profile"
-msgstr ""
+msgstr "Eemalda valitud profiil"
 
 #: ../data/ui/preferences.ui.h:20
 msgid "<b>Profiles</b>"
@@ -1062,47 +1098,51 @@ msgstr "Tulemüüri reeglite uuendamine"
 #. Sort translation, please!
 #: ../data/ui/update.ui.h:31
 msgid "The rule will be moved to the end of the list"
-msgstr ""
+msgstr "Reegel teisaldatakse loendi lõppu"
 
 #: ../DEV_extra_translations/extra_translations.py:384
 msgid "OpenRPG"
-msgstr ""
+msgstr "OpenRPG"
 
 #: ../DEV_extra_translations/extra_translations.py:385
 msgid ""
 "A map/chat/dice-rolling tool to allow players to play tabletop games on-line"
 msgstr ""
+"Kaardi/vestluse/täringuveeretamise tööriist, mis võimaldab mängijatel "
+"mängida võrgus lauamänge"
 
 #: ../DEV_extra_translations/extra_translations.py:75
 msgid "Network;Games;"
-msgstr ""
+msgstr "Võrk;Mängud;"
 
 #: ../DEV_extra_translations/extra_translations.py:127
 msgid "Nagios"
-msgstr ""
+msgstr "Nagios"
 
 #: ../DEV_extra_translations/extra_translations.py:128
 msgid ""
 "Computer system monitor, network monitoring and infrastructure monitoring "
 "software application"
 msgstr ""
+"Arvutisüsteemide monitori, võrgu jälgimise ja infrastruktuuri jälgimise "
+"tarkvararakendus"
 
 #: ../DEV_extra_translations/extra_translations.py:18
 msgid "System;Monitor;"
-msgstr ""
+msgstr "Süsteemi;Monitor;"
 
 #: ../DEV_extra_translations/extra_translations.py:469
 msgid "Webmin"
-msgstr ""
+msgstr "Webmin"
 
 #: ../DEV_extra_translations/extra_translations.py:470
 #: ../DEV_extra_translations/extra_translations.py:473
 msgid "Web-page based system management utility"
-msgstr ""
+msgstr "Veebilehepõhine süsteemihaldusutiliit"
 
 #: ../DEV_extra_translations/extra_translations.py:471
 msgid "Network;Shell;"
-msgstr ""
+msgstr "Võrk;kest;"
 
 #: ../DEV_extra_translations/extra_translations.py:472
 msgid "Webmin fast RPC"
@@ -1110,35 +1150,37 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:200
 msgid "FreeCol"
-msgstr ""
+msgstr "FreeCol"
 
 #: ../DEV_extra_translations/extra_translations.py:201
 msgid "A turn-based strategy game similar to Colonization by Microprose"
 msgstr ""
+"Käigupõhine strateegiamäng, mis sarnaneb mänguga Colonization, Microprose "
+"poolt"
 
 #: ../DEV_extra_translations/extra_translations.py:15
 msgid "Games;Strategy;"
-msgstr ""
+msgstr "Mängud;Strateegia;"
 
 #: ../DEV_extra_translations/extra_translations.py:118
 msgid "SSDP"
-msgstr ""
+msgstr "SSDP"
 
 #: ../DEV_extra_translations/extra_translations.py:119
 msgid "Simple Service Discovery Protocol"
-msgstr ""
+msgstr "Lihtne teenuse avastamise protokoll"
 
 #: ../DEV_extra_translations/extra_translations.py:37
 msgid "Network;"
-msgstr ""
+msgstr "Võrk;"
 
 #: ../DEV_extra_translations/extra_translations.py:682
 msgid "GameRanger"
-msgstr ""
+msgstr "GameRanger"
 
 #: ../DEV_extra_translations/extra_translations.py:683
 msgid "A game server browser from GameRanger Technologies"
-msgstr ""
+msgstr "GameRanger Technologiesi mänguserveri brauser"
 
 #: ../DEV_extra_translations/extra_translations.py:572
 msgid "Telnet"
@@ -1146,30 +1188,32 @@ msgstr "Telnet"
 
 #: ../DEV_extra_translations/extra_translations.py:573
 msgid "Text-based remote access (like SSH but without the security)"
-msgstr ""
+msgstr "Tekstipõhine kaugjuurdepääs (nagu SSH, kuid ilma turvalisuseta)"
 
 #: ../DEV_extra_translations/extra_translations.py:574
 msgid ""
 "Telnet is like SSH but without security. It'd be better to use the 'Telnet "
 "SSL'"
 msgstr ""
+"Telnet on nagu SSH, kuid ilma turvalisuseta. Parem oleks kasutada Telneti "
+"SSL-i"
 
 #: ../DEV_extra_translations/extra_translations.py:575
 msgid "Telnet TLS/SSL"
-msgstr ""
+msgstr "Telnet TLS/SSL"
 
 #: ../DEV_extra_translations/extra_translations.py:576
 msgid "Text-based remote access (like SSH but without the security) SSL"
-msgstr ""
+msgstr "Tekstipõhine kaugjuurdepääs (nagu SSH, kuid ilma turvalisuseta) SSL"
 
 #: ../DEV_extra_translations/extra_translations.py:676
 msgid "Crossfire"
-msgstr ""
+msgstr "Crossfire"
 
 #: ../DEV_extra_translations/extra_translations.py:677
 msgid ""
 "An open source, cooperative multiplayer graphical RPG and adventure game"
-msgstr ""
+msgstr "Avatud lähtekoodiga mitme mängijaga graafiline RPG ja seiklusmäng"
 
 #: ../DEV_extra_translations/extra_translations.py:206
 msgid "Games;Role;"
@@ -1193,7 +1237,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:124
 msgid "Network;Telephony;"
-msgstr ""
+msgstr "Võrk;Telefon;"
 
 #: DEV_extra_translations/extra_translations.py:37
 msgid "PLEX"
@@ -1205,7 +1249,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:297
 msgid "Network;Audio Video;"
-msgstr ""
+msgstr "Võrk;Audio-video;"
 
 #: DEV_extra_translations/extra_translations.py:40
 msgid "PLEX DLNA"
@@ -1266,7 +1310,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:67
 msgid "Games;Arcade;"
-msgstr ""
+msgstr "Mängud;Arkaadia;"
 
 #: ../DEV_extra_translations/extra_translations.py:833
 msgid "LBreakout2 - 2002/udp"
@@ -1282,7 +1326,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:10
 msgid "Games;Action;"
-msgstr ""
+msgstr "Mängud;Põnevus;"
 
 #: ../DEV_extra_translations/extra_translations.py:217
 msgid "SEDS Serious Sam"
@@ -1375,7 +1419,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:195
 msgid "Games;"
-msgstr ""
+msgstr "Mängud;"
 
 #: ../DEV_extra_translations/extra_translations.py:196
 msgid "Yet Another Netplay Guider Hosting"
@@ -1402,10 +1446,12 @@ msgid ""
 "Network File System protocol with static ports at 32765:32768 (some "
 "conflicts with popular games)"
 msgstr ""
+"Võrgu failisüsteemi protokoll staatiliste portidega 32765:32768 (mõned "
+"konfliktid populaarsete mängudega)"
 
 #: ../DEV_extra_translations/extra_translations.py:32
 msgid "Network;File Transfer;"
-msgstr ""
+msgstr "Võrk;Failiedastus;"
 
 #: ../DEV_extra_translations/extra_translations.py:839
 msgid "NFS Quota & TLDP NFS"
@@ -1416,6 +1462,8 @@ msgid ""
 "NFS with user/group filesystem usage quota support with static ports at "
 "32765:32769 (some conflicts with popular games)"
 msgstr ""
+"NFS kasutaja/rühma failisüsteemi kasutuskvoodi toega staatiliste portidega "
+"32765:32769 (mõned konfliktid populaarsete mängudega)"
 
 #: ../DEV_extra_translations/extra_translations.py:165
 msgid "Widelands"
@@ -1436,7 +1484,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:101
 msgid "Quake III - 27960/udp"
-msgstr ""
+msgstr "Quake III - 27960/udp"
 
 #: ../DEV_extra_translations/extra_translations.py:102
 msgid "A FPS by id Software, server on port 27660"
@@ -1444,7 +1492,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:103
 msgid "Quake III - 27961/udp"
-msgstr ""
+msgstr "Quake III - 27961/udp"
 
 #: ../DEV_extra_translations/extra_translations.py:104
 msgid "A FPS by id Software, server on port 27961"
@@ -1452,7 +1500,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:105
 msgid "Quake III - 27962/udp"
-msgstr ""
+msgstr "Quake III - 27962/udp"
 
 #: ../DEV_extra_translations/extra_translations.py:106
 msgid "A FPS by id Software, server on port 27962"
@@ -1460,7 +1508,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:107
 msgid "Quake III - 27963/udp"
-msgstr ""
+msgstr "Quake III - 27963/udp"
 
 #: ../DEV_extra_translations/extra_translations.py:108
 msgid "A FPS by id Software, server on port 27963"
@@ -1468,11 +1516,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:800
 msgid "Skype Normal"
-msgstr ""
+msgstr "Skype tavaline"
 
 #: ../DEV_extra_translations/extra_translations.py:801
 msgid "Proprietary Voice over IP service and software application"
-msgstr ""
+msgstr "Omanduslik \"Voice over IP\" teenus ja tarkvararakendus"
 
 #: ../DEV_extra_translations/extra_translations.py:5
 msgid "F-22 Lightning 3"
@@ -1485,7 +1533,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:7
 msgid "Games;Simulation;"
-msgstr ""
+msgstr "Mängud;Simulatsioon;"
 
 #: DEV_extra_translations/extra_translations.py:108
 msgid "ChromeCast"
@@ -1522,7 +1570,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:592
 msgid "Network;Remote Access;"
-msgstr ""
+msgstr "Võrk;Kaugligipääs;"
 
 #: DEV_extra_translations/extra_translations.py:117
 #: DEV_extra_translations/extra_translations.py:186
@@ -1558,7 +1606,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:680
 msgid "Delta Force 2"
-msgstr ""
+msgstr "Delta Force 2"
 
 #: ../DEV_extra_translations/extra_translations.py:12
 #: ../DEV_extra_translations/extra_translations.py:503
@@ -1589,27 +1637,27 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:698
 msgid "Bonjour"
-msgstr ""
+msgstr "Bonjour"
 
 #: ../DEV_extra_translations/extra_translations.py:699
 msgid "Bonjour protocol"
-msgstr ""
+msgstr "Bonjouri protokoll"
 
 #: ../DEV_extra_translations/extra_translations.py:700
 msgid "MSN Chat"
-msgstr ""
+msgstr "MSNi vestlus"
 
 #: ../DEV_extra_translations/extra_translations.py:701
 msgid "MSN chat protocol (with file transfer and voice)"
-msgstr ""
+msgstr "MSNi vestluse protokoll (koos faili saatmise ja häälkõnedega)"
 
 #: ../DEV_extra_translations/extra_translations.py:702
 msgid "MSN Chat (SSL)"
-msgstr ""
+msgstr "MSNi vestlus (SSL)"
 
 #: ../DEV_extra_translations/extra_translations.py:703
 msgid "MSN chat protocol SSL"
-msgstr ""
+msgstr "MSNi vestluse protokoll SSL"
 
 #: ../DEV_extra_translations/extra_translations.py:704
 msgid "AIM Talk"
@@ -1621,11 +1669,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:706
 msgid "Yahoo Chat"
-msgstr ""
+msgstr "Yahoo vestlus"
 
 #: ../DEV_extra_translations/extra_translations.py:707
 msgid "Yahoo chat protocol"
-msgstr ""
+msgstr "Yahoo vestluse protokoll"
 
 #: ../DEV_extra_translations/extra_translations.py:191
 msgid "DAAP"
@@ -1633,7 +1681,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:192
 msgid "Digital Audio Access Protocol"
-msgstr ""
+msgstr "Digitaalse heli juurdepääsu protokoll"
 
 #: ../DEV_extra_translations/extra_translations.py:64
 msgid "Network;Audio Video;Audio;"
@@ -1699,11 +1747,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:309
 msgid "File synchronization utility"
-msgstr ""
+msgstr "Failide sünkroonimise utiliit"
 
 #: ../DEV_extra_translations/extra_translations.py:245
 msgid "F-22 Raptor"
-msgstr ""
+msgstr "F-22 Raptor"
 
 #: ../DEV_extra_translations/extra_translations.py:289
 msgid "Lux"
@@ -1717,24 +1765,24 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:642
 msgid "POP3"
-msgstr ""
+msgstr "POP3"
 
 #: ../DEV_extra_translations/extra_translations.py:643
 msgid "Post Office Protocol"
-msgstr ""
+msgstr "Postkontori protokoll"
 
 #: ../DEV_extra_translations/extra_translations.py:116
 msgid "Network;Services;"
-msgstr ""
+msgstr "Võrk;Teenused;"
 
 #: ../DEV_extra_translations/extra_translations.py:644
 msgid "POP3S"
-msgstr ""
+msgstr "POP3S"
 
 #: ../DEV_extra_translations/extra_translations.py:645
 #: ../DEV_extra_translations/extra_translations.py:649
 msgid "Secure mail server"
-msgstr ""
+msgstr "Turvaline meiliserver"
 
 #: ../DEV_extra_translations/extra_translations.py:646
 msgid "IMAP"
@@ -1742,7 +1790,7 @@ msgstr "IMAP"
 
 #: ../DEV_extra_translations/extra_translations.py:647
 msgid "Internet Message Access Protocol"
-msgstr ""
+msgstr "Interneti-sõnumite juurdepääsu protokoll"
 
 #: ../DEV_extra_translations/extra_translations.py:648
 msgid "IMAPS"
@@ -1764,7 +1812,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:29
 msgid "Network;Telephony;Video Conference;"
-msgstr ""
+msgstr "Võrk;Telefon;Videokonverents;"
 
 #: ../DEV_extra_translations/extra_translations.py:458
 msgid "H.323 discovery"
@@ -1784,7 +1832,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:823
 msgid "DXX-Rebirth"
-msgstr ""
+msgstr "DXX-Rebirth"
 
 #: ../DEV_extra_translations/extra_translations.py:824
 msgid "A source port of Descent, the 3D Flying FPS by Outrage Entertainment"
@@ -1841,11 +1889,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:79
 msgid "Network Time Protocol"
-msgstr ""
+msgstr "Võrguaja protokoll"
 
 #: ../DEV_extra_translations/extra_translations.py:80
 msgid "Network;Time;"
-msgstr ""
+msgstr "Võrk;Aeg;"
 
 #: ../DEV_extra_translations/extra_translations.py:424
 msgid "Kali"
@@ -1890,7 +1938,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:257
 msgid "Alien Arena"
-msgstr ""
+msgstr "Alien Arena"
 
 #: ../DEV_extra_translations/extra_translations.py:258
 msgid "A SciFi competitive FPS based on the CRX/id Tech 2 engine"
@@ -1919,7 +1967,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:536
 msgid "Counter-Strike 2D"
-msgstr ""
+msgstr "Counter-Strike 2D"
 
 #: ../DEV_extra_translations/extra_translations.py:537
 msgid ""
@@ -1940,7 +1988,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:763
 msgid "Virtual Network Computing standard server display :0"
-msgstr ""
+msgstr "Virtuaalvõrgu arvuti standardserveri kuva :0"
 
 #: ../DEV_extra_translations/extra_translations.py:765
 #: ../DEV_extra_translations/extra_translations.py:777
@@ -2020,7 +2068,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:58
 msgid "Network;P2P;"
-msgstr ""
+msgstr "Võrk;P2P;"
 
 #: ../DEV_extra_translations/extra_translations.py:752
 msgid ""
@@ -2039,7 +2087,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:404
 msgid "Subversion Server"
-msgstr ""
+msgstr "Subversioni server"
 
 #: ../DEV_extra_translations/extra_translations.py:405
 msgid "Subversion server for access to Subversion repositories"
@@ -2114,7 +2162,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:286
 msgid "Network File System"
-msgstr ""
+msgstr "Võrgupõhine failisüsteem"
 
 #: ../DEV_extra_translations/extra_translations.py:817
 msgid "TeamSpeak 2 voice"
@@ -2466,7 +2514,7 @@ msgstr "FTP"
 #: ../DEV_extra_translations/extra_translations.py:31
 #: ../DEV_extra_translations/extra_translations.py:789
 msgid "File Transfer Protocol"
-msgstr ""
+msgstr "Failiedastusprotokoll"
 
 #: ../DEV_extra_translations/extra_translations.py:420
 msgid "F-16 Multirole Fighter"
@@ -2572,7 +2620,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:755
 msgid "Network;Video Conference;"
-msgstr ""
+msgstr "Võrk;Videokonverents;"
 
 #: ../DEV_extra_translations/extra_translations.py:756
 msgid "OpenMeetings Tunneled RTMP"
@@ -2781,7 +2829,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:81
 msgid "Ubuntu One"
-msgstr ""
+msgstr "Ubuntu One"
 
 #: ../DEV_extra_translations/extra_translations.py:82
 msgid ""
@@ -2791,7 +2839,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:83
 msgid "Network;Cloud;"
-msgstr ""
+msgstr "Võrk;Pilv;"
 
 #: ../DEV_extra_translations/extra_translations.py:478
 msgid "Majesty: The Fantasy Kingdom Sim"
@@ -2876,7 +2924,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:152
 msgid "IRC - 194/tcp"
-msgstr ""
+msgstr "IRC - 194/tcp"
 
 #: ../DEV_extra_translations/extra_translations.py:153
 msgid "Internet Relay Chat on official port 194 (rarely used)"
@@ -2884,11 +2932,11 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:154
 msgid "Network;IRC;"
-msgstr ""
+msgstr "Võrk;IRC;"
 
 #: ../DEV_extra_translations/extra_translations.py:155
 msgid "IRC"
-msgstr ""
+msgstr "IRC"
 
 #: ../DEV_extra_translations/extra_translations.py:156
 msgid ""
@@ -2898,7 +2946,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:157
 msgid "IRC SSL"
-msgstr ""
+msgstr "IRC SSL"
 
 #: ../DEV_extra_translations/extra_translations.py:158
 msgid "Internet Relay Chat on SSL default port 6697"
@@ -2968,7 +3016,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:143
 msgid "Games;Sports;"
-msgstr ""
+msgstr "Mängud;Sport;"
 
 #: DEV_extra_translations/extra_translations.py:494
 msgid "qBittorrent"
@@ -3058,15 +3106,15 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:45
 msgid "LDAP server"
-msgstr ""
+msgstr "LDAPi server"
 
 #: ../DEV_extra_translations/extra_translations.py:46
 msgid "LDAPS"
-msgstr ""
+msgstr "LDAPS"
 
 #: ../DEV_extra_translations/extra_translations.py:47
 msgid "LDAP server (LDAPS)"
-msgstr ""
+msgstr "LDAPi server (LDAPS)"
 
 #: ../DEV_extra_translations/extra_translations.py:443
 msgid "Scorched 3D server"
@@ -3236,7 +3284,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:690
 msgid "Network;Geography;"
-msgstr ""
+msgstr "Võrk;Geograafia;"
 
 #: ../DEV_extra_translations/extra_translations.py:504
 msgid "Red Eclipse"
@@ -3447,7 +3495,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:583
 msgid "A volleyball game"
-msgstr ""
+msgstr "Võrkpalli mäng"
 
 #: ../DEV_extra_translations/extra_translations.py:273
 msgid "Postfix Mail Server SMTP"
@@ -3569,7 +3617,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:84
 msgid "NAT"
-msgstr ""
+msgstr "NAT"
 
 #: ../DEV_extra_translations/extra_translations.py:85
 msgid "Port Mapping Protocol"
@@ -3591,6 +3639,7 @@ msgstr "SIP"
 msgid ""
 "Session Initiation Protocol, unencrypted, using nf_conntrack_sip module"
 msgstr ""
+"Seansi algatamise protokoll, krüptimata, kasutades moodulit nf_conntrack_sip"
 
 #: ../DEV_extra_translations/extra_translations.py:441
 msgid "SIP TLS"
@@ -3598,7 +3647,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:442
 msgid "Session Initiation Protocol with TLS encryption"
-msgstr ""
+msgstr "Seansi algatamise protokoll TLS-krüptimisega"
 
 #: ../DEV_extra_translations/extra_translations.py:293
 msgid "GNUMP3d"
@@ -3767,7 +3816,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:516
 msgid "NFS (jhansonxi)"
-msgstr ""
+msgstr "NFS (jhansonxi)"
 
 #: ../DEV_extra_translations/extra_translations.py:517
 msgid ""
@@ -3777,7 +3826,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:518
 msgid "NFS Quota (jhansonxi)"
-msgstr ""
+msgstr "NFS-kvoot (jhansonxi)"
 
 #: ../DEV_extra_translations/extra_translations.py:519
 msgid ""
@@ -3796,7 +3845,7 @@ msgstr ""
 #: ../DEV_extra_translations/extra_translations.py:16
 #: ../DEV_extra_translations/extra_translations.py:300
 msgid "hddtemp"
-msgstr ""
+msgstr "hddtemp"
 
 #: ../DEV_extra_translations/extra_translations.py:17
 msgid "Data storage device temperature data server"
@@ -4117,20 +4166,20 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:691
 msgid "DOSBox IPX"
-msgstr ""
+msgstr "DOSBox IPX"
 
 #: ../DEV_extra_translations/extra_translations.py:692
 #: ../DEV_extra_translations/extra_translations.py:695
 msgid "DOS system emulator"
-msgstr ""
+msgstr "DOS süsteemi emulaator"
 
 #: ../DEV_extra_translations/extra_translations.py:693
 msgid "System;Emulator;"
-msgstr ""
+msgstr "Süsteem;Emulaator;"
 
 #: ../DEV_extra_translations/extra_translations.py:694
 msgid "DOSBox Modem"
-msgstr ""
+msgstr "DOSBox Modem"
 
 #: ../DEV_extra_translations/extra_translations.py:835
 msgid "Bos Wars"
@@ -4158,7 +4207,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:663
 msgid "PvPGN"
-msgstr ""
+msgstr "PvPGN"
 
 #: ../DEV_extra_translations/extra_translations.py:664
 msgid "Player vs Player Gaming Network server emulation based on bnetd"
@@ -4166,7 +4215,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:665
 msgid "PvPGN Address Translation"
-msgstr ""
+msgstr "PvPGN-aadresside tõlge"
 
 #: ../DEV_extra_translations/extra_translations.py:666
 msgid "Player vs Player Gaming Network Address translation port"
@@ -4182,7 +4231,7 @@ msgstr "PulseAudio"
 
 #: ../DEV_extra_translations/extra_translations.py:92
 msgid "Networked sound server"
-msgstr ""
+msgstr "Võrku ühendatud heliserver"
 
 #: ../DEV_extra_translations/extra_translations.py:598
 msgid ""
@@ -4290,7 +4339,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:24
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 #: ../DEV_extra_translations/extra_translations.py:25
 msgid ""
@@ -4344,7 +4393,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:400
 msgid "World of Warcraft"
-msgstr ""
+msgstr "World of Warcraft"
 
 #: ../DEV_extra_translations/extra_translations.py:401
 msgid "A MMORPG game by Blizzard Entertainment"
@@ -4352,7 +4401,7 @@ msgstr ""
 
 #: ../DEV_extra_translations/extra_translations.py:841
 msgid "Authentication is required to run the Firewall Configuration"
-msgstr ""
+msgstr "Tulemüüri seadistamiseks on vajalik autentimine"
 
 #: ../gufw.desktop.in.h:1
 msgid "Firewall Configuration"
@@ -4617,3 +4666,6 @@ msgstr "Lihtne moodus seadistamaks tulemüüri"
 #~ msgstr ""
 #~ "Kuvab kõik kuulavad TCP ja avatud UDP pordid.\n"
 #~ "Suurendab protsessori kasutust."
+
+#~ msgid "It may be a security risk to use a default allow policy for RDP"
+#~ msgstr "Vaikimisi lubamise poliisi kasutamine RDP jaoks võib olla turvarisk"

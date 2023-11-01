@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
-"X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
+"X-Launchpad-Export-Date: 2023-11-01 16:56+0000\n"
+"X-Generator: Launchpad (build 9412a8042fac354f9c42815196ef31c1d9358917)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
@@ -721,6 +721,7 @@ msgstr ""
 "  Angel https://launchpad.net/~g396654565\n"
 "  Aron Xu https://launchpad.net/~happyaron\n"
 "  Dick Chen https://launchpad.net/~xaojan\n"
+"  Eric Xu https://launchpad.net/~qwert1234\n"
 "  Feng Chao https://launchpad.net/~chaofeng\n"
 "  Jim Chen https://launchpad.net/~knh-jabbany\n"
 "  JinYu https://launchpad.net/~kingfish404\n"

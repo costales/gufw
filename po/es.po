@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: gui-ufw\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2021-07-05 10:51+0200\n"
-"PO-Revision-Date: 2019-05-09 17:35+0000\n"
-"Last-Translator: costales <Unknown>\n"
+"PO-Revision-Date: 2023-11-01 16:54+0000\n"
+"Last-Translator: 我是 Steppenwolf <jado.92.mty@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-01-25 18:24+0000\n"
-"X-Generator: Launchpad (build 350910d62fbd6b4e36ef1ce314e5d23c26881ce6)\n"
+"X-Launchpad-Export-Date: 2023-11-01 16:56+0000\n"
+"X-Generator: Launchpad (build 9412a8042fac354f9c42815196ef31c1d9358917)\n"
 
 #: gufw/gufw/instance.py:48
 #, python-format
@@ -738,13 +738,13 @@ msgstr "Acerca del cortafuegos Gufw"
 
 #: data/ui/about.ui:21
 msgid "An easy, simple, nice and useful firewall!"
-msgstr ""
+msgstr "Un cortafuegos simple, muy útil y fácil de usar"
 
 #: ../data/ui/about.ui.h:4
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
-"  Adolfo Jayme https://launchpad.net/~fitojb\n"
+"  Adolfo Jayme Barrientos https://launchpad.net/~fitojb\n"
 "  Alexandre Fidalgo https://launchpad.net/~alexandremagnos15\n"
 "  Daniel Doblado https://launchpad.net/~danieldoblado\n"
 "  Eduardo Alberto Calvo https://launchpad.net/~edu5800\n"
@@ -2272,11 +2272,11 @@ msgstr "Juego de estrategia de ciencia ficción de Firaxis"
 
 #: DEV_extra_translations/extra_translations.py:295
 msgid "KODI Remote"
-msgstr ""
+msgstr "KODI Remote"
 
 #: DEV_extra_translations/extra_translations.py:296
 msgid "Remote control for KODI"
-msgstr ""
+msgstr "Control remoto desde KODI"
 
 #: ../DEV_extra_translations/extra_translations.py:431
 msgid "Enemy Territory: Quake Wars"
@@ -2324,7 +2324,7 @@ msgstr ""
 
 #: DEV_extra_translations/extra_translations.py:307
 msgid "Network;Services;|Network;File Transfer;"
-msgstr ""
+msgstr "Red;Servicios;|Red;Transferencia de archivos;"
 
 #: ../DEV_extra_translations/extra_translations.py:476
 msgid "Firefly Media Server"
@@ -2851,11 +2851,11 @@ msgstr "Juegos en red usando Games for Windows - Live API"
 
 #: DEV_extra_translations/extra_translations.py:432
 msgid "Jellyfin"
-msgstr ""
+msgstr "Jellyfin"
 
 #: DEV_extra_translations/extra_translations.py:433
 msgid "Media System"
-msgstr ""
+msgstr "Medios del sistema"
 
 #: ../DEV_extra_translations/extra_translations.py:722
 msgid "WINE: Warcraft III"
@@ -2933,15 +2933,15 @@ msgstr "Juegos;Tablero;"
 
 #: DEV_extra_translations/extra_translations.py:452
 msgid "Tvheadend"
-msgstr ""
+msgstr "Tvheadend"
 
 #: DEV_extra_translations/extra_translations.py:453
 msgid "TV streaming server and digital video recorder"
-msgstr ""
+msgstr "Servidor de TV por streaming y grabador digital de vídeo"
 
 #: DEV_extra_translations/extra_translations.py:454
 msgid "Media;Multimedia;Network;Streaming;TV;"
-msgstr ""
+msgstr "Medios;Multimedia;Red;Streaming;TV;"
 
 #: ../DEV_extra_translations/extra_translations.py:354
 msgid "Sacred - port 2005"
@@ -3323,7 +3323,7 @@ msgstr "NASCAR Racing 2002/03 4 jugadores"
 
 #: DEV_extra_translations/extra_translations.py:563
 msgid "NASCAR Racing 2002/03 8 players"
-msgstr ""
+msgstr "Carrera de NASCAR 2002/3 8 jugadores"
 
 #: ../DEV_extra_translations/extra_translations.py:612
 msgid "NASCAR Racing 2002/03 16 players"
@@ -3606,13 +3606,15 @@ msgstr "Servidor de email Submission Postfix"
 
 #: DEV_extra_translations/extra_translations.py:635
 msgid "Rygel"
-msgstr ""
+msgstr "Rygel"
 
 #: DEV_extra_translations/extra_translations.py:636
 msgid ""
 "Easier media sharing between Ubuntu and smart TVs, games consoles, and even "
 "other computers"
 msgstr ""
+"Compartición de archivos sencila entre Ubuntu y televisiores inteligentes "
+"(smart TV), consolas de videojuego e incluso con otroas computadoras"
 
 #: ../DEV_extra_translations/extra_translations.py:522
 msgid "Heroes of Might and Magic III"
@@ -3632,7 +3634,7 @@ msgstr "Un clon de TrackMania de Nadeo"
 
 #: DEV_extra_translations/extra_translations.py:641
 msgid "ManiaDrive HTTP server"
-msgstr ""
+msgstr "Servidor HTTP de ManiaDrive"
 
 #: ../DEV_extra_translations/extra_translations.py:228
 msgid "ManiaDrive/Raydium game monitor HTTP server"
