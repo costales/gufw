@@ -1,0 +1,6 @@
+[PI Hole]
+title=PI Hole
+description=PI-Hole
+ports=53,80,4711/tcp|53,67,547/udp
+categories=Network;Cloud;
+reference=[https://docs.pi-hole.net/main/prerequisites/#supported-operating-systems PI-Hole Prerequisites]
