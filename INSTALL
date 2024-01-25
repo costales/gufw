@@ -4,7 +4,7 @@
 DEPENDENCIES
 -----------------
 ufw 0.34+ for Gufw 14.10+
-gir1.2-webkit2-4.0
+gir1.2-webkit2-4.1
 gir1.2-gtk-3.0
 gnome-icon-theme-symbolic
 policykit-1
