@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.costales.gufw</id>
+  <launchable type="desktop-id">gufw.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <name>Gufw</name>
+  <developer id="io.github.costales">
+    <name>Marcos Costales</name>
+  </developer>
+  <summary>An easy way to configure your firewall</summary>
+  <description>
+    <p>
+      Gufw is an easy to use, intuitive graphical user interface for Uncomplicated Firewall (ufw).
+      It supports common tasks such as allowing or blocking pre-configured, common p2p, or individual ports, and many others!
+    </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/costales/costales.github.io/refs/heads/master/projects/gufw/gufw.jpg</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/costales/gufw</url>
+  <url type="bugtracker">https://github.com/costales/gufw/issues</url>
+  <content_rating type="oars-1.1"/>
+  <translation type="gettext">gufw</translation>
+</component>
