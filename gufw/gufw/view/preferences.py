@@ -55,6 +55,7 @@ class Preferences:
         self.ufw_logging         = self.builder.get_object('ufw_logging')
         self.gufw_logging        = self.builder.get_object('gufw_logging')
         self.gufw_confirm_delete = self.builder.get_object('gufw_confirm_delete')
+        self.gufw_show_profiles  = self.builder.get_object('gufw_show_profiles')
         self.report_interval     = self.builder.get_object('report_interval')
         self.list_profiles       = self.builder.get_object('profiles_list')
         self.list_selection      = self.builder.get_object('profiles_selection')
@@ -65,6 +66,8 @@ class Preferences:
             self.gufw_logging.set_active(True)
         if self.gufw.frontend.get_config_value('ConfirmDeteleRule') == 'yes':
             self.gufw_confirm_delete.set_active(True)
+        if self.gufw.frontend.get_config_value('ShowProfiles') == 'yes':
+            self.gufw_show_profiles.set_active(True)
         
         if self.gufw.frontend.get_config_value('RefreshInterval'):
             self.report_interval.set_value(int(self.gufw.frontend.get_config_value('RefreshInterval')))
@@ -171,6 +174,14 @@ class Preferences:
             self.gufw.frontend.set_config_value('ConfirmDeteleRule', 'no')
             self.gufw.add_to_log(_("Confirm Delete Dialog: Disabled"))
     
+    def on_gufw_profiles_toggled(self, widget, data=None):
+        if self.gufw_show_profiles.get_active():
+            self.gufw.frontend.set_config_value('ShowProfiles', 'yes')
+            self.gufw.add_to_log(_("Show profiles: Enabled"))
+        else:
+            self.gufw.frontend.set_config_value('ShowProfiles', 'no')
+            self.gufw.add_to_log(_("Show profiles: Disabled"))
+
     def on_close_btn_clicked(self, widget, data=None):
         self.win_preferences.destroy()
     
