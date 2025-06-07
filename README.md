@@ -14,7 +14,6 @@
 
    ### Logo
    - Shield logo created by [myke](http://michael.spiegel1.at/)
-   - Logo [tutorial](http://www.gimpusers.com/tutorials/create-a-shield-symbol.html)
    - Licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/at/)
 
    ### Profiles

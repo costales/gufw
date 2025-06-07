@@ -18,8 +18,7 @@
 import gi
 gi.require_version('Gtk', '3.0')
 gi.require_version('Gdk', '3.0')
-gi.require_version('WebKit2', '4.1')
-from gi.repository import Gtk, Gdk, WebKit2
+from gi.repository import Gtk, Gdk
 Gdk.init([])
 from string import Template
 
@@ -118,21 +117,6 @@ class Gufw:
         self.menu_file_import = self.builder.get_object('menu_import')
         self.menu_file_export = self.builder.get_object('menu_export')
 
-        self.web = self.builder.get_object('boxWeb')
-        self.web_content = WebKit2.WebView()
-        self.web_content.connect('context-menu', self.context_menu_cb)
-
-        settings = self.web_content.get_settings()
-        self.web_content.set_settings(settings)
-        self.web.add(self.web_content)
-        # For ORCA
-        self.tuto_label = Gtk.Label()
-        self.tuto_label.set_text(_("Getting started"))
-        self.tuto_label.set_mnemonic_widget(self.web)
-        
-        settings = self.web_content.get_settings()
-        settings.set_property('enable-caret-browsing', True)
-        
         self.statusbar = self.builder.get_object('statusmsg')
         self.progress  = self.builder.get_object('progress')
         
@@ -181,23 +165,17 @@ class Gufw:
         stack = Gtk.Stack()
         stack.set_transition_type(Gtk.StackTransitionType.SLIDE_LEFT_RIGHT)
         stack.set_transition_duration(700)
-        # Stack 1 = Tutorial
-        vbox_home = Gtk.Box()
-        self.viewport_home  = self.builder.get_object('viewport_home')
-        self.viewport_home.reparent(vbox_home)
-        stack.add_titled(vbox_home, "tutorial", _("Getting started"))
-        stack.child_set_property(vbox_home, "icon-name", "go-home") # Set icon
-        # Stack 2 = Rules
+        # Stack 1 = Rules
         vbox_rules = Gtk.Box()
         self.viewport_rules  = self.builder.get_object('viewport_rules')
         self.viewport_rules.reparent(vbox_rules)
         stack.add_titled(vbox_rules, "rules", _("Rules"))
-        # Stack 3 = Report
+        # Stack 2 = Report
         vbox_report = Gtk.Box()
         self.viewport_report  = self.builder.get_object('viewport_report')
         self.viewport_report.reparent(vbox_report)
         stack.add_titled(vbox_report, "report", _("Report"))
-        # Stack 4 = Log
+        # Stack 3 = Log
         vbox_log = Gtk.Box()
         self.viewport_log  = self.builder.get_object('viewport_log')
         self.viewport_log.reparent(vbox_log)
@@ -289,8 +267,6 @@ class Gufw:
         
         self.add_to_log(self.frontend.get_log(), self.GRAY, False)
         
-        self._load_tutorial()
-        
         self._set_shield()
         
         self._restore_window_size(self.winMain)
@@ -314,57 +290,6 @@ class Gufw:
     def context_menu_cb(webview, context_menu, event, hit_test_result, error):
         return True
 
-    def _load_tutorial(self):
-        f = open('/usr/share/gufw/media/tutorial/index.html', 'r')
-        html_content = f.read()
-        f.close()
-        
-        replace_html = dict(heading1=_("Getting started"),
-                            intro=_("An uncomplicated way to manage your firewall, powered by ufw. Easy, simple, nice and useful! :)"),
-                            heading2=_("Basic"),
-                            heading3=_("FAQ"),
-                            best_conf=_("If you are a normal user, you will be safe with this setting (Status=On, Incoming=Deny, Outgoing=Allow). Remember to append allow rules for your P2P apps:"),
-                            rename_profile=_("You can rename your profiles with just 2 clicks on them:"),
-                            rule_name=_("The Rule Name will help you to identify your rules in the future:"),
-                            faq1_q=_("How to autostart Gufw with the system?"),
-                            faq1_a=_("You do not need it. After you do all of the changes in Gufw, the settings are still in place until the next changes."),
-                            faq2_q=_("Why is Gufw disabled by default?"),
-                            faq2_a=_("By default, the firewall does not open ports to the outside world."),
-                            faq3_q=_("Some rules are added by themselves?"),
-                            faq3_a=_("Well, the behaviour is such that when you change or import a profile, or when you edit a rule, Gufw will add that rule again, then ufw re-adds that rule for IPv4 and IPv6."),
-                            faq4_q=_("What is Allow, Deny, Reject and Limit?"),
-                            faq4_a1=_("Allow: Will allow traffic."),
-                            faq4_a2=_("Deny: Will deny traffic."),
-                            faq4_a3=_("Reject: Will deny traffic and will inform that it has been rejected."),
-                            faq4_a4=_("Limit: Will deny traffic if an IP tried several connections."),
-                            faq5_q=_("I see some rules in all profiles"),
-                            faq5_a=_("All the ufw rules will be appear in all profiles."),
-                            faq6_q=_("What do I see in the Listening Report?"),
-                            faq6_a=_("The ports on the live system in the listening state for TCP and the open state for UDP."),
-                            faq8_q=_("I want even more!"),
-                            faq8_a=_("You'll find more information in the community documentation :)"))
-        html = Template(html_content).safe_substitute(replace_html)
-        self.web_content.load_html(html, "file:///")
-    
-    def _show_web(self, url):
-        distro = platform.linux_distribution()[0].lower()
-        try:
-            user = sys.argv[1]
-        except Exception:
-            self.show_dialog(self.winMain, _("Visit this web (please, copy & paste in your browser):"), url)
-            return
-        
-        if distro != 'ubuntu' and distro != 'linuxmint' and distro != 'debian':
-            self.show_dialog(self.winMain, _("Visit this web (please, copy & paste in your browser):"), url)
-            return
-        if user == 'root' or user == '-ssh' or not user:
-            self.show_dialog(self.winMain, _("Visit this web (please, copy & paste in your browser):"), url)
-            return
-        
-        # Launching browser
-        cmd = "su -c 'python -m webbrowser -t \"" + url + "\"' - " + user
-        subprocess.Popen(cmd, shell=True)
-    
     def on_menu_import_activate(self, widget, data=None):
         import_profile = self._file_dialog('open', _("Import Profile"))
         
