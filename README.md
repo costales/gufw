@@ -1,7 +1,7 @@
    
    
    ### Gufw
-   © 2008-2022 ﻿﻿Marcos Alvarez Costales
+   © 2008-2025 ﻿﻿Marcos Alvarez Costales
 
 ![Main Window](https://github.com/costales/costales.github.io/blob/master/projects/gufw/gufw.jpg)
 
