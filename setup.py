@@ -22,6 +22,7 @@ import glob
 
 # Create data files
 data = [ ('/usr/share/polkit-1/actions/', ['policykit/actions/com.ubuntu.pkexec.gufw.policy']),
+         ('/usr/share/metainfo/',         ['data/metainfo/io.github.costales.gufw.metainfo.xml']),
          ('/etc/gufw/app_profiles',       glob.glob("data/app_profiles/*.*")) ]
 
 # Setup stage
