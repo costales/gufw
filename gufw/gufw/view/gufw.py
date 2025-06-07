@@ -117,11 +117,6 @@ class Gufw:
         self.menu_file_import = self.builder.get_object('menu_import')
         self.menu_file_export = self.builder.get_object('menu_export')
 
-        # For ORCA
-        self.tuto_label = Gtk.Label()
-        self.tuto_label.set_text(_("Getting started"))
-        self.tuto_label.set_mnemonic_widget(self.web)
-        
         self.statusbar = self.builder.get_object('statusmsg')
         self.progress  = self.builder.get_object('progress')
         
@@ -170,23 +165,17 @@ class Gufw:
         stack = Gtk.Stack()
         stack.set_transition_type(Gtk.StackTransitionType.SLIDE_LEFT_RIGHT)
         stack.set_transition_duration(700)
-        # Stack 1 = Tutorial
-        vbox_home = Gtk.Box()
-        self.viewport_home  = self.builder.get_object('viewport_home')
-        self.viewport_home.reparent(vbox_home)
-        stack.add_titled(vbox_home, "tutorial", _("Getting started"))
-        stack.child_set_property(vbox_home, "icon-name", "go-home") # Set icon
-        # Stack 2 = Rules
+        # Stack 1 = Rules
         vbox_rules = Gtk.Box()
         self.viewport_rules  = self.builder.get_object('viewport_rules')
         self.viewport_rules.reparent(vbox_rules)
         stack.add_titled(vbox_rules, "rules", _("Rules"))
-        # Stack 3 = Report
+        # Stack 2 = Report
         vbox_report = Gtk.Box()
         self.viewport_report  = self.builder.get_object('viewport_report')
         self.viewport_report.reparent(vbox_report)
         stack.add_titled(vbox_report, "report", _("Report"))
-        # Stack 4 = Log
+        # Stack 3 = Log
         vbox_log = Gtk.Box()
         self.viewport_log  = self.builder.get_object('viewport_log')
         self.viewport_log.reparent(vbox_log)
