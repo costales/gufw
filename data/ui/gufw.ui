@@ -65,7 +65,7 @@
                 <property name="visible">True</property>
                 <property name="can_focus">False</property>
                 <child>
-                  <object class="GtkMenuItem" id="menuitem1">
+                  <object class="GtkMenuItem" id="menuitem_import">
                     <property name="use_action_appearance">False</property>
                     <property name="visible">True</property>
                     <property name="can_focus">False</property>
@@ -101,7 +101,7 @@
                           </object>
                         </child>
                         <child>
-                          <object class="GtkSeparatorMenuItem" id="separatormenuitem1">
+                          <object class="GtkSeparatorMenuItem" id="separatormenuitem_import">
                             <property name="visible">True</property>
                             <property name="can_focus">False</property>
                           </object>
@@ -122,7 +122,7 @@
                   </object>
                 </child>
                 <child>
-                  <object class="GtkMenuItem" id="menuitem2">
+                  <object class="GtkMenuItem" id="menuitem_export">
                     <property name="use_action_appearance">False</property>
                     <property name="visible">True</property>
                     <property name="can_focus">False</property>
@@ -231,7 +231,7 @@
                         <property name="row_spacing">3</property>
                         <property name="column_spacing">12</property>
                         <child>
-                          <object class="GtkLabel" id="label2">
+                          <object class="GtkLabel" id="label_profile">
                             <property name="visible">True</property>
                             <property name="can_focus">False</property>
                             <property name="label" translatable="yes">_Profile:</property>

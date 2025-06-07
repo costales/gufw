@@ -88,14 +88,15 @@ class Gufw:
     def _set_objects_name(self):
         self.winMain = self.builder.get_object('main')
         
-        self.profile      = self.builder.get_object('profile')
-        self.switchStatus = self.builder.get_object('switchStatus')
-        self.incoming     = self.builder.get_object('incoming')
-        self.outgoing     = self.builder.get_object('outgoing')
-        self.routed_lbl   = self.builder.get_object('routed_lbl')
-        self.box_routed   = self.builder.get_object('box_routed')
-        self.routed       = self.builder.get_object('routed')
-        self.shield       = self.builder.get_object('shield')
+        self.profile       = self.builder.get_object('profile')
+        self.profile_label = self.builder.get_object('label_profile')
+        self.switchStatus  = self.builder.get_object('switchStatus')
+        self.incoming      = self.builder.get_object('incoming')
+        self.outgoing      = self.builder.get_object('outgoing')
+        self.routed_lbl    = self.builder.get_object('routed_lbl')
+        self.box_routed    = self.builder.get_object('box_routed')
+        self.routed        = self.builder.get_object('routed')
+        self.shield        = self.builder.get_object('shield')
         
         self.rules_box       = self.builder.get_object('boxRules')
         self.rules           = self.builder.get_object('Rules')
@@ -114,6 +115,9 @@ class Gufw:
         self.log_copy     = self.builder.get_object('btnLogCopy')
         self.log_delete   = self.builder.get_object('btnLogCopy')
         
+        self.menu_file_import = self.builder.get_object('menu_import')
+        self.menu_file_export = self.builder.get_object('menu_export')
+
         self.web = self.builder.get_object('boxWeb')
         self.web_content = WebKit2.WebView()
         self.web_content.connect('context-menu', self.context_menu_cb)
@@ -295,7 +299,13 @@ class Gufw:
         if self.frontend.get_policy('routed') == 'disabled':
             self.routed_lbl.set_visible(False)
             self.box_routed.set_visible(False)
-        
+
+        if self.frontend.get_config_value('ShowProfiles') == 'no':
+            self.profile.hide()
+            self.profile_label.hide()
+            self.menu_file_import.hide()
+            self.menu_file_export.hide()
+
         self.print_rules(self.frontend.get_rules(False))
         
         self.btn_report_play.hide()

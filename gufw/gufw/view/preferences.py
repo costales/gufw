@@ -49,12 +49,18 @@ class Preferences:
         self.win_preferences.set_transient_for(gufw.winMain)
         self.builder.connect_signals(self)
         self.win_preferences.show_all()
+        if self.gufw.frontend.get_config_value('ShowProfiles') == 'yes':
+            self.gufw_ui_profiles.show()
+        else:
+            self.gufw_ui_profiles.hide()
 
     def _set_objects_name(self, profile_cb):
         self.win_preferences     = self.builder.get_object('preferences')
         self.ufw_logging         = self.builder.get_object('ufw_logging')
         self.gufw_logging        = self.builder.get_object('gufw_logging')
         self.gufw_confirm_delete = self.builder.get_object('gufw_confirm_delete')
+        self.gufw_show_profiles  = self.builder.get_object('gufw_show_profiles')
+        self.gufw_ui_profiles    = self.builder.get_object('frame_profiles')
         self.report_interval     = self.builder.get_object('report_interval')
         self.list_profiles       = self.builder.get_object('profiles_list')
         self.list_selection      = self.builder.get_object('profiles_selection')
@@ -65,6 +71,8 @@ class Preferences:
             self.gufw_logging.set_active(True)
         if self.gufw.frontend.get_config_value('ConfirmDeteleRule') == 'yes':
             self.gufw_confirm_delete.set_active(True)
+        if self.gufw.frontend.get_config_value('ShowProfiles') == 'yes':
+            self.gufw_show_profiles.set_active(True)
         
         if self.gufw.frontend.get_config_value('RefreshInterval'):
             self.report_interval.set_value(int(self.gufw.frontend.get_config_value('RefreshInterval')))
@@ -171,6 +179,24 @@ class Preferences:
             self.gufw.frontend.set_config_value('ConfirmDeteleRule', 'no')
             self.gufw.add_to_log(_("Confirm Delete Dialog: Disabled"))
     
+    def on_gufw_profiles_toggled(self, widget, data=None):
+        if self.gufw_show_profiles.get_active():
+            self.gufw.frontend.set_config_value('ShowProfiles', 'yes')
+            self.gufw_ui_profiles.show()
+            self.gufw.profile.show()
+            self.gufw.profile_label.show()
+            self.gufw.menu_file_import.show()
+            self.gufw.menu_file_export.show()
+            self.gufw.add_to_log(_("Show profiles: Enabled"))
+        else:
+            self.gufw.frontend.set_config_value('ShowProfiles', 'no')
+            self.gufw_ui_profiles.hide()
+            self.gufw.profile.hide()
+            self.gufw.profile_label.hide()
+            self.gufw.menu_file_import.hide()
+            self.gufw.menu_file_export.hide()
+            self.gufw.add_to_log(_("Show profiles: Disabled"))
+
     def on_close_btn_clicked(self, widget, data=None):
         self.win_preferences.destroy()
     

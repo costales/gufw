@@ -38,6 +38,7 @@
                 <property name="has_focus">True</property>
                 <property name="receives_default">True</property>
                 <property name="margin_bottom">6</property>
+                <property name="margin_top">10</property>
                 <property name="use_stock">True</property>
                 <signal name="clicked" handler="on_close_btn_clicked" swapped="no"/>
               </object>
@@ -190,6 +191,26 @@
                             <property name="position">1</property>
                           </packing>
                         </child>
+                        <child>
+                          <object class="GtkCheckButton" id="gufw_show_profiles">
+                            <property name="label" translatable="yes">Show profiles</property>
+                            <property name="use_action_appearance">False</property>
+                            <property name="visible">True</property>
+                            <property name="can_focus">True</property>
+                            <property name="receives_default">False</property>
+                            <property name="margin_right">6</property>
+                            <property name="margin_top">6</property>
+                            <property name="use_underline">True</property>
+                            <property name="xalign">0</property>
+                            <property name="draw_indicator">True</property>
+                            <signal name="toggled" handler="on_gufw_profiles_toggled" swapped="no"/>
+                          </object>
+                          <packing>
+                            <property name="expand">False</property>
+                            <property name="fill">True</property>
+                            <property name="position">2</property>
+                          </packing>
+                        </child>
                       </object>
                     </child>
                   </object>
@@ -308,7 +329,7 @@ This interval will apply the next time you expand the Listening Report</property
               </packing>
             </child>
             <child>
-              <object class="GtkFrame" id="frame3">
+              <object class="GtkFrame" id="frame_profiles">
                 <property name="visible">True</property>
                 <property name="can_focus">False</property>
                 <property name="label_xalign">0</property>
@@ -411,7 +432,7 @@ This interval will apply the next time you expand the Listening Report</property
                     <property name="label" translatable="yes">&lt;b&gt;Profiles&lt;/b&gt;</property>
                     <property name="use_markup">True</property>
                     <property name="use_underline">True</property>
-                    <property name="mnemonic_widget">frame3</property>
+                    <property name="mnemonic_widget">frame_profiles</property>
                   </object>
                 </child>
               </object>
