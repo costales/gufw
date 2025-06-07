@@ -20,6 +20,7 @@ gi.require_version('Gtk', '3.0')
 gi.require_version('Gdk', '3.0')
 gi.require_version('WebKit2', '4.1')
 from gi.repository import Gtk, Gdk, WebKit2
+Gdk.init()
 from string import Template
 
 import os, re, sys, subprocess, platform
