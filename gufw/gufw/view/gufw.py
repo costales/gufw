@@ -276,7 +276,7 @@ class Gufw:
             self.routed_lbl.set_visible(False)
             self.box_routed.set_visible(False)
 
-        if self.frontend.get_config_value('ShowProfiles') == 'no':
+        if self.frontend.get_config_value('ShowProfiles') != 'yes':
             self.profile.hide()
             self.profile_label.hide()
             self.menu_file_import.hide()
