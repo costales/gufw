@@ -15,7 +15,7 @@
 # along with Gufw; if not, see http://www.gnu.org/licenses for more
 # information.
 
-import time, os, shutil, subprocess, configparser
+import time, os, shutil, subprocess, configparser, socket
 
 
 class Backend():
@@ -469,15 +469,38 @@ class Backend():
         
         return result
     
-    def get_net_ip(self):
-        cmd_ip = ['hostname', '--all-ip-addresses']
-        cmd = self._run_cmd(cmd_ip)
-        ips = cmd.split('\n')
+    def check_valid_ip(self, ip):
+        try:
+            socket.inet_aton(ip)
+            return True
+        except:
+            return False
+
+    def get_net_ip(self, gnu_hostname=False):
+        if not gnu_hostname:
+            cmd_ip = ['hostname', '--all-ip-addresses']
+            cmd = self._run_cmd(cmd_ip)
+            ips = cmd.split('\n')
         
-        if len(ips) > 0:
-            return ips[0].strip()
+            if len(ips) > 0:
+                ip_str = ips[0].strip()
+                if self.check_valid_ip(ip_str):
+                    return ip_str
+                else:
+                    return self.get_net_ip(gnu_hostname=True)
+            else:
+                return '127.0.0.1'
         else:
-            return '127.0.0.1'
+            cmd_ip = ['hostname', '--ip-addresses']
+            cmd = self._run_cmd(cmd_ip)
+            ips = cmd.split(' ')
+
+            if len(ips) > 0:
+                ip_str = ips[0].strip()
+                if self.check_valid_ip(ip_str):
+                    return ip_str
+                else:
+                    return '127.0.0.1'
     
     def get_listening_report(self):
         return_report = []
