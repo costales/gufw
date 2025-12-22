@@ -1,2 +1,18 @@
 #!/bin/bash
+
+# Site packages path
+SITE_PACKAGES_PATH=$(python3 -c "import sys; print(f'/usr/lib/python{sys.version_info.major}.{sys.version_info.minor}/site-packages')")
+if [ -d "$SITE_PACKAGES_PATH/gufw" ]; then
+    python3 "$SITE_PACKAGES_PATH/gufw/gufw.py" $1
+    exit 0
+fi
+
+# Dist packages path
+DIST_PACKAGES_PATH=$(python3 -c "import sys; print(f'/usr/lib/python{sys.version_info.major}.{sys.version_info.minor}/dist-packages')")
+if [ -d "$DIST_PACKAGES_PATH/gufw" ]; then
+    python3 "$DIST_PACKAGES_PATH/gufw/gufw.py" $1
+    exit 0
+fi
+
+# Default path
 python3 /usr/share/gufw/gufw/gufw.py $1

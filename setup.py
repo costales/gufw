@@ -28,7 +28,7 @@ data = [ ('/usr/share/polkit-1/actions/', ['policykit/actions/com.ubuntu.pkexec.
 # Setup stage
 setup(
     name         = "gufw",
-    version      = "26.04.0",
+    version      = "26.04.1",
     description  = "An easy, intuitive, way to manage your Linux firewall. It supports common tasks such as allowing or blocking pre-configured, common p2p, or individual ports port(s), and many others!",
     author       = "Marcos Alvarez Costales https://costales.github.io",
     author_email = "https://costales.github.io",
