@@ -1,0 +1,6 @@
+[DealersChoice]
+title=Dealer's Choice
+description=Online multiplayer Stud and Draw Poker, Texas Hold'em and Omaha
+ports=22777/tcp
+categories=Games;CardGame;
+reference=[https://dealer-s-choice.github.io/]
